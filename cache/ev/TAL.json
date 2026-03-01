@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "TAL",
+    "date": "2025-02-28",
+    "stockPrice": 12.92,
+    "numberOfShares": 67724139,
+    "marketCapitalization": 874995875,
+    "minusCashAndCashEquivalents": 1771260000,
+    "addTotalDebt": 333348000,
+    "enterpriseValue": -562916125
+  },
+  {
+    "symbol": "TAL",
+    "date": "2024-02-28",
+    "stockPrice": 14.63,
+    "numberOfShares": 58669929,
+    "marketCapitalization": 858341061,
+    "minusCashAndCashEquivalents": 2208756000,
+    "addTotalDebt": 239218000,
+    "enterpriseValue": -1111196939
+  },
+  {
+    "symbol": "TAL",
+    "date": "2023-02-28",
+    "stockPrice": 7.03,
+    "numberOfShares": 69935909,
+    "marketCapitalization": 491649440,
+    "minusCashAndCashEquivalents": 2021927000,
+    "addTotalDebt": 157722000,
+    "enterpriseValue": -1372555560
+  },
+  {
+    "symbol": "TAL",
+    "date": "2022-02-28",
+    "stockPrice": 2.84,
+    "numberOfShares": 70874319,
+    "marketCapitalization": 201283065,
+    "minusCashAndCashEquivalents": 1638189000,
+    "addTotalDebt": 242093000,
+    "enterpriseValue": -1194812935
+  },
+  {
+    "symbol": "TAL",
+    "date": "2021-02-28",
+    "stockPrice": 79.79,
+    "numberOfShares": 67152469,
+    "marketCapitalization": 5358095501,
+    "minusCashAndCashEquivalents": 3242953000,
+    "addTotalDebt": 4146235000,
+    "enterpriseValue": 6261377501
+  },
+  {
+    "symbol": "TAL",
+    "date": "2020-02-28",
+    "stockPrice": 54.39,
+    "numberOfShares": 64924749,
+    "marketCapitalization": 3531257098,
+    "minusCashAndCashEquivalents": 1873866000,
+    "addTotalDebt": 1516829000,
+    "enterpriseValue": 3174220098
+  },
+  {
+    "symbol": "TAL",
+    "date": "2019-02-28",
+    "stockPrice": 35.6,
+    "numberOfShares": 66045869,
+    "marketCapitalization": 2351232936,
+    "minusCashAndCashEquivalents": 1247140000,
+    "addTotalDebt": 215302000,
+    "enterpriseValue": 1319394936
+  },
+  {
+    "symbol": "TAL",
+    "date": "2018-02-28",
+    "stockPrice": 37.76,
+    "numberOfShares": 63343279,
+    "marketCapitalization": 2391842215,
+    "minusCashAndCashEquivalents": 711519091,
+    "addTotalDebt": 236075000,
+    "enterpriseValue": 1916398124
+  },
+  {
+    "symbol": "TAL",
+    "date": "2017-02-28",
+    "stockPrice": 14.41,
+    "numberOfShares": 58438709,
+    "marketCapitalization": 842101796,
+    "minusCashAndCashEquivalents": 470217004,
+    "addTotalDebt": 450148918,
+    "enterpriseValue": 822033710
+  },
+  {
+    "symbol": "TAL",
+    "date": "2016-02-28",
+    "stockPrice": 8.63,
+    "numberOfShares": 56305039,
+    "marketCapitalization": 485912486,
+    "minusCashAndCashEquivalents": 434042036,
+    "addTotalDebt": 227827301,
+    "enterpriseValue": 279697751
+  }
+]

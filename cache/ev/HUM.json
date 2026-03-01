@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "HUM",
+    "date": "2025-12-31",
+    "stockPrice": 256.13,
+    "numberOfShares": 120454000,
+    "marketCapitalization": 30851883020,
+    "minusCashAndCashEquivalents": 4200000000,
+    "addTotalDebt": 12369000000,
+    "enterpriseValue": 39020883020
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-31",
+    "stockPrice": 253.71,
+    "numberOfShares": 120571000,
+    "marketCapitalization": 30590068410,
+    "minusCashAndCashEquivalents": 2221000000,
+    "addTotalDebt": 11144000000,
+    "enterpriseValue": 39513068410
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-31",
+    "stockPrice": 457.81,
+    "numberOfShares": 123866000,
+    "marketCapitalization": 56707093460,
+    "minusCashAndCashEquivalents": 4694000000,
+    "addTotalDebt": 10213000000,
+    "enterpriseValue": 62226093460
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-31",
+    "stockPrice": 512.19,
+    "numberOfShares": 126419000,
+    "marketCapitalization": 64750547610,
+    "minusCashAndCashEquivalents": 5061000000,
+    "addTotalDebt": 9034000000,
+    "enterpriseValue": 68723547610
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-31",
+    "stockPrice": 463.86,
+    "numberOfShares": 128688000,
+    "marketCapitalization": 59693215680,
+    "minusCashAndCashEquivalents": 3394000000,
+    "addTotalDebt": 10541000000,
+    "enterpriseValue": 66840215680
+  },
+  {
+    "symbol": "HUM",
+    "date": "2020-12-31",
+    "stockPrice": 410.27,
+    "numberOfShares": 132199000,
+    "marketCapitalization": 54237283730,
+    "minusCashAndCashEquivalents": 4673000000,
+    "addTotalDebt": 6060000000,
+    "enterpriseValue": 55624283730
+  },
+  {
+    "symbol": "HUM",
+    "date": "2019-12-31",
+    "stockPrice": 366.52,
+    "numberOfShares": 134054998,
+    "marketCapitalization": 49133837866,
+    "minusCashAndCashEquivalents": 4054000000,
+    "addTotalDebt": 4967000000,
+    "enterpriseValue": 50046837866
+  },
+  {
+    "symbol": "HUM",
+    "date": "2018-12-31",
+    "stockPrice": 286.48,
+    "numberOfShares": 137485998,
+    "marketCapitalization": 39386988707,
+    "minusCashAndCashEquivalents": 2343000000,
+    "addTotalDebt": 4375000000,
+    "enterpriseValue": 41418988707
+  },
+  {
+    "symbol": "HUM",
+    "date": "2017-12-31",
+    "stockPrice": 248.07,
+    "numberOfShares": 144492998,
+    "marketCapitalization": 35844378013,
+    "minusCashAndCashEquivalents": 4042000000,
+    "addTotalDebt": 4770000000,
+    "enterpriseValue": 36572378013
+  },
+  {
+    "symbol": "HUM",
+    "date": "2016-12-31",
+    "stockPrice": 204.03,
+    "numberOfShares": 149374998,
+    "marketCapitalization": 30476980841,
+    "minusCashAndCashEquivalents": 3877000000,
+    "addTotalDebt": 3792000000,
+    "enterpriseValue": 30391980841
+  }
+]

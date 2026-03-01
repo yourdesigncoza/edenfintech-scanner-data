@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "BAX",
+    "date": "2026-02-27",
+    "price": 20.37,
+    "volume": 36636902
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-26",
+    "price": 20.36,
+    "volume": 7145600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-25",
+    "price": 20.73,
+    "volume": 6490000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-24",
+    "price": 20.63,
+    "volume": 7121101
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-23",
+    "price": 21.26,
+    "volume": 6047601
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-20",
+    "price": 21.58,
+    "volume": 7378988
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-19",
+    "price": 21.34,
+    "volume": 6569000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-18",
+    "price": 21.87,
+    "volume": 14098100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-17",
+    "price": 20.74,
+    "volume": 11817631
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-13",
+    "price": 19.79,
+    "volume": 15813322
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-12",
+    "price": 18.71,
+    "volume": 28020749
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-11",
+    "price": 22.28,
+    "volume": 10787000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-10",
+    "price": 21.94,
+    "volume": 8142875
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-09",
+    "price": 21.73,
+    "volume": 8335800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-06",
+    "price": 21.73,
+    "volume": 13553716
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-05",
+    "price": 21.77,
+    "volume": 13910200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-04",
+    "price": 21.03,
+    "volume": 10133140
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-03",
+    "price": 19.91,
+    "volume": 8000100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-02-02",
+    "price": 19.87,
+    "volume": 7084514
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-30",
+    "price": 20.07,
+    "volume": 7301500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-29",
+    "price": 19.73,
+    "volume": 6487871
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-28",
+    "price": 19.61,
+    "volume": 5981896
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-27",
+    "price": 19.57,
+    "volume": 5869000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-26",
+    "price": 19.65,
+    "volume": 5744700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-23",
+    "price": 19.84,
+    "volume": 7414848
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-22",
+    "price": 20.07,
+    "volume": 9629429
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-21",
+    "price": 19.71,
+    "volume": 10132811
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-20",
+    "price": 19.38,
+    "volume": 11486200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-16",
+    "price": 20.11,
+    "volume": 7638900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-15",
+    "price": 20.37,
+    "volume": 8914300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-14",
+    "price": 19.84,
+    "volume": 8110600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-13",
+    "price": 19.65,
+    "volume": 9384017
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-12",
+    "price": 20.15,
+    "volume": 11066806
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-09",
+    "price": 21.07,
+    "volume": 11530211
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-08",
+    "price": 20.69,
+    "volume": 15302048
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-07",
+    "price": 20.4,
+    "volume": 10850820
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-06",
+    "price": 20.55,
+    "volume": 7682987
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-05",
+    "price": 19.89,
+    "volume": 12216254
+  },
+  {
+    "symbol": "BAX",
+    "date": "2026-01-02",
+    "price": 19.5,
+    "volume": 6113200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-31",
+    "price": 19.11,
+    "volume": 5064702
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-30",
+    "price": 19.3,
+    "volume": 4435377
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-29",
+    "price": 19.25,
+    "volume": 6447900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-26",
+    "price": 19.38,
+    "volume": 3814600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-24",
+    "price": 19.11,
+    "volume": 2312700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-23",
+    "price": 18.93,
+    "volume": 5030600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-22",
+    "price": 18.98,
+    "volume": 8131500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-19",
+    "price": 18.96,
+    "volume": 15927000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-18",
+    "price": 19.07,
+    "volume": 7948809
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-17",
+    "price": 19.29,
+    "volume": 8587527
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-16",
+    "price": 19.05,
+    "volume": 8966100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-15",
+    "price": 19.53,
+    "volume": 9150247
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-12",
+    "price": 19.15,
+    "volume": 10800324
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-11",
+    "price": 18.9,
+    "volume": 8940732
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-10",
+    "price": 18.26,
+    "volume": 11642838
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-09",
+    "price": 18.16,
+    "volume": 6331024
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-08",
+    "price": 18.16,
+    "volume": 9194800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-05",
+    "price": 18.54,
+    "volume": 8572236
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-04",
+    "price": 18.48,
+    "volume": 7934100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-03",
+    "price": 18.89,
+    "volume": 6094340
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-02",
+    "price": 18.84,
+    "volume": 8457549
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-12-01",
+    "price": 19.08,
+    "volume": 9635110
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-28",
+    "price": 18.74,
+    "volume": 3766200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-26",
+    "price": 18.91,
+    "volume": 7170001
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-25",
+    "price": 18.66,
+    "volume": 7340175
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-24",
+    "price": 18.18,
+    "volume": 8506134
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-21",
+    "price": 18.31,
+    "volume": 8278763
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-20",
+    "price": 17.42,
+    "volume": 8313700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-19",
+    "price": 17.69,
+    "volume": 7690538
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-18",
+    "price": 18.15,
+    "volume": 9780720
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-17",
+    "price": 17.77,
+    "volume": 7790700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-14",
+    "price": 18.47,
+    "volume": 7472615
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-13",
+    "price": 18.7,
+    "volume": 9828784
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-12",
+    "price": 18.7,
+    "volume": 12362533
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-11",
+    "price": 18.25,
+    "volume": 12070312
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-10",
+    "price": 17.75,
+    "volume": 7893232
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-07",
+    "price": 18,
+    "volume": 7414147
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-06",
+    "price": 17.98,
+    "volume": 10346313
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-05",
+    "price": 17.95,
+    "volume": 11329629
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-04",
+    "price": 17.94,
+    "volume": 11712553
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-11-03",
+    "price": 18.21,
+    "volume": 11396800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-31",
+    "price": 18.47,
+    "volume": 11557713
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-30",
+    "price": 19.16,
+    "volume": 24018300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-29",
+    "price": 22.42,
+    "volume": 7770300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-28",
+    "price": 22.86,
+    "volume": 5722763
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-27",
+    "price": 23.17,
+    "volume": 6408741
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-24",
+    "price": 23.02,
+    "volume": 3719599
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-23",
+    "price": 22.99,
+    "volume": 5681539
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-22",
+    "price": 22.93,
+    "volume": 4732104
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-21",
+    "price": 22.75,
+    "volume": 6574549
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-20",
+    "price": 23.13,
+    "volume": 4500717
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-17",
+    "price": 23.09,
+    "volume": 3953021
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-16",
+    "price": 22.97,
+    "volume": 5414902
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-15",
+    "price": 22.75,
+    "volume": 4611900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-14",
+    "price": 22.82,
+    "volume": 6023500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-13",
+    "price": 22.11,
+    "volume": 4315780
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-10",
+    "price": 21.95,
+    "volume": 5515400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-09",
+    "price": 22.51,
+    "volume": 5581400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-08",
+    "price": 22.75,
+    "volume": 4836800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-07",
+    "price": 22.9,
+    "volume": 4806940
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-06",
+    "price": 23.15,
+    "volume": 6328600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-03",
+    "price": 23.86,
+    "volume": 6547600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-02",
+    "price": 23.23,
+    "volume": 4734400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-10-01",
+    "price": 23.36,
+    "volume": 6333203
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-30",
+    "price": 22.77,
+    "volume": 6033719
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-29",
+    "price": 22.38,
+    "volume": 6710200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-26",
+    "price": 21.98,
+    "volume": 10542534
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-25",
+    "price": 21.71,
+    "volume": 7394205
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-24",
+    "price": 22.56,
+    "volume": 5869922
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-23",
+    "price": 22.86,
+    "volume": 4805544
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-22",
+    "price": 22.81,
+    "volume": 4954563
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-19",
+    "price": 23.02,
+    "volume": 13671886
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-18",
+    "price": 23.69,
+    "volume": 3610170
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-17",
+    "price": 23.2,
+    "volume": 5187509
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-16",
+    "price": 23.87,
+    "volume": 5747102
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-15",
+    "price": 23.8,
+    "volume": 7038107
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-12",
+    "price": 23.99,
+    "volume": 5749946
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-11",
+    "price": 24.49,
+    "volume": 4029174
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-10",
+    "price": 23.98,
+    "volume": 4466997
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-09",
+    "price": 24.45,
+    "volume": 4552165
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-08",
+    "price": 24.09,
+    "volume": 5637438
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-05",
+    "price": 24.42,
+    "volume": 7373651
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-04",
+    "price": 23.58,
+    "volume": 5967800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-03",
+    "price": 23.54,
+    "volume": 7474922
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-09-02",
+    "price": 24.17,
+    "volume": 14049000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-29",
+    "price": 24.69,
+    "volume": 4048508
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-28",
+    "price": 24.4,
+    "volume": 4495956
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-27",
+    "price": 24.53,
+    "volume": 5559858
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-26",
+    "price": 24.5,
+    "volume": 5085533
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-25",
+    "price": 24.56,
+    "volume": 9755930
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-22",
+    "price": 24.54,
+    "volume": 6488132
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-21",
+    "price": 23.85,
+    "volume": 6018900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-20",
+    "price": 24.27,
+    "volume": 5385900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-19",
+    "price": 24.33,
+    "volume": 5168807
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-18",
+    "price": 23.61,
+    "volume": 8252249
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-15",
+    "price": 24.18,
+    "volume": 7713547
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-14",
+    "price": 24.45,
+    "volume": 4145400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-13",
+    "price": 24.11,
+    "volume": 8316820
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-12",
+    "price": 23.98,
+    "volume": 5662262
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-11",
+    "price": 23.46,
+    "volume": 7592229
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-08",
+    "price": 23.69,
+    "volume": 10460217
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-07",
+    "price": 23.54,
+    "volume": 12327918
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-06",
+    "price": 22.5,
+    "volume": 10175900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-05",
+    "price": 22.84,
+    "volume": 14223646
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-04",
+    "price": 22.44,
+    "volume": 11387100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-08-01",
+    "price": 21.96,
+    "volume": 22649426
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-31",
+    "price": 21.76,
+    "volume": 47022931
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-30",
+    "price": 28.05,
+    "volume": 7798983
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-29",
+    "price": 28.84,
+    "volume": 6929800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-28",
+    "price": 28.52,
+    "volume": 6889702
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-25",
+    "price": 29.22,
+    "volume": 4031200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-24",
+    "price": 28.77,
+    "volume": 5127038
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-23",
+    "price": 28.56,
+    "volume": 6781365
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-22",
+    "price": 27.51,
+    "volume": 6501300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-21",
+    "price": 27.37,
+    "volume": 4306300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-18",
+    "price": 27.77,
+    "volume": 3771000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-17",
+    "price": 27.89,
+    "volume": 5476852
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-16",
+    "price": 28.37,
+    "volume": 4832694
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-15",
+    "price": 28.25,
+    "volume": 3586011
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-14",
+    "price": 28.53,
+    "volume": 6091227
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-11",
+    "price": 28.7,
+    "volume": 6805855
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-10",
+    "price": 29.7,
+    "volume": 6549964
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-09",
+    "price": 29.81,
+    "volume": 7165000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-08",
+    "price": 30.66,
+    "volume": 6298003
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-07",
+    "price": 29.69,
+    "volume": 4930278
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-03",
+    "price": 31.01,
+    "volume": 1430700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-02",
+    "price": 31.13,
+    "volume": 2959241
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-07-01",
+    "price": 31.23,
+    "volume": 3945404
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-30",
+    "price": 30.28,
+    "volume": 2916239
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-27",
+    "price": 30.39,
+    "volume": 3863900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-26",
+    "price": 30.5,
+    "volume": 2863400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-25",
+    "price": 30.61,
+    "volume": 3648414
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-24",
+    "price": 30.59,
+    "volume": 3914700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-23",
+    "price": 29.99,
+    "volume": 3008312
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-20",
+    "price": 29.99,
+    "volume": 5596114
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-18",
+    "price": 29.8,
+    "volume": 3513813
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-17",
+    "price": 29.92,
+    "volume": 3365338
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-16",
+    "price": 30.82,
+    "volume": 3233331
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-13",
+    "price": 30.62,
+    "volume": 2890478
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-12",
+    "price": 31.36,
+    "volume": 2603539
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-11",
+    "price": 31.4,
+    "volume": 4152700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-10",
+    "price": 31.72,
+    "volume": 4686421
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-09",
+    "price": 30.85,
+    "volume": 3224900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-06",
+    "price": 30.26,
+    "volume": 2349875
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-05",
+    "price": 30.15,
+    "volume": 3903900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-04",
+    "price": 29.97,
+    "volume": 3594916
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-03",
+    "price": 30.09,
+    "volume": 3134514
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-06-02",
+    "price": 29.55,
+    "volume": 4023999
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-30",
+    "price": 30.5,
+    "volume": 4932100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-29",
+    "price": 30.7,
+    "volume": 3459815
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-28",
+    "price": 30.58,
+    "volume": 2723600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-27",
+    "price": 30.87,
+    "volume": 2885244
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-23",
+    "price": 30.12,
+    "volume": 2096537
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-22",
+    "price": 30.27,
+    "volume": 2894908
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-21",
+    "price": 30.43,
+    "volume": 2789732
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-20",
+    "price": 31.46,
+    "volume": 1999810
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-19",
+    "price": 31.47,
+    "volume": 2749714
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-16",
+    "price": 31.66,
+    "volume": 3022371
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-15",
+    "price": 31.04,
+    "volume": 2838400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-14",
+    "price": 30.32,
+    "volume": 3704600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-13",
+    "price": 31.15,
+    "volume": 5922318
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-12",
+    "price": 31.88,
+    "volume": 6269026
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-09",
+    "price": 30.9,
+    "volume": 2642411
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-08",
+    "price": 31.2,
+    "volume": 4087100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-07",
+    "price": 30.72,
+    "volume": 3696914
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-06",
+    "price": 29.93,
+    "volume": 3321735
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-05",
+    "price": 30.43,
+    "volume": 3911856
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-02",
+    "price": 30.71,
+    "volume": 4175334
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-05-01",
+    "price": 30.67,
+    "volume": 7085761
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-30",
+    "price": 31.17,
+    "volume": 5553473
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-29",
+    "price": 30.98,
+    "volume": 3422705
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-28",
+    "price": 30.53,
+    "volume": 3970800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-25",
+    "price": 30.22,
+    "volume": 3466700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-24",
+    "price": 30.41,
+    "volume": 3601300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-23",
+    "price": 29.6,
+    "volume": 4590500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-22",
+    "price": 28.62,
+    "volume": 4604611
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-21",
+    "price": 28.54,
+    "volume": 4066885
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-17",
+    "price": 28.89,
+    "volume": 5523452
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-16",
+    "price": 27.82,
+    "volume": 5393700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-15",
+    "price": 27.8,
+    "volume": 5152411
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-14",
+    "price": 28.38,
+    "volume": 4535734
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-11",
+    "price": 27.84,
+    "volume": 6639005
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-10",
+    "price": 28.14,
+    "volume": 6547081
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-09",
+    "price": 30.75,
+    "volume": 12042314
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-08",
+    "price": 27.97,
+    "volume": 6383148
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-07",
+    "price": 28.64,
+    "volume": 8172000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-04",
+    "price": 28.79,
+    "volume": 5995433
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-03",
+    "price": 31.35,
+    "volume": 5555500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-02",
+    "price": 33.65,
+    "volume": 2491925
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-04-01",
+    "price": 34.02,
+    "volume": 3495900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-31",
+    "price": 34.23,
+    "volume": 3598927
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-28",
+    "price": 33.75,
+    "volume": 2513169
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-27",
+    "price": 33.7,
+    "volume": 2761500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-26",
+    "price": 33.36,
+    "volume": 2719859
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-25",
+    "price": 32.94,
+    "volume": 3684012
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-24",
+    "price": 33.6,
+    "volume": 3543861
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-21",
+    "price": 33.19,
+    "volume": 8139701
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-20",
+    "price": 33.44,
+    "volume": 5791980
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-19",
+    "price": 34.09,
+    "volume": 5109400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-18",
+    "price": 34.51,
+    "volume": 3361975
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-17",
+    "price": 34.85,
+    "volume": 3691643
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-14",
+    "price": 34.59,
+    "volume": 2992506
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-13",
+    "price": 34.55,
+    "volume": 4771238
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-12",
+    "price": 34.41,
+    "volume": 6203712
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-11",
+    "price": 35.85,
+    "volume": 4151501
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-10",
+    "price": 36.56,
+    "volume": 5310792
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-07",
+    "price": 36.57,
+    "volume": 4549983
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-06",
+    "price": 35.44,
+    "volume": 2745939
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-05",
+    "price": 35.16,
+    "volume": 3354670
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-04",
+    "price": 34.79,
+    "volume": 4423200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-03-03",
+    "price": 34.86,
+    "volume": 3896600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-28",
+    "price": 34.51,
+    "volume": 4783300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-27",
+    "price": 35.1,
+    "volume": 3729429
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-26",
+    "price": 35.26,
+    "volume": 6660658
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-25",
+    "price": 35.94,
+    "volume": 8927400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-24",
+    "price": 35.08,
+    "volume": 7796532
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-21",
+    "price": 33.82,
+    "volume": 7264456
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-20",
+    "price": 33.44,
+    "volume": 10688145
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-19",
+    "price": 30.82,
+    "volume": 9790800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-18",
+    "price": 31.2,
+    "volume": 4416700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-14",
+    "price": 30.82,
+    "volume": 3855458
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-13",
+    "price": 30.62,
+    "volume": 5124914
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-12",
+    "price": 30.29,
+    "volume": 2908624
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-11",
+    "price": 30.6,
+    "volume": 4715517
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-10",
+    "price": 30.81,
+    "volume": 5195800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-07",
+    "price": 30.62,
+    "volume": 2894311
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-06",
+    "price": 30.81,
+    "volume": 2958505
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-05",
+    "price": 31.47,
+    "volume": 2708820
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-04",
+    "price": 31.42,
+    "volume": 4198207
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-02-03",
+    "price": 31.64,
+    "volume": 7195022
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-31",
+    "price": 32.56,
+    "volume": 3828100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-30",
+    "price": 33.1,
+    "volume": 3816032
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-29",
+    "price": 32.78,
+    "volume": 3844300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-28",
+    "price": 32.69,
+    "volume": 4277100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-27",
+    "price": 33.46,
+    "volume": 4217154
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-24",
+    "price": 32.45,
+    "volume": 3244559
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-23",
+    "price": 32.45,
+    "volume": 4224400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-22",
+    "price": 31.83,
+    "volume": 7346962
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-21",
+    "price": 31.48,
+    "volume": 6291100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-17",
+    "price": 30.98,
+    "volume": 3877700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-16",
+    "price": 30.95,
+    "volume": 6862591
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-15",
+    "price": 30.21,
+    "volume": 4328600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-14",
+    "price": 30.62,
+    "volume": 4608192
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-13",
+    "price": 30.5,
+    "volume": 7315214
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-10",
+    "price": 29.42,
+    "volume": 5954529
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-08",
+    "price": 29.59,
+    "volume": 4036102
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-07",
+    "price": 29.58,
+    "volume": 4538700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-06",
+    "price": 29.66,
+    "volume": 4164217
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-03",
+    "price": 29.5,
+    "volume": 2821254
+  },
+  {
+    "symbol": "BAX",
+    "date": "2025-01-02",
+    "price": 29.26,
+    "volume": 4014430
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-31",
+    "price": 29.16,
+    "volume": 3524200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-30",
+    "price": 28.63,
+    "volume": 4993715
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-27",
+    "price": 29.2,
+    "volume": 2773335
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-26",
+    "price": 29.3,
+    "volume": 2534263
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-24",
+    "price": 29.08,
+    "volume": 1577900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-23",
+    "price": 29.18,
+    "volume": 4988485
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-20",
+    "price": 29.5,
+    "volume": 12194900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-19",
+    "price": 28.9,
+    "volume": 8152270
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-18",
+    "price": 28.91,
+    "volume": 4872300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-17",
+    "price": 29.64,
+    "volume": 4614312
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-16",
+    "price": 29.42,
+    "volume": 6759285
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-13",
+    "price": 30.32,
+    "volume": 4259331
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-12",
+    "price": 30.84,
+    "volume": 3786117
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-11",
+    "price": 31,
+    "volume": 6650800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-10",
+    "price": 31.44,
+    "volume": 3730868
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-09",
+    "price": 31.85,
+    "volume": 4419451
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-06",
+    "price": 31.8,
+    "volume": 3573645
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-05",
+    "price": 31.9,
+    "volume": 3549100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-04",
+    "price": 33.02,
+    "volume": 3554561
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-03",
+    "price": 33.13,
+    "volume": 3717600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-02",
+    "price": 33.55,
+    "volume": 4065100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-29",
+    "price": 33.71,
+    "volume": 2928300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-27",
+    "price": 33.31,
+    "volume": 3605733
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-26",
+    "price": 32.87,
+    "volume": 4311120
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-25",
+    "price": 33.42,
+    "volume": 5929113
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-22",
+    "price": 33.21,
+    "volume": 4646348
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-21",
+    "price": 32.99,
+    "volume": 3782850
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-20",
+    "price": 32.63,
+    "volume": 6315590
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-19",
+    "price": 32.52,
+    "volume": 4518915
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-18",
+    "price": 33.02,
+    "volume": 7004697
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-15",
+    "price": 31.96,
+    "volume": 4847466
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-14",
+    "price": 31.7,
+    "volume": 5660000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-13",
+    "price": 32.63,
+    "volume": 5369531
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-12",
+    "price": 33.83,
+    "volume": 6113108
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-11",
+    "price": 34.22,
+    "volume": 5636800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-08",
+    "price": 34.64,
+    "volume": 6636800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-07",
+    "price": 36.04,
+    "volume": 5612400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-06",
+    "price": 36.11,
+    "volume": 3696537
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-05",
+    "price": 36.1,
+    "volume": 2615524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-04",
+    "price": 35.8,
+    "volume": 2725800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-11-01",
+    "price": 35.87,
+    "volume": 3167156
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-31",
+    "price": 35.7,
+    "volume": 2722423
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-30",
+    "price": 35.86,
+    "volume": 2671865
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-29",
+    "price": 35.99,
+    "volume": 2515300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-28",
+    "price": 36.01,
+    "volume": 1886583
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-25",
+    "price": 35.97,
+    "volume": 2171900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-24",
+    "price": 36.73,
+    "volume": 2767228
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-23",
+    "price": 36.47,
+    "volume": 1818500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-22",
+    "price": 36.59,
+    "volume": 1827218
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-21",
+    "price": 36.57,
+    "volume": 1593267
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-18",
+    "price": 36.86,
+    "volume": 1984343
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-17",
+    "price": 36.65,
+    "volume": 3869045
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-16",
+    "price": 36.76,
+    "volume": 2832100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-15",
+    "price": 36.65,
+    "volume": 3927300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-14",
+    "price": 36.91,
+    "volume": 2045652
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-11",
+    "price": 36.54,
+    "volume": 3294858
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-10",
+    "price": 37.03,
+    "volume": 3764422
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-09",
+    "price": 37.84,
+    "volume": 4758311
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-08",
+    "price": 37.12,
+    "volume": 5034296
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-07",
+    "price": 35.77,
+    "volume": 3850805
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-04",
+    "price": 36.32,
+    "volume": 5152743
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-03",
+    "price": 35.08,
+    "volume": 4135408
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-02",
+    "price": 35.97,
+    "volume": 6463000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-10-01",
+    "price": 36.91,
+    "volume": 4316313
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-30",
+    "price": 37.97,
+    "volume": 4866414
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-27",
+    "price": 38.91,
+    "volume": 2662600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-26",
+    "price": 38.71,
+    "volume": 2558752
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-25",
+    "price": 38.34,
+    "volume": 3648950
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-24",
+    "price": 38.98,
+    "volume": 1754430
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-23",
+    "price": 39,
+    "volume": 3278800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-20",
+    "price": 38.49,
+    "volume": 5224022
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-19",
+    "price": 38.76,
+    "volume": 3340936
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-18",
+    "price": 39.37,
+    "volume": 3101237
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-17",
+    "price": 39.81,
+    "volume": 2198625
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-16",
+    "price": 40.26,
+    "volume": 2617900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-13",
+    "price": 39.72,
+    "volume": 3239842
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-12",
+    "price": 39.38,
+    "volume": 2877309
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-11",
+    "price": 39.27,
+    "volume": 3649323
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-10",
+    "price": 39.21,
+    "volume": 4576000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-09",
+    "price": 39.23,
+    "volume": 3393047
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-06",
+    "price": 38.96,
+    "volume": 6154937
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-05",
+    "price": 38.82,
+    "volume": 6375743
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-04",
+    "price": 37.53,
+    "volume": 2640008
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-09-03",
+    "price": 37.85,
+    "volume": 3255436
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-30",
+    "price": 37.94,
+    "volume": 4248900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-29",
+    "price": 38.16,
+    "volume": 2353459
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-28",
+    "price": 37.82,
+    "volume": 2339900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-27",
+    "price": 37.91,
+    "volume": 2621943
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-26",
+    "price": 37.93,
+    "volume": 2397135
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-23",
+    "price": 37.54,
+    "volume": 2702266
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-22",
+    "price": 36.49,
+    "volume": 3393201
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-21",
+    "price": 36.18,
+    "volume": 2577870
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-20",
+    "price": 36.22,
+    "volume": 2947252
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-19",
+    "price": 36.46,
+    "volume": 2477000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-16",
+    "price": 36.12,
+    "volume": 2923900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-15",
+    "price": 35.73,
+    "volume": 4298207
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-14",
+    "price": 35.53,
+    "volume": 6968700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-13",
+    "price": 34.51,
+    "volume": 9722800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-12",
+    "price": 36.93,
+    "volume": 2839808
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-09",
+    "price": 37.15,
+    "volume": 3892900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-08",
+    "price": 37.42,
+    "volume": 3730624
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-07",
+    "price": 36.59,
+    "volume": 5157621
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-06",
+    "price": 36.92,
+    "volume": 11776858
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-05",
+    "price": 34.64,
+    "volume": 6023144
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-02",
+    "price": 35.27,
+    "volume": 6025420
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-08-01",
+    "price": 36.01,
+    "volume": 9462800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-31",
+    "price": 35.82,
+    "volume": 5261000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-30",
+    "price": 35.91,
+    "volume": 3242934
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-29",
+    "price": 36.02,
+    "volume": 3825105
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-26",
+    "price": 35.51,
+    "volume": 3470500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-25",
+    "price": 35.09,
+    "volume": 3403417
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-24",
+    "price": 35.49,
+    "volume": 3977995
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-23",
+    "price": 35.27,
+    "volume": 4712700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-22",
+    "price": 35.36,
+    "volume": 3177261
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-19",
+    "price": 35.35,
+    "volume": 4497448
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-18",
+    "price": 35.68,
+    "volume": 5912236
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-17",
+    "price": 35.68,
+    "volume": 6069100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-16",
+    "price": 35.54,
+    "volume": 11147600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-15",
+    "price": 33.97,
+    "volume": 3645120
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-12",
+    "price": 35.32,
+    "volume": 3670920
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-11",
+    "price": 35.22,
+    "volume": 4239212
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-10",
+    "price": 34.25,
+    "volume": 2990128
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-09",
+    "price": 34.01,
+    "volume": 4687584
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-08",
+    "price": 33.61,
+    "volume": 7364069
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-05",
+    "price": 34.91,
+    "volume": 11285400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-03",
+    "price": 33.16,
+    "volume": 1988700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-02",
+    "price": 32.85,
+    "volume": 3932252
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-07-01",
+    "price": 33.06,
+    "volume": 4474872
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-28",
+    "price": 33.45,
+    "volume": 7320230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-27",
+    "price": 33.52,
+    "volume": 3628000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-26",
+    "price": 33.9,
+    "volume": 3279900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-25",
+    "price": 33.96,
+    "volume": 3691130
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-24",
+    "price": 34.19,
+    "volume": 3766600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-21",
+    "price": 34.29,
+    "volume": 6949915
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-20",
+    "price": 34,
+    "volume": 3964756
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-18",
+    "price": 33.73,
+    "volume": 4219536
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-17",
+    "price": 33.91,
+    "volume": 4069539
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-14",
+    "price": 33.78,
+    "volume": 4085398
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-13",
+    "price": 33.74,
+    "volume": 5476800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-12",
+    "price": 33.31,
+    "volume": 4349100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-11",
+    "price": 32.87,
+    "volume": 4440000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-10",
+    "price": 32.89,
+    "volume": 4333662
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-07",
+    "price": 33.16,
+    "volume": 5069500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-06",
+    "price": 33.32,
+    "volume": 4846035
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-05",
+    "price": 33.19,
+    "volume": 7123486
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-04",
+    "price": 33.3,
+    "volume": 5622200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-06-03",
+    "price": 34.08,
+    "volume": 4443562
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-31",
+    "price": 34.09,
+    "volume": 5923100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-30",
+    "price": 33.43,
+    "volume": 3888886
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-29",
+    "price": 33.19,
+    "volume": 4258847
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-28",
+    "price": 33.85,
+    "volume": 3571400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-24",
+    "price": 33.9,
+    "volume": 4982200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-23",
+    "price": 34,
+    "volume": 6329371
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-22",
+    "price": 34.35,
+    "volume": 2781300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-21",
+    "price": 34.45,
+    "volume": 4961133
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-20",
+    "price": 35.02,
+    "volume": 2307440
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-17",
+    "price": 35.25,
+    "volume": 3583643
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-16",
+    "price": 35.17,
+    "volume": 5884003
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-15",
+    "price": 35.43,
+    "volume": 4907021
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-14",
+    "price": 35.24,
+    "volume": 4472962
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-13",
+    "price": 35.43,
+    "volume": 4461722
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-10",
+    "price": 35.69,
+    "volume": 3963000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-09",
+    "price": 35.95,
+    "volume": 5067955
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-08",
+    "price": 35.75,
+    "volume": 5194369
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-07",
+    "price": 36.12,
+    "volume": 5717600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-06",
+    "price": 36.51,
+    "volume": 5784421
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-03",
+    "price": 36.89,
+    "volume": 6246800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-02",
+    "price": 36.91,
+    "volume": 10810800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-05-01",
+    "price": 40.34,
+    "volume": 3358200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-30",
+    "price": 40.37,
+    "volume": 3465100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-29",
+    "price": 40.64,
+    "volume": 3263000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-26",
+    "price": 40.13,
+    "volume": 2013221
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-25",
+    "price": 40.23,
+    "volume": 3568051
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-24",
+    "price": 40.93,
+    "volume": 2161941
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-23",
+    "price": 41.02,
+    "volume": 2646343
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-22",
+    "price": 40.4,
+    "volume": 3272900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-19",
+    "price": 39.47,
+    "volume": 2808400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-18",
+    "price": 39.65,
+    "volume": 2332137
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-17",
+    "price": 39.52,
+    "volume": 2809448
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-16",
+    "price": 39.57,
+    "volume": 2658887
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-15",
+    "price": 40.04,
+    "volume": 3062144
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-12",
+    "price": 40.33,
+    "volume": 4126975
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-11",
+    "price": 42.12,
+    "volume": 3060600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-10",
+    "price": 42,
+    "volume": 3615400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-09",
+    "price": 42.83,
+    "volume": 2773000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-08",
+    "price": 42.25,
+    "volume": 2397943
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-05",
+    "price": 42.62,
+    "volume": 2970219
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-04",
+    "price": 42.63,
+    "volume": 3126300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-03",
+    "price": 43.28,
+    "volume": 2544700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-02",
+    "price": 42.91,
+    "volume": 2900712
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-04-01",
+    "price": 43.55,
+    "volume": 4552700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-28",
+    "price": 42.74,
+    "volume": 3951700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-27",
+    "price": 42.69,
+    "volume": 4168630
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-26",
+    "price": 41.54,
+    "volume": 4566400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-25",
+    "price": 41.79,
+    "volume": 4388200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-22",
+    "price": 41.94,
+    "volume": 2060500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-21",
+    "price": 42.01,
+    "volume": 3736113
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-20",
+    "price": 41.83,
+    "volume": 2059896
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-19",
+    "price": 41.95,
+    "volume": 3372300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-18",
+    "price": 41.54,
+    "volume": 2697336
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-15",
+    "price": 41.61,
+    "volume": 5489400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-14",
+    "price": 42.02,
+    "volume": 3795705
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-13",
+    "price": 42.68,
+    "volume": 3852000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-12",
+    "price": 42.89,
+    "volume": 3648644
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-11",
+    "price": 43.48,
+    "volume": 1973234
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-08",
+    "price": 43.77,
+    "volume": 2816447
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-07",
+    "price": 43.49,
+    "volume": 3949700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-06",
+    "price": 42.99,
+    "volume": 3445855
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-05",
+    "price": 42.41,
+    "volume": 6879222
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-04",
+    "price": 42.5,
+    "volume": 6431116
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-03-01",
+    "price": 41.01,
+    "volume": 2825026
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-29",
+    "price": 40.92,
+    "volume": 5249105
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-28",
+    "price": 41.56,
+    "volume": 2792145
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-27",
+    "price": 41.85,
+    "volume": 2137600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-26",
+    "price": 42,
+    "volume": 2346230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-23",
+    "price": 42.55,
+    "volume": 3262600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-22",
+    "price": 42.01,
+    "volume": 4115900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-21",
+    "price": 42.23,
+    "volume": 3910459
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-20",
+    "price": 41.77,
+    "volume": 5002790
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-16",
+    "price": 41.22,
+    "volume": 5250047
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-15",
+    "price": 40.94,
+    "volume": 6525707
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-14",
+    "price": 39.64,
+    "volume": 4198700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-13",
+    "price": 39.62,
+    "volume": 3567800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-12",
+    "price": 40.31,
+    "volume": 3560500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-09",
+    "price": 39.55,
+    "volume": 4745134
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-08",
+    "price": 40.46,
+    "volume": 7956298
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-07",
+    "price": 39.38,
+    "volume": 5802407
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-06",
+    "price": 39.71,
+    "volume": 3651939
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-05",
+    "price": 38.53,
+    "volume": 2609833
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-02",
+    "price": 38.98,
+    "volume": 2688475
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-02-01",
+    "price": 39.19,
+    "volume": 2862100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-31",
+    "price": 38.69,
+    "volume": 3080709
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-30",
+    "price": 38.7,
+    "volume": 2026600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-29",
+    "price": 39.08,
+    "volume": 3052820
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-26",
+    "price": 38.79,
+    "volume": 2228903
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-25",
+    "price": 38.99,
+    "volume": 2840700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-24",
+    "price": 37.88,
+    "volume": 2073840
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-23",
+    "price": 38.42,
+    "volume": 1882924
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-22",
+    "price": 38.72,
+    "volume": 2799000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-19",
+    "price": 38.6,
+    "volume": 2790200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-18",
+    "price": 38.84,
+    "volume": 3508500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-17",
+    "price": 38.69,
+    "volume": 4003317
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-16",
+    "price": 39.05,
+    "volume": 4272833
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-12",
+    "price": 40,
+    "volume": 2910800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-11",
+    "price": 40.04,
+    "volume": 2459700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-10",
+    "price": 40.29,
+    "volume": 2353501
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-09",
+    "price": 40.66,
+    "volume": 4144514
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-08",
+    "price": 40.67,
+    "volume": 11038200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-05",
+    "price": 39.16,
+    "volume": 3453736
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-04",
+    "price": 38.63,
+    "volume": 4271408
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-03",
+    "price": 38.13,
+    "volume": 4911700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-01-02",
+    "price": 38.85,
+    "volume": 5707146
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-29",
+    "price": 38.66,
+    "volume": 2475600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-28",
+    "price": 38.8,
+    "volume": 2368824
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-27",
+    "price": 38.66,
+    "volume": 2889295
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-26",
+    "price": 38.58,
+    "volume": 2396367
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-22",
+    "price": 38.38,
+    "volume": 4402841
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-21",
+    "price": 38.91,
+    "volume": 5045570
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-20",
+    "price": 38.6,
+    "volume": 4702420
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-19",
+    "price": 38.69,
+    "volume": 2197006
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-18",
+    "price": 38.33,
+    "volume": 2721400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-15",
+    "price": 38.7,
+    "volume": 6879718
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-14",
+    "price": 38.95,
+    "volume": 6347226
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-13",
+    "price": 37.63,
+    "volume": 3886812
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-12",
+    "price": 36.69,
+    "volume": 3783509
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-11",
+    "price": 36.42,
+    "volume": 3452843
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-08",
+    "price": 36.15,
+    "volume": 3086527
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-07",
+    "price": 36.53,
+    "volume": 3973802
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-06",
+    "price": 35.93,
+    "volume": 3338744
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-05",
+    "price": 35.8,
+    "volume": 3015700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-04",
+    "price": 36.89,
+    "volume": 3930761
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-01",
+    "price": 36.55,
+    "volume": 4207046
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-30",
+    "price": 36.08,
+    "volume": 5290200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-29",
+    "price": 36.4,
+    "volume": 2890335
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-28",
+    "price": 36.34,
+    "volume": 2636100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-27",
+    "price": 36.42,
+    "volume": 3529419
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-24",
+    "price": 36.02,
+    "volume": 1289400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-22",
+    "price": 35.87,
+    "volume": 2403450
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-21",
+    "price": 35.7,
+    "volume": 2688475
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-20",
+    "price": 35.62,
+    "volume": 3717621
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-17",
+    "price": 35.46,
+    "volume": 4437215
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-16",
+    "price": 35.45,
+    "volume": 5426800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-15",
+    "price": 35.31,
+    "volume": 5844596
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-14",
+    "price": 34.35,
+    "volume": 4244471
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-13",
+    "price": 33.71,
+    "volume": 9132800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-10",
+    "price": 32.82,
+    "volume": 4841867
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-09",
+    "price": 32.83,
+    "volume": 4905000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-08",
+    "price": 34.05,
+    "volume": 3910737
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-07",
+    "price": 34.21,
+    "volume": 4745044
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-06",
+    "price": 34.49,
+    "volume": 4231608
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-03",
+    "price": 33.96,
+    "volume": 6502621
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-02",
+    "price": 34.25,
+    "volume": 8537600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-11-01",
+    "price": 32.79,
+    "volume": 5278600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-31",
+    "price": 32.43,
+    "volume": 5732011
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-30",
+    "price": 32.04,
+    "volume": 4730000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-27",
+    "price": 32.16,
+    "volume": 4608900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-26",
+    "price": 32.45,
+    "volume": 5123121
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-25",
+    "price": 32.16,
+    "volume": 4167100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-24",
+    "price": 32.57,
+    "volume": 4201400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-23",
+    "price": 32.85,
+    "volume": 4269400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-20",
+    "price": 32.69,
+    "volume": 5810824
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-19",
+    "price": 32.61,
+    "volume": 6037190
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-18",
+    "price": 32.06,
+    "volume": 7611642
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-17",
+    "price": 31.84,
+    "volume": 6261200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-16",
+    "price": 31.98,
+    "volume": 8613260
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-13",
+    "price": 31.84,
+    "volume": 6349871
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-12",
+    "price": 31.71,
+    "volume": 18394900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-11",
+    "price": 32.74,
+    "volume": 19699705
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-10",
+    "price": 37.32,
+    "volume": 5493510
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-09",
+    "price": 36.49,
+    "volume": 6186400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-06",
+    "price": 36.62,
+    "volume": 6766245
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-05",
+    "price": 37.02,
+    "volume": 5590315
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-04",
+    "price": 36.96,
+    "volume": 3686600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-03",
+    "price": 36.78,
+    "volume": 5685331
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-10-02",
+    "price": 37.35,
+    "volume": 3953462
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-29",
+    "price": 37.74,
+    "volume": 3610029
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-28",
+    "price": 37.54,
+    "volume": 4066142
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-27",
+    "price": 37.33,
+    "volume": 3639300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-26",
+    "price": 37.32,
+    "volume": 4231681
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-25",
+    "price": 37.5,
+    "volume": 2949300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-22",
+    "price": 37.7,
+    "volume": 4388634
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-21",
+    "price": 38.11,
+    "volume": 3970808
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-20",
+    "price": 38.47,
+    "volume": 3123367
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-19",
+    "price": 38.96,
+    "volume": 3682012
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-18",
+    "price": 38.73,
+    "volume": 3291845
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-15",
+    "price": 39.08,
+    "volume": 6595108
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-14",
+    "price": 39.15,
+    "volume": 3233518
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-13",
+    "price": 39.11,
+    "volume": 3529842
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-12",
+    "price": 38.33,
+    "volume": 2127900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-11",
+    "price": 38.7,
+    "volume": 2790719
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-08",
+    "price": 38.67,
+    "volume": 2449900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-07",
+    "price": 38.97,
+    "volume": 5980400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-06",
+    "price": 39.64,
+    "volume": 7249838
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-05",
+    "price": 38.99,
+    "volume": 5005295
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-09-01",
+    "price": 40.6,
+    "volume": 2548901
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-31",
+    "price": 40.6,
+    "volume": 3672543
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-30",
+    "price": 41.97,
+    "volume": 2088209
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-29",
+    "price": 42.33,
+    "volume": 2348383
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-28",
+    "price": 41.65,
+    "volume": 2453600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-25",
+    "price": 41.53,
+    "volume": 3903026
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-24",
+    "price": 41.46,
+    "volume": 2200600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-23",
+    "price": 41.41,
+    "volume": 3156133
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-22",
+    "price": 41.61,
+    "volume": 3606942
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-21",
+    "price": 42.03,
+    "volume": 3121313
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-18",
+    "price": 41.79,
+    "volume": 3956349
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-17",
+    "price": 41.75,
+    "volume": 3325514
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-16",
+    "price": 42.08,
+    "volume": 2919211
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-15",
+    "price": 42.35,
+    "volume": 2806800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-14",
+    "price": 42.81,
+    "volume": 2745633
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-11",
+    "price": 43.24,
+    "volume": 2624200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-10",
+    "price": 42.99,
+    "volume": 3113886
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-09",
+    "price": 42.98,
+    "volume": 4146200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-08",
+    "price": 42.77,
+    "volume": 3482270
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-07",
+    "price": 43.54,
+    "volume": 3120000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-04",
+    "price": 43.92,
+    "volume": 4074237
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-03",
+    "price": 43.94,
+    "volume": 3401115
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-02",
+    "price": 43.91,
+    "volume": 5459198
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-08-01",
+    "price": 45,
+    "volume": 6711728
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-31",
+    "price": 45.23,
+    "volume": 11977030
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-28",
+    "price": 47.01,
+    "volume": 9516639
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-27",
+    "price": 45.48,
+    "volume": 11084412
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-26",
+    "price": 48.95,
+    "volume": 6713414
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-25",
+    "price": 48.8,
+    "volume": 4918707
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-24",
+    "price": 48.28,
+    "volume": 4583269
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-21",
+    "price": 48.56,
+    "volume": 6256935
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-20",
+    "price": 49.29,
+    "volume": 9346717
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-19",
+    "price": 47.85,
+    "volume": 6409200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-18",
+    "price": 47.05,
+    "volume": 4561000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-17",
+    "price": 46.55,
+    "volume": 3391107
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-14",
+    "price": 46.86,
+    "volume": 4290646
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-13",
+    "price": 46.72,
+    "volume": 4110800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-12",
+    "price": 46.38,
+    "volume": 3739946
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-11",
+    "price": 46.03,
+    "volume": 3430399
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-10",
+    "price": 45.65,
+    "volume": 3243500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-07",
+    "price": 45.3,
+    "volume": 3139400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-06",
+    "price": 45.61,
+    "volume": 6384989
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-05",
+    "price": 45.14,
+    "volume": 3972407
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-07-03",
+    "price": 44.68,
+    "volume": 2155921
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-30",
+    "price": 45.56,
+    "volume": 4265610
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-29",
+    "price": 44.7,
+    "volume": 4764900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-28",
+    "price": 45.08,
+    "volume": 3311600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-27",
+    "price": 45.4,
+    "volume": 4666800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-26",
+    "price": 44.71,
+    "volume": 3958900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-23",
+    "price": 45.04,
+    "volume": 12036700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-22",
+    "price": 45.25,
+    "volume": 4618031
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-21",
+    "price": 44.84,
+    "volume": 3422120
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-20",
+    "price": 44.94,
+    "volume": 5599637
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-16",
+    "price": 45.36,
+    "volume": 7918430
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-15",
+    "price": 44.46,
+    "volume": 4353900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-14",
+    "price": 43.45,
+    "volume": 5805601
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-13",
+    "price": 43.47,
+    "volume": 3957119
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-12",
+    "price": 42.71,
+    "volume": 3086275
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-09",
+    "price": 41.97,
+    "volume": 3477135
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-08",
+    "price": 41.34,
+    "volume": 4973300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-07",
+    "price": 42.14,
+    "volume": 4682235
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-06",
+    "price": 40.96,
+    "volume": 3132521
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-05",
+    "price": 41.65,
+    "volume": 2608896
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-02",
+    "price": 41.33,
+    "volume": 3666305
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-06-01",
+    "price": 41.23,
+    "volume": 3516700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-31",
+    "price": 40.72,
+    "volume": 12626500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-30",
+    "price": 40.33,
+    "volume": 9412003
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-26",
+    "price": 41.29,
+    "volume": 2695182
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-25",
+    "price": 41.34,
+    "volume": 3966446
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-24",
+    "price": 42.12,
+    "volume": 4319300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-23",
+    "price": 42.5,
+    "volume": 3967700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-22",
+    "price": 42.58,
+    "volume": 3625900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-19",
+    "price": 42.99,
+    "volume": 3147800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-18",
+    "price": 43.03,
+    "volume": 3338218
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-17",
+    "price": 42.78,
+    "volume": 4206600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-16",
+    "price": 43.01,
+    "volume": 4691200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-15",
+    "price": 42.82,
+    "volume": 3811213
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-12",
+    "price": 42.47,
+    "volume": 5003200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-11",
+    "price": 43.38,
+    "volume": 7875789
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-10",
+    "price": 43.84,
+    "volume": 7169232
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-09",
+    "price": 43.08,
+    "volume": 9329700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-08",
+    "price": 45.61,
+    "volume": 7650342
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-05",
+    "price": 46.05,
+    "volume": 3290308
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-04",
+    "price": 45.29,
+    "volume": 4159851
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-03",
+    "price": 46.5,
+    "volume": 3526200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-02",
+    "price": 47.01,
+    "volume": 4229718
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-05-01",
+    "price": 47.38,
+    "volume": 3730000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-28",
+    "price": 47.68,
+    "volume": 6017900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-27",
+    "price": 46.8,
+    "volume": 10785125
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-26",
+    "price": 46.08,
+    "volume": 6618439
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-25",
+    "price": 45.44,
+    "volume": 6439681
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-24",
+    "price": 45.4,
+    "volume": 7830203
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-21",
+    "price": 45.29,
+    "volume": 11376095
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-20",
+    "price": 43.25,
+    "volume": 3546005
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-19",
+    "price": 43.62,
+    "volume": 6144951
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-18",
+    "price": 42.82,
+    "volume": 3636991
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-17",
+    "price": 42.97,
+    "volume": 5033900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-14",
+    "price": 43.05,
+    "volume": 3531400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-13",
+    "price": 43.18,
+    "volume": 8364420
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-12",
+    "price": 42.67,
+    "volume": 6255800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-11",
+    "price": 42.89,
+    "volume": 4701100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-10",
+    "price": 42.17,
+    "volume": 7271445
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-06",
+    "price": 42.3,
+    "volume": 4393803
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-05",
+    "price": 42.26,
+    "volume": 11518836
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-04",
+    "price": 40.5,
+    "volume": 8661300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-04-03",
+    "price": 39.98,
+    "volume": 6032227
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-31",
+    "price": 40.56,
+    "volume": 4620145
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-30",
+    "price": 40.31,
+    "volume": 4395815
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-29",
+    "price": 40.54,
+    "volume": 4161710
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-28",
+    "price": 39.85,
+    "volume": 2860432
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-27",
+    "price": 40.07,
+    "volume": 5650462
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-24",
+    "price": 39.23,
+    "volume": 7628700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-23",
+    "price": 38.12,
+    "volume": 4855043
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-22",
+    "price": 39.16,
+    "volume": 6558139
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-21",
+    "price": 39.61,
+    "volume": 8958323
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-20",
+    "price": 38.19,
+    "volume": 6256731
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-17",
+    "price": 37.58,
+    "volume": 11701700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-16",
+    "price": 38.37,
+    "volume": 7921330
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-15",
+    "price": 38.23,
+    "volume": 7016000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-14",
+    "price": 39.37,
+    "volume": 6177556
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-13",
+    "price": 38.9,
+    "volume": 6119937
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-10",
+    "price": 38.02,
+    "volume": 5830758
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-09",
+    "price": 38.99,
+    "volume": 4225524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-08",
+    "price": 39.44,
+    "volume": 4862646
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-07",
+    "price": 38.99,
+    "volume": 6239110
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-06",
+    "price": 39.71,
+    "volume": 4330400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-03",
+    "price": 39.94,
+    "volume": 4104403
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-02",
+    "price": 39.62,
+    "volume": 4236619
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-03-01",
+    "price": 39.06,
+    "volume": 6337599
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-28",
+    "price": 39.95,
+    "volume": 8207200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-27",
+    "price": 39.82,
+    "volume": 5094970
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-24",
+    "price": 40.16,
+    "volume": 4388445
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-23",
+    "price": 40.51,
+    "volume": 5099805
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-22",
+    "price": 41.01,
+    "volume": 6130738
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-21",
+    "price": 40.7,
+    "volume": 6028944
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-17",
+    "price": 41,
+    "volume": 10318722
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-16",
+    "price": 39.8,
+    "volume": 5538349
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-15",
+    "price": 40.06,
+    "volume": 6183464
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-14",
+    "price": 39.91,
+    "volume": 5902226
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-13",
+    "price": 40.5,
+    "volume": 7348826
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-10",
+    "price": 40.95,
+    "volume": 12300217
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-09",
+    "price": 40.14,
+    "volume": 22036006
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-08",
+    "price": 45.68,
+    "volume": 4019400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-07",
+    "price": 45.61,
+    "volume": 5983817
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-06",
+    "price": 45.16,
+    "volume": 3932473
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-03",
+    "price": 46.68,
+    "volume": 4749907
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-02",
+    "price": 47.01,
+    "volume": 8985312
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-02-01",
+    "price": 46.28,
+    "volume": 7610800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-31",
+    "price": 45.69,
+    "volume": 5078860
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-30",
+    "price": 45.14,
+    "volume": 4313622
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-27",
+    "price": 46,
+    "volume": 2936835
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-26",
+    "price": 46.16,
+    "volume": 3086822
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-25",
+    "price": 46.14,
+    "volume": 4504228
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-24",
+    "price": 44.91,
+    "volume": 4432500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-23",
+    "price": 45.14,
+    "volume": 7252935
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-20",
+    "price": 43.88,
+    "volume": 9199200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-19",
+    "price": 43.64,
+    "volume": 12849524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-18",
+    "price": 44,
+    "volume": 7749400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-17",
+    "price": 44.74,
+    "volume": 6301817
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-13",
+    "price": 44.84,
+    "volume": 6519265
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-12",
+    "price": 45.09,
+    "volume": 8527020
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-11",
+    "price": 45.44,
+    "volume": 5362600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-10",
+    "price": 45.74,
+    "volume": 5839739
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-09",
+    "price": 44.7,
+    "volume": 13897340
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-06",
+    "price": 48.45,
+    "volume": 11099006
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-05",
+    "price": 52.57,
+    "volume": 3051500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-04",
+    "price": 52.33,
+    "volume": 3266625
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-01-03",
+    "price": 51.04,
+    "volume": 2787410
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-30",
+    "price": 50.97,
+    "volume": 1823000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-29",
+    "price": 51.12,
+    "volume": 2884900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-28",
+    "price": 50.36,
+    "volume": 2247935
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-27",
+    "price": 50.84,
+    "volume": 2643200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-23",
+    "price": 50.17,
+    "volume": 1837000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-22",
+    "price": 50.14,
+    "volume": 3015100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-21",
+    "price": 50.33,
+    "volume": 3579800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-20",
+    "price": 49.93,
+    "volume": 8072540
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-19",
+    "price": 49.95,
+    "volume": 5556719
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-16",
+    "price": 49.71,
+    "volume": 9392900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-15",
+    "price": 50.76,
+    "volume": 7366100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-14",
+    "price": 52.3,
+    "volume": 6972937
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-13",
+    "price": 53.17,
+    "volume": 4534900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-12",
+    "price": 52.63,
+    "volume": 3590586
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-09",
+    "price": 52.38,
+    "volume": 4494242
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-08",
+    "price": 52.62,
+    "volume": 3184837
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-07",
+    "price": 52.35,
+    "volume": 5133948
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-06",
+    "price": 51.51,
+    "volume": 4969209
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-05",
+    "price": 51.3,
+    "volume": 5018300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-02",
+    "price": 53.22,
+    "volume": 7442922
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-01",
+    "price": 52.38,
+    "volume": 11120100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-30",
+    "price": 56.53,
+    "volume": 7416364
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-29",
+    "price": 55.34,
+    "volume": 3962100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-28",
+    "price": 55.19,
+    "volume": 4321441
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-25",
+    "price": 56,
+    "volume": 2125116
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-23",
+    "price": 56.3,
+    "volume": 3460405
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-22",
+    "price": 55.32,
+    "volume": 3429800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-21",
+    "price": 55.83,
+    "volume": 2537111
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-18",
+    "price": 55,
+    "volume": 4643500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-17",
+    "price": 54.32,
+    "volume": 5058500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-16",
+    "price": 54.94,
+    "volume": 5892600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-15",
+    "price": 54.34,
+    "volume": 4134100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-14",
+    "price": 53.68,
+    "volume": 4128615
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-11",
+    "price": 54.88,
+    "volume": 10218354
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-10",
+    "price": 53.73,
+    "volume": 5843300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-09",
+    "price": 51.65,
+    "volume": 3358200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-08",
+    "price": 52.65,
+    "volume": 4665200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-07",
+    "price": 52.34,
+    "volume": 4623348
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-04",
+    "price": 50.58,
+    "volume": 3864000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-03",
+    "price": 50.44,
+    "volume": 3176708
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-02",
+    "price": 51.93,
+    "volume": 3947223
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-11-01",
+    "price": 53.74,
+    "volume": 3555600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-31",
+    "price": 54.35,
+    "volume": 4766701
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-28",
+    "price": 55,
+    "volume": 6383128
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-27",
+    "price": 53.97,
+    "volume": 8921400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-26",
+    "price": 57.63,
+    "volume": 5031385
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-25",
+    "price": 57.11,
+    "volume": 4747409
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-24",
+    "price": 56.43,
+    "volume": 3902134
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-21",
+    "price": 56.43,
+    "volume": 4516021
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-20",
+    "price": 55,
+    "volume": 3831136
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-19",
+    "price": 55.32,
+    "volume": 6516605
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-18",
+    "price": 55.6,
+    "volume": 4374200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-17",
+    "price": 55.25,
+    "volume": 4559158
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-14",
+    "price": 54.5,
+    "volume": 3896002
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-13",
+    "price": 56.08,
+    "volume": 4562237
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-12",
+    "price": 55,
+    "volume": 2391432
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-11",
+    "price": 55.81,
+    "volume": 3161828
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-10",
+    "price": 54.98,
+    "volume": 1937921
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-07",
+    "price": 55.62,
+    "volume": 2686631
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-06",
+    "price": 56.25,
+    "volume": 3195936
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-05",
+    "price": 57.71,
+    "volume": 2320300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-04",
+    "price": 57.45,
+    "volume": 3320937
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-10-03",
+    "price": 55.62,
+    "volume": 3253841
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-30",
+    "price": 53.86,
+    "volume": 3972800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-29",
+    "price": 55.3,
+    "volume": 3165000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-28",
+    "price": 55.56,
+    "volume": 3031508
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-27",
+    "price": 54.3,
+    "volume": 2546621
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-26",
+    "price": 54.91,
+    "volume": 2646726
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-23",
+    "price": 55.41,
+    "volume": 2610846
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-22",
+    "price": 55.37,
+    "volume": 2752000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-21",
+    "price": 55.47,
+    "volume": 1903336
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-20",
+    "price": 56.58,
+    "volume": 1900534
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-19",
+    "price": 58.43,
+    "volume": 2660300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-16",
+    "price": 58.18,
+    "volume": 4271000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-15",
+    "price": 58.97,
+    "volume": 2788729
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-14",
+    "price": 59.11,
+    "volume": 3048529
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-13",
+    "price": 58.13,
+    "volume": 2121700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-12",
+    "price": 59.78,
+    "volume": 2252307
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-09",
+    "price": 59.53,
+    "volume": 2383635
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-08",
+    "price": 58.7,
+    "volume": 4250477
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-07",
+    "price": 58.73,
+    "volume": 6328700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-06",
+    "price": 54.66,
+    "volume": 3081377
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-02",
+    "price": 56.21,
+    "volume": 2656503
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-09-01",
+    "price": 56.76,
+    "volume": 4455026
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-31",
+    "price": 57.46,
+    "volume": 4137352
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-30",
+    "price": 56.48,
+    "volume": 2745727
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-29",
+    "price": 56.99,
+    "volume": 1859138
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-26",
+    "price": 57.17,
+    "volume": 2544758
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-25",
+    "price": 59.92,
+    "volume": 2171566
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-24",
+    "price": 58.71,
+    "volume": 2938416
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-23",
+    "price": 58.66,
+    "volume": 2433300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-22",
+    "price": 59.67,
+    "volume": 3753649
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-19",
+    "price": 61.25,
+    "volume": 5992300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-18",
+    "price": 61.05,
+    "volume": 2508400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-17",
+    "price": 61.38,
+    "volume": 2124400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-16",
+    "price": 61.84,
+    "volume": 2889528
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-15",
+    "price": 62.02,
+    "volume": 2991900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-12",
+    "price": 60.46,
+    "volume": 2114000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-11",
+    "price": 59.97,
+    "volume": 2073600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-10",
+    "price": 59.9,
+    "volume": 3130415
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-09",
+    "price": 58.95,
+    "volume": 2530900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-08",
+    "price": 59.71,
+    "volume": 3053300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-05",
+    "price": 58.59,
+    "volume": 2448400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-04",
+    "price": 57.91,
+    "volume": 4493504
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-03",
+    "price": 58.18,
+    "volume": 4056300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-02",
+    "price": 58.88,
+    "volume": 3866806
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-08-01",
+    "price": 58.67,
+    "volume": 5197900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-29",
+    "price": 58.66,
+    "volume": 6232115
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-28",
+    "price": 59.5,
+    "volume": 9053938
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-27",
+    "price": 66.8,
+    "volume": 3136423
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-26",
+    "price": 66.74,
+    "volume": 2437529
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-25",
+    "price": 66.26,
+    "volume": 2115945
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-22",
+    "price": 66.16,
+    "volume": 1480600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-21",
+    "price": 66.03,
+    "volume": 2298004
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-20",
+    "price": 65.59,
+    "volume": 2526600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-19",
+    "price": 65.32,
+    "volume": 2285230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-18",
+    "price": 64.36,
+    "volume": 1903448
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-15",
+    "price": 64.91,
+    "volume": 1855102
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-14",
+    "price": 63.42,
+    "volume": 2288606
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-13",
+    "price": 63.78,
+    "volume": 2579601
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-12",
+    "price": 64.68,
+    "volume": 2648800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-11",
+    "price": 64.51,
+    "volume": 2530700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-08",
+    "price": 65.18,
+    "volume": 2268800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-07",
+    "price": 65.21,
+    "volume": 2509200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-06",
+    "price": 65.11,
+    "volume": 2242243
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-05",
+    "price": 65.39,
+    "volume": 1937600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-07-01",
+    "price": 65.49,
+    "volume": 2517700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-30",
+    "price": 64.23,
+    "volume": 3410822
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-29",
+    "price": 65.81,
+    "volume": 2589600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-28",
+    "price": 65.25,
+    "volume": 2548931
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-27",
+    "price": 66.71,
+    "volume": 2300606
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-24",
+    "price": 66.78,
+    "volume": 4080348
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-23",
+    "price": 65.08,
+    "volume": 2413300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-22",
+    "price": 64.75,
+    "volume": 2541774
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-21",
+    "price": 64.02,
+    "volume": 3698000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-17",
+    "price": 63.83,
+    "volume": 7244100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-16",
+    "price": 65.29,
+    "volume": 2918139
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-15",
+    "price": 67.83,
+    "volume": 3746231
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-14",
+    "price": 67.48,
+    "volume": 6008400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-13",
+    "price": 71.57,
+    "volume": 3779600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-10",
+    "price": 73.12,
+    "volume": 3268814
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-09",
+    "price": 72.03,
+    "volume": 2865200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-08",
+    "price": 72.85,
+    "volume": 1526200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-07",
+    "price": 72.58,
+    "volume": 1989009
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-06",
+    "price": 72.5,
+    "volume": 1917749
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-03",
+    "price": 72.54,
+    "volume": 1881800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-02",
+    "price": 74.26,
+    "volume": 2189400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-06-01",
+    "price": 74.47,
+    "volume": 1862437
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-31",
+    "price": 76.05,
+    "volume": 3853439
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-27",
+    "price": 76.16,
+    "volume": 2576200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-26",
+    "price": 75.75,
+    "volume": 1824250
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-25",
+    "price": 75.19,
+    "volume": 4050000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-24",
+    "price": 73.9,
+    "volume": 3259642
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-23",
+    "price": 73.37,
+    "volume": 2322900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-20",
+    "price": 73.23,
+    "volume": 1695544
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-19",
+    "price": 72.6,
+    "volume": 2580700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-18",
+    "price": 72.12,
+    "volume": 1994300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-17",
+    "price": 74.34,
+    "volume": 1981000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-16",
+    "price": 73.69,
+    "volume": 2864046
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-13",
+    "price": 73.03,
+    "volume": 2069400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-12",
+    "price": 72.65,
+    "volume": 2270600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-11",
+    "price": 72,
+    "volume": 2543405
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-10",
+    "price": 72.46,
+    "volume": 3417453
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-09",
+    "price": 73.62,
+    "volume": 4362412
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-06",
+    "price": 72.79,
+    "volume": 3174400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-05",
+    "price": 72.99,
+    "volume": 3029700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-04",
+    "price": 73.2,
+    "volume": 3550800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-03",
+    "price": 72.05,
+    "volume": 4496600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-05-02",
+    "price": 70.61,
+    "volume": 3854724
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-29",
+    "price": 71.06,
+    "volume": 4019219
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-28",
+    "price": 70.8,
+    "volume": 8441000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-27",
+    "price": 71.07,
+    "volume": 4639300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-26",
+    "price": 70.53,
+    "volume": 2280944
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-25",
+    "price": 72.91,
+    "volume": 3140137
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-22",
+    "price": 73.08,
+    "volume": 4266519
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-21",
+    "price": 77.98,
+    "volume": 2224300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-20",
+    "price": 78.56,
+    "volume": 2492224
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-19",
+    "price": 76.51,
+    "volume": 2524039
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-18",
+    "price": 74.97,
+    "volume": 1824000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-14",
+    "price": 76.44,
+    "volume": 3843100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-13",
+    "price": 78.44,
+    "volume": 2459101
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-12",
+    "price": 78.07,
+    "volume": 3045100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-11",
+    "price": 78.77,
+    "volume": 3590804
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-08",
+    "price": 80,
+    "volume": 4260900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-07",
+    "price": 78.01,
+    "volume": 2976400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-06",
+    "price": 77,
+    "volume": 3513200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-05",
+    "price": 76.49,
+    "volume": 4263500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-04",
+    "price": 75.47,
+    "volume": 5406800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-04-01",
+    "price": 78.58,
+    "volume": 3183400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-31",
+    "price": 77.54,
+    "volume": 4662200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-30",
+    "price": 79.38,
+    "volume": 2861100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-29",
+    "price": 79.51,
+    "volume": 6771044
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-28",
+    "price": 78.92,
+    "volume": 3536719
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-25",
+    "price": 77.21,
+    "volume": 2990116
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-24",
+    "price": 77.68,
+    "volume": 7617417
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-23",
+    "price": 77.07,
+    "volume": 4620611
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-22",
+    "price": 78.01,
+    "volume": 4193007
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-21",
+    "price": 79.05,
+    "volume": 3016724
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-18",
+    "price": 79.12,
+    "volume": 3895606
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-17",
+    "price": 79.44,
+    "volume": 2662884
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-16",
+    "price": 78.96,
+    "volume": 2288900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-15",
+    "price": 78.67,
+    "volume": 1720700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-14",
+    "price": 77.99,
+    "volume": 2452711
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-11",
+    "price": 76.85,
+    "volume": 3833000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-10",
+    "price": 78.98,
+    "volume": 2751018
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-09",
+    "price": 79.74,
+    "volume": 3453652
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-08",
+    "price": 80.45,
+    "volume": 3159821
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-07",
+    "price": 84.98,
+    "volume": 3204700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-04",
+    "price": 86.02,
+    "volume": 1984036
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-03",
+    "price": 85.19,
+    "volume": 1540500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-02",
+    "price": 85.23,
+    "volume": 2454158
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-03-01",
+    "price": 84.14,
+    "volume": 2961700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-28",
+    "price": 84.97,
+    "volume": 4376200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-25",
+    "price": 86.26,
+    "volume": 3174200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-24",
+    "price": 84.65,
+    "volume": 5266910
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-23",
+    "price": 85.74,
+    "volume": 3153246
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-22",
+    "price": 84.46,
+    "volume": 3888300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-18",
+    "price": 82.35,
+    "volume": 5029000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-17",
+    "price": 82.8,
+    "volume": 5189300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-16",
+    "price": 85.13,
+    "volume": 2879709
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-15",
+    "price": 85.59,
+    "volume": 1705849
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-14",
+    "price": 85.45,
+    "volume": 2384900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-11",
+    "price": 85.91,
+    "volume": 3490011
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-10",
+    "price": 87.75,
+    "volume": 3295114
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-09",
+    "price": 89.45,
+    "volume": 2887942
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-08",
+    "price": 88.41,
+    "volume": 4744306
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-07",
+    "price": 86.87,
+    "volume": 2676230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-04",
+    "price": 86.71,
+    "volume": 3673200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-03",
+    "price": 86.1,
+    "volume": 4585100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-02",
+    "price": 85.55,
+    "volume": 3203511
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-02-01",
+    "price": 84.93,
+    "volume": 3340717
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-31",
+    "price": 85.44,
+    "volume": 2568500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-28",
+    "price": 85.29,
+    "volume": 2588600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-27",
+    "price": 84.63,
+    "volume": 2665400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-26",
+    "price": 84.27,
+    "volume": 3888000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-25",
+    "price": 85.07,
+    "volume": 2697904
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-24",
+    "price": 85.96,
+    "volume": 3510623
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-21",
+    "price": 86.28,
+    "volume": 2348400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-20",
+    "price": 85.99,
+    "volume": 2504900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-19",
+    "price": 85.6,
+    "volume": 1827000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-18",
+    "price": 85.86,
+    "volume": 2258960
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-14",
+    "price": 85.74,
+    "volume": 2246700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-13",
+    "price": 85.89,
+    "volume": 2568416
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-12",
+    "price": 86.44,
+    "volume": 2169400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-11",
+    "price": 86.36,
+    "volume": 2403328
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-10",
+    "price": 86.31,
+    "volume": 2912800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-07",
+    "price": 87.45,
+    "volume": 1750609
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-06",
+    "price": 86.78,
+    "volume": 1507317
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-05",
+    "price": 87.86,
+    "volume": 2966500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-04",
+    "price": 88,
+    "volume": 3346329
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-01-03",
+    "price": 86.87,
+    "volume": 1899802
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-31",
+    "price": 85.84,
+    "volume": 1788108
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-30",
+    "price": 86.45,
+    "volume": 1346611
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-29",
+    "price": 87.19,
+    "volume": 1280338
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-28",
+    "price": 86.75,
+    "volume": 1227801
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-27",
+    "price": 86.6,
+    "volume": 1220802
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-23",
+    "price": 85.55,
+    "volume": 2033700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-22",
+    "price": 85.32,
+    "volume": 2301037
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-21",
+    "price": 83.87,
+    "volume": 2731000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-20",
+    "price": 82.51,
+    "volume": 2631700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-17",
+    "price": 83.63,
+    "volume": 4688100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-16",
+    "price": 83.91,
+    "volume": 3076100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-15",
+    "price": 82.7,
+    "volume": 2300500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-14",
+    "price": 82.51,
+    "volume": 2662700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-13",
+    "price": 83.2,
+    "volume": 3103800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-10",
+    "price": 80.86,
+    "volume": 2131317
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-09",
+    "price": 80.56,
+    "volume": 1935500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-08",
+    "price": 80.61,
+    "volume": 1886704
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-07",
+    "price": 79.88,
+    "volume": 2793600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-06",
+    "price": 79.24,
+    "volume": 3046400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-03",
+    "price": 78.05,
+    "volume": 2510353
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-02",
+    "price": 76.23,
+    "volume": 2726861
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-01",
+    "price": 75.08,
+    "volume": 2502412
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-30",
+    "price": 74.57,
+    "volume": 3440648
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-29",
+    "price": 76.03,
+    "volume": 2506632
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-26",
+    "price": 76.29,
+    "volume": 1281137
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-24",
+    "price": 77.62,
+    "volume": 1338800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-23",
+    "price": 78.41,
+    "volume": 1707333
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-22",
+    "price": 79.25,
+    "volume": 1708040
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-19",
+    "price": 79.26,
+    "volume": 2381400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-18",
+    "price": 79.11,
+    "volume": 2099000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-17",
+    "price": 79.58,
+    "volume": 2249733
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-16",
+    "price": 79.31,
+    "volume": 1978100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-15",
+    "price": 79.55,
+    "volume": 1609700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-12",
+    "price": 79.46,
+    "volume": 1216223
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-11",
+    "price": 79.16,
+    "volume": 1776100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-10",
+    "price": 79.02,
+    "volume": 2494438
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-09",
+    "price": 77.7,
+    "volume": 2476803
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-08",
+    "price": 78.74,
+    "volume": 1626400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-05",
+    "price": 78.04,
+    "volume": 2606832
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-04",
+    "price": 78.31,
+    "volume": 2638900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-03",
+    "price": 80.04,
+    "volume": 1648924
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-02",
+    "price": 80.29,
+    "volume": 2152200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-11-01",
+    "price": 79.82,
+    "volume": 3375636
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-29",
+    "price": 78.96,
+    "volume": 7995514
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-28",
+    "price": 78.61,
+    "volume": 7344608
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-27",
+    "price": 81.94,
+    "volume": 2764000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-26",
+    "price": 81.79,
+    "volume": 1557700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-25",
+    "price": 81.36,
+    "volume": 2621124
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-22",
+    "price": 82.19,
+    "volume": 1348435
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-21",
+    "price": 81.46,
+    "volume": 1349100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-20",
+    "price": 81.25,
+    "volume": 2270020
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-19",
+    "price": 79.68,
+    "volume": 2527800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-18",
+    "price": 78.18,
+    "volume": 1822900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-15",
+    "price": 79.7,
+    "volume": 1783600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-14",
+    "price": 79.89,
+    "volume": 1754012
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-13",
+    "price": 78.8,
+    "volume": 1491100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-12",
+    "price": 78.71,
+    "volume": 1394441
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-11",
+    "price": 78.92,
+    "volume": 2010508
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-08",
+    "price": 80.2,
+    "volume": 2641235
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-07",
+    "price": 80.58,
+    "volume": 3316000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-06",
+    "price": 80.86,
+    "volume": 2949593
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-05",
+    "price": 80.86,
+    "volume": 2756300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-04",
+    "price": 80.42,
+    "volume": 3158300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-10-01",
+    "price": 81.29,
+    "volume": 2885000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-30",
+    "price": 80.43,
+    "volume": 3095343
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-29",
+    "price": 81.81,
+    "volume": 2548333
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-28",
+    "price": 80.73,
+    "volume": 2932924
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-27",
+    "price": 80.57,
+    "volume": 2264200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-24",
+    "price": 80.85,
+    "volume": 2008800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-23",
+    "price": 80.79,
+    "volume": 2738500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-22",
+    "price": 81.05,
+    "volume": 2445500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-21",
+    "price": 81.95,
+    "volume": 2002700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-20",
+    "price": 82.29,
+    "volume": 2811900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-17",
+    "price": 83.61,
+    "volume": 4507900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-16",
+    "price": 83.22,
+    "volume": 2691700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-15",
+    "price": 83.57,
+    "volume": 5895700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-14",
+    "price": 81.77,
+    "volume": 2867722
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-13",
+    "price": 80.63,
+    "volume": 2906643
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-10",
+    "price": 80.92,
+    "volume": 2512400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-09",
+    "price": 81.72,
+    "volume": 3519810
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-08",
+    "price": 82.76,
+    "volume": 3050726
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-07",
+    "price": 83.35,
+    "volume": 5812487
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-03",
+    "price": 82.71,
+    "volume": 5100913
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-02",
+    "price": 81.06,
+    "volume": 8205827
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-09-01",
+    "price": 77.6,
+    "volume": 4001524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-31",
+    "price": 76.22,
+    "volume": 5213448
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-30",
+    "price": 76,
+    "volume": 9337043
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-27",
+    "price": 73.97,
+    "volume": 2619939
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-26",
+    "price": 73.77,
+    "volume": 3090300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-25",
+    "price": 73.8,
+    "volume": 2951302
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-24",
+    "price": 74.53,
+    "volume": 2119285
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-23",
+    "price": 74.81,
+    "volume": 2532200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-20",
+    "price": 75.19,
+    "volume": 3286800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-19",
+    "price": 75.02,
+    "volume": 3020709
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-18",
+    "price": 75.27,
+    "volume": 3169132
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-17",
+    "price": 75.93,
+    "volume": 2979900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-16",
+    "price": 75.68,
+    "volume": 3634599
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-13",
+    "price": 74.56,
+    "volume": 2968634
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-12",
+    "price": 73.86,
+    "volume": 1445600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-11",
+    "price": 73.98,
+    "volume": 1774100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-10",
+    "price": 73.85,
+    "volume": 2377700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-09",
+    "price": 74,
+    "volume": 2286230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-06",
+    "price": 74.83,
+    "volume": 2991209
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-05",
+    "price": 74.46,
+    "volume": 6988400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-04",
+    "price": 75.15,
+    "volume": 5005500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-03",
+    "price": 76.28,
+    "volume": 4447113
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-08-02",
+    "price": 77.21,
+    "volume": 3352206
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-30",
+    "price": 77.35,
+    "volume": 7506604
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-29",
+    "price": 77.38,
+    "volume": 7327511
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-28",
+    "price": 81.91,
+    "volume": 4563802
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-27",
+    "price": 82.11,
+    "volume": 2300600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-26",
+    "price": 80.77,
+    "volume": 1890500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-23",
+    "price": 81.14,
+    "volume": 1826711
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-22",
+    "price": 80.51,
+    "volume": 874600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-21",
+    "price": 80.27,
+    "volume": 1769900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-20",
+    "price": 80.54,
+    "volume": 2108100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-19",
+    "price": 80.27,
+    "volume": 3108616
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-16",
+    "price": 81.42,
+    "volume": 1585900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-15",
+    "price": 81.06,
+    "volume": 1637900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-14",
+    "price": 81,
+    "volume": 1751200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-13",
+    "price": 81.09,
+    "volume": 1989400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-12",
+    "price": 80.81,
+    "volume": 2324900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-09",
+    "price": 80.43,
+    "volume": 2441300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-08",
+    "price": 81.33,
+    "volume": 1900532
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-07",
+    "price": 81.85,
+    "volume": 1676342
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-06",
+    "price": 81.07,
+    "volume": 3312604
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-02",
+    "price": 81.76,
+    "volume": 2826400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-07-01",
+    "price": 81.47,
+    "volume": 4813206
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-30",
+    "price": 80.5,
+    "volume": 3139000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-29",
+    "price": 81.86,
+    "volume": 1740610
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-28",
+    "price": 81.65,
+    "volume": 2290310
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-25",
+    "price": 82.19,
+    "volume": 6398300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-24",
+    "price": 81.4,
+    "volume": 1972700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-23",
+    "price": 80.93,
+    "volume": 3107230
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-22",
+    "price": 81.33,
+    "volume": 1937332
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-21",
+    "price": 81.51,
+    "volume": 2042330
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-18",
+    "price": 80.82,
+    "volume": 4311338
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-17",
+    "price": 81.15,
+    "volume": 2668300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-16",
+    "price": 81.77,
+    "volume": 1911200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-15",
+    "price": 81.95,
+    "volume": 2286300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-14",
+    "price": 82.77,
+    "volume": 2994508
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-11",
+    "price": 82.24,
+    "volume": 6107155
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-10",
+    "price": 84.09,
+    "volume": 3455700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-09",
+    "price": 82.35,
+    "volume": 1707238
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-08",
+    "price": 81.09,
+    "volume": 2489505
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-07",
+    "price": 81.26,
+    "volume": 2753000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-04",
+    "price": 82.25,
+    "volume": 1938300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-03",
+    "price": 81.69,
+    "volume": 2397200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-02",
+    "price": 81.6,
+    "volume": 2461100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-06-01",
+    "price": 82.14,
+    "volume": 3355600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-28",
+    "price": 82.12,
+    "volume": 3617313
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-27",
+    "price": 81.81,
+    "volume": 5048600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-26",
+    "price": 82.42,
+    "volume": 2994817
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-25",
+    "price": 82.35,
+    "volume": 2330549
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-24",
+    "price": 82.77,
+    "volume": 1676442
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-21",
+    "price": 83.06,
+    "volume": 1596200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-20",
+    "price": 82.96,
+    "volume": 1950300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-19",
+    "price": 82.48,
+    "volume": 1765600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-18",
+    "price": 82.93,
+    "volume": 2110800
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-17",
+    "price": 82.85,
+    "volume": 2372700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-14",
+    "price": 83.86,
+    "volume": 2193500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-13",
+    "price": 83.4,
+    "volume": 2956411
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-12",
+    "price": 83.1,
+    "volume": 2426125
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-11",
+    "price": 83.58,
+    "volume": 4241243
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-10",
+    "price": 86.49,
+    "volume": 3584434
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-07",
+    "price": 86.62,
+    "volume": 2486524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-06",
+    "price": 87.53,
+    "volume": 1989136
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-05",
+    "price": 86.7,
+    "volume": 2424000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-04",
+    "price": 87.44,
+    "volume": 2732711
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-05-03",
+    "price": 86.54,
+    "volume": 2005039
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-30",
+    "price": 85.69,
+    "volume": 2805517
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-29",
+    "price": 85.35,
+    "volume": 2486900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-28",
+    "price": 86.99,
+    "volume": 1999600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-27",
+    "price": 86.76,
+    "volume": 1657255
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-26",
+    "price": 87.36,
+    "volume": 1644300
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-23",
+    "price": 87.87,
+    "volume": 2377322
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-22",
+    "price": 88.01,
+    "volume": 2423033
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-21",
+    "price": 87.9,
+    "volume": 1839825
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-20",
+    "price": 87.07,
+    "volume": 2041400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-19",
+    "price": 86.52,
+    "volume": 2706600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-16",
+    "price": 86.56,
+    "volume": 2884613
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-15",
+    "price": 85.8,
+    "volume": 2879702
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-14",
+    "price": 84.64,
+    "volume": 1576522
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-13",
+    "price": 84.79,
+    "volume": 1504745
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-12",
+    "price": 84.54,
+    "volume": 1726383
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-09",
+    "price": 84.92,
+    "volume": 2781339
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-08",
+    "price": 84,
+    "volume": 2174715
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-07",
+    "price": 84.69,
+    "volume": 1017244
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-06",
+    "price": 84.92,
+    "volume": 1885859
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-05",
+    "price": 85.28,
+    "volume": 1893900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-04-01",
+    "price": 84.32,
+    "volume": 2298628
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-31",
+    "price": 84.34,
+    "volume": 3100200
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-30",
+    "price": 85.58,
+    "volume": 3778900
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-29",
+    "price": 86.03,
+    "volume": 3124074
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-26",
+    "price": 85.95,
+    "volume": 4634117
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-25",
+    "price": 83.41,
+    "volume": 3635129
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-24",
+    "price": 82.08,
+    "volume": 2282944
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-23",
+    "price": 81.6,
+    "volume": 2732455
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-22",
+    "price": 81.24,
+    "volume": 3121844
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-19",
+    "price": 80.3,
+    "volume": 3976500
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-18",
+    "price": 79.86,
+    "volume": 2060100
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-17",
+    "price": 79.69,
+    "volume": 3792700
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-16",
+    "price": 78.93,
+    "volume": 1919799
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-15",
+    "price": 78.67,
+    "volume": 1482734
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-12",
+    "price": 77.96,
+    "volume": 1462524
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-11",
+    "price": 77.74,
+    "volume": 1637600
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-10",
+    "price": 77.72,
+    "volume": 2089402
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-09",
+    "price": 77.27,
+    "volume": 1976580
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-08",
+    "price": 78.28,
+    "volume": 1553543
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-05",
+    "price": 78.06,
+    "volume": 2456400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-04",
+    "price": 76.42,
+    "volume": 3920400
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-03",
+    "price": 77.15,
+    "volume": 2469758
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-02",
+    "price": 77.68,
+    "volume": 3433439
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-03-01",
+    "price": 77.94,
+    "volume": 3914140
+  }
+]

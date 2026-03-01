@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "TAK",
+    "date": "2026-02-27",
+    "price": 18.75,
+    "volume": 2145100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-26",
+    "price": 18.53,
+    "volume": 3103800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-25",
+    "price": 18.61,
+    "volume": 1802718
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-24",
+    "price": 18.65,
+    "volume": 3226382
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-23",
+    "price": 18.8,
+    "volume": 2002212
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-20",
+    "price": 18.66,
+    "volume": 2000800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-19",
+    "price": 18.66,
+    "volume": 2719062
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-18",
+    "price": 18.54,
+    "volume": 3107200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-17",
+    "price": 18.26,
+    "volume": 2981600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-13",
+    "price": 18.46,
+    "volume": 3087226
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-12",
+    "price": 18.37,
+    "volume": 2919228
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-11",
+    "price": 18.28,
+    "volume": 1895639
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-10",
+    "price": 18.1,
+    "volume": 2128400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-09",
+    "price": 17.73,
+    "volume": 2320509
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-06",
+    "price": 17.89,
+    "volume": 3133923
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-05",
+    "price": 17.8,
+    "volume": 2681000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-04",
+    "price": 17.74,
+    "volume": 2500300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-03",
+    "price": 17.43,
+    "volume": 4168900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-02-02",
+    "price": 17.49,
+    "volume": 4396924
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-30",
+    "price": 17.23,
+    "volume": 5626300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-29",
+    "price": 17.17,
+    "volume": 4917807
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-28",
+    "price": 16.69,
+    "volume": 5644049
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-27",
+    "price": 16.91,
+    "volume": 3910604
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-26",
+    "price": 16.61,
+    "volume": 2962452
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-23",
+    "price": 16.29,
+    "volume": 1749746
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-22",
+    "price": 15.94,
+    "volume": 3862551
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-21",
+    "price": 16.08,
+    "volume": 6810801
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-20",
+    "price": 16.15,
+    "volume": 4847200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-16",
+    "price": 16.16,
+    "volume": 3189113
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-15",
+    "price": 16.33,
+    "volume": 2221819
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-14",
+    "price": 16.47,
+    "volume": 3856525
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-13",
+    "price": 16.01,
+    "volume": 2729630
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-12",
+    "price": 16.26,
+    "volume": 2127700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-09",
+    "price": 16.31,
+    "volume": 3253600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-08",
+    "price": 16.37,
+    "volume": 3153935
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-07",
+    "price": 15.9,
+    "volume": 1653219
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-06",
+    "price": 15.79,
+    "volume": 2594505
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-05",
+    "price": 15.69,
+    "volume": 2475265
+  },
+  {
+    "symbol": "TAK",
+    "date": "2026-01-02",
+    "price": 15.62,
+    "volume": 1240200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-31",
+    "price": 15.59,
+    "volume": 942241
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-30",
+    "price": 15.63,
+    "volume": 1597600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-29",
+    "price": 15.76,
+    "volume": 1655489
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-26",
+    "price": 15.65,
+    "volume": 1228100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-24",
+    "price": 15.58,
+    "volume": 1261638
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-23",
+    "price": 15.46,
+    "volume": 2635900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-22",
+    "price": 15.1,
+    "volume": 4893719
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-19",
+    "price": 14.9,
+    "volume": 5065071
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-18",
+    "price": 14.83,
+    "volume": 5091900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-17",
+    "price": 14.47,
+    "volume": 1790400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-16",
+    "price": 14.53,
+    "volume": 3091500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-15",
+    "price": 14.61,
+    "volume": 2642200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-12",
+    "price": 14.33,
+    "volume": 2123444
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-11",
+    "price": 14.39,
+    "volume": 2029045
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-10",
+    "price": 14.37,
+    "volume": 2045534
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-09",
+    "price": 14.26,
+    "volume": 1671818
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-08",
+    "price": 14.22,
+    "volume": 1862536
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-05",
+    "price": 14.18,
+    "volume": 1872244
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-04",
+    "price": 14.28,
+    "volume": 1866015
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-03",
+    "price": 14.31,
+    "volume": 2122947
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-02",
+    "price": 14.29,
+    "volume": 2520828
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-12-01",
+    "price": 14.46,
+    "volume": 3050162
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-28",
+    "price": 14.42,
+    "volume": 2098633
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-26",
+    "price": 14.52,
+    "volume": 2137500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-25",
+    "price": 14.5,
+    "volume": 4200907
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-24",
+    "price": 14.22,
+    "volume": 2768734
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-21",
+    "price": 14.3,
+    "volume": 4069846
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-20",
+    "price": 14.06,
+    "volume": 3504600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-19",
+    "price": 14.09,
+    "volume": 1928500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-18",
+    "price": 14.07,
+    "volume": 4673500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-17",
+    "price": 14.14,
+    "volume": 2495900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-14",
+    "price": 14.29,
+    "volume": 2656336
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-13",
+    "price": 14.24,
+    "volume": 4223800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-12",
+    "price": 14.09,
+    "volume": 3120900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-11",
+    "price": 14.01,
+    "volume": 4581104
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-10",
+    "price": 13.71,
+    "volume": 3996800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-07",
+    "price": 13.66,
+    "volume": 2599800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-06",
+    "price": 13.64,
+    "volume": 3644306
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-05",
+    "price": 13.59,
+    "volume": 2928300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-04",
+    "price": 13.56,
+    "volume": 3009200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-11-03",
+    "price": 13.42,
+    "volume": 2656372
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-31",
+    "price": 13.44,
+    "volume": 2927500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-30",
+    "price": 13.23,
+    "volume": 5215800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-29",
+    "price": 13.77,
+    "volume": 3576896
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-28",
+    "price": 14.1,
+    "volume": 2427397
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-27",
+    "price": 14.17,
+    "volume": 3277465
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-24",
+    "price": 14.01,
+    "volume": 1467574
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-23",
+    "price": 14.06,
+    "volume": 1708021
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-22",
+    "price": 14.14,
+    "volume": 2526613
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-21",
+    "price": 14.11,
+    "volume": 1973800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-20",
+    "price": 14.08,
+    "volume": 1859828
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-17",
+    "price": 14.04,
+    "volume": 2654319
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-16",
+    "price": 13.88,
+    "volume": 3105700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-15",
+    "price": 13.86,
+    "volume": 2833317
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-14",
+    "price": 13.8,
+    "volume": 4312734
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-13",
+    "price": 13.72,
+    "volume": 2456696
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-10",
+    "price": 13.71,
+    "volume": 2954121
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-09",
+    "price": 14.08,
+    "volume": 2334000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-08",
+    "price": 14.31,
+    "volume": 2603076
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-07",
+    "price": 14.46,
+    "volume": 2805545
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-06",
+    "price": 14.55,
+    "volume": 3408800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-03",
+    "price": 14.6,
+    "volume": 2674971
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-02",
+    "price": 14.44,
+    "volume": 3823600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-10-01",
+    "price": 14.74,
+    "volume": 4128532
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-30",
+    "price": 14.64,
+    "volume": 2496406
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-29",
+    "price": 14.62,
+    "volume": 2198900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-26",
+    "price": 14.74,
+    "volume": 1470335
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-25",
+    "price": 14.65,
+    "volume": 1881100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-24",
+    "price": 14.96,
+    "volume": 1585000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-23",
+    "price": 15.06,
+    "volume": 1229941
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-22",
+    "price": 15.01,
+    "volume": 1422141
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-19",
+    "price": 15.06,
+    "volume": 1823711
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-18",
+    "price": 15.02,
+    "volume": 3766893
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-17",
+    "price": 15.09,
+    "volume": 3602253
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-16",
+    "price": 15.12,
+    "volume": 2027100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-15",
+    "price": 15.06,
+    "volume": 3221537
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-12",
+    "price": 15.1,
+    "volume": 2820537
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-11",
+    "price": 15.34,
+    "volume": 1843816
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-10",
+    "price": 15.29,
+    "volume": 3202801
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-09",
+    "price": 15.27,
+    "volume": 3904024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-08",
+    "price": 15.27,
+    "volume": 9458093
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-05",
+    "price": 15.4,
+    "volume": 3326129
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-04",
+    "price": 15.29,
+    "volume": 2018939
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-03",
+    "price": 15.15,
+    "volume": 3713500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-09-02",
+    "price": 15.16,
+    "volume": 2429209
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-29",
+    "price": 14.99,
+    "volume": 1747000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-28",
+    "price": 14.97,
+    "volume": 2721241
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-27",
+    "price": 14.86,
+    "volume": 1898400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-26",
+    "price": 14.88,
+    "volume": 1890414
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-25",
+    "price": 15.07,
+    "volume": 2808400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-22",
+    "price": 15.52,
+    "volume": 3462700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-21",
+    "price": 15.31,
+    "volume": 3385553
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-20",
+    "price": 15.48,
+    "volume": 3275109
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-19",
+    "price": 15.2,
+    "volume": 3222247
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-18",
+    "price": 15.16,
+    "volume": 3562312
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-15",
+    "price": 15,
+    "volume": 2303700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-14",
+    "price": 14.8,
+    "volume": 2426415
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-13",
+    "price": 14.77,
+    "volume": 3458700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-12",
+    "price": 14.63,
+    "volume": 4504800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-11",
+    "price": 14.43,
+    "volume": 2306827
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-08",
+    "price": 14.44,
+    "volume": 3045479
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-07",
+    "price": 14.36,
+    "volume": 5007849
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-06",
+    "price": 14.27,
+    "volume": 5457700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-05",
+    "price": 14.2,
+    "volume": 4086420
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-04",
+    "price": 14.26,
+    "volume": 7655800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-08-01",
+    "price": 14.16,
+    "volume": 6279170
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-31",
+    "price": 13.72,
+    "volume": 12886419
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-30",
+    "price": 13.6,
+    "volume": 15944900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-29",
+    "price": 14.32,
+    "volume": 6438233
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-28",
+    "price": 14.31,
+    "volume": 5199739
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-25",
+    "price": 14.48,
+    "volume": 6383200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-24",
+    "price": 14.66,
+    "volume": 4299700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-23",
+    "price": 14.74,
+    "volume": 4702524
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-22",
+    "price": 14.55,
+    "volume": 3241800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-21",
+    "price": 14.44,
+    "volume": 4393550
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-18",
+    "price": 14.43,
+    "volume": 3644009
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-17",
+    "price": 14.74,
+    "volume": 3107205
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-16",
+    "price": 14.72,
+    "volume": 3598803
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-15",
+    "price": 14.75,
+    "volume": 3701017
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-14",
+    "price": 15.04,
+    "volume": 4536900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-11",
+    "price": 14.68,
+    "volume": 3165200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-10",
+    "price": 14.84,
+    "volume": 3164300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-09",
+    "price": 15.13,
+    "volume": 1629500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-08",
+    "price": 15.02,
+    "volume": 2113125
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-07",
+    "price": 15.07,
+    "volume": 2146162
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-03",
+    "price": 15.34,
+    "volume": 1649100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-02",
+    "price": 15.42,
+    "volume": 1461183
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-07-01",
+    "price": 15.37,
+    "volume": 3550543
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-30",
+    "price": 15.46,
+    "volume": 3120022
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-27",
+    "price": 15.1,
+    "volume": 1536128
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-26",
+    "price": 15.06,
+    "volume": 1775600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-25",
+    "price": 14.97,
+    "volume": 1741900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-24",
+    "price": 15.08,
+    "volume": 2277202
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-23",
+    "price": 14.72,
+    "volume": 1671900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-20",
+    "price": 14.77,
+    "volume": 3413400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-18",
+    "price": 14.9,
+    "volume": 1896600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-17",
+    "price": 14.89,
+    "volume": 2230100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-16",
+    "price": 15.07,
+    "volume": 1892402
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-13",
+    "price": 15.2,
+    "volume": 2391400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-12",
+    "price": 15.39,
+    "volume": 3026343
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-11",
+    "price": 15.17,
+    "volume": 1895500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-10",
+    "price": 15.24,
+    "volume": 2445519
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-09",
+    "price": 15.05,
+    "volume": 1151209
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-06",
+    "price": 14.96,
+    "volume": 1625842
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-05",
+    "price": 14.99,
+    "volume": 1729600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-04",
+    "price": 15.03,
+    "volume": 1743400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-03",
+    "price": 14.97,
+    "volume": 1105952
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-06-02",
+    "price": 15.08,
+    "volume": 2112200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-30",
+    "price": 15.03,
+    "volume": 1725692
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-29",
+    "price": 14.8,
+    "volume": 2504346
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-28",
+    "price": 14.59,
+    "volume": 1393830
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-27",
+    "price": 14.67,
+    "volume": 2148600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-23",
+    "price": 14.57,
+    "volume": 1991100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-22",
+    "price": 14.41,
+    "volume": 1980800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-21",
+    "price": 14.32,
+    "volume": 1241816
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-20",
+    "price": 14.27,
+    "volume": 1682043
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-19",
+    "price": 14.23,
+    "volume": 1338004
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-16",
+    "price": 14.11,
+    "volume": 1136706
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-15",
+    "price": 14,
+    "volume": 1716005
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-14",
+    "price": 13.71,
+    "volume": 2732611
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-13",
+    "price": 13.72,
+    "volume": 2901137
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-12",
+    "price": 14.19,
+    "volume": 5381700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-09",
+    "price": 14.36,
+    "volume": 4353487
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-08",
+    "price": 14.27,
+    "volume": 3107364
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-07",
+    "price": 15.06,
+    "volume": 2348013
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-06",
+    "price": 15.17,
+    "volume": 2298700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-05",
+    "price": 15.38,
+    "volume": 1228766
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-02",
+    "price": 15.32,
+    "volume": 1387023
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-05-01",
+    "price": 15.03,
+    "volume": 1674900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-30",
+    "price": 15.29,
+    "volume": 1807826
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-29",
+    "price": 15.28,
+    "volume": 1111426
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-28",
+    "price": 15.16,
+    "volume": 1534000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-25",
+    "price": 15.03,
+    "volume": 2188250
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-24",
+    "price": 15.11,
+    "volume": 2808808
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-23",
+    "price": 15.18,
+    "volume": 1597100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-22",
+    "price": 15.33,
+    "volume": 1923900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-21",
+    "price": 14.93,
+    "volume": 1869900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-17",
+    "price": 14.71,
+    "volume": 1971100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-16",
+    "price": 14.65,
+    "volume": 1551700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-15",
+    "price": 14.54,
+    "volume": 1253847
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-14",
+    "price": 14.3,
+    "volume": 1846331
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-11",
+    "price": 13.88,
+    "volume": 3385200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-10",
+    "price": 13.87,
+    "volume": 2876251
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-09",
+    "price": 14.34,
+    "volume": 4508832
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-08",
+    "price": 14.06,
+    "volume": 3911700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-07",
+    "price": 14.38,
+    "volume": 5757000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-04",
+    "price": 14.72,
+    "volume": 4265505
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-03",
+    "price": 15.19,
+    "volume": 4306754
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-02",
+    "price": 14.98,
+    "volume": 1114294
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-04-01",
+    "price": 14.9,
+    "volume": 1375000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-31",
+    "price": 14.87,
+    "volume": 1768545
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-28",
+    "price": 15.05,
+    "volume": 935400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-27",
+    "price": 15.14,
+    "volume": 1274400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-26",
+    "price": 15.02,
+    "volume": 1578200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-25",
+    "price": 15.04,
+    "volume": 1698750
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-24",
+    "price": 15.01,
+    "volume": 1095747
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-21",
+    "price": 15.19,
+    "volume": 2903100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-20",
+    "price": 15.16,
+    "volume": 927600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-19",
+    "price": 15.13,
+    "volume": 1139200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-18",
+    "price": 15.18,
+    "volume": 1588800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-17",
+    "price": 15.18,
+    "volume": 1291872
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-14",
+    "price": 15.01,
+    "volume": 1836597
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-13",
+    "price": 15.03,
+    "volume": 1594800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-12",
+    "price": 14.93,
+    "volume": 1789300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-11",
+    "price": 14.9,
+    "volume": 1909743
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-10",
+    "price": 15.04,
+    "volume": 2275900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-07",
+    "price": 15.17,
+    "volume": 1575024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-06",
+    "price": 15,
+    "volume": 1074749
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-05",
+    "price": 15.04,
+    "volume": 1117986
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-04",
+    "price": 14.83,
+    "volume": 2031300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-03-03",
+    "price": 14.84,
+    "volume": 3421140
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-28",
+    "price": 14.41,
+    "volume": 899728
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-27",
+    "price": 14.34,
+    "volume": 1319300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-26",
+    "price": 14.34,
+    "volume": 1796200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-25",
+    "price": 14.36,
+    "volume": 1193815
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-24",
+    "price": 14.08,
+    "volume": 1556200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-21",
+    "price": 14.06,
+    "volume": 1472740
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-20",
+    "price": 13.86,
+    "volume": 976228
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-19",
+    "price": 13.74,
+    "volume": 1174003
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-18",
+    "price": 13.9,
+    "volume": 1690000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-14",
+    "price": 13.54,
+    "volume": 868516
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-13",
+    "price": 13.62,
+    "volume": 1460810
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-12",
+    "price": 13.26,
+    "volume": 1973504
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-11",
+    "price": 13.44,
+    "volume": 776094
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-10",
+    "price": 13.43,
+    "volume": 1192800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-07",
+    "price": 13.53,
+    "volume": 1468800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-06",
+    "price": 13.61,
+    "volume": 3144610
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-05",
+    "price": 13.37,
+    "volume": 1801928
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-04",
+    "price": 13.32,
+    "volume": 2100466
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-02-03",
+    "price": 13.25,
+    "volume": 1692400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-31",
+    "price": 13.39,
+    "volume": 2315202
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-30",
+    "price": 13.7,
+    "volume": 3679831
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-29",
+    "price": 13.31,
+    "volume": 2236169
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-28",
+    "price": 13.37,
+    "volume": 1552135
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-27",
+    "price": 13.35,
+    "volume": 2591541
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-24",
+    "price": 12.99,
+    "volume": 1427325
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-23",
+    "price": 12.92,
+    "volume": 1380616
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-22",
+    "price": 12.89,
+    "volume": 2867600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-21",
+    "price": 13.1,
+    "volume": 1700700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-17",
+    "price": 12.92,
+    "volume": 1403247
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-16",
+    "price": 13.05,
+    "volume": 2157920
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-15",
+    "price": 13.1,
+    "volume": 891400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-14",
+    "price": 13.04,
+    "volume": 1694218
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-13",
+    "price": 12.99,
+    "volume": 1828065
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-10",
+    "price": 12.95,
+    "volume": 2401403
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-08",
+    "price": 13.24,
+    "volume": 4788225
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-07",
+    "price": 13.35,
+    "volume": 3030444
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-06",
+    "price": 13.3,
+    "volume": 2253786
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-03",
+    "price": 13.26,
+    "volume": 1050300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2025-01-02",
+    "price": 13.25,
+    "volume": 885100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-31",
+    "price": 13.24,
+    "volume": 1109233
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-30",
+    "price": 13.17,
+    "volume": 1319415
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-27",
+    "price": 13.27,
+    "volume": 1193348
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-26",
+    "price": 13.14,
+    "volume": 2101320
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-24",
+    "price": 13.17,
+    "volume": 968400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-23",
+    "price": 13.17,
+    "volume": 1830266
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-20",
+    "price": 13.1,
+    "volume": 1848722
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-19",
+    "price": 13.01,
+    "volume": 1495566
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-18",
+    "price": 13.11,
+    "volume": 1287300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-17",
+    "price": 13.36,
+    "volume": 1184100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-16",
+    "price": 13.28,
+    "volume": 2452200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-13",
+    "price": 13.42,
+    "volume": 1096799
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-12",
+    "price": 13.45,
+    "volume": 1738445
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-11",
+    "price": 13.56,
+    "volume": 2134700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-10",
+    "price": 13.46,
+    "volume": 1533500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-09",
+    "price": 13.74,
+    "volume": 1858806
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-06",
+    "price": 13.73,
+    "volume": 960400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-05",
+    "price": 13.8,
+    "volume": 1687715
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-04",
+    "price": 13.67,
+    "volume": 1372300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-03",
+    "price": 13.92,
+    "volume": 1467000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-12-02",
+    "price": 13.86,
+    "volume": 2566300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-29",
+    "price": 13.62,
+    "volume": 373133
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-27",
+    "price": 13.57,
+    "volume": 2240367
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-26",
+    "price": 13.44,
+    "volume": 964824
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-25",
+    "price": 13.49,
+    "volume": 1588100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-22",
+    "price": 13.38,
+    "volume": 1558177
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-21",
+    "price": 13.33,
+    "volume": 4011234
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-20",
+    "price": 13.29,
+    "volume": 3779101
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-19",
+    "price": 13.62,
+    "volume": 1679500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-18",
+    "price": 13.53,
+    "volume": 3791400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-15",
+    "price": 13.62,
+    "volume": 2197155
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-14",
+    "price": 13.57,
+    "volume": 2323426
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-13",
+    "price": 13.56,
+    "volume": 1745423
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-12",
+    "price": 13.54,
+    "volume": 1003700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-11",
+    "price": 13.65,
+    "volume": 1310200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-08",
+    "price": 13.78,
+    "volume": 984229
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-07",
+    "price": 13.86,
+    "volume": 1037100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-06",
+    "price": 13.79,
+    "volume": 1205100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-05",
+    "price": 14.22,
+    "volume": 908620
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-04",
+    "price": 14.05,
+    "volume": 1538935
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-11-01",
+    "price": 13.96,
+    "volume": 811800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-31",
+    "price": 13.94,
+    "volume": 1312153
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-30",
+    "price": 13.89,
+    "volume": 1296006
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-29",
+    "price": 13.85,
+    "volume": 1550600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-28",
+    "price": 13.6,
+    "volume": 1889400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-25",
+    "price": 13.57,
+    "volume": 1595020
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-24",
+    "price": 13.8,
+    "volume": 811800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-23",
+    "price": 13.86,
+    "volume": 1337800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-22",
+    "price": 14.13,
+    "volume": 978505
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-21",
+    "price": 14.15,
+    "volume": 1089700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-18",
+    "price": 14.33,
+    "volume": 1179904
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-17",
+    "price": 14.26,
+    "volume": 2029181
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-16",
+    "price": 14.08,
+    "volume": 2003945
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-15",
+    "price": 14.05,
+    "volume": 2893300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-14",
+    "price": 14.34,
+    "volume": 1044324
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-11",
+    "price": 14.3,
+    "volume": 3156100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-10",
+    "price": 14.31,
+    "volume": 909300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-09",
+    "price": 14.28,
+    "volume": 1938600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-08",
+    "price": 14.3,
+    "volume": 2092700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-07",
+    "price": 14.33,
+    "volume": 2078612
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-04",
+    "price": 14.43,
+    "volume": 1791777
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-03",
+    "price": 14.24,
+    "volume": 1407739
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-02",
+    "price": 14.32,
+    "volume": 1530100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-10-01",
+    "price": 14.28,
+    "volume": 1370100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-30",
+    "price": 14.22,
+    "volume": 2770945
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-27",
+    "price": 14.54,
+    "volume": 1628905
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-26",
+    "price": 14.65,
+    "volume": 842921
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-25",
+    "price": 14.58,
+    "volume": 5770000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-24",
+    "price": 14.8,
+    "volume": 2326713
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-23",
+    "price": 14.89,
+    "volume": 1905060
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-20",
+    "price": 14.8,
+    "volume": 1241200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-19",
+    "price": 14.93,
+    "volume": 1119005
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-18",
+    "price": 14.82,
+    "volume": 1569729
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-17",
+    "price": 14.85,
+    "volume": 1922100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-16",
+    "price": 14.8,
+    "volume": 1930108
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-13",
+    "price": 14.7,
+    "volume": 2608700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-12",
+    "price": 14.82,
+    "volume": 779547
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-11",
+    "price": 14.82,
+    "volume": 1012119
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-10",
+    "price": 14.89,
+    "volume": 1027900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-09",
+    "price": 14.88,
+    "volume": 1103403
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-06",
+    "price": 14.81,
+    "volume": 1480340
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-05",
+    "price": 14.92,
+    "volume": 1577200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-04",
+    "price": 14.98,
+    "volume": 972526
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-09-03",
+    "price": 14.92,
+    "volume": 2147945
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-30",
+    "price": 14.89,
+    "volume": 1859541
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-29",
+    "price": 14.95,
+    "volume": 1024920
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-28",
+    "price": 14.97,
+    "volume": 2105612
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-27",
+    "price": 14.96,
+    "volume": 1371923
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-26",
+    "price": 14.82,
+    "volume": 1490315
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-23",
+    "price": 15.08,
+    "volume": 2565000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-22",
+    "price": 14.88,
+    "volume": 2329312
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-21",
+    "price": 14.94,
+    "volume": 2231300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-20",
+    "price": 14.76,
+    "volume": 2096542
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-19",
+    "price": 14.72,
+    "volume": 2088400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-16",
+    "price": 14.5,
+    "volume": 1374816
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-15",
+    "price": 14.44,
+    "volume": 1271101
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-14",
+    "price": 14.3,
+    "volume": 1840700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-13",
+    "price": 14.06,
+    "volume": 1367419
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-12",
+    "price": 13.85,
+    "volume": 1379136
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-09",
+    "price": 13.87,
+    "volume": 1519706
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-08",
+    "price": 13.87,
+    "volume": 1912800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-07",
+    "price": 13.81,
+    "volume": 3184722
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-06",
+    "price": 13.31,
+    "volume": 4109960
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-05",
+    "price": 13.82,
+    "volume": 5747500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-02",
+    "price": 14.08,
+    "volume": 3899945
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-08-01",
+    "price": 13.85,
+    "volume": 4409218
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-31",
+    "price": 13.88,
+    "volume": 4492743
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-30",
+    "price": 13.65,
+    "volume": 3617118
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-29",
+    "price": 13.7,
+    "volume": 6187734
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-26",
+    "price": 13.77,
+    "volume": 2454810
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-25",
+    "price": 13.67,
+    "volume": 3278700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-24",
+    "price": 13.58,
+    "volume": 2276117
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-23",
+    "price": 13.66,
+    "volume": 2368719
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-22",
+    "price": 13.51,
+    "volume": 2261500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-19",
+    "price": 13.36,
+    "volume": 4167467
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-18",
+    "price": 13.49,
+    "volume": 2274718
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-17",
+    "price": 13.7,
+    "volume": 2792035
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-16",
+    "price": 13.3,
+    "volume": 2681907
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-15",
+    "price": 13.39,
+    "volume": 2672346
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-12",
+    "price": 13.44,
+    "volume": 2537644
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-11",
+    "price": 13.4,
+    "volume": 2642800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-10",
+    "price": 13.25,
+    "volume": 780231
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-09",
+    "price": 13.15,
+    "volume": 942735
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-08",
+    "price": 13.18,
+    "volume": 895724
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-05",
+    "price": 13.21,
+    "volume": 981144
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-03",
+    "price": 13.11,
+    "volume": 438700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-02",
+    "price": 13.03,
+    "volume": 1062118
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-07-01",
+    "price": 13,
+    "volume": 1552705
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-28",
+    "price": 12.94,
+    "volume": 1655200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-27",
+    "price": 12.91,
+    "volume": 1576242
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-26",
+    "price": 12.92,
+    "volume": 952942
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-25",
+    "price": 12.98,
+    "volume": 1888200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-24",
+    "price": 12.88,
+    "volume": 1430420
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-21",
+    "price": 12.6,
+    "volume": 1695792
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-20",
+    "price": 12.61,
+    "volume": 1782100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-18",
+    "price": 12.67,
+    "volume": 4963900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-17",
+    "price": 13.17,
+    "volume": 1420200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-14",
+    "price": 13.1,
+    "volume": 1071511
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-13",
+    "price": 13.08,
+    "volume": 1371829
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-12",
+    "price": 13.34,
+    "volume": 2454200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-11",
+    "price": 13.34,
+    "volume": 936745
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-10",
+    "price": 13.51,
+    "volume": 1591430
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-07",
+    "price": 13.47,
+    "volume": 809219
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-06",
+    "price": 13.53,
+    "volume": 1529700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-05",
+    "price": 13.51,
+    "volume": 1113300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-04",
+    "price": 13.4,
+    "volume": 1814048
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-06-03",
+    "price": 13.36,
+    "volume": 2004235
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-31",
+    "price": 13.35,
+    "volume": 1855000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-30",
+    "price": 13.03,
+    "volume": 1206500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-29",
+    "price": 12.94,
+    "volume": 1109429
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-28",
+    "price": 13.11,
+    "volume": 1324672
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-24",
+    "price": 13.12,
+    "volume": 1559808
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-23",
+    "price": 13.02,
+    "volume": 1351200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-22",
+    "price": 13.06,
+    "volume": 1034010
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-21",
+    "price": 13.2,
+    "volume": 1014600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-20",
+    "price": 13.28,
+    "volume": 594402
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-17",
+    "price": 13.22,
+    "volume": 1009727
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-16",
+    "price": 13.31,
+    "volume": 1187400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-15",
+    "price": 13.39,
+    "volume": 1100100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-14",
+    "price": 13.45,
+    "volume": 1458444
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-13",
+    "price": 13.11,
+    "volume": 1818996
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-10",
+    "price": 13.25,
+    "volume": 1949300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-09",
+    "price": 13.37,
+    "volume": 2942112
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-08",
+    "price": 13.06,
+    "volume": 1562818
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-07",
+    "price": 13.28,
+    "volume": 1732100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-06",
+    "price": 13.36,
+    "volume": 1575670
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-03",
+    "price": 13.37,
+    "volume": 1334000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-02",
+    "price": 13.27,
+    "volume": 1033515
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-05-01",
+    "price": 13.19,
+    "volume": 1293600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-30",
+    "price": 13.08,
+    "volume": 909599
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-29",
+    "price": 13.17,
+    "volume": 1333134
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-26",
+    "price": 13.03,
+    "volume": 1213500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-25",
+    "price": 13.07,
+    "volume": 1697132
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-24",
+    "price": 13.23,
+    "volume": 924525
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-23",
+    "price": 13.38,
+    "volume": 1702435
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-22",
+    "price": 13.36,
+    "volume": 1561448
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-19",
+    "price": 13.24,
+    "volume": 1316677
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-18",
+    "price": 13.16,
+    "volume": 1287745
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-17",
+    "price": 13.15,
+    "volume": 1639900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-16",
+    "price": 13.23,
+    "volume": 2279140
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-15",
+    "price": 13.18,
+    "volume": 1788861
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-12",
+    "price": 13.37,
+    "volume": 2244600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-11",
+    "price": 13.58,
+    "volume": 3030911
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-10",
+    "price": 13.57,
+    "volume": 2419000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-09",
+    "price": 13.65,
+    "volume": 1432021
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-08",
+    "price": 13.67,
+    "volume": 2064229
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-05",
+    "price": 13.62,
+    "volume": 1822690
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-04",
+    "price": 13.48,
+    "volume": 1783300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-03",
+    "price": 13.53,
+    "volume": 1760200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-02",
+    "price": 13.55,
+    "volume": 1856100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-04-01",
+    "price": 13.67,
+    "volume": 1158900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-28",
+    "price": 13.89,
+    "volume": 1484704
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-27",
+    "price": 14.19,
+    "volume": 1714300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-26",
+    "price": 14.39,
+    "volume": 2070449
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-25",
+    "price": 14.15,
+    "volume": 2264300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-22",
+    "price": 14.41,
+    "volume": 1147431
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-21",
+    "price": 14.36,
+    "volume": 1859720
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-20",
+    "price": 14.55,
+    "volume": 1568900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-19",
+    "price": 14.41,
+    "volume": 1779200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-18",
+    "price": 14.56,
+    "volume": 1208137
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-15",
+    "price": 14.47,
+    "volume": 2316726
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-14",
+    "price": 14.34,
+    "volume": 1199621
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-13",
+    "price": 14.42,
+    "volume": 1488825
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-12",
+    "price": 14.37,
+    "volume": 2101800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-11",
+    "price": 14.57,
+    "volume": 1326548
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-08",
+    "price": 14.77,
+    "volume": 1157500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-07",
+    "price": 14.86,
+    "volume": 1429100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-06",
+    "price": 14.69,
+    "volume": 1749200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-05",
+    "price": 14.4,
+    "volume": 956027
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-04",
+    "price": 14.48,
+    "volume": 1726304
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-03-01",
+    "price": 14.56,
+    "volume": 1073500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-29",
+    "price": 14.59,
+    "volume": 1372953
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-28",
+    "price": 14.65,
+    "volume": 964548
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-27",
+    "price": 14.84,
+    "volume": 1165800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-26",
+    "price": 14.81,
+    "volume": 1608509
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-23",
+    "price": 14.62,
+    "volume": 5120868
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-22",
+    "price": 14.64,
+    "volume": 1601728
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-21",
+    "price": 14.74,
+    "volume": 1454204
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-20",
+    "price": 14.82,
+    "volume": 1838325
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-16",
+    "price": 14.62,
+    "volume": 1432000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-15",
+    "price": 14.42,
+    "volume": 1142800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-14",
+    "price": 14.54,
+    "volume": 2201300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-13",
+    "price": 14.34,
+    "volume": 2094800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-12",
+    "price": 14.31,
+    "volume": 1139640
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-09",
+    "price": 14.24,
+    "volume": 1206443
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-08",
+    "price": 14,
+    "volume": 973000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-07",
+    "price": 14.18,
+    "volume": 1434689
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-06",
+    "price": 14.16,
+    "volume": 2700228
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-05",
+    "price": 13.92,
+    "volume": 4500518
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-02",
+    "price": 14.28,
+    "volume": 5799119
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-02-01",
+    "price": 14.38,
+    "volume": 3501400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-31",
+    "price": 14.6,
+    "volume": 1961805
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-30",
+    "price": 14.54,
+    "volume": 1646730
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-29",
+    "price": 14.77,
+    "volume": 1594731
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-26",
+    "price": 14.6,
+    "volume": 1252200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-25",
+    "price": 14.63,
+    "volume": 1465317
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-24",
+    "price": 14.68,
+    "volume": 1657135
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-23",
+    "price": 14.73,
+    "volume": 3511801
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-22",
+    "price": 14.79,
+    "volume": 1127919
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-19",
+    "price": 14.71,
+    "volume": 1083626
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-18",
+    "price": 14.87,
+    "volume": 1274702
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-17",
+    "price": 14.86,
+    "volume": 2245049
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-16",
+    "price": 15.01,
+    "volume": 3249250
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-12",
+    "price": 15.04,
+    "volume": 1924300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-11",
+    "price": 14.93,
+    "volume": 2946758
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-10",
+    "price": 14.88,
+    "volume": 1076100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-09",
+    "price": 14.76,
+    "volume": 1405800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-08",
+    "price": 14.83,
+    "volume": 1929548
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-05",
+    "price": 14.72,
+    "volume": 1668000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-04",
+    "price": 14.55,
+    "volume": 1753574
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-03",
+    "price": 14.34,
+    "volume": 1278820
+  },
+  {
+    "symbol": "TAK",
+    "date": "2024-01-02",
+    "price": 14.34,
+    "volume": 1739275
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-29",
+    "price": 14.27,
+    "volume": 1118300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-28",
+    "price": 14.22,
+    "volume": 1587024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-27",
+    "price": 14.07,
+    "volume": 1003337
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-26",
+    "price": 14.06,
+    "volume": 757817
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-22",
+    "price": 14.05,
+    "volume": 943985
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-21",
+    "price": 13.97,
+    "volume": 2059136
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-20",
+    "price": 13.69,
+    "volume": 1488700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-19",
+    "price": 13.78,
+    "volume": 1379215
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-18",
+    "price": 13.8,
+    "volume": 2182107
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-15",
+    "price": 13.71,
+    "volume": 6680329
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-14",
+    "price": 14.05,
+    "volume": 3230671
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-13",
+    "price": 14.15,
+    "volume": 1974600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-12",
+    "price": 14.06,
+    "volume": 1264900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-11",
+    "price": 14.04,
+    "volume": 2065049
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-08",
+    "price": 14.06,
+    "volume": 838200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-07",
+    "price": 14.08,
+    "volume": 1585256
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-06",
+    "price": 13.94,
+    "volume": 1313800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-05",
+    "price": 13.97,
+    "volume": 1250502
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-04",
+    "price": 14.1,
+    "volume": 2487000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-12-01",
+    "price": 14.17,
+    "volume": 830969
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-30",
+    "price": 14.15,
+    "volume": 1965300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-29",
+    "price": 14.02,
+    "volume": 1527816
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-28",
+    "price": 14.09,
+    "volume": 1700400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-27",
+    "price": 14.07,
+    "volume": 1263300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-24",
+    "price": 14.04,
+    "volume": 870400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-22",
+    "price": 14,
+    "volume": 956620
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-21",
+    "price": 14.02,
+    "volume": 1855846
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-20",
+    "price": 14.01,
+    "volume": 2082321
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-17",
+    "price": 13.95,
+    "volume": 1833800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-16",
+    "price": 13.72,
+    "volume": 996400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-15",
+    "price": 13.68,
+    "volume": 1351500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-14",
+    "price": 13.81,
+    "volume": 1928146
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-13",
+    "price": 13.64,
+    "volume": 1281600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-10",
+    "price": 13.69,
+    "volume": 1853658
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-09",
+    "price": 13.59,
+    "volume": 1785205
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-08",
+    "price": 13.77,
+    "volume": 1312400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-07",
+    "price": 13.78,
+    "volume": 1228035
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-06",
+    "price": 13.71,
+    "volume": 1743300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-03",
+    "price": 14.01,
+    "volume": 1426100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-02",
+    "price": 13.87,
+    "volume": 1876500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-11-01",
+    "price": 13.65,
+    "volume": 1906200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-31",
+    "price": 13.6,
+    "volume": 2246340
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-30",
+    "price": 13.36,
+    "volume": 2635348
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-27",
+    "price": 13.47,
+    "volume": 3380972
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-26",
+    "price": 13.38,
+    "volume": 8691300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-25",
+    "price": 14.5,
+    "volume": 1293500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-24",
+    "price": 14.58,
+    "volume": 1393220
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-23",
+    "price": 14.52,
+    "volume": 1453714
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-20",
+    "price": 14.53,
+    "volume": 1319538
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-19",
+    "price": 14.53,
+    "volume": 1950804
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-18",
+    "price": 14.63,
+    "volume": 1990900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-17",
+    "price": 14.91,
+    "volume": 1739800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-16",
+    "price": 15.04,
+    "volume": 1543419
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-13",
+    "price": 15.14,
+    "volume": 1211437
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-12",
+    "price": 15.31,
+    "volume": 1068200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-11",
+    "price": 15.32,
+    "volume": 1453649
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-10",
+    "price": 15.43,
+    "volume": 1457000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-09",
+    "price": 15.23,
+    "volume": 2699006
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-06",
+    "price": 15.16,
+    "volume": 3471418
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-05",
+    "price": 14.88,
+    "volume": 1826900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-04",
+    "price": 14.63,
+    "volume": 5103242
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-03",
+    "price": 14.95,
+    "volume": 2335800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-10-02",
+    "price": 15.28,
+    "volume": 2445600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-29",
+    "price": 15.47,
+    "volume": 1339300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-28",
+    "price": 15.59,
+    "volume": 1961800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-27",
+    "price": 15.95,
+    "volume": 1482300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-26",
+    "price": 15.96,
+    "volume": 1218400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-25",
+    "price": 15.97,
+    "volume": 1446838
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-22",
+    "price": 15.84,
+    "volume": 1327822
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-21",
+    "price": 15.93,
+    "volume": 1514612
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-20",
+    "price": 16.29,
+    "volume": 1148800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-19",
+    "price": 16.3,
+    "volume": 1398226
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-18",
+    "price": 16.31,
+    "volume": 1500229
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-15",
+    "price": 16.32,
+    "volume": 2127743
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-14",
+    "price": 16.29,
+    "volume": 2233161
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-13",
+    "price": 15.96,
+    "volume": 1756011
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-12",
+    "price": 15.81,
+    "volume": 2297238
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-11",
+    "price": 15.49,
+    "volume": 1878433
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-08",
+    "price": 15.21,
+    "volume": 1293000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-07",
+    "price": 15.3,
+    "volume": 1782316
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-06",
+    "price": 15.17,
+    "volume": 2178145
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-05",
+    "price": 15.32,
+    "volume": 1757021
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-09-01",
+    "price": 15.39,
+    "volume": 1369344
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-31",
+    "price": 15.4,
+    "volume": 1656200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-30",
+    "price": 15.31,
+    "volume": 1126941
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-29",
+    "price": 15.35,
+    "volume": 1465800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-28",
+    "price": 15.28,
+    "volume": 939226
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-25",
+    "price": 15.23,
+    "volume": 1586058
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-24",
+    "price": 15.14,
+    "volume": 1135700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-23",
+    "price": 15.23,
+    "volume": 1255039
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-22",
+    "price": 15.04,
+    "volume": 1220700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-21",
+    "price": 15.03,
+    "volume": 1707800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-18",
+    "price": 15.05,
+    "volume": 1954880
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-17",
+    "price": 15.11,
+    "volume": 1576302
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-16",
+    "price": 15.08,
+    "volume": 1602800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-15",
+    "price": 15.21,
+    "volume": 2398709
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-14",
+    "price": 15.27,
+    "volume": 1317904
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-11",
+    "price": 15.34,
+    "volume": 2022600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-10",
+    "price": 15.29,
+    "volume": 2329600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-09",
+    "price": 15.41,
+    "volume": 2008013
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-08",
+    "price": 15.36,
+    "volume": 2489546
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-07",
+    "price": 15.37,
+    "volume": 2991100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-04",
+    "price": 15.21,
+    "volume": 3127900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-03",
+    "price": 15.16,
+    "volume": 3305100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-02",
+    "price": 15.12,
+    "volume": 3098900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-08-01",
+    "price": 15.12,
+    "volume": 5161300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-31",
+    "price": 15.26,
+    "volume": 1906117
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-28",
+    "price": 15.31,
+    "volume": 2617432
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-27",
+    "price": 15.61,
+    "volume": 4836122
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-26",
+    "price": 15.45,
+    "volume": 3680415
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-25",
+    "price": 15.35,
+    "volume": 3685058
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-24",
+    "price": 15.48,
+    "volume": 3506616
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-21",
+    "price": 15.56,
+    "volume": 4053706
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-20",
+    "price": 15.35,
+    "volume": 3152219
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-19",
+    "price": 15.44,
+    "volume": 3142124
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-18",
+    "price": 15.43,
+    "volume": 2738600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-17",
+    "price": 15.27,
+    "volume": 2671600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-14",
+    "price": 15.38,
+    "volume": 2484024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-13",
+    "price": 15.62,
+    "volume": 2165500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-12",
+    "price": 15.59,
+    "volume": 3018128
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-11",
+    "price": 15.48,
+    "volume": 3296838
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-10",
+    "price": 15.54,
+    "volume": 1643400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-07",
+    "price": 15.48,
+    "volume": 1894900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-06",
+    "price": 15.44,
+    "volume": 1526900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-05",
+    "price": 15.61,
+    "volume": 817900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-07-03",
+    "price": 15.64,
+    "volume": 822515
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-30",
+    "price": 15.71,
+    "volume": 1743000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-29",
+    "price": 15.7,
+    "volume": 961900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-28",
+    "price": 15.7,
+    "volume": 1465900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-27",
+    "price": 15.57,
+    "volume": 1156300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-26",
+    "price": 15.77,
+    "volume": 1442300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-23",
+    "price": 15.92,
+    "volume": 1152600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-22",
+    "price": 16.09,
+    "volume": 1265200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-21",
+    "price": 16.09,
+    "volume": 1355700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-20",
+    "price": 16.11,
+    "volume": 1820016
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-16",
+    "price": 16.09,
+    "volume": 3243648
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-15",
+    "price": 16.15,
+    "volume": 1079409
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-14",
+    "price": 16.09,
+    "volume": 1533439
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-13",
+    "price": 16.19,
+    "volume": 1838600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-12",
+    "price": 16.07,
+    "volume": 2046440
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-09",
+    "price": 16.21,
+    "volume": 1643314
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-08",
+    "price": 16.12,
+    "volume": 1665531
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-07",
+    "price": 16.09,
+    "volume": 1444177
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-06",
+    "price": 16.37,
+    "volume": 1905300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-05",
+    "price": 16.04,
+    "volume": 1580105
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-02",
+    "price": 16.12,
+    "volume": 1293900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-06-01",
+    "price": 15.89,
+    "volume": 1405449
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-31",
+    "price": 15.84,
+    "volume": 2472100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-30",
+    "price": 16.08,
+    "volume": 2400511
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-26",
+    "price": 16.1,
+    "volume": 2496300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-25",
+    "price": 16.22,
+    "volume": 2256300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-24",
+    "price": 16.25,
+    "volume": 1211000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-23",
+    "price": 16.32,
+    "volume": 1639737
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-22",
+    "price": 16.42,
+    "volume": 1398218
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-19",
+    "price": 16.18,
+    "volume": 1599100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-18",
+    "price": 16.06,
+    "volume": 2666000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-17",
+    "price": 16.28,
+    "volume": 1991600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-16",
+    "price": 16.45,
+    "volume": 1261000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-15",
+    "price": 16.52,
+    "volume": 1656720
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-12",
+    "price": 16.38,
+    "volume": 3007904
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-11",
+    "price": 16.16,
+    "volume": 5991719
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-10",
+    "price": 16.98,
+    "volume": 3052600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-09",
+    "price": 17.11,
+    "volume": 1389381
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-08",
+    "price": 17.03,
+    "volume": 1704626
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-05",
+    "price": 16.87,
+    "volume": 1679814
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-04",
+    "price": 16.75,
+    "volume": 1805000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-03",
+    "price": 16.71,
+    "volume": 1708856
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-02",
+    "price": 16.62,
+    "volume": 1383600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-05-01",
+    "price": 16.64,
+    "volume": 1333100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-28",
+    "price": 16.59,
+    "volume": 2957400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-27",
+    "price": 16.86,
+    "volume": 2501715
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-26",
+    "price": 16.81,
+    "volume": 1739400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-25",
+    "price": 16.87,
+    "volume": 2278626
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-24",
+    "price": 16.86,
+    "volume": 961459
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-21",
+    "price": 16.85,
+    "volume": 1615899
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-20",
+    "price": 16.65,
+    "volume": 965983
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-19",
+    "price": 16.65,
+    "volume": 849556
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-18",
+    "price": 16.71,
+    "volume": 1494200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-17",
+    "price": 16.68,
+    "volume": 1518900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-14",
+    "price": 16.81,
+    "volume": 2195827
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-13",
+    "price": 16.87,
+    "volume": 2269623
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-12",
+    "price": 16.62,
+    "volume": 2860000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-11",
+    "price": 16.54,
+    "volume": 2741900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-10",
+    "price": 16.62,
+    "volume": 2950400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-06",
+    "price": 17.07,
+    "volume": 6585704
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-05",
+    "price": 16.54,
+    "volume": 5314132
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-04",
+    "price": 16.67,
+    "volume": 5351500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-04-03",
+    "price": 16.52,
+    "volume": 2760296
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-31",
+    "price": 16.48,
+    "volume": 1665447
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-30",
+    "price": 16.35,
+    "volume": 1327424
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-29",
+    "price": 16.47,
+    "volume": 1474800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-28",
+    "price": 16.44,
+    "volume": 1173517
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-27",
+    "price": 16.48,
+    "volume": 2220673
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-24",
+    "price": 16.36,
+    "volume": 1424920
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-23",
+    "price": 16.22,
+    "volume": 2474188
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-22",
+    "price": 16.43,
+    "volume": 2043800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-21",
+    "price": 16.4,
+    "volume": 1749220
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-20",
+    "price": 16.37,
+    "volume": 2125914
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-17",
+    "price": 16.39,
+    "volume": 3838105
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-16",
+    "price": 16.44,
+    "volume": 4716726
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-15",
+    "price": 16.08,
+    "volume": 2373700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-14",
+    "price": 16.08,
+    "volume": 2360000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-13",
+    "price": 15.91,
+    "volume": 3871124
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-10",
+    "price": 15.93,
+    "volume": 3297650
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-09",
+    "price": 16.01,
+    "volume": 2901900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-08",
+    "price": 15.69,
+    "volume": 3077200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-07",
+    "price": 15.58,
+    "volume": 2197600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-06",
+    "price": 15.64,
+    "volume": 1833200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-03",
+    "price": 15.61,
+    "volume": 2226037
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-02",
+    "price": 15.33,
+    "volume": 1919038
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-03-01",
+    "price": 15.28,
+    "volume": 2149500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-28",
+    "price": 15.35,
+    "volume": 2943718
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-27",
+    "price": 15.39,
+    "volume": 1950344
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-24",
+    "price": 15.38,
+    "volume": 2125140
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-23",
+    "price": 15.82,
+    "volume": 1870046
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-22",
+    "price": 15.77,
+    "volume": 1969400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-21",
+    "price": 15.89,
+    "volume": 2456800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-17",
+    "price": 15.63,
+    "volume": 1394327
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-16",
+    "price": 15.56,
+    "volume": 1927200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-15",
+    "price": 15.66,
+    "volume": 2272900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-14",
+    "price": 15.92,
+    "volume": 2303037
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-13",
+    "price": 15.91,
+    "volume": 2426700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-10",
+    "price": 16.05,
+    "volume": 2110822
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-09",
+    "price": 15.98,
+    "volume": 2561900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-08",
+    "price": 16.12,
+    "volume": 2372300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-07",
+    "price": 15.92,
+    "volume": 1913900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-06",
+    "price": 15.8,
+    "volume": 2414338
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-03",
+    "price": 15.97,
+    "volume": 3517400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-02",
+    "price": 15.74,
+    "volume": 3048336
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-02-01",
+    "price": 15.85,
+    "volume": 3768465
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-31",
+    "price": 15.8,
+    "volume": 2876800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-30",
+    "price": 15.89,
+    "volume": 2314800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-27",
+    "price": 16.03,
+    "volume": 3671332
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-26",
+    "price": 16.1,
+    "volume": 1789471
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-25",
+    "price": 16.24,
+    "volume": 2414109
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-24",
+    "price": 16.13,
+    "volume": 2617500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-23",
+    "price": 16.19,
+    "volume": 3251800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-20",
+    "price": 16.27,
+    "volume": 2265151
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-19",
+    "price": 16.2,
+    "volume": 2441437
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-18",
+    "price": 16.14,
+    "volume": 3504536
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-17",
+    "price": 16.15,
+    "volume": 2012859
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-13",
+    "price": 16.1,
+    "volume": 2836023
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-12",
+    "price": 15.74,
+    "volume": 3413886
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-11",
+    "price": 15.59,
+    "volume": 3823719
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-10",
+    "price": 15.4,
+    "volume": 5502100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-09",
+    "price": 15.57,
+    "volume": 4012317
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-06",
+    "price": 15.58,
+    "volume": 5127081
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-05",
+    "price": 15.42,
+    "volume": 3914345
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-04",
+    "price": 15.6,
+    "volume": 6632700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2023-01-03",
+    "price": 15.76,
+    "volume": 1967213
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-30",
+    "price": 15.6,
+    "volume": 1903850
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-29",
+    "price": 15.62,
+    "volume": 1923300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-28",
+    "price": 15.4,
+    "volume": 1864509
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-27",
+    "price": 15.42,
+    "volume": 1471900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-23",
+    "price": 15.54,
+    "volume": 3038224
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-22",
+    "price": 15.42,
+    "volume": 3115072
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-21",
+    "price": 15.4,
+    "volume": 1331705
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-20",
+    "price": 15.33,
+    "volume": 4403100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-19",
+    "price": 14.96,
+    "volume": 2300342
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-16",
+    "price": 15.05,
+    "volume": 5071900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-15",
+    "price": 15.14,
+    "volume": 2233100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-14",
+    "price": 15.41,
+    "volume": 4520000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-13",
+    "price": 15.24,
+    "volume": 4334631
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-12",
+    "price": 14.92,
+    "volume": 2956642
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-09",
+    "price": 14.98,
+    "volume": 2684049
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-08",
+    "price": 14.84,
+    "volume": 1819545
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-07",
+    "price": 14.69,
+    "volume": 3129800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-06",
+    "price": 14.56,
+    "volume": 2371322
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-05",
+    "price": 14.56,
+    "volume": 3447541
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-02",
+    "price": 14.82,
+    "volume": 1637936
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-12-01",
+    "price": 14.87,
+    "volume": 2225938
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-30",
+    "price": 14.73,
+    "volume": 1788503
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-29",
+    "price": 14.5,
+    "volume": 1732900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-28",
+    "price": 14.55,
+    "volume": 2223636
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-25",
+    "price": 14.58,
+    "volume": 1210400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-23",
+    "price": 14.36,
+    "volume": 1716205
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-22",
+    "price": 14.23,
+    "volume": 2074800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-21",
+    "price": 14.07,
+    "volume": 2022331
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-18",
+    "price": 14.1,
+    "volume": 2241375
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-17",
+    "price": 13.93,
+    "volume": 2121370
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-16",
+    "price": 13.77,
+    "volume": 1493502
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-15",
+    "price": 13.75,
+    "volume": 2926518
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-14",
+    "price": 13.71,
+    "volume": 3136600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-11",
+    "price": 13.85,
+    "volume": 3151100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-10",
+    "price": 13.84,
+    "volume": 3967300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-09",
+    "price": 13.22,
+    "volume": 2582600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-08",
+    "price": 13.42,
+    "volume": 2876600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-07",
+    "price": 13.32,
+    "volume": 2854900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-04",
+    "price": 13.19,
+    "volume": 2431401
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-03",
+    "price": 13.11,
+    "volume": 2232700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-02",
+    "price": 13.13,
+    "volume": 2384400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-11-01",
+    "price": 13.28,
+    "volume": 2406100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-31",
+    "price": 13.22,
+    "volume": 3099700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-28",
+    "price": 13.2,
+    "volume": 3071800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-27",
+    "price": 13.04,
+    "volume": 3636148
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-26",
+    "price": 12.97,
+    "volume": 3258900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-25",
+    "price": 12.74,
+    "volume": 2122111
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-24",
+    "price": 12.59,
+    "volume": 4411400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-21",
+    "price": 12.68,
+    "volume": 4821700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-20",
+    "price": 12.5,
+    "volume": 4517800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-19",
+    "price": 12.42,
+    "volume": 5041604
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-18",
+    "price": 12.71,
+    "volume": 4921532
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-17",
+    "price": 12.73,
+    "volume": 11432528
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-14",
+    "price": 12.87,
+    "volume": 2981200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-13",
+    "price": 12.88,
+    "volume": 2329939
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-12",
+    "price": 12.82,
+    "volume": 2047209
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-11",
+    "price": 12.81,
+    "volume": 3518510
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-10",
+    "price": 13,
+    "volume": 4078600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-07",
+    "price": 13.14,
+    "volume": 3906106
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-06",
+    "price": 13.12,
+    "volume": 3185300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-05",
+    "price": 13.45,
+    "volume": 3722259
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-04",
+    "price": 13.6,
+    "volume": 4804545
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-10-03",
+    "price": 13.05,
+    "volume": 3281524
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-30",
+    "price": 12.97,
+    "volume": 2870689
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-29",
+    "price": 12.97,
+    "volume": 2554110
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-28",
+    "price": 13.07,
+    "volume": 3655600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-27",
+    "price": 12.8,
+    "volume": 2943337
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-26",
+    "price": 12.81,
+    "volume": 3449231
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-23",
+    "price": 13,
+    "volume": 2952800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-22",
+    "price": 13.16,
+    "volume": 2708300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-21",
+    "price": 12.99,
+    "volume": 2734000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-20",
+    "price": 13.22,
+    "volume": 2720433
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-19",
+    "price": 13.4,
+    "volume": 3948700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-16",
+    "price": 13.45,
+    "volume": 2775738
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-15",
+    "price": 13.41,
+    "volume": 1733400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-14",
+    "price": 13.38,
+    "volume": 2190883
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-13",
+    "price": 13.36,
+    "volume": 2297239
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-12",
+    "price": 13.72,
+    "volume": 3372621
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-09",
+    "price": 13.72,
+    "volume": 1530915
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-08",
+    "price": 13.5,
+    "volume": 2578700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-07",
+    "price": 13.31,
+    "volume": 4582000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-06",
+    "price": 13.37,
+    "volume": 3267006
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-02",
+    "price": 13.58,
+    "volume": 1828819
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-09-01",
+    "price": 13.74,
+    "volume": 1543500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-31",
+    "price": 13.75,
+    "volume": 1547807
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-30",
+    "price": 13.82,
+    "volume": 1863205
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-29",
+    "price": 13.77,
+    "volume": 2393900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-26",
+    "price": 13.71,
+    "volume": 2076200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-25",
+    "price": 14.02,
+    "volume": 2294307
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-24",
+    "price": 13.91,
+    "volume": 1129900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-23",
+    "price": 13.92,
+    "volume": 2242114
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-22",
+    "price": 13.82,
+    "volume": 1927200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-19",
+    "price": 13.9,
+    "volume": 1684836
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-18",
+    "price": 14.18,
+    "volume": 2184300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-17",
+    "price": 14.2,
+    "volume": 2415005
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-16",
+    "price": 14.17,
+    "volume": 1542805
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-15",
+    "price": 14.24,
+    "volume": 1236530
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-12",
+    "price": 14.25,
+    "volume": 1384900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-11",
+    "price": 14.12,
+    "volume": 2077800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-10",
+    "price": 14.22,
+    "volume": 2491523
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-09",
+    "price": 13.82,
+    "volume": 1706638
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-08",
+    "price": 13.94,
+    "volume": 2127600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-05",
+    "price": 13.84,
+    "volume": 1638400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-04",
+    "price": 13.93,
+    "volume": 1709300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-03",
+    "price": 13.89,
+    "volume": 2478606
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-02",
+    "price": 13.98,
+    "volume": 3426800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-08-01",
+    "price": 14.32,
+    "volume": 3525114
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-29",
+    "price": 14.61,
+    "volume": 2551020
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-28",
+    "price": 14.81,
+    "volume": 2382511
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-27",
+    "price": 14.69,
+    "volume": 3439637
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-26",
+    "price": 14.55,
+    "volume": 3049542
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-25",
+    "price": 14.63,
+    "volume": 1958430
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-22",
+    "price": 14.61,
+    "volume": 1733129
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-21",
+    "price": 14.71,
+    "volume": 3181300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-20",
+    "price": 14.48,
+    "volume": 3651943
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-19",
+    "price": 14.66,
+    "volume": 4024400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-18",
+    "price": 14.41,
+    "volume": 3775760
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-15",
+    "price": 14.48,
+    "volume": 2685500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-14",
+    "price": 14.14,
+    "volume": 2779049
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-13",
+    "price": 14.23,
+    "volume": 3431300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-12",
+    "price": 14.41,
+    "volume": 3151500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-11",
+    "price": 14.42,
+    "volume": 1372763
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-08",
+    "price": 14.4,
+    "volume": 1598741
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-07",
+    "price": 14.48,
+    "volume": 1497100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-06",
+    "price": 14.28,
+    "volume": 1578208
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-05",
+    "price": 14.16,
+    "volume": 1818348
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-07-01",
+    "price": 14.09,
+    "volume": 2174812
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-30",
+    "price": 14.04,
+    "volume": 2396200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-29",
+    "price": 13.85,
+    "volume": 1640700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-28",
+    "price": 13.86,
+    "volume": 1938816
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-27",
+    "price": 14.06,
+    "volume": 3430324
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-24",
+    "price": 13.84,
+    "volume": 2986650
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-23",
+    "price": 13.73,
+    "volume": 2111600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-22",
+    "price": 13.65,
+    "volume": 3634143
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-21",
+    "price": 13.36,
+    "volume": 2270050
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-17",
+    "price": 13.12,
+    "volume": 3537315
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-16",
+    "price": 13.33,
+    "volume": 4191830
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-15",
+    "price": 13.29,
+    "volume": 3275813
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-14",
+    "price": 13.24,
+    "volume": 5233110
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-13",
+    "price": 13.17,
+    "volume": 3452200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-10",
+    "price": 13.39,
+    "volume": 3192609
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-09",
+    "price": 13.53,
+    "volume": 2365700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-08",
+    "price": 13.56,
+    "volume": 2517559
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-07",
+    "price": 13.77,
+    "volume": 1566237
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-06",
+    "price": 13.82,
+    "volume": 2324244
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-03",
+    "price": 13.81,
+    "volume": 1988609
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-02",
+    "price": 13.94,
+    "volume": 2582000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-06-01",
+    "price": 14.18,
+    "volume": 2275845
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-31",
+    "price": 14.41,
+    "volume": 2529704
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-27",
+    "price": 14.77,
+    "volume": 1400500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-26",
+    "price": 14.84,
+    "volume": 1921900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-25",
+    "price": 14.91,
+    "volume": 1455721
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-24",
+    "price": 14.94,
+    "volume": 1892500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-23",
+    "price": 14.98,
+    "volume": 2750800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-20",
+    "price": 14.72,
+    "volume": 4158220
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-19",
+    "price": 14.58,
+    "volume": 5296110
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-18",
+    "price": 14.16,
+    "volume": 2111400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-17",
+    "price": 14.31,
+    "volume": 2766214
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-16",
+    "price": 14.28,
+    "volume": 2610915
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-13",
+    "price": 14.35,
+    "volume": 2355800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-12",
+    "price": 14.26,
+    "volume": 3737910
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-11",
+    "price": 13.93,
+    "volume": 2415515
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-10",
+    "price": 14.52,
+    "volume": 3093511
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-09",
+    "price": 14.33,
+    "volume": 4900788
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-06",
+    "price": 14.64,
+    "volume": 3893903
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-05",
+    "price": 14.46,
+    "volume": 1840500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-04",
+    "price": 14.76,
+    "volume": 2438578
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-03",
+    "price": 14.56,
+    "volume": 1836900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-05-02",
+    "price": 14.49,
+    "volume": 2152046
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-29",
+    "price": 14.54,
+    "volume": 2195833
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-28",
+    "price": 14.59,
+    "volume": 1807170
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-27",
+    "price": 14.43,
+    "volume": 1469122
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-26",
+    "price": 14.33,
+    "volume": 1430723
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-25",
+    "price": 14.57,
+    "volume": 2312301
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-22",
+    "price": 14.39,
+    "volume": 2937226
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-21",
+    "price": 14.55,
+    "volume": 1750300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-20",
+    "price": 14.68,
+    "volume": 1780024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-19",
+    "price": 14.5,
+    "volume": 2261707
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-18",
+    "price": 14.7,
+    "volume": 2352600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-14",
+    "price": 14.91,
+    "volume": 2273621
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-13",
+    "price": 15,
+    "volume": 1527600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-12",
+    "price": 14.76,
+    "volume": 2329102
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-11",
+    "price": 14.81,
+    "volume": 2847130
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-08",
+    "price": 15.03,
+    "volume": 4502965
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-07",
+    "price": 14.91,
+    "volume": 4070203
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-06",
+    "price": 14.67,
+    "volume": 3970008
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-05",
+    "price": 14.65,
+    "volume": 3145828
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-04",
+    "price": 14.75,
+    "volume": 3047828
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-04-01",
+    "price": 14.51,
+    "volume": 2276200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-31",
+    "price": 14.32,
+    "volume": 2083844
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-30",
+    "price": 14.43,
+    "volume": 2124900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-29",
+    "price": 14.85,
+    "volume": 2570415
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-28",
+    "price": 14.52,
+    "volume": 3355329
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-25",
+    "price": 14.93,
+    "volume": 2540700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-24",
+    "price": 14.96,
+    "volume": 1984449
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-23",
+    "price": 14.98,
+    "volume": 2990200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-22",
+    "price": 14.97,
+    "volume": 1410400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-21",
+    "price": 15.12,
+    "volume": 2106147
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-18",
+    "price": 15.1,
+    "volume": 1584134
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-17",
+    "price": 15.01,
+    "volume": 3047820
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-16",
+    "price": 15.02,
+    "volume": 2612500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-15",
+    "price": 14.49,
+    "volume": 1668900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-14",
+    "price": 14.43,
+    "volume": 2271316
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-11",
+    "price": 14.43,
+    "volume": 2164127
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-10",
+    "price": 14.5,
+    "volume": 3894215
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-09",
+    "price": 14.4,
+    "volume": 2108574
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-08",
+    "price": 14.33,
+    "volume": 2706000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-07",
+    "price": 14.82,
+    "volume": 2339800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-04",
+    "price": 15.05,
+    "volume": 2309891
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-03",
+    "price": 15.03,
+    "volume": 3920900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-02",
+    "price": 15.1,
+    "volume": 2253400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-03-01",
+    "price": 15.06,
+    "volume": 1332003
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-28",
+    "price": 15.2,
+    "volume": 2811128
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-25",
+    "price": 15.03,
+    "volume": 2302900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-24",
+    "price": 14.91,
+    "volume": 2230300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-23",
+    "price": 15,
+    "volume": 1153300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-22",
+    "price": 15.02,
+    "volume": 1316322
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-18",
+    "price": 15.35,
+    "volume": 1730400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-17",
+    "price": 15.26,
+    "volume": 1536500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-16",
+    "price": 15.26,
+    "volume": 1384826
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-15",
+    "price": 15.19,
+    "volume": 1631000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-14",
+    "price": 15.06,
+    "volume": 2464900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-11",
+    "price": 14.98,
+    "volume": 2622400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-10",
+    "price": 15.02,
+    "volume": 2109500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-09",
+    "price": 15.03,
+    "volume": 2100500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-08",
+    "price": 15.09,
+    "volume": 2970326
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-07",
+    "price": 14.93,
+    "volume": 2040900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-04",
+    "price": 14.7,
+    "volume": 2946600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-03",
+    "price": 14.44,
+    "volume": 2458400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-02",
+    "price": 14.62,
+    "volume": 3318667
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-02-01",
+    "price": 14.58,
+    "volume": 2634809
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-31",
+    "price": 14.46,
+    "volume": 2292037
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-28",
+    "price": 14.4,
+    "volume": 3470536
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-27",
+    "price": 14.42,
+    "volume": 4716004
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-26",
+    "price": 14.3,
+    "volume": 4418200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-25",
+    "price": 14.52,
+    "volume": 5351532
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-24",
+    "price": 14.48,
+    "volume": 5381625
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-21",
+    "price": 14.66,
+    "volume": 7850000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-20",
+    "price": 14.4,
+    "volume": 7842629
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-19",
+    "price": 14.37,
+    "volume": 1981533
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-18",
+    "price": 14.55,
+    "volume": 2281243
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-14",
+    "price": 14.75,
+    "volume": 2151559
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-13",
+    "price": 14.56,
+    "volume": 2269837
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-12",
+    "price": 14.65,
+    "volume": 2779733
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-11",
+    "price": 14.31,
+    "volume": 3174616
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-10",
+    "price": 14.24,
+    "volume": 5550731
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-07",
+    "price": 13.91,
+    "volume": 3210900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-06",
+    "price": 13.74,
+    "volume": 4997081
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-05",
+    "price": 13.54,
+    "volume": 4737724
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-04",
+    "price": 13.76,
+    "volume": 3389500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2022-01-03",
+    "price": 13.79,
+    "volume": 3058794
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-31",
+    "price": 13.63,
+    "volume": 1559910
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-30",
+    "price": 13.58,
+    "volume": 2063740
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-29",
+    "price": 13.69,
+    "volume": 1881700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-28",
+    "price": 13.61,
+    "volume": 1683800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-27",
+    "price": 13.72,
+    "volume": 2019991
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-23",
+    "price": 13.77,
+    "volume": 1378200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-22",
+    "price": 13.71,
+    "volume": 2619028
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-21",
+    "price": 13.87,
+    "volume": 1802351
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-20",
+    "price": 13.9,
+    "volume": 2707301
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-17",
+    "price": 13.74,
+    "volume": 3120762
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-16",
+    "price": 13.69,
+    "volume": 2201342
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-15",
+    "price": 13.62,
+    "volume": 1721037
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-14",
+    "price": 13.57,
+    "volume": 1983800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-13",
+    "price": 13.5,
+    "volume": 1985700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-10",
+    "price": 13.52,
+    "volume": 2055000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-09",
+    "price": 13.54,
+    "volume": 4088599
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-08",
+    "price": 13.81,
+    "volume": 1840946
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-07",
+    "price": 13.86,
+    "volume": 4809429
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-06",
+    "price": 13.62,
+    "volume": 2809849
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-03",
+    "price": 13.49,
+    "volume": 2182476
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-02",
+    "price": 13.37,
+    "volume": 3169543
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-12-01",
+    "price": 13.17,
+    "volume": 3048091
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-30",
+    "price": 13.35,
+    "volume": 3572700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-29",
+    "price": 13.49,
+    "volume": 2917692
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-26",
+    "price": 13.53,
+    "volume": 4098748
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-24",
+    "price": 13.65,
+    "volume": 3045247
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-23",
+    "price": 13.79,
+    "volume": 2263700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-22",
+    "price": 13.81,
+    "volume": 2292625
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-19",
+    "price": 14.01,
+    "volume": 2409618
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-18",
+    "price": 14.08,
+    "volume": 2402900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-17",
+    "price": 14.05,
+    "volume": 2308500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-16",
+    "price": 14.11,
+    "volume": 4174400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-15",
+    "price": 14.41,
+    "volume": 1887738
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-12",
+    "price": 14.42,
+    "volume": 1708500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-11",
+    "price": 14.19,
+    "volume": 938345
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-10",
+    "price": 14.23,
+    "volume": 1776823
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-09",
+    "price": 14.46,
+    "volume": 1486448
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-08",
+    "price": 14.39,
+    "volume": 1712400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-05",
+    "price": 14.25,
+    "volume": 1487000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-04",
+    "price": 14.4,
+    "volume": 3452195
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-03",
+    "price": 14.26,
+    "volume": 1991361
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-02",
+    "price": 14.21,
+    "volume": 1669200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-11-01",
+    "price": 14.27,
+    "volume": 2368900
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-29",
+    "price": 14.02,
+    "volume": 2128638
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-28",
+    "price": 14.11,
+    "volume": 4432104
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-27",
+    "price": 13.82,
+    "volume": 1919000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-26",
+    "price": 13.86,
+    "volume": 2002300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-25",
+    "price": 14.03,
+    "volume": 1747149
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-22",
+    "price": 14.07,
+    "volume": 1497000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-21",
+    "price": 14.02,
+    "volume": 1538989
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-20",
+    "price": 14.14,
+    "volume": 1959619
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-19",
+    "price": 14.1,
+    "volume": 2184804
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-18",
+    "price": 13.96,
+    "volume": 2777959
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-15",
+    "price": 14.1,
+    "volume": 4040423
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-14",
+    "price": 14.19,
+    "volume": 2241006
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-13",
+    "price": 14.16,
+    "volume": 4422843
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-12",
+    "price": 14.1,
+    "volume": 4563378
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-11",
+    "price": 14.22,
+    "volume": 2700800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-08",
+    "price": 14.25,
+    "volume": 3659500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-07",
+    "price": 14.37,
+    "volume": 6809000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-06",
+    "price": 14.31,
+    "volume": 12057700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-05",
+    "price": 16.08,
+    "volume": 2133820
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-04",
+    "price": 16.12,
+    "volume": 2186926
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-10-01",
+    "price": 16.4,
+    "volume": 2105856
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-30",
+    "price": 16.38,
+    "volume": 3260356
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-29",
+    "price": 16.31,
+    "volume": 2160314
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-28",
+    "price": 16.6,
+    "volume": 1366628
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-27",
+    "price": 17.01,
+    "volume": 1013513
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-24",
+    "price": 16.89,
+    "volume": 1699634
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-23",
+    "price": 17.15,
+    "volume": 751949
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-22",
+    "price": 17,
+    "volume": 1503214
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-21",
+    "price": 17.22,
+    "volume": 1883317
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-20",
+    "price": 17.06,
+    "volume": 1973442
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-17",
+    "price": 17.15,
+    "volume": 2684199
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-16",
+    "price": 17.2,
+    "volume": 2285432
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-15",
+    "price": 17,
+    "volume": 2587300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-14",
+    "price": 16.75,
+    "volume": 1104059
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-13",
+    "price": 16.98,
+    "volume": 1458100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-10",
+    "price": 16.89,
+    "volume": 1525866
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-09",
+    "price": 16.98,
+    "volume": 1863242
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-08",
+    "price": 17.14,
+    "volume": 2143739
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-07",
+    "price": 17.07,
+    "volume": 1541879
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-03",
+    "price": 16.97,
+    "volume": 1289500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-02",
+    "price": 16.72,
+    "volume": 1390226
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-09-01",
+    "price": 16.91,
+    "volume": 1554242
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-31",
+    "price": 16.59,
+    "volume": 1476300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-30",
+    "price": 16.55,
+    "volume": 1206400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-27",
+    "price": 16.63,
+    "volume": 1382721
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-26",
+    "price": 16.7,
+    "volume": 1684024
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-25",
+    "price": 16.82,
+    "volume": 1065317
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-24",
+    "price": 16.86,
+    "volume": 1378364
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-23",
+    "price": 16.99,
+    "volume": 1234029
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-20",
+    "price": 16.68,
+    "volume": 966440
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-19",
+    "price": 16.59,
+    "volume": 1583100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-18",
+    "price": 16.53,
+    "volume": 1081000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-17",
+    "price": 16.66,
+    "volume": 2130316
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-16",
+    "price": 16.63,
+    "volume": 2135736
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-13",
+    "price": 16.75,
+    "volume": 1518129
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-12",
+    "price": 16.56,
+    "volume": 1257648
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-11",
+    "price": 16.5,
+    "volume": 2755405
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-10",
+    "price": 16.35,
+    "volume": 1824542
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-09",
+    "price": 16.42,
+    "volume": 1349533
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-06",
+    "price": 16.3,
+    "volume": 1311118
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-05",
+    "price": 16.59,
+    "volume": 1076870
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-04",
+    "price": 16.5,
+    "volume": 1981823
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-03",
+    "price": 16.63,
+    "volume": 2358741
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-08-02",
+    "price": 16.74,
+    "volume": 2548400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-30",
+    "price": 16.5,
+    "volume": 3076039
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-29",
+    "price": 16.93,
+    "volume": 2698940
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-28",
+    "price": 17.13,
+    "volume": 2460400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-27",
+    "price": 16.77,
+    "volume": 1359600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-26",
+    "price": 16.84,
+    "volume": 2129800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-23",
+    "price": 16.86,
+    "volume": 914041
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-22",
+    "price": 16.81,
+    "volume": 1032715
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-21",
+    "price": 16.85,
+    "volume": 1480721
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-20",
+    "price": 17.01,
+    "volume": 1860899
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-19",
+    "price": 16.88,
+    "volume": 1871300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-16",
+    "price": 17.01,
+    "volume": 1324200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-15",
+    "price": 17.02,
+    "volume": 1426600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-14",
+    "price": 17.26,
+    "volume": 2263400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-13",
+    "price": 16.76,
+    "volume": 1583735
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-12",
+    "price": 16.69,
+    "volume": 1071107
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-09",
+    "price": 16.74,
+    "volume": 1519300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-08",
+    "price": 16.46,
+    "volume": 1378338
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-07",
+    "price": 16.63,
+    "volume": 930711
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-06",
+    "price": 16.54,
+    "volume": 1326033
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-02",
+    "price": 16.87,
+    "volume": 1529400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-07-01",
+    "price": 16.9,
+    "volume": 1694300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-30",
+    "price": 16.83,
+    "volume": 2176139
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-29",
+    "price": 16.83,
+    "volume": 2617300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-28",
+    "price": 16.89,
+    "volume": 1446100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-25",
+    "price": 16.93,
+    "volume": 750420
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-24",
+    "price": 16.89,
+    "volume": 2092825
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-23",
+    "price": 16.69,
+    "volume": 2528630
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-22",
+    "price": 16.86,
+    "volume": 2034800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-21",
+    "price": 16.73,
+    "volume": 2594988
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-18",
+    "price": 16.55,
+    "volume": 4901241
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-17",
+    "price": 16.91,
+    "volume": 3346600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-16",
+    "price": 17.05,
+    "volume": 3245667
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-15",
+    "price": 17.21,
+    "volume": 2122149
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-14",
+    "price": 17.13,
+    "volume": 1886911
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-11",
+    "price": 17.21,
+    "volume": 1256300
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-10",
+    "price": 17.36,
+    "volume": 1625200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-09",
+    "price": 17.07,
+    "volume": 1966579
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-08",
+    "price": 16.78,
+    "volume": 1530500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-07",
+    "price": 16.85,
+    "volume": 1296915
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-04",
+    "price": 16.72,
+    "volume": 2276205
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-03",
+    "price": 16.61,
+    "volume": 2479123
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-02",
+    "price": 16.63,
+    "volume": 4232273
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-06-01",
+    "price": 16.67,
+    "volume": 2496876
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-28",
+    "price": 17.09,
+    "volume": 1232220
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-27",
+    "price": 17.26,
+    "volume": 2320839
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-26",
+    "price": 17.21,
+    "volume": 1975800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-25",
+    "price": 17.12,
+    "volume": 2366379
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-24",
+    "price": 17.28,
+    "volume": 1472200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-21",
+    "price": 17.42,
+    "volume": 2942800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-20",
+    "price": 17.32,
+    "volume": 2257811
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-19",
+    "price": 17.14,
+    "volume": 3002000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-18",
+    "price": 17.24,
+    "volume": 1427771
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-17",
+    "price": 17.2,
+    "volume": 1487044
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-14",
+    "price": 17.12,
+    "volume": 1867912
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-13",
+    "price": 16.94,
+    "volume": 2573925
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-12",
+    "price": 16.84,
+    "volume": 2097951
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-11",
+    "price": 16.71,
+    "volume": 2731813
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-10",
+    "price": 16.96,
+    "volume": 3211128
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-07",
+    "price": 16.87,
+    "volume": 2418011
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-06",
+    "price": 16.62,
+    "volume": 3357400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-05",
+    "price": 16.6,
+    "volume": 1714810
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-04",
+    "price": 16.61,
+    "volume": 1371278
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-05-03",
+    "price": 16.84,
+    "volume": 2081919
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-30",
+    "price": 16.7,
+    "volume": 2159790
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-29",
+    "price": 16.69,
+    "volume": 1828601
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-28",
+    "price": 16.78,
+    "volume": 1702732
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-27",
+    "price": 16.86,
+    "volume": 1692492
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-26",
+    "price": 17.01,
+    "volume": 2036203
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-23",
+    "price": 17.06,
+    "volume": 2025567
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-22",
+    "price": 17.02,
+    "volume": 2024032
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-21",
+    "price": 16.92,
+    "volume": 2547311
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-20",
+    "price": 16.84,
+    "volume": 2369912
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-19",
+    "price": 16.96,
+    "volume": 2406800
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-16",
+    "price": 17.08,
+    "volume": 2174100
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-15",
+    "price": 17.2,
+    "volume": 3438688
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-14",
+    "price": 17.06,
+    "volume": 2291814
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-13",
+    "price": 17,
+    "volume": 2306753
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-12",
+    "price": 17.15,
+    "volume": 1762700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-09",
+    "price": 17.25,
+    "volume": 1928290
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-08",
+    "price": 17.05,
+    "volume": 5030118
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-07",
+    "price": 17.34,
+    "volume": 4837200
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-06",
+    "price": 17.85,
+    "volume": 3843700
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-05",
+    "price": 18.2,
+    "volume": 2338549
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-04-01",
+    "price": 18.64,
+    "volume": 2799801
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-31",
+    "price": 18.26,
+    "volume": 3465714
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-30",
+    "price": 18.35,
+    "volume": 2432828
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-29",
+    "price": 18.78,
+    "volume": 3248518
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-26",
+    "price": 19.18,
+    "volume": 2014216
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-25",
+    "price": 19.23,
+    "volume": 2056867
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-24",
+    "price": 19.26,
+    "volume": 2472181
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-23",
+    "price": 19.37,
+    "volume": 3035637
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-22",
+    "price": 19.9,
+    "volume": 2061842
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-19",
+    "price": 19.81,
+    "volume": 5191746
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-18",
+    "price": 19.3,
+    "volume": 2112889
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-17",
+    "price": 19.52,
+    "volume": 3166814
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-16",
+    "price": 18.91,
+    "volume": 2533500
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-15",
+    "price": 18.87,
+    "volume": 2233053
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-12",
+    "price": 18.44,
+    "volume": 1296285
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-11",
+    "price": 18.53,
+    "volume": 1912690
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-10",
+    "price": 18.53,
+    "volume": 2514600
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-09",
+    "price": 18.22,
+    "volume": 2935409
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-08",
+    "price": 18.1,
+    "volume": 3950657
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-05",
+    "price": 17.47,
+    "volume": 3246189
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-04",
+    "price": 17.44,
+    "volume": 5281211
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-03",
+    "price": 17.71,
+    "volume": 5169400
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-02",
+    "price": 17.24,
+    "volume": 3810000
+  },
+  {
+    "symbol": "TAK",
+    "date": "2021-03-01",
+    "price": 16.98,
+    "volume": 3582234
+  }
+]

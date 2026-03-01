@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "USNA",
+    "date": "2026-02-27",
+    "price": 21.52,
+    "volume": 165500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-26",
+    "price": 21.16,
+    "volume": 95100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-25",
+    "price": 21.26,
+    "volume": 104300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-24",
+    "price": 21.66,
+    "volume": 154000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-23",
+    "price": 21.82,
+    "volume": 187800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-20",
+    "price": 21.67,
+    "volume": 222600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-19",
+    "price": 20.55,
+    "volume": 168203
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-18",
+    "price": 19,
+    "volume": 234509
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-17",
+    "price": 20.66,
+    "volume": 104500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-13",
+    "price": 20.9,
+    "volume": 93946
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-12",
+    "price": 20.96,
+    "volume": 104500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-11",
+    "price": 21.14,
+    "volume": 94719
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-10",
+    "price": 21.43,
+    "volume": 94100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-09",
+    "price": 21.2,
+    "volume": 100101
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-06",
+    "price": 21.34,
+    "volume": 77000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-05",
+    "price": 20.81,
+    "volume": 88902
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-04",
+    "price": 20.9,
+    "volume": 93100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-03",
+    "price": 20.44,
+    "volume": 103648
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-02-02",
+    "price": 21.66,
+    "volume": 85418
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-30",
+    "price": 21.7,
+    "volume": 107046
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-29",
+    "price": 21.68,
+    "volume": 93415
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-28",
+    "price": 21.37,
+    "volume": 144438
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-27",
+    "price": 22.14,
+    "volume": 119000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-26",
+    "price": 22.22,
+    "volume": 98900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-23",
+    "price": 22.53,
+    "volume": 112336
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-22",
+    "price": 22.51,
+    "volume": 113602
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-21",
+    "price": 22.24,
+    "volume": 116848
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-20",
+    "price": 21.97,
+    "volume": 130201
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-16",
+    "price": 21.93,
+    "volume": 133740
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-15",
+    "price": 21.6,
+    "volume": 175759
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-14",
+    "price": 20.48,
+    "volume": 174046
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-13",
+    "price": 20.31,
+    "volume": 102031
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-12",
+    "price": 20.6,
+    "volume": 162034
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-09",
+    "price": 19.85,
+    "volume": 107849
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-08",
+    "price": 20.01,
+    "volume": 117607
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-07",
+    "price": 19.57,
+    "volume": 97735
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-06",
+    "price": 19.49,
+    "volume": 120400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-05",
+    "price": 19.01,
+    "volume": 142700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-01-02",
+    "price": 19.44,
+    "volume": 96100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-31",
+    "price": 19.63,
+    "volume": 94700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-30",
+    "price": 19.89,
+    "volume": 84200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-29",
+    "price": 19.73,
+    "volume": 92948
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-26",
+    "price": 19.84,
+    "volume": 100500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-24",
+    "price": 20,
+    "volume": 79937
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-23",
+    "price": 19.6,
+    "volume": 161530
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-22",
+    "price": 19.69,
+    "volume": 131500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-19",
+    "price": 19.92,
+    "volume": 444500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-18",
+    "price": 20.35,
+    "volume": 140300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-17",
+    "price": 20.48,
+    "volume": 145720
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-16",
+    "price": 20.33,
+    "volume": 110746
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-15",
+    "price": 20.32,
+    "volume": 139938
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-12",
+    "price": 20.43,
+    "volume": 95200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-11",
+    "price": 20.49,
+    "volume": 115410
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-10",
+    "price": 20.87,
+    "volume": 277000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-09",
+    "price": 20.06,
+    "volume": 109541
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-08",
+    "price": 19.41,
+    "volume": 123841
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-05",
+    "price": 19.87,
+    "volume": 105936
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-04",
+    "price": 19.61,
+    "volume": 137437
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-03",
+    "price": 20.21,
+    "volume": 122264
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-02",
+    "price": 19.82,
+    "volume": 141500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-12-01",
+    "price": 19.6,
+    "volume": 172800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-28",
+    "price": 19.85,
+    "volume": 85200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-26",
+    "price": 20.03,
+    "volume": 148900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-25",
+    "price": 19.8,
+    "volume": 169216
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-24",
+    "price": 19.56,
+    "volume": 446714
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-21",
+    "price": 19.65,
+    "volume": 226700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-20",
+    "price": 18.67,
+    "volume": 195418
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-19",
+    "price": 18.71,
+    "volume": 227317
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-18",
+    "price": 18.76,
+    "volume": 242000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-17",
+    "price": 18.92,
+    "volume": 175349
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-14",
+    "price": 19.19,
+    "volume": 143500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-13",
+    "price": 19.37,
+    "volume": 165100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-12",
+    "price": 19.38,
+    "volume": 198037
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-11",
+    "price": 19.01,
+    "volume": 202100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-10",
+    "price": 19.18,
+    "volume": 195618
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-07",
+    "price": 19.13,
+    "volume": 303800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-06",
+    "price": 19.16,
+    "volume": 318500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-05",
+    "price": 20.41,
+    "volume": 194600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-04",
+    "price": 20.55,
+    "volume": 324825
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-11-03",
+    "price": 21.25,
+    "volume": 284742
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-31",
+    "price": 21.15,
+    "volume": 520700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-30",
+    "price": 19.74,
+    "volume": 2348502
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-29",
+    "price": 19.61,
+    "volume": 430808
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-28",
+    "price": 20.33,
+    "volume": 539900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-27",
+    "price": 20.1,
+    "volume": 421800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-24",
+    "price": 20.8,
+    "volume": 230457
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-23",
+    "price": 20.63,
+    "volume": 336000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-22",
+    "price": 20.91,
+    "volume": 280592
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-21",
+    "price": 21.03,
+    "volume": 204100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-20",
+    "price": 20.68,
+    "volume": 265103
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-17",
+    "price": 20.89,
+    "volume": 217100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-16",
+    "price": 21.07,
+    "volume": 298700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-15",
+    "price": 20.51,
+    "volume": 214929
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-14",
+    "price": 21.21,
+    "volume": 281164
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-13",
+    "price": 20.53,
+    "volume": 351902
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-10",
+    "price": 20.26,
+    "volume": 698526
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-09",
+    "price": 26.24,
+    "volume": 112506
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-08",
+    "price": 26.51,
+    "volume": 113406
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-07",
+    "price": 26.33,
+    "volume": 142510
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-06",
+    "price": 26.58,
+    "volume": 123430
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-03",
+    "price": 27.16,
+    "volume": 106632
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-02",
+    "price": 27.44,
+    "volume": 106121
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-01",
+    "price": 27.27,
+    "volume": 128822
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-30",
+    "price": 27.55,
+    "volume": 141232
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-29",
+    "price": 27.66,
+    "volume": 112512
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-26",
+    "price": 28.53,
+    "volume": 124830
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-25",
+    "price": 28.29,
+    "volume": 108800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-24",
+    "price": 28.91,
+    "volume": 113800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-23",
+    "price": 29.03,
+    "volume": 128331
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-22",
+    "price": 29.69,
+    "volume": 162919
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-19",
+    "price": 29.74,
+    "volume": 371107
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-18",
+    "price": 30.84,
+    "volume": 109835
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-17",
+    "price": 30.18,
+    "volume": 117116
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-16",
+    "price": 30.57,
+    "volume": 109330
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-15",
+    "price": 29.91,
+    "volume": 161300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-12",
+    "price": 30.51,
+    "volume": 132500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-11",
+    "price": 30.86,
+    "volume": 183547
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-10",
+    "price": 30.14,
+    "volume": 183400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-09",
+    "price": 30.36,
+    "volume": 98300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-08",
+    "price": 30.93,
+    "volume": 152500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-05",
+    "price": 31.82,
+    "volume": 234200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-04",
+    "price": 31.77,
+    "volume": 72800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-03",
+    "price": 31.68,
+    "volume": 101400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-09-02",
+    "price": 31.68,
+    "volume": 109700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-29",
+    "price": 31.91,
+    "volume": 77300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-28",
+    "price": 31.38,
+    "volume": 111800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-27",
+    "price": 32.11,
+    "volume": 76709
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-26",
+    "price": 31.7,
+    "volume": 106800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-25",
+    "price": 31.79,
+    "volume": 77600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-22",
+    "price": 32.24,
+    "volume": 121426
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-21",
+    "price": 30.63,
+    "volume": 98100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-20",
+    "price": 31.12,
+    "volume": 101200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-19",
+    "price": 30.95,
+    "volume": 65500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-18",
+    "price": 30.32,
+    "volume": 82336
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-15",
+    "price": 30.4,
+    "volume": 100923
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-14",
+    "price": 30.53,
+    "volume": 83600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-13",
+    "price": 31.29,
+    "volume": 124000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-12",
+    "price": 30.07,
+    "volume": 111218
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-11",
+    "price": 29.32,
+    "volume": 99200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-08",
+    "price": 28.85,
+    "volume": 93500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-07",
+    "price": 28.99,
+    "volume": 101800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-06",
+    "price": 29.04,
+    "volume": 105035
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-05",
+    "price": 28.86,
+    "volume": 127448
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-04",
+    "price": 29.1,
+    "volume": 100500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-08-01",
+    "price": 28.86,
+    "volume": 167900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-31",
+    "price": 29.39,
+    "volume": 158400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-30",
+    "price": 29.52,
+    "volume": 126427
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-29",
+    "price": 30.26,
+    "volume": 105500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-28",
+    "price": 31.44,
+    "volume": 134000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-25",
+    "price": 31.95,
+    "volume": 175700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-24",
+    "price": 32.09,
+    "volume": 218559
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-23",
+    "price": 35.43,
+    "volume": 370905
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-22",
+    "price": 31.53,
+    "volume": 155200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-21",
+    "price": 30.29,
+    "volume": 106900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-18",
+    "price": 30.35,
+    "volume": 110300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-17",
+    "price": 30.63,
+    "volume": 123032
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-16",
+    "price": 31.33,
+    "volume": 95700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-15",
+    "price": 31.32,
+    "volume": 147300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-14",
+    "price": 32.59,
+    "volume": 121913
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-11",
+    "price": 32.99,
+    "volume": 105600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-10",
+    "price": 33.41,
+    "volume": 104000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-09",
+    "price": 32.74,
+    "volume": 89600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-08",
+    "price": 32.71,
+    "volume": 116149
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-07",
+    "price": 32.13,
+    "volume": 124072
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-03",
+    "price": 32.77,
+    "volume": 55638
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-02",
+    "price": 32.45,
+    "volume": 98809
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-07-01",
+    "price": 31.88,
+    "volume": 153539
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-30",
+    "price": 30.53,
+    "volume": 142100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-27",
+    "price": 31.13,
+    "volume": 307912
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-26",
+    "price": 30.87,
+    "volume": 145337
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-25",
+    "price": 30.85,
+    "volume": 138000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-24",
+    "price": 30.71,
+    "volume": 232500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-23",
+    "price": 30.35,
+    "volume": 187103
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-20",
+    "price": 30.55,
+    "volume": 291825
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-18",
+    "price": 30.44,
+    "volume": 190943
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-17",
+    "price": 30.45,
+    "volume": 202107
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-16",
+    "price": 30.85,
+    "volume": 142111
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-13",
+    "price": 29.55,
+    "volume": 171600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-12",
+    "price": 29.78,
+    "volume": 84621
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-11",
+    "price": 29.85,
+    "volume": 112500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-10",
+    "price": 30.86,
+    "volume": 141500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-09",
+    "price": 29.81,
+    "volume": 136200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-06",
+    "price": 29.38,
+    "volume": 115731
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-05",
+    "price": 29.07,
+    "volume": 104049
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-04",
+    "price": 29.74,
+    "volume": 105401
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-03",
+    "price": 29.85,
+    "volume": 127300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-06-02",
+    "price": 29.23,
+    "volume": 162600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-30",
+    "price": 29.87,
+    "volume": 184204
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-29",
+    "price": 30.17,
+    "volume": 114018
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-28",
+    "price": 29.7,
+    "volume": 115918
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-27",
+    "price": 30.39,
+    "volume": 118900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-23",
+    "price": 29.42,
+    "volume": 125500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-22",
+    "price": 30.06,
+    "volume": 125600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-21",
+    "price": 29.76,
+    "volume": 164900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-20",
+    "price": 30.03,
+    "volume": 165344
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-19",
+    "price": 30.07,
+    "volume": 129315
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-16",
+    "price": 30.27,
+    "volume": 154400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-15",
+    "price": 30.01,
+    "volume": 193500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-14",
+    "price": 29.21,
+    "volume": 252018
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-13",
+    "price": 29.74,
+    "volume": 247300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-12",
+    "price": 30.02,
+    "volume": 241606
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-09",
+    "price": 29.5,
+    "volume": 255340
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-08",
+    "price": 29.18,
+    "volume": 230210
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-07",
+    "price": 28.38,
+    "volume": 249200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-06",
+    "price": 28.47,
+    "volume": 225300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-05",
+    "price": 28.93,
+    "volume": 268546
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-02",
+    "price": 29.44,
+    "volume": 200746
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-05-01",
+    "price": 28.04,
+    "volume": 223400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-30",
+    "price": 28.09,
+    "volume": 241200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-29",
+    "price": 27.89,
+    "volume": 220214
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-28",
+    "price": 27.54,
+    "volume": 223722
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-25",
+    "price": 27.18,
+    "volume": 295900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-24",
+    "price": 27.1,
+    "volume": 306400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-23",
+    "price": 25.43,
+    "volume": 281900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-22",
+    "price": 24.24,
+    "volume": 224600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-21",
+    "price": 23.83,
+    "volume": 233000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-17",
+    "price": 23.74,
+    "volume": 261409
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-16",
+    "price": 23.43,
+    "volume": 188600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-15",
+    "price": 24.01,
+    "volume": 176045
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-14",
+    "price": 24.49,
+    "volume": 180137
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-11",
+    "price": 24.74,
+    "volume": 206500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-10",
+    "price": 24.74,
+    "volume": 262000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-09",
+    "price": 25.28,
+    "volume": 246031
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-08",
+    "price": 24.21,
+    "volume": 231149
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-07",
+    "price": 24.7,
+    "volume": 297310
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-04",
+    "price": 25.48,
+    "volume": 226300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-03",
+    "price": 25.47,
+    "volume": 187700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-02",
+    "price": 27.15,
+    "volume": 127400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-04-01",
+    "price": 27.26,
+    "volume": 157715
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-31",
+    "price": 26.97,
+    "volume": 144123
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-28",
+    "price": 27.78,
+    "volume": 121800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-27",
+    "price": 28.16,
+    "volume": 192690
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-26",
+    "price": 27.22,
+    "volume": 175700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-25",
+    "price": 26.26,
+    "volume": 250800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-24",
+    "price": 27.24,
+    "volume": 263900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-21",
+    "price": 27.31,
+    "volume": 715629
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-20",
+    "price": 27.31,
+    "volume": 225207
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-19",
+    "price": 27.54,
+    "volume": 234246
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-18",
+    "price": 27.68,
+    "volume": 221100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-17",
+    "price": 27.98,
+    "volume": 241453
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-14",
+    "price": 29.14,
+    "volume": 229911
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-13",
+    "price": 30.37,
+    "volume": 210100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-12",
+    "price": 32.51,
+    "volume": 190100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-11",
+    "price": 33.11,
+    "volume": 204640
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-10",
+    "price": 33.08,
+    "volume": 187500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-07",
+    "price": 32.96,
+    "volume": 235400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-06",
+    "price": 32.49,
+    "volume": 218800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-05",
+    "price": 30.87,
+    "volume": 225400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-04",
+    "price": 29.6,
+    "volume": 287035
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-03-03",
+    "price": 29.98,
+    "volume": 287508
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-28",
+    "price": 29.59,
+    "volume": 299900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-27",
+    "price": 28.64,
+    "volume": 555000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-26",
+    "price": 33.21,
+    "volume": 418732
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-25",
+    "price": 31.96,
+    "volume": 440048
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-24",
+    "price": 32.69,
+    "volume": 223800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-21",
+    "price": 31.78,
+    "volume": 176102
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-20",
+    "price": 32.09,
+    "volume": 241845
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-19",
+    "price": 31.2,
+    "volume": 140040
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-18",
+    "price": 31.41,
+    "volume": 141706
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-14",
+    "price": 31.69,
+    "volume": 135000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-13",
+    "price": 31.6,
+    "volume": 173800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-12",
+    "price": 30.42,
+    "volume": 161838
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-11",
+    "price": 30.97,
+    "volume": 132807
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-10",
+    "price": 31.03,
+    "volume": 134643
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-07",
+    "price": 30.65,
+    "volume": 135700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-06",
+    "price": 31.21,
+    "volume": 113300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-05",
+    "price": 31.49,
+    "volume": 134100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-04",
+    "price": 31.57,
+    "volume": 153300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-02-03",
+    "price": 31.64,
+    "volume": 140200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-31",
+    "price": 32.57,
+    "volume": 188228
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-30",
+    "price": 34.86,
+    "volume": 157228
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-29",
+    "price": 34.72,
+    "volume": 155937
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-28",
+    "price": 34.34,
+    "volume": 128000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-27",
+    "price": 34.37,
+    "volume": 163345
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-24",
+    "price": 34.34,
+    "volume": 122116
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-23",
+    "price": 34.43,
+    "volume": 132109
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-22",
+    "price": 34.01,
+    "volume": 100831
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-21",
+    "price": 34.38,
+    "volume": 137200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-17",
+    "price": 34.02,
+    "volume": 96625
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-16",
+    "price": 34.12,
+    "volume": 104507
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-15",
+    "price": 33.77,
+    "volume": 113017
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-14",
+    "price": 33.55,
+    "volume": 94600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-13",
+    "price": 34.01,
+    "volume": 97549
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-10",
+    "price": 33.87,
+    "volume": 130900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-08",
+    "price": 34.94,
+    "volume": 97628
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-07",
+    "price": 35.32,
+    "volume": 109700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-06",
+    "price": 34.99,
+    "volume": 102713
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-03",
+    "price": 36.17,
+    "volume": 87100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-01-02",
+    "price": 36.39,
+    "volume": 129400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-31",
+    "price": 35.89,
+    "volume": 81205
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-30",
+    "price": 35.29,
+    "volume": 104749
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-27",
+    "price": 35.69,
+    "volume": 85700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-26",
+    "price": 35.94,
+    "volume": 87400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-24",
+    "price": 36.66,
+    "volume": 106200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-23",
+    "price": 33.94,
+    "volume": 171427
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-20",
+    "price": 33.38,
+    "volume": 619800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-19",
+    "price": 34.71,
+    "volume": 105600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-18",
+    "price": 34.62,
+    "volume": 91400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-17",
+    "price": 36.28,
+    "volume": 92100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-16",
+    "price": 36.7,
+    "volume": 216926
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-13",
+    "price": 36.64,
+    "volume": 131200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-12",
+    "price": 37.62,
+    "volume": 63035
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-11",
+    "price": 37.74,
+    "volume": 55649
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-10",
+    "price": 38.5,
+    "volume": 88600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-09",
+    "price": 38.16,
+    "volume": 94900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-06",
+    "price": 37.31,
+    "volume": 79128
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-05",
+    "price": 37.7,
+    "volume": 74600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-04",
+    "price": 38.61,
+    "volume": 64700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-03",
+    "price": 38.25,
+    "volume": 58334
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-12-02",
+    "price": 40.02,
+    "volume": 102416
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-29",
+    "price": 38.53,
+    "volume": 80216
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-27",
+    "price": 39.16,
+    "volume": 87700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-26",
+    "price": 38.04,
+    "volume": 65400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-25",
+    "price": 39.92,
+    "volume": 110629
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-22",
+    "price": 39.9,
+    "volume": 83200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-21",
+    "price": 39.36,
+    "volume": 64100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-20",
+    "price": 39.52,
+    "volume": 66309
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-19",
+    "price": 39.04,
+    "volume": 73709
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-18",
+    "price": 39.38,
+    "volume": 70900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-15",
+    "price": 40.34,
+    "volume": 80400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-14",
+    "price": 39.44,
+    "volume": 65222
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-13",
+    "price": 40.91,
+    "volume": 69900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-12",
+    "price": 40.52,
+    "volume": 81445
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-11",
+    "price": 41.29,
+    "volume": 90800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-08",
+    "price": 40.25,
+    "volume": 118000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-07",
+    "price": 40.53,
+    "volume": 84839
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-06",
+    "price": 40.33,
+    "volume": 121800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-05",
+    "price": 38.98,
+    "volume": 95826
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-04",
+    "price": 37.91,
+    "volume": 67138
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-11-01",
+    "price": 37.29,
+    "volume": 76700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-31",
+    "price": 36.94,
+    "volume": 97700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-30",
+    "price": 36.74,
+    "volume": 64006
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-29",
+    "price": 37.3,
+    "volume": 85023
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-28",
+    "price": 37.3,
+    "volume": 94608
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-25",
+    "price": 36.81,
+    "volume": 115800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-24",
+    "price": 37.81,
+    "volume": 165946
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-23",
+    "price": 36.58,
+    "volume": 158126
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-22",
+    "price": 34.48,
+    "volume": 118111
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-21",
+    "price": 35.05,
+    "volume": 92000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-18",
+    "price": 35.85,
+    "volume": 49248
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-17",
+    "price": 36.23,
+    "volume": 50605
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-16",
+    "price": 36.69,
+    "volume": 75500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-15",
+    "price": 36.23,
+    "volume": 86400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-14",
+    "price": 35.62,
+    "volume": 59800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-11",
+    "price": 35.79,
+    "volume": 47949
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-10",
+    "price": 35.79,
+    "volume": 86000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-09",
+    "price": 35.43,
+    "volume": 58800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-08",
+    "price": 36.07,
+    "volume": 110842
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-07",
+    "price": 35.46,
+    "volume": 58100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-04",
+    "price": 35.94,
+    "volume": 90600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-03",
+    "price": 35.43,
+    "volume": 64338
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-02",
+    "price": 36.39,
+    "volume": 66117
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-10-01",
+    "price": 37.22,
+    "volume": 143600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-30",
+    "price": 37.92,
+    "volume": 82539
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-27",
+    "price": 37.92,
+    "volume": 87600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-26",
+    "price": 37.83,
+    "volume": 95300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-25",
+    "price": 36.51,
+    "volume": 136400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-24",
+    "price": 37.94,
+    "volume": 50600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-23",
+    "price": 38.08,
+    "volume": 111600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-20",
+    "price": 38.6,
+    "volume": 343527
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-19",
+    "price": 40.18,
+    "volume": 65141
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-18",
+    "price": 39.82,
+    "volume": 66827
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-17",
+    "price": 39.96,
+    "volume": 150300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-16",
+    "price": 38.31,
+    "volume": 51700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-13",
+    "price": 38.42,
+    "volume": 46100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-12",
+    "price": 38.09,
+    "volume": 72406
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-11",
+    "price": 37.28,
+    "volume": 61230
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-10",
+    "price": 37.37,
+    "volume": 86700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-09",
+    "price": 36.1,
+    "volume": 62700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-06",
+    "price": 37.7,
+    "volume": 42238
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-05",
+    "price": 38.94,
+    "volume": 47700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-04",
+    "price": 39.54,
+    "volume": 44300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-09-03",
+    "price": 39.42,
+    "volume": 65939
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-30",
+    "price": 40.82,
+    "volume": 63008
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-29",
+    "price": 40.64,
+    "volume": 41900
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-28",
+    "price": 40.4,
+    "volume": 44903
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-27",
+    "price": 40.61,
+    "volume": 48841
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-26",
+    "price": 41.14,
+    "volume": 62100
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-23",
+    "price": 40.93,
+    "volume": 79300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-22",
+    "price": 39.44,
+    "volume": 85800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-21",
+    "price": 39.92,
+    "volume": 58141
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-20",
+    "price": 39.2,
+    "volume": 66700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-19",
+    "price": 40.28,
+    "volume": 79620
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-16",
+    "price": 39.51,
+    "volume": 56000
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-15",
+    "price": 39.14,
+    "volume": 66908
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-14",
+    "price": 38.3,
+    "volume": 67400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-13",
+    "price": 38.52,
+    "volume": 101200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-12",
+    "price": 37.46,
+    "volume": 62933
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-09",
+    "price": 38.96,
+    "volume": 67715
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-08",
+    "price": 39.2,
+    "volume": 62200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-07",
+    "price": 39.71,
+    "volume": 65749
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-06",
+    "price": 39.5,
+    "volume": 101400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-05",
+    "price": 39.4,
+    "volume": 150400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-02",
+    "price": 42.82,
+    "volume": 66400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-08-01",
+    "price": 43.35,
+    "volume": 77300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-31",
+    "price": 44.6,
+    "volume": 71705
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-30",
+    "price": 43.73,
+    "volume": 72528
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-29",
+    "price": 43.4,
+    "volume": 75600
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-26",
+    "price": 42.62,
+    "volume": 75800
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-25",
+    "price": 41.84,
+    "volume": 119700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-24",
+    "price": 44.49,
+    "volume": 154300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-23",
+    "price": 45.96,
+    "volume": 101471
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-22",
+    "price": 46.2,
+    "volume": 97879
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-19",
+    "price": 46.26,
+    "volume": 62532
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-18",
+    "price": 46.78,
+    "volume": 55280
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-17",
+    "price": 47.2,
+    "volume": 63907
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-16",
+    "price": 47.2,
+    "volume": 71957
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-15",
+    "price": 45.23,
+    "volume": 61460
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-12",
+    "price": 45.31,
+    "volume": 60540
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-11",
+    "price": 44.78,
+    "volume": 70828
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-10",
+    "price": 43.32,
+    "volume": 60801
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-09",
+    "price": 42.53,
+    "volume": 67717
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-08",
+    "price": 44.45,
+    "volume": 76724
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-05",
+    "price": 43.98,
+    "volume": 72479
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-03",
+    "price": 44.97,
+    "volume": 20362
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-02",
+    "price": 44.94,
+    "volume": 47494
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-07-01",
+    "price": 44.84,
+    "volume": 60124
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-28",
+    "price": 45.24,
+    "volume": 483255
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-27",
+    "price": 45.53,
+    "volume": 52521
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-26",
+    "price": 44.99,
+    "volume": 57380
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-25",
+    "price": 44.57,
+    "volume": 48443
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-24",
+    "price": 45.61,
+    "volume": 54009
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-21",
+    "price": 45.57,
+    "volume": 234864
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-20",
+    "price": 45.51,
+    "volume": 45981
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-18",
+    "price": 45.44,
+    "volume": 47511
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-17",
+    "price": 45.71,
+    "volume": 60954
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-14",
+    "price": 44.96,
+    "volume": 101041
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-13",
+    "price": 45.39,
+    "volume": 41839
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-12",
+    "price": 46.16,
+    "volume": 44679
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-11",
+    "price": 47.16,
+    "volume": 46723
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-10",
+    "price": 46.86,
+    "volume": 55508
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-07",
+    "price": 47.48,
+    "volume": 51618
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-06",
+    "price": 48.88,
+    "volume": 48648
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-05",
+    "price": 48.86,
+    "volume": 81640
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-04",
+    "price": 48.87,
+    "volume": 51931
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-06-03",
+    "price": 48.78,
+    "volume": 76253
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-31",
+    "price": 47.6,
+    "volume": 192725
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-30",
+    "price": 46.73,
+    "volume": 78006
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-29",
+    "price": 46.6,
+    "volume": 61468
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-28",
+    "price": 46.92,
+    "volume": 55338
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-24",
+    "price": 46.71,
+    "volume": 47876
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-23",
+    "price": 47.82,
+    "volume": 54537
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-22",
+    "price": 48.56,
+    "volume": 75954
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-21",
+    "price": 49.77,
+    "volume": 58719
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-20",
+    "price": 48.64,
+    "volume": 80283
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-17",
+    "price": 48.99,
+    "volume": 60377
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-16",
+    "price": 48.52,
+    "volume": 61998
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-15",
+    "price": 47.93,
+    "volume": 52558
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-14",
+    "price": 47.58,
+    "volume": 64582
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-13",
+    "price": 47.27,
+    "volume": 64620
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-10",
+    "price": 46.71,
+    "volume": 72787
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-09",
+    "price": 46.32,
+    "volume": 71519
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-08",
+    "price": 45.02,
+    "volume": 75366
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-07",
+    "price": 44.74,
+    "volume": 61789
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-06",
+    "price": 44.61,
+    "volume": 87279
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-03",
+    "price": 45.55,
+    "volume": 111036
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-02",
+    "price": 47.1,
+    "volume": 105329
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-05-01",
+    "price": 45.55,
+    "volume": 126322
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-30",
+    "price": 41.52,
+    "volume": 104538
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-29",
+    "price": 42.98,
+    "volume": 69524
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-26",
+    "price": 43.47,
+    "volume": 46968
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-25",
+    "price": 43.14,
+    "volume": 111811
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-24",
+    "price": 43.7,
+    "volume": 89432
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-23",
+    "price": 44.75,
+    "volume": 58945
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-22",
+    "price": 44.23,
+    "volume": 65735
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-19",
+    "price": 44.13,
+    "volume": 85577
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-18",
+    "price": 43.47,
+    "volume": 79326
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-17",
+    "price": 43.01,
+    "volume": 73987
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-16",
+    "price": 43.19,
+    "volume": 81307
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-15",
+    "price": 43.46,
+    "volume": 86917
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-12",
+    "price": 43.97,
+    "volume": 62214
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-11",
+    "price": 45.3,
+    "volume": 60434
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-10",
+    "price": 45.48,
+    "volume": 91973
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-09",
+    "price": 47.23,
+    "volume": 61011
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-08",
+    "price": 46.72,
+    "volume": 91738
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-05",
+    "price": 45.97,
+    "volume": 145602
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-04",
+    "price": 45.82,
+    "volume": 115023
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-03",
+    "price": 45.44,
+    "volume": 153822
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-02",
+    "price": 46.64,
+    "volume": 121820
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-04-01",
+    "price": 47.96,
+    "volume": 68114
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-28",
+    "price": 48.5,
+    "volume": 72292
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-27",
+    "price": 48.27,
+    "volume": 61548
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-26",
+    "price": 47.53,
+    "volume": 55575
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-25",
+    "price": 48,
+    "volume": 55740
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-22",
+    "price": 47.83,
+    "volume": 57375
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-21",
+    "price": 48.59,
+    "volume": 76755
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-20",
+    "price": 48.59,
+    "volume": 70212
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-19",
+    "price": 48.14,
+    "volume": 68018
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-18",
+    "price": 48.9,
+    "volume": 61127
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-15",
+    "price": 50.11,
+    "volume": 367616
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-14",
+    "price": 49,
+    "volume": 91381
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-13",
+    "price": 50.08,
+    "volume": 82485
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-12",
+    "price": 48.72,
+    "volume": 100572
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-11",
+    "price": 49,
+    "volume": 106418
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-08",
+    "price": 48.58,
+    "volume": 96476
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-07",
+    "price": 48.56,
+    "volume": 111597
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-06",
+    "price": 47.58,
+    "volume": 150016
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-05",
+    "price": 46.76,
+    "volume": 111743
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-04",
+    "price": 48.5,
+    "volume": 105269
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-03-01",
+    "price": 48.32,
+    "volume": 85919
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-29",
+    "price": 48.26,
+    "volume": 125477
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-28",
+    "price": 48.06,
+    "volume": 43002
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-27",
+    "price": 48.13,
+    "volume": 45242
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-26",
+    "price": 48.51,
+    "volume": 44776
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-23",
+    "price": 48.77,
+    "volume": 51403
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-22",
+    "price": 48.39,
+    "volume": 58026
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-21",
+    "price": 49.3,
+    "volume": 51432
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-20",
+    "price": 48.98,
+    "volume": 50128
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-16",
+    "price": 49.4,
+    "volume": 69067
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-15",
+    "price": 49.67,
+    "volume": 81177
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-14",
+    "price": 49.06,
+    "volume": 63486
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-13",
+    "price": 49.07,
+    "volume": 100918
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-12",
+    "price": 52.36,
+    "volume": 66829
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-09",
+    "price": 50.89,
+    "volume": 55339
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-08",
+    "price": 50.85,
+    "volume": 80587
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-07",
+    "price": 49.71,
+    "volume": 101147
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-06",
+    "price": 47.8,
+    "volume": 128710
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-05",
+    "price": 46.43,
+    "volume": 63804
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-02",
+    "price": 47.23,
+    "volume": 47650
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-02-01",
+    "price": 48.43,
+    "volume": 93371
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-31",
+    "price": 46.82,
+    "volume": 64378
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-30",
+    "price": 47.72,
+    "volume": 88501
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-29",
+    "price": 48.11,
+    "volume": 72419
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-26",
+    "price": 48.55,
+    "volume": 60842
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-25",
+    "price": 48.82,
+    "volume": 58892
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-24",
+    "price": 47.7,
+    "volume": 47312
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-23",
+    "price": 48.09,
+    "volume": 58628
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-22",
+    "price": 48.39,
+    "volume": 70879
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-19",
+    "price": 47.47,
+    "volume": 53346
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-18",
+    "price": 47.53,
+    "volume": 70688
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-17",
+    "price": 47.83,
+    "volume": 56027
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-16",
+    "price": 48.88,
+    "volume": 56118
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-12",
+    "price": 50.52,
+    "volume": 52394
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-11",
+    "price": 50.73,
+    "volume": 64304
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-10",
+    "price": 51.05,
+    "volume": 43981
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-09",
+    "price": 50.5,
+    "volume": 54127
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-08",
+    "price": 51.03,
+    "volume": 109321
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-05",
+    "price": 50.61,
+    "volume": 67567
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-04",
+    "price": 51.48,
+    "volume": 58846
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-03",
+    "price": 52.06,
+    "volume": 91884
+  },
+  {
+    "symbol": "USNA",
+    "date": "2024-01-02",
+    "price": 54.45,
+    "volume": 48195
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-29",
+    "price": 53.6,
+    "volume": 52237
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-28",
+    "price": 54.05,
+    "volume": 33195
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-27",
+    "price": 53.97,
+    "volume": 76978
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-26",
+    "price": 53.37,
+    "volume": 38681
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-22",
+    "price": 52.86,
+    "volume": 43334
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-21",
+    "price": 52.77,
+    "volume": 83151
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-20",
+    "price": 51.82,
+    "volume": 144874
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-19",
+    "price": 51.75,
+    "volume": 124310
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-18",
+    "price": 51.47,
+    "volume": 77592
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-15",
+    "price": 52.25,
+    "volume": 233297
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-14",
+    "price": 53.54,
+    "volume": 150111
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-13",
+    "price": 51.7,
+    "volume": 113794
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-12",
+    "price": 49.76,
+    "volume": 58295
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-11",
+    "price": 49.4,
+    "volume": 65552
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-08",
+    "price": 49.63,
+    "volume": 49870
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-07",
+    "price": 49.34,
+    "volume": 61778
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-06",
+    "price": 47.68,
+    "volume": 48436
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-05",
+    "price": 47.31,
+    "volume": 43611
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-04",
+    "price": 48.04,
+    "volume": 55095
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-12-01",
+    "price": 48.06,
+    "volume": 65090
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-30",
+    "price": 47.26,
+    "volume": 73987
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-29",
+    "price": 46.7,
+    "volume": 67334
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-28",
+    "price": 46.34,
+    "volume": 50293
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-27",
+    "price": 46.55,
+    "volume": 59020
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-24",
+    "price": 47.16,
+    "volume": 16763
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-22",
+    "price": 47.02,
+    "volume": 45788
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-21",
+    "price": 46.54,
+    "volume": 50773
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-20",
+    "price": 46.24,
+    "volume": 71605
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-17",
+    "price": 46.09,
+    "volume": 174945
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-16",
+    "price": 45.8,
+    "volume": 73248
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-15",
+    "price": 46.5,
+    "volume": 75791
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-14",
+    "price": 46.55,
+    "volume": 77018
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-13",
+    "price": 44.51,
+    "volume": 62139
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-10",
+    "price": 45.27,
+    "volume": 51967
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-09",
+    "price": 44.83,
+    "volume": 70819
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-08",
+    "price": 45.3,
+    "volume": 59686
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-07",
+    "price": 45.83,
+    "volume": 64418
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-06",
+    "price": 46.43,
+    "volume": 94702
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-03",
+    "price": 46.34,
+    "volume": 95013
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-02",
+    "price": 45.05,
+    "volume": 62746
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-11-01",
+    "price": 44.44,
+    "volume": 52121
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-31",
+    "price": 45.55,
+    "volume": 61780
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-30",
+    "price": 46.2,
+    "volume": 100797
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-27",
+    "price": 44.91,
+    "volume": 102194
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-26",
+    "price": 46.19,
+    "volume": 120805
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-25",
+    "price": 45.45,
+    "volume": 176028
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-24",
+    "price": 55.43,
+    "volume": 80931
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-23",
+    "price": 54.56,
+    "volume": 135774
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-20",
+    "price": 55.88,
+    "volume": 89338
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-19",
+    "price": 56.75,
+    "volume": 55344
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-18",
+    "price": 57.36,
+    "volume": 36109
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-17",
+    "price": 56.82,
+    "volume": 68011
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-16",
+    "price": 56.25,
+    "volume": 53114
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-13",
+    "price": 55.09,
+    "volume": 52633
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-12",
+    "price": 55.54,
+    "volume": 63550
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-11",
+    "price": 56.97,
+    "volume": 41355
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-10",
+    "price": 58.46,
+    "volume": 73072
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-09",
+    "price": 58.87,
+    "volume": 31987
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-06",
+    "price": 58.62,
+    "volume": 80638
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-05",
+    "price": 57.79,
+    "volume": 42677
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-04",
+    "price": 58.31,
+    "volume": 40797
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-03",
+    "price": 58.36,
+    "volume": 39947
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-10-02",
+    "price": 58.06,
+    "volume": 64853
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-29",
+    "price": 58.61,
+    "volume": 52007
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-28",
+    "price": 58.75,
+    "volume": 81524
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-27",
+    "price": 58.22,
+    "volume": 42521
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-26",
+    "price": 58.45,
+    "volume": 58374
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-25",
+    "price": 59.76,
+    "volume": 29138
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-22",
+    "price": 59.8,
+    "volume": 34377
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-21",
+    "price": 60.38,
+    "volume": 53820
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-20",
+    "price": 59.45,
+    "volume": 28388
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-19",
+    "price": 59.64,
+    "volume": 67416
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-18",
+    "price": 59.37,
+    "volume": 53019
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-15",
+    "price": 59.47,
+    "volume": 221064
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-14",
+    "price": 60.72,
+    "volume": 81295
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-13",
+    "price": 59.07,
+    "volume": 80905
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-12",
+    "price": 57.94,
+    "volume": 68982
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-11",
+    "price": 58.56,
+    "volume": 54959
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-08",
+    "price": 58.42,
+    "volume": 50094
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-07",
+    "price": 59.96,
+    "volume": 68015
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-06",
+    "price": 60.54,
+    "volume": 76736
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-05",
+    "price": 62.22,
+    "volume": 77109
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-09-01",
+    "price": 64.72,
+    "volume": 55081
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-31",
+    "price": 64.29,
+    "volume": 67935
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-30",
+    "price": 64.61,
+    "volume": 44591
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-29",
+    "price": 64.15,
+    "volume": 62905
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-28",
+    "price": 63.98,
+    "volume": 81856
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-25",
+    "price": 63.86,
+    "volume": 63980
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-24",
+    "price": 63.58,
+    "volume": 115012
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-23",
+    "price": 63.45,
+    "volume": 52268
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-22",
+    "price": 62.39,
+    "volume": 66477
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-21",
+    "price": 62.61,
+    "volume": 65184
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-18",
+    "price": 63.35,
+    "volume": 86978
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-17",
+    "price": 63.8,
+    "volume": 52934
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-16",
+    "price": 63.86,
+    "volume": 62390
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-15",
+    "price": 65.43,
+    "volume": 55354
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-14",
+    "price": 65.29,
+    "volume": 60979
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-11",
+    "price": 66.16,
+    "volume": 57049
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-10",
+    "price": 66.23,
+    "volume": 52709
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-09",
+    "price": 66.1,
+    "volume": 47658
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-08",
+    "price": 66.45,
+    "volume": 65861
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-07",
+    "price": 65.82,
+    "volume": 57267
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-04",
+    "price": 66.29,
+    "volume": 74568
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-03",
+    "price": 66.61,
+    "volume": 55543
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-02",
+    "price": 64.71,
+    "volume": 99087
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-08-01",
+    "price": 63.91,
+    "volume": 47222
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-31",
+    "price": 64.91,
+    "volume": 83435
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-28",
+    "price": 65.13,
+    "volume": 103169
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-27",
+    "price": 65.92,
+    "volume": 107500
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-26",
+    "price": 67.92,
+    "volume": 109867
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-25",
+    "price": 63.39,
+    "volume": 53357
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-24",
+    "price": 63.79,
+    "volume": 44042
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-21",
+    "price": 63.07,
+    "volume": 70508
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-20",
+    "price": 62.93,
+    "volume": 66085
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-19",
+    "price": 62.12,
+    "volume": 53567
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-18",
+    "price": 61.29,
+    "volume": 53668
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-17",
+    "price": 61.33,
+    "volume": 51793
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-14",
+    "price": 60.94,
+    "volume": 33982
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-13",
+    "price": 61.38,
+    "volume": 29710
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-12",
+    "price": 61.29,
+    "volume": 56183
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-11",
+    "price": 60.77,
+    "volume": 45619
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-10",
+    "price": 60.98,
+    "volume": 45556
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-07",
+    "price": 61.98,
+    "volume": 46157
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-06",
+    "price": 62.71,
+    "volume": 68560
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-05",
+    "price": 62.79,
+    "volume": 90493
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-07-03",
+    "price": 63.55,
+    "volume": 26971
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-30",
+    "price": 63.04,
+    "volume": 53445
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-29",
+    "price": 62.59,
+    "volume": 69530
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-28",
+    "price": 61.99,
+    "volume": 63137
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-27",
+    "price": 61.74,
+    "volume": 67506
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-26",
+    "price": 61.17,
+    "volume": 56733
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-23",
+    "price": 61.03,
+    "volume": 108023
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-22",
+    "price": 60.56,
+    "volume": 77776
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-21",
+    "price": 60.41,
+    "volume": 74244
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-20",
+    "price": 61.03,
+    "volume": 86850
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-16",
+    "price": 61.15,
+    "volume": 217400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-15",
+    "price": 61.07,
+    "volume": 91755
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-14",
+    "price": 61.16,
+    "volume": 96936
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-13",
+    "price": 62.07,
+    "volume": 52481
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-12",
+    "price": 62.48,
+    "volume": 44419
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-09",
+    "price": 62.96,
+    "volume": 52715
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-08",
+    "price": 63.68,
+    "volume": 53055
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-07",
+    "price": 64.04,
+    "volume": 62309
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-06",
+    "price": 62.83,
+    "volume": 45232
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-05",
+    "price": 61.95,
+    "volume": 46236
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-02",
+    "price": 63.54,
+    "volume": 47658
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-06-01",
+    "price": 61.26,
+    "volume": 57723
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-31",
+    "price": 60.67,
+    "volume": 85698
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-30",
+    "price": 62.36,
+    "volume": 54190
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-26",
+    "price": 62.77,
+    "volume": 42458
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-25",
+    "price": 61.9,
+    "volume": 45543
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-24",
+    "price": 62.07,
+    "volume": 37972
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-23",
+    "price": 62.69,
+    "volume": 47323
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-22",
+    "price": 63.2,
+    "volume": 54568
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-19",
+    "price": 64.28,
+    "volume": 96597
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-18",
+    "price": 63.71,
+    "volume": 44944
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-17",
+    "price": 63.18,
+    "volume": 64943
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-16",
+    "price": 63.79,
+    "volume": 47709
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-15",
+    "price": 65.25,
+    "volume": 40243
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-12",
+    "price": 65.26,
+    "volume": 61050
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-11",
+    "price": 65.36,
+    "volume": 77086
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-10",
+    "price": 65.14,
+    "volume": 64352
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-09",
+    "price": 65.38,
+    "volume": 40903
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-08",
+    "price": 66.39,
+    "volume": 52066
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-05",
+    "price": 67.14,
+    "volume": 82708
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-04",
+    "price": 67.08,
+    "volume": 62821
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-03",
+    "price": 67.44,
+    "volume": 83014
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-02",
+    "price": 67.24,
+    "volume": 72228
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-05-01",
+    "price": 66.95,
+    "volume": 63602
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-28",
+    "price": 66.37,
+    "volume": 90812
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-27",
+    "price": 67.15,
+    "volume": 78502
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-26",
+    "price": 67.9,
+    "volume": 129917
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-25",
+    "price": 62.61,
+    "volume": 125143
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-24",
+    "price": 64.73,
+    "volume": 39239
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-21",
+    "price": 65.1,
+    "volume": 47903
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-20",
+    "price": 64.57,
+    "volume": 55093
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-19",
+    "price": 63.98,
+    "volume": 43602
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-18",
+    "price": 63.97,
+    "volume": 60096
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-17",
+    "price": 64.15,
+    "volume": 41901
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-14",
+    "price": 64.23,
+    "volume": 55294
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-13",
+    "price": 64.52,
+    "volume": 38748
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-12",
+    "price": 63.81,
+    "volume": 49962
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-11",
+    "price": 64.26,
+    "volume": 57086
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-10",
+    "price": 63.75,
+    "volume": 183362
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-06",
+    "price": 63.58,
+    "volume": 61519
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-05",
+    "price": 64,
+    "volume": 72882
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-04",
+    "price": 64.12,
+    "volume": 78479
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-04-03",
+    "price": 64.67,
+    "volume": 75922
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-31",
+    "price": 62.9,
+    "volume": 89579
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-30",
+    "price": 62.48,
+    "volume": 57628
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-29",
+    "price": 62.47,
+    "volume": 48512
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-28",
+    "price": 62.84,
+    "volume": 48413
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-27",
+    "price": 62.53,
+    "volume": 42689
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-24",
+    "price": 61.36,
+    "volume": 47779
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-23",
+    "price": 60.56,
+    "volume": 64040
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-22",
+    "price": 60.5,
+    "volume": 56821
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-21",
+    "price": 61.14,
+    "volume": 82389
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-20",
+    "price": 61.7,
+    "volume": 66280
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-17",
+    "price": 61.24,
+    "volume": 194229
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-16",
+    "price": 62.82,
+    "volume": 76087
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-15",
+    "price": 60.22,
+    "volume": 88824
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-14",
+    "price": 61.06,
+    "volume": 59201
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-13",
+    "price": 59.74,
+    "volume": 101881
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-10",
+    "price": 60.02,
+    "volume": 75009
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-09",
+    "price": 60.2,
+    "volume": 58079
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-08",
+    "price": 60.05,
+    "volume": 109369
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-07",
+    "price": 60.51,
+    "volume": 99615
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-06",
+    "price": 61.42,
+    "volume": 79873
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-03",
+    "price": 63.48,
+    "volume": 71343
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-02",
+    "price": 62.87,
+    "volume": 56795
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-03-01",
+    "price": 61.83,
+    "volume": 79583
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-28",
+    "price": 60.78,
+    "volume": 82566
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-27",
+    "price": 61.1,
+    "volume": 64216
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-24",
+    "price": 61.43,
+    "volume": 101844
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-23",
+    "price": 60.81,
+    "volume": 66659
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-22",
+    "price": 60.92,
+    "volume": 105958
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-21",
+    "price": 61.47,
+    "volume": 118436
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-17",
+    "price": 62.28,
+    "volume": 256261
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-16",
+    "price": 62.18,
+    "volume": 109856
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-15",
+    "price": 62.36,
+    "volume": 118237
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-14",
+    "price": 60.8,
+    "volume": 70798
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-13",
+    "price": 61.12,
+    "volume": 73877
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-10",
+    "price": 61.13,
+    "volume": 72881
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-09",
+    "price": 62.03,
+    "volume": 74251
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-08",
+    "price": 61.53,
+    "volume": 59862
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-07",
+    "price": 59.76,
+    "volume": 58735
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-06",
+    "price": 58.79,
+    "volume": 81543
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-03",
+    "price": 60.04,
+    "volume": 85364
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-02",
+    "price": 60.78,
+    "volume": 73485
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-02-01",
+    "price": 59.87,
+    "volume": 48315
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-31",
+    "price": 58.44,
+    "volume": 67553
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-30",
+    "price": 56.76,
+    "volume": 36887
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-27",
+    "price": 56.11,
+    "volume": 40042
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-26",
+    "price": 55.65,
+    "volume": 31917
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-25",
+    "price": 56.1,
+    "volume": 36309
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-24",
+    "price": 55.87,
+    "volume": 31714
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-23",
+    "price": 56.94,
+    "volume": 33478
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-20",
+    "price": 56.88,
+    "volume": 46625
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-19",
+    "price": 55.44,
+    "volume": 77771
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-18",
+    "price": 55.62,
+    "volume": 57946
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-17",
+    "price": 55.49,
+    "volume": 76681
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-13",
+    "price": 57.83,
+    "volume": 59002
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-12",
+    "price": 58.39,
+    "volume": 37702
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-11",
+    "price": 57.47,
+    "volume": 39061
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-10",
+    "price": 57.56,
+    "volume": 61024
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-09",
+    "price": 56.21,
+    "volume": 66317
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-06",
+    "price": 55.86,
+    "volume": 109417
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-05",
+    "price": 54.42,
+    "volume": 53989
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-04",
+    "price": 54.78,
+    "volume": 59977
+  },
+  {
+    "symbol": "USNA",
+    "date": "2023-01-03",
+    "price": 54.46,
+    "volume": 63488
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-30",
+    "price": 53.2,
+    "volume": 58665
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-29",
+    "price": 53.97,
+    "volume": 43941
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-28",
+    "price": 53.87,
+    "volume": 51695
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-27",
+    "price": 55.11,
+    "volume": 34692
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-23",
+    "price": 54.41,
+    "volume": 33974
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-22",
+    "price": 54.29,
+    "volume": 71326
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-21",
+    "price": 53.87,
+    "volume": 64741
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-20",
+    "price": 52.66,
+    "volume": 78034
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-19",
+    "price": 52.02,
+    "volume": 79078
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-16",
+    "price": 52.14,
+    "volume": 418750
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-15",
+    "price": 50.42,
+    "volume": 52462
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-14",
+    "price": 52.38,
+    "volume": 43353
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-13",
+    "price": 52.41,
+    "volume": 71189
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-12",
+    "price": 52.29,
+    "volume": 52579
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-09",
+    "price": 51.79,
+    "volume": 45802
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-08",
+    "price": 51.88,
+    "volume": 50916
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-07",
+    "price": 53.13,
+    "volume": 50258
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-06",
+    "price": 55.2,
+    "volume": 63240
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-05",
+    "price": 55.21,
+    "volume": 50131
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-02",
+    "price": 54.65,
+    "volume": 48759
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-12-01",
+    "price": 54.19,
+    "volume": 73013
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-30",
+    "price": 55.04,
+    "volume": 85460
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-29",
+    "price": 54.7,
+    "volume": 67205
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-28",
+    "price": 53.33,
+    "volume": 54352
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-25",
+    "price": 52.92,
+    "volume": 29840
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-23",
+    "price": 53.27,
+    "volume": 34167
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-22",
+    "price": 53.82,
+    "volume": 41403
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-21",
+    "price": 53.56,
+    "volume": 51854
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-18",
+    "price": 52.93,
+    "volume": 103104
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-17",
+    "price": 52.34,
+    "volume": 56832
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-16",
+    "price": 51.33,
+    "volume": 54104
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-15",
+    "price": 52.33,
+    "volume": 75697
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-14",
+    "price": 51.15,
+    "volume": 61593
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-11",
+    "price": 52.01,
+    "volume": 57553
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-10",
+    "price": 52.19,
+    "volume": 52808
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-09",
+    "price": 49.12,
+    "volume": 53426
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-08",
+    "price": 50.98,
+    "volume": 73907
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-07",
+    "price": 51.19,
+    "volume": 77664
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-04",
+    "price": 50.2,
+    "volume": 66895
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-03",
+    "price": 48.66,
+    "volume": 76288
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-02",
+    "price": 51.21,
+    "volume": 66601
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-11-01",
+    "price": 53.75,
+    "volume": 76614
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-31",
+    "price": 52.51,
+    "volume": 111204
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-28",
+    "price": 55.24,
+    "volume": 60393
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-27",
+    "price": 55,
+    "volume": 93580
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-26",
+    "price": 56.84,
+    "volume": 89258
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-25",
+    "price": 58.23,
+    "volume": 59668
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-24",
+    "price": 56.96,
+    "volume": 83794
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-21",
+    "price": 57.1,
+    "volume": 42942
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-20",
+    "price": 56.69,
+    "volume": 45498
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-19",
+    "price": 57.22,
+    "volume": 68212
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-18",
+    "price": 59.68,
+    "volume": 48525
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-17",
+    "price": 59.43,
+    "volume": 61931
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-14",
+    "price": 57.84,
+    "volume": 57909
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-13",
+    "price": 58.82,
+    "volume": 73693
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-12",
+    "price": 58.02,
+    "volume": 39684
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-11",
+    "price": 57.72,
+    "volume": 83464
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-10",
+    "price": 56.41,
+    "volume": 45542
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-07",
+    "price": 55.64,
+    "volume": 62931
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-06",
+    "price": 56.56,
+    "volume": 72744
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-05",
+    "price": 57.06,
+    "volume": 45892
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-04",
+    "price": 58.18,
+    "volume": 44709
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-10-03",
+    "price": 56.67,
+    "volume": 58593
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-30",
+    "price": 56.05,
+    "volume": 75846
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-29",
+    "price": 56.85,
+    "volume": 52916
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-28",
+    "price": 57.56,
+    "volume": 66816
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-27",
+    "price": 57.49,
+    "volume": 64396
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-26",
+    "price": 58.27,
+    "volume": 46728
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-23",
+    "price": 58.35,
+    "volume": 47700
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-22",
+    "price": 58.54,
+    "volume": 44719
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-21",
+    "price": 58.68,
+    "volume": 46067
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-20",
+    "price": 58.95,
+    "volume": 54823
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-19",
+    "price": 60.32,
+    "volume": 104396
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-16",
+    "price": 59.45,
+    "volume": 209856
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-15",
+    "price": 60.54,
+    "volume": 75221
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-14",
+    "price": 60.32,
+    "volume": 62998
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-13",
+    "price": 61.41,
+    "volume": 60889
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-12",
+    "price": 63.75,
+    "volume": 51728
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-09",
+    "price": 62.57,
+    "volume": 46127
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-08",
+    "price": 61.66,
+    "volume": 57108
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-07",
+    "price": 61.93,
+    "volume": 65550
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-06",
+    "price": 61.2,
+    "volume": 61543
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-02",
+    "price": 63.13,
+    "volume": 45888
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-09-01",
+    "price": 63.96,
+    "volume": 35753
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-31",
+    "price": 64.52,
+    "volume": 77243
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-30",
+    "price": 65.17,
+    "volume": 47044
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-29",
+    "price": 65.86,
+    "volume": 33821
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-26",
+    "price": 66.25,
+    "volume": 54559
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-25",
+    "price": 68.31,
+    "volume": 50415
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-24",
+    "price": 67.09,
+    "volume": 42909
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-23",
+    "price": 67.51,
+    "volume": 44233
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-22",
+    "price": 69.24,
+    "volume": 50148
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-19",
+    "price": 70.69,
+    "volume": 66038
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-18",
+    "price": 72.78,
+    "volume": 48300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-17",
+    "price": 72.19,
+    "volume": 39012
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-16",
+    "price": 72.43,
+    "volume": 48246
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-15",
+    "price": 70.88,
+    "volume": 57564
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-12",
+    "price": 69.16,
+    "volume": 46296
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-11",
+    "price": 68.99,
+    "volume": 36932
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-10",
+    "price": 68.96,
+    "volume": 78117
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-09",
+    "price": 66.97,
+    "volume": 60010
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-08",
+    "price": 69.76,
+    "volume": 49874
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-05",
+    "price": 69.47,
+    "volume": 70930
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-04",
+    "price": 70.9,
+    "volume": 68437
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-03",
+    "price": 70.83,
+    "volume": 71482
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-02",
+    "price": 69.48,
+    "volume": 48359
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-08-01",
+    "price": 69.96,
+    "volume": 67829
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-29",
+    "price": 69.62,
+    "volume": 93191
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-28",
+    "price": 70.16,
+    "volume": 73677
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-27",
+    "price": 69.42,
+    "volume": 70702
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-26",
+    "price": 68.95,
+    "volume": 55162
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-25",
+    "price": 68.67,
+    "volume": 55939
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-22",
+    "price": 69.21,
+    "volume": 61107
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-21",
+    "price": 69.94,
+    "volume": 66295
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-20",
+    "price": 69.24,
+    "volume": 75491
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-19",
+    "price": 67.58,
+    "volume": 84335
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-18",
+    "price": 66.19,
+    "volume": 73391
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-15",
+    "price": 66.94,
+    "volume": 64652
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-14",
+    "price": 65.12,
+    "volume": 60217
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-13",
+    "price": 67.26,
+    "volume": 65646
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-12",
+    "price": 67.46,
+    "volume": 79258
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-11",
+    "price": 65.94,
+    "volume": 58637
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-08",
+    "price": 66.86,
+    "volume": 162414
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-07",
+    "price": 67.05,
+    "volume": 364986
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-06",
+    "price": 76.51,
+    "volume": 60895
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-05",
+    "price": 75.17,
+    "volume": 59633
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-07-01",
+    "price": 75,
+    "volume": 56400
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-30",
+    "price": 72.36,
+    "volume": 82782
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-29",
+    "price": 72.84,
+    "volume": 49343
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-28",
+    "price": 72.9,
+    "volume": 49361
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-27",
+    "price": 74.59,
+    "volume": 46611
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-24",
+    "price": 74.26,
+    "volume": 234912
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-23",
+    "price": 73.78,
+    "volume": 47329
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-22",
+    "price": 72.63,
+    "volume": 71828
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-21",
+    "price": 71.75,
+    "volume": 65036
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-17",
+    "price": 70.54,
+    "volume": 133634
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-16",
+    "price": 70.23,
+    "volume": 95490
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-15",
+    "price": 72.3,
+    "volume": 94384
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-14",
+    "price": 69.78,
+    "volume": 69200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-13",
+    "price": 70.1,
+    "volume": 61913
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-10",
+    "price": 71.83,
+    "volume": 44099
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-09",
+    "price": 72.98,
+    "volume": 45845
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-08",
+    "price": 72.79,
+    "volume": 53160
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-07",
+    "price": 73.89,
+    "volume": 56358
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-06",
+    "price": 74.9,
+    "volume": 70571
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-03",
+    "price": 73.77,
+    "volume": 84971
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-02",
+    "price": 72.6,
+    "volume": 48321
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-06-01",
+    "price": 71.39,
+    "volume": 59911
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-31",
+    "price": 70.33,
+    "volume": 67879
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-27",
+    "price": 71.66,
+    "volume": 37489
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-26",
+    "price": 70.57,
+    "volume": 45707
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-25",
+    "price": 69.36,
+    "volume": 57645
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-24",
+    "price": 68.28,
+    "volume": 69719
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-23",
+    "price": 68.68,
+    "volume": 66112
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-20",
+    "price": 69.34,
+    "volume": 80766
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-19",
+    "price": 69.11,
+    "volume": 65441
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-18",
+    "price": 69.49,
+    "volume": 83073
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-17",
+    "price": 71.79,
+    "volume": 66546
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-16",
+    "price": 70.32,
+    "volume": 46442
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-13",
+    "price": 71.62,
+    "volume": 46610
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-12",
+    "price": 71.54,
+    "volume": 61253
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-11",
+    "price": 70.1,
+    "volume": 72637
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-10",
+    "price": 72.9,
+    "volume": 71144
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-09",
+    "price": 74.59,
+    "volume": 68239
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-06",
+    "price": 74.09,
+    "volume": 57663
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-05",
+    "price": 74.28,
+    "volume": 82811
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-04",
+    "price": 76.07,
+    "volume": 72642
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-03",
+    "price": 77.09,
+    "volume": 76223
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-05-02",
+    "price": 76.8,
+    "volume": 96731
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-29",
+    "price": 76.66,
+    "volume": 76815
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-28",
+    "price": 76.87,
+    "volume": 71422
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-27",
+    "price": 75.93,
+    "volume": 142652
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-26",
+    "price": 75.52,
+    "volume": 91802
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-25",
+    "price": 78.74,
+    "volume": 74488
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-22",
+    "price": 77.84,
+    "volume": 79038
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-21",
+    "price": 79.74,
+    "volume": 77622
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-20",
+    "price": 81.35,
+    "volume": 40535
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-19",
+    "price": 80.58,
+    "volume": 71348
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-18",
+    "price": 79.35,
+    "volume": 59448
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-14",
+    "price": 82.11,
+    "volume": 58496
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-13",
+    "price": 82.85,
+    "volume": 67748
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-12",
+    "price": 82.87,
+    "volume": 99112
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-11",
+    "price": 81.26,
+    "volume": 63464
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-08",
+    "price": 80.52,
+    "volume": 64410
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-07",
+    "price": 79.21,
+    "volume": 100549
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-06",
+    "price": 78.11,
+    "volume": 64193
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-05",
+    "price": 78.9,
+    "volume": 68078
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-04",
+    "price": 79.16,
+    "volume": 87200
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-04-01",
+    "price": 79.33,
+    "volume": 89198
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-31",
+    "price": 79.45,
+    "volume": 104979
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-30",
+    "price": 79.44,
+    "volume": 89456
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-29",
+    "price": 80.34,
+    "volume": 75499
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-28",
+    "price": 79.27,
+    "volume": 123320
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-25",
+    "price": 78.36,
+    "volume": 95159
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-24",
+    "price": 78.06,
+    "volume": 66675
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-23",
+    "price": 77.82,
+    "volume": 47037
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-22",
+    "price": 80.3,
+    "volume": 40492
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-21",
+    "price": 80.6,
+    "volume": 54960
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-18",
+    "price": 80,
+    "volume": 123928
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-17",
+    "price": 81.26,
+    "volume": 65438
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-16",
+    "price": 82.5,
+    "volume": 75162
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-15",
+    "price": 82.35,
+    "volume": 69869
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-14",
+    "price": 81.91,
+    "volume": 50252
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-11",
+    "price": 82.25,
+    "volume": 59656
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-10",
+    "price": 83.71,
+    "volume": 77320
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-09",
+    "price": 86.09,
+    "volume": 46799
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-08",
+    "price": 87.14,
+    "volume": 83179
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-07",
+    "price": 85.12,
+    "volume": 99934
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-04",
+    "price": 83.1,
+    "volume": 138702
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-03",
+    "price": 88.77,
+    "volume": 69557
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-02",
+    "price": 89.41,
+    "volume": 76390
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-03-01",
+    "price": 87.96,
+    "volume": 120929
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-28",
+    "price": 88.01,
+    "volume": 95777
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-25",
+    "price": 87.53,
+    "volume": 70095
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-24",
+    "price": 86.42,
+    "volume": 73161
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-23",
+    "price": 87.11,
+    "volume": 68180
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-22",
+    "price": 87.86,
+    "volume": 85520
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-18",
+    "price": 89.95,
+    "volume": 80253
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-17",
+    "price": 88.76,
+    "volume": 64199
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-16",
+    "price": 90.41,
+    "volume": 51043
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-15",
+    "price": 87.97,
+    "volume": 81122
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-14",
+    "price": 89.28,
+    "volume": 71455
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-11",
+    "price": 88.23,
+    "volume": 85495
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-10",
+    "price": 86.78,
+    "volume": 142292
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-09",
+    "price": 85.29,
+    "volume": 182101
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-08",
+    "price": 94.3,
+    "volume": 54314
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-07",
+    "price": 93.09,
+    "volume": 26703
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-04",
+    "price": 92.32,
+    "volume": 42538
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-03",
+    "price": 93.82,
+    "volume": 39335
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-02",
+    "price": 94.83,
+    "volume": 51108
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-02-01",
+    "price": 95.84,
+    "volume": 34154
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-31",
+    "price": 95.58,
+    "volume": 103852
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-28",
+    "price": 95.55,
+    "volume": 37503
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-27",
+    "price": 94.97,
+    "volume": 44074
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-26",
+    "price": 95.54,
+    "volume": 71222
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-25",
+    "price": 98.48,
+    "volume": 49612
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-24",
+    "price": 99.19,
+    "volume": 73275
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-21",
+    "price": 97.82,
+    "volume": 59313
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-20",
+    "price": 98.58,
+    "volume": 52347
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-19",
+    "price": 98.74,
+    "volume": 37388
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-18",
+    "price": 99.05,
+    "volume": 43836
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-14",
+    "price": 101.25,
+    "volume": 39377
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-13",
+    "price": 100.97,
+    "volume": 48270
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-12",
+    "price": 100.83,
+    "volume": 53590
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-11",
+    "price": 100.92,
+    "volume": 64965
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-10",
+    "price": 99.77,
+    "volume": 60707
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-07",
+    "price": 101,
+    "volume": 38216
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-06",
+    "price": 101.7,
+    "volume": 39028
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-05",
+    "price": 100.97,
+    "volume": 50347
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-04",
+    "price": 102.52,
+    "volume": 41087
+  },
+  {
+    "symbol": "USNA",
+    "date": "2022-01-03",
+    "price": 102.94,
+    "volume": 34544
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-31",
+    "price": 101.2,
+    "volume": 43906
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-30",
+    "price": 101.24,
+    "volume": 29586
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-29",
+    "price": 102.01,
+    "volume": 38980
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-28",
+    "price": 100.98,
+    "volume": 35734
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-27",
+    "price": 101.35,
+    "volume": 41167
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-23",
+    "price": 100.52,
+    "volume": 54831
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-22",
+    "price": 100.62,
+    "volume": 36277
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-21",
+    "price": 101.14,
+    "volume": 55010
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-20",
+    "price": 99.33,
+    "volume": 78402
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-17",
+    "price": 101.33,
+    "volume": 266304
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-16",
+    "price": 99.97,
+    "volume": 129876
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-15",
+    "price": 102.5,
+    "volume": 81647
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-14",
+    "price": 101.01,
+    "volume": 63395
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-13",
+    "price": 100.96,
+    "volume": 49806
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-10",
+    "price": 101.13,
+    "volume": 47507
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-09",
+    "price": 100.63,
+    "volume": 68636
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-08",
+    "price": 100.93,
+    "volume": 88694
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-07",
+    "price": 100.55,
+    "volume": 51967
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-06",
+    "price": 101.05,
+    "volume": 57291
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-03",
+    "price": 100.44,
+    "volume": 50945
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-02",
+    "price": 100,
+    "volume": 67323
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-12-01",
+    "price": 99.01,
+    "volume": 71190
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-30",
+    "price": 99.72,
+    "volume": 123775
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-29",
+    "price": 100,
+    "volume": 63309
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-26",
+    "price": 99.46,
+    "volume": 73913
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-24",
+    "price": 101.8,
+    "volume": 43919
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-23",
+    "price": 102.23,
+    "volume": 58249
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-22",
+    "price": 101.16,
+    "volume": 67513
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-19",
+    "price": 102.2,
+    "volume": 58127
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-18",
+    "price": 102.07,
+    "volume": 85825
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-17",
+    "price": 102.82,
+    "volume": 99319
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-16",
+    "price": 103.74,
+    "volume": 91112
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-15",
+    "price": 101.69,
+    "volume": 91026
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-12",
+    "price": 100.92,
+    "volume": 54416
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-11",
+    "price": 100.58,
+    "volume": 48946
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-10",
+    "price": 100.28,
+    "volume": 66037
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-09",
+    "price": 100.52,
+    "volume": 58284
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-08",
+    "price": 101.12,
+    "volume": 59985
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-05",
+    "price": 102.32,
+    "volume": 72471
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-04",
+    "price": 102.49,
+    "volume": 78152
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-03",
+    "price": 101.65,
+    "volume": 86448
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-02",
+    "price": 99.8,
+    "volume": 115112
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-11-01",
+    "price": 98.76,
+    "volume": 81778
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-29",
+    "price": 97.06,
+    "volume": 82731
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-28",
+    "price": 94.7,
+    "volume": 136013
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-27",
+    "price": 92.48,
+    "volume": 118268
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-26",
+    "price": 99.73,
+    "volume": 81738
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-25",
+    "price": 100.51,
+    "volume": 45285
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-22",
+    "price": 99.84,
+    "volume": 52211
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-21",
+    "price": 100.32,
+    "volume": 76879
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-20",
+    "price": 99.59,
+    "volume": 54325
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-19",
+    "price": 99,
+    "volume": 47830
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-18",
+    "price": 99.34,
+    "volume": 57122
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-15",
+    "price": 99.08,
+    "volume": 96913
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-14",
+    "price": 98.16,
+    "volume": 52149
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-13",
+    "price": 97.18,
+    "volume": 45104
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-12",
+    "price": 96.83,
+    "volume": 38876
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-11",
+    "price": 96.08,
+    "volume": 55375
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-08",
+    "price": 95.71,
+    "volume": 68593
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-07",
+    "price": 96.28,
+    "volume": 88637
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-06",
+    "price": 95.04,
+    "volume": 93452
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-05",
+    "price": 95.77,
+    "volume": 92399
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-04",
+    "price": 94.54,
+    "volume": 90802
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-10-01",
+    "price": 93.58,
+    "volume": 86624
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-30",
+    "price": 92.2,
+    "volume": 145300
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-29",
+    "price": 91.72,
+    "volume": 54250
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-28",
+    "price": 91.26,
+    "volume": 84794
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-27",
+    "price": 91.47,
+    "volume": 105767
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-24",
+    "price": 89.93,
+    "volume": 83752
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-23",
+    "price": 89.03,
+    "volume": 63308
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-22",
+    "price": 88.41,
+    "volume": 60919
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-21",
+    "price": 87.4,
+    "volume": 94443
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-20",
+    "price": 88.05,
+    "volume": 88133
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-17",
+    "price": 88.92,
+    "volume": 242458
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-16",
+    "price": 87.46,
+    "volume": 64397
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-15",
+    "price": 87.51,
+    "volume": 66301
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-14",
+    "price": 89.4,
+    "volume": 74305
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-13",
+    "price": 96.28,
+    "volume": 33981
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-10",
+    "price": 97.89,
+    "volume": 61196
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-09",
+    "price": 97.99,
+    "volume": 80213
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-08",
+    "price": 99.49,
+    "volume": 66149
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-07",
+    "price": 99.24,
+    "volume": 52044
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-03",
+    "price": 98.84,
+    "volume": 55779
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-02",
+    "price": 97.03,
+    "volume": 52940
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-09-01",
+    "price": 97.67,
+    "volume": 50967
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-31",
+    "price": 97.03,
+    "volume": 72499
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-30",
+    "price": 97.28,
+    "volume": 53463
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-27",
+    "price": 97.66,
+    "volume": 83765
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-26",
+    "price": 95.12,
+    "volume": 35081
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-25",
+    "price": 95.55,
+    "volume": 45130
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-24",
+    "price": 94.92,
+    "volume": 59320
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-23",
+    "price": 96.13,
+    "volume": 37811
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-20",
+    "price": 95.5,
+    "volume": 49013
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-19",
+    "price": 94.55,
+    "volume": 64151
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-18",
+    "price": 94.42,
+    "volume": 50964
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-17",
+    "price": 94.97,
+    "volume": 46061
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-16",
+    "price": 94.71,
+    "volume": 48555
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-13",
+    "price": 94.85,
+    "volume": 38226
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-12",
+    "price": 94.55,
+    "volume": 69120
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-11",
+    "price": 94.59,
+    "volume": 52269
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-10",
+    "price": 94.83,
+    "volume": 61650
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-09",
+    "price": 94.31,
+    "volume": 47164
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-06",
+    "price": 96.68,
+    "volume": 50560
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-05",
+    "price": 96.36,
+    "volume": 47663
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-04",
+    "price": 94.95,
+    "volume": 59362
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-03",
+    "price": 97.14,
+    "volume": 76090
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-08-02",
+    "price": 96.51,
+    "volume": 52428
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-30",
+    "price": 95.27,
+    "volume": 88340
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-29",
+    "price": 98.04,
+    "volume": 72302
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-28",
+    "price": 99.83,
+    "volume": 67007
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-27",
+    "price": 100.69,
+    "volume": 36220
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-26",
+    "price": 102.21,
+    "volume": 31499
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-23",
+    "price": 101.18,
+    "volume": 35151
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-22",
+    "price": 99.82,
+    "volume": 36055
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-21",
+    "price": 101.35,
+    "volume": 29121
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-20",
+    "price": 101.57,
+    "volume": 63706
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-19",
+    "price": 99.78,
+    "volume": 57531
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-16",
+    "price": 99.81,
+    "volume": 50152
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-15",
+    "price": 99.9,
+    "volume": 59290
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-14",
+    "price": 100.32,
+    "volume": 38968
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-13",
+    "price": 99.72,
+    "volume": 44107
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-12",
+    "price": 100.17,
+    "volume": 35138
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-09",
+    "price": 101.66,
+    "volume": 26593
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-08",
+    "price": 100.31,
+    "volume": 49349
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-07",
+    "price": 100.47,
+    "volume": 51201
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-06",
+    "price": 100.87,
+    "volume": 56019
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-02",
+    "price": 102.12,
+    "volume": 39663
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-07-01",
+    "price": 102.73,
+    "volume": 47615
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-30",
+    "price": 102.43,
+    "volume": 45530
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-29",
+    "price": 102.16,
+    "volume": 37814
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-28",
+    "price": 102.04,
+    "volume": 54835
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-25",
+    "price": 101.48,
+    "volume": 144512
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-24",
+    "price": 101.97,
+    "volume": 35830
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-23",
+    "price": 101.77,
+    "volume": 47475
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-22",
+    "price": 101.16,
+    "volume": 57294
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-21",
+    "price": 100.57,
+    "volume": 66171
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-18",
+    "price": 100.71,
+    "volume": 196118
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-17",
+    "price": 102.84,
+    "volume": 57693
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-16",
+    "price": 103.34,
+    "volume": 61929
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-15",
+    "price": 102.69,
+    "volume": 53510
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-14",
+    "price": 103.46,
+    "volume": 65428
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-11",
+    "price": 104.5,
+    "volume": 38650
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-10",
+    "price": 104.04,
+    "volume": 52029
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-09",
+    "price": 103.5,
+    "volume": 54906
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-08",
+    "price": 103.31,
+    "volume": 53322
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-07",
+    "price": 104.68,
+    "volume": 56479
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-04",
+    "price": 105.13,
+    "volume": 79065
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-03",
+    "price": 105.24,
+    "volume": 59362
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-02",
+    "price": 106,
+    "volume": 85505
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-06-01",
+    "price": 106.45,
+    "volume": 79690
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-28",
+    "price": 105.74,
+    "volume": 46631
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-27",
+    "price": 105.24,
+    "volume": 80096
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-26",
+    "price": 105.3,
+    "volume": 50947
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-25",
+    "price": 104.12,
+    "volume": 76325
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-24",
+    "price": 104.82,
+    "volume": 82337
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-21",
+    "price": 101.99,
+    "volume": 181768
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-20",
+    "price": 102.37,
+    "volume": 61404
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-19",
+    "price": 101.32,
+    "volume": 64751
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-18",
+    "price": 100.33,
+    "volume": 92205
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-17",
+    "price": 99.91,
+    "volume": 75167
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-14",
+    "price": 99.99,
+    "volume": 72774
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-13",
+    "price": 99.73,
+    "volume": 129055
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-12",
+    "price": 97.01,
+    "volume": 104284
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-11",
+    "price": 99.15,
+    "volume": 110588
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-10",
+    "price": 98.81,
+    "volume": 129930
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-07",
+    "price": 97.35,
+    "volume": 93395
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-06",
+    "price": 98.46,
+    "volume": 134587
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-05",
+    "price": 94.6,
+    "volume": 118141
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-04",
+    "price": 90.71,
+    "volume": 122453
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-05-03",
+    "price": 91.13,
+    "volume": 127036
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-30",
+    "price": 89.99,
+    "volume": 128305
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-29",
+    "price": 92.71,
+    "volume": 143110
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-28",
+    "price": 88.8,
+    "volume": 386241
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-27",
+    "price": 95.25,
+    "volume": 105941
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-26",
+    "price": 96.16,
+    "volume": 107816
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-23",
+    "price": 96.71,
+    "volume": 80365
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-22",
+    "price": 97.32,
+    "volume": 94478
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-21",
+    "price": 100.17,
+    "volume": 95635
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-20",
+    "price": 100.88,
+    "volume": 65252
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-19",
+    "price": 100.67,
+    "volume": 81845
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-16",
+    "price": 98.89,
+    "volume": 121729
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-15",
+    "price": 101.44,
+    "volume": 66393
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-14",
+    "price": 100.69,
+    "volume": 42643
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-13",
+    "price": 100.31,
+    "volume": 61922
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-12",
+    "price": 100.63,
+    "volume": 46976
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-09",
+    "price": 99.89,
+    "volume": 73793
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-08",
+    "price": 99.42,
+    "volume": 110732
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-07",
+    "price": 99.84,
+    "volume": 100417
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-06",
+    "price": 99.35,
+    "volume": 86564
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-05",
+    "price": 99.39,
+    "volume": 75526
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-04-01",
+    "price": 99.17,
+    "volume": 93430
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-31",
+    "price": 97.6,
+    "volume": 144146
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-30",
+    "price": 97.39,
+    "volume": 101033
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-29",
+    "price": 96.92,
+    "volume": 98088
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-26",
+    "price": 97.86,
+    "volume": 113192
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-25",
+    "price": 95.4,
+    "volume": 107159
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-24",
+    "price": 93.87,
+    "volume": 116040
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-23",
+    "price": 96.97,
+    "volume": 84438
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-22",
+    "price": 98.94,
+    "volume": 110683
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-19",
+    "price": 101.14,
+    "volume": 285113
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-18",
+    "price": 98.48,
+    "volume": 142866
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-17",
+    "price": 99.73,
+    "volume": 91285
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-16",
+    "price": 99.43,
+    "volume": 97052
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-15",
+    "price": 100.75,
+    "volume": 143939
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-12",
+    "price": 100.59,
+    "volume": 110815
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-11",
+    "price": 99.2,
+    "volume": 179217
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-10",
+    "price": 95.25,
+    "volume": 188504
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-09",
+    "price": 96.9,
+    "volume": 376535
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-08",
+    "price": 100.69,
+    "volume": 160677
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-05",
+    "price": 101.39,
+    "volume": 152201
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-04",
+    "price": 100.14,
+    "volume": 200564
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-03",
+    "price": 100.43,
+    "volume": 129677
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-02",
+    "price": 99.09,
+    "volume": 120523
+  },
+  {
+    "symbol": "USNA",
+    "date": "2021-03-01",
+    "price": 98.72,
+    "volume": 131926
+  }
+]

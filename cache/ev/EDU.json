@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "EDU",
+    "date": "2025-05-31",
+    "stockPrice": 47.36,
+    "numberOfShares": 161972800,
+    "marketCapitalization": 7671031808,
+    "minusCashAndCashEquivalents": 1612379000,
+    "addTotalDebt": 803776000,
+    "enterpriseValue": 6862428808
+  },
+  {
+    "symbol": "EDU",
+    "date": "2024-05-31",
+    "stockPrice": 79.93,
+    "numberOfShares": 165360000,
+    "marketCapitalization": 13217224800,
+    "minusCashAndCashEquivalents": 1389359000,
+    "addTotalDebt": 662330000,
+    "enterpriseValue": 12490195800
+  },
+  {
+    "symbol": "EDU",
+    "date": "2023-05-31",
+    "stockPrice": 37.67,
+    "numberOfShares": 167826000,
+    "marketCapitalization": 6322005420,
+    "minusCashAndCashEquivalents": 1662982000,
+    "addTotalDebt": 458595000,
+    "enterpriseValue": 5117618420
+  },
+  {
+    "symbol": "EDU",
+    "date": "2022-05-31",
+    "stockPrice": 13.06,
+    "numberOfShares": 169642000,
+    "marketCapitalization": 2215524520,
+    "minusCashAndCashEquivalents": 1148637000,
+    "addTotalDebt": 680411000,
+    "enterpriseValue": 1747298520
+  },
+  {
+    "symbol": "EDU",
+    "date": "2021-05-31",
+    "stockPrice": 110.9,
+    "numberOfShares": 164546000,
+    "marketCapitalization": 18248151400,
+    "minusCashAndCashEquivalents": 1612211000,
+    "addTotalDebt": 2162293000,
+    "enterpriseValue": 18798233400
+  },
+  {
+    "symbol": "EDU",
+    "date": "2020-05-31",
+    "stockPrice": 122,
+    "numberOfShares": 158430000,
+    "marketCapitalization": 19328460000,
+    "minusCashAndCashEquivalents": 915057000,
+    "addTotalDebt": 1580043000,
+    "enterpriseValue": 19993446000
+  },
+  {
+    "symbol": "EDU",
+    "date": "2019-05-31",
+    "stockPrice": 85.65,
+    "numberOfShares": 158294000,
+    "marketCapitalization": 13557881100,
+    "minusCashAndCashEquivalents": 1414171000,
+    "addTotalDebt": 96457000,
+    "enterpriseValue": 12240167100
+  },
+  {
+    "symbol": "EDU",
+    "date": "2018-05-31",
+    "stockPrice": 99.47,
+    "numberOfShares": 158169000,
+    "marketCapitalization": 15733070430,
+    "minusCashAndCashEquivalents": 983319000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 14749751430
+  },
+  {
+    "symbol": "EDU",
+    "date": "2017-05-31",
+    "stockPrice": 71.67,
+    "numberOfShares": 157551000,
+    "marketCapitalization": 11291680170,
+    "minusCashAndCashEquivalents": 641018000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 10650662170
+  },
+  {
+    "symbol": "EDU",
+    "date": "2016-05-31",
+    "stockPrice": 42.25,
+    "numberOfShares": 156782000,
+    "marketCapitalization": 6624039500,
+    "minusCashAndCashEquivalents": 709209000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 5914830500
+  }
+]

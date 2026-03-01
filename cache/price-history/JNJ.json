@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-27",
+    "price": 248.43,
+    "volume": 16428550
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-26",
+    "price": 243.47,
+    "volume": 7172607
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-25",
+    "price": 245.17,
+    "volume": 7698200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-24",
+    "price": 246.28,
+    "volume": 7246300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-23",
+    "price": 245.84,
+    "volume": 9622742
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-20",
+    "price": 242.49,
+    "volume": 13565800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-19",
+    "price": 246.91,
+    "volume": 7553934
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-18",
+    "price": 244.99,
+    "volume": 8129700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-17",
+    "price": 243.33,
+    "volume": 12703029
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-13",
+    "price": 243.45,
+    "volume": 13268519
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-12",
+    "price": 244.55,
+    "volume": 10254300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-11",
+    "price": 240.86,
+    "volume": 6803917
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-10",
+    "price": 238.35,
+    "volume": 6723300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-09",
+    "price": 238.64,
+    "volume": 9378548
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-06",
+    "price": 239.99,
+    "volume": 8274034
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-05",
+    "price": 237.79,
+    "volume": 10267500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-04",
+    "price": 234.47,
+    "volume": 8641449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-03",
+    "price": 233.1,
+    "volume": 9346605
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-02-02",
+    "price": 230.75,
+    "volume": 8187529
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-30",
+    "price": 227.25,
+    "volume": 11045529
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-29",
+    "price": 227.29,
+    "volume": 9645348
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-28",
+    "price": 227.72,
+    "volume": 9026500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-27",
+    "price": 224.44,
+    "volume": 8154489
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-26",
+    "price": 221.49,
+    "volume": 6857093
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-23",
+    "price": 220.14,
+    "volume": 6951040
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-22",
+    "price": 218.49,
+    "volume": 13160041
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-21",
+    "price": 218.01,
+    "volume": 14762900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-20",
+    "price": 218.21,
+    "volume": 14057136
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-16",
+    "price": 218.66,
+    "volume": 10021515
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-15",
+    "price": 219.57,
+    "volume": 8492116
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-14",
+    "price": 218.55,
+    "volume": 11858800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-13",
+    "price": 213.65,
+    "volume": 11379600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-12",
+    "price": 209.72,
+    "volume": 11794339
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-09",
+    "price": 204.39,
+    "volume": 6154326
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-08",
+    "price": 205.75,
+    "volume": 6557800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-07",
+    "price": 207.49,
+    "volume": 7545920
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-06",
+    "price": 204.79,
+    "volume": 8107900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-05",
+    "price": 204.31,
+    "volume": 9477000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2026-01-02",
+    "price": 207.35,
+    "volume": 6325672
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-31",
+    "price": 206.95,
+    "volume": 4084013
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-30",
+    "price": 206.91,
+    "volume": 3937400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-29",
+    "price": 207.56,
+    "volume": 4348900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-26",
+    "price": 207.63,
+    "volume": 2316730
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-24",
+    "price": 207.78,
+    "volume": 2376541
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-23",
+    "price": 205.78,
+    "volume": 7047346
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-22",
+    "price": 207.32,
+    "volume": 8187800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-19",
+    "price": 206.37,
+    "volume": 24803920
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-18",
+    "price": 208.31,
+    "volume": 7499900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-17",
+    "price": 210.33,
+    "volume": 8457600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-16",
+    "price": 209.3,
+    "volume": 9949810
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-15",
+    "price": 214.17,
+    "volume": 8467000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-12",
+    "price": 211.58,
+    "volume": 6922700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-11",
+    "price": 210.01,
+    "volume": 9009000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-10",
+    "price": 206.54,
+    "volume": 11599800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-09",
+    "price": 199.96,
+    "volume": 7509402
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-08",
+    "price": 201.62,
+    "volume": 7785708
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-05",
+    "price": 201.93,
+    "volume": 7785552
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-04",
+    "price": 202.48,
+    "volume": 9049943
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-03",
+    "price": 205.33,
+    "volume": 8363300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-02",
+    "price": 205.42,
+    "volume": 8393600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-12-01",
+    "price": 205.34,
+    "volume": 8473726
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-28",
+    "price": 206.92,
+    "volume": 5638300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-26",
+    "price": 207.56,
+    "volume": 6729000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-25",
+    "price": 206.67,
+    "volume": 10275724
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-24",
+    "price": 206.05,
+    "volume": 14803900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-21",
+    "price": 203.9,
+    "volume": 13189100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-20",
+    "price": 203.07,
+    "volume": 10612600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-19",
+    "price": 202.51,
+    "volume": 14690837
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-18",
+    "price": 200,
+    "volume": 12468619
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-17",
+    "price": 199.58,
+    "volume": 13257000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-14",
+    "price": 195.93,
+    "volume": 8824847
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-13",
+    "price": 195.25,
+    "volume": 8631614
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-12",
+    "price": 194.39,
+    "volume": 8803005
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-11",
+    "price": 193.83,
+    "volume": 7465600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-10",
+    "price": 188.41,
+    "volume": 5324077
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-07",
+    "price": 186.57,
+    "volume": 6959209
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-06",
+    "price": 186.97,
+    "volume": 6767417
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-05",
+    "price": 186,
+    "volume": 5049443
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-04",
+    "price": 186.86,
+    "volume": 7209400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-11-03",
+    "price": 186.26,
+    "volume": 7542636
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-31",
+    "price": 188.87,
+    "volume": 8791700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-30",
+    "price": 189.05,
+    "volume": 7072517
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-29",
+    "price": 186.6,
+    "volume": 10551100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-28",
+    "price": 186.93,
+    "volume": 8329500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-27",
+    "price": 190.3,
+    "volume": 7126000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-24",
+    "price": 190.4,
+    "volume": 6903400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-23",
+    "price": 192.47,
+    "volume": 8882500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-22",
+    "price": 192.94,
+    "volume": 6343472
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-21",
+    "price": 191.88,
+    "volume": 6716360
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-20",
+    "price": 193.72,
+    "volume": 8034740
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-17",
+    "price": 193.22,
+    "volume": 7764449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-16",
+    "price": 192.12,
+    "volume": 10611800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-15",
+    "price": 191.17,
+    "volume": 9473000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-14",
+    "price": 190.85,
+    "volume": 13613340
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-13",
+    "price": 190.9,
+    "volume": 7979500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-10",
+    "price": 190.72,
+    "volume": 9598019
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-09",
+    "price": 191.08,
+    "volume": 7484800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-08",
+    "price": 189.69,
+    "volume": 5751200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-07",
+    "price": 188.89,
+    "volume": 8776800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-06",
+    "price": 188.16,
+    "volume": 5806100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-03",
+    "price": 188.64,
+    "volume": 8675100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-02",
+    "price": 185.98,
+    "volume": 7728100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-10-01",
+    "price": 186.05,
+    "volume": 13063800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-30",
+    "price": 185.42,
+    "volume": 11569019
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-29",
+    "price": 181.62,
+    "volume": 8597100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-26",
+    "price": 179.71,
+    "volume": 8634403
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-25",
+    "price": 177.73,
+    "volume": 8475000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-24",
+    "price": 176.69,
+    "volume": 6676800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-23",
+    "price": 176.58,
+    "volume": 8350743
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-22",
+    "price": 174.21,
+    "volume": 7193900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-19",
+    "price": 176.19,
+    "volume": 25621000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-18",
+    "price": 174.16,
+    "volume": 8200900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-17",
+    "price": 177.2,
+    "volume": 6715188
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-16",
+    "price": 176.46,
+    "volume": 7959652
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-15",
+    "price": 177.4,
+    "volume": 4768547
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-12",
+    "price": 178.06,
+    "volume": 7220473
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-11",
+    "price": 178.5,
+    "volume": 5792527
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-10",
+    "price": 175.79,
+    "volume": 6891600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-09",
+    "price": 176.96,
+    "volume": 6005703
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-08",
+    "price": 178.13,
+    "volume": 8382514
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-05",
+    "price": 178.43,
+    "volume": 9733803
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-04",
+    "price": 178.76,
+    "volume": 7854833
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-03",
+    "price": 178,
+    "volume": 7111700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-09-02",
+    "price": 178.06,
+    "volume": 9049003
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-29",
+    "price": 177.17,
+    "volume": 6942311
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-28",
+    "price": 175.45,
+    "volume": 6424700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-27",
+    "price": 176.79,
+    "volume": 5951100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-26",
+    "price": 176.49,
+    "volume": 9145045
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-25",
+    "price": 178.41,
+    "volume": 6229149
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-22",
+    "price": 179.29,
+    "volume": 9524308
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-21",
+    "price": 178.93,
+    "volume": 8859600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-20",
+    "price": 178.84,
+    "volume": 9030396
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-19",
+    "price": 177.8,
+    "volume": 9274200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-18",
+    "price": 176.25,
+    "volume": 9284138
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-15",
+    "price": 176.64,
+    "volume": 9477600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-14",
+    "price": 174.72,
+    "volume": 8241942
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-13",
+    "price": 174.42,
+    "volume": 5878700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-12",
+    "price": 172.78,
+    "volume": 7917437
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-11",
+    "price": 173.82,
+    "volume": 7256800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-08",
+    "price": 173.33,
+    "volume": 7686800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-07",
+    "price": 171.53,
+    "volume": 9315942
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-06",
+    "price": 170.59,
+    "volume": 8957240
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-05",
+    "price": 170.74,
+    "volume": 7934442
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-04",
+    "price": 171.04,
+    "volume": 12679100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-08-01",
+    "price": 167.33,
+    "volume": 8928229
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-31",
+    "price": 164.74,
+    "volume": 11036200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-30",
+    "price": 167.26,
+    "volume": 6189200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-29",
+    "price": 168.11,
+    "volume": 7663408
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-28",
+    "price": 166.22,
+    "volume": 8014640
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-25",
+    "price": 168.3,
+    "volume": 6255183
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-24",
+    "price": 169.56,
+    "volume": 6636918
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-23",
+    "price": 169.1,
+    "volume": 10617636
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-22",
+    "price": 167.93,
+    "volume": 9288000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-21",
+    "price": 164.36,
+    "volume": 8254003
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-18",
+    "price": 163.7,
+    "volume": 9793046
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-17",
+    "price": 162.98,
+    "volume": 11295747
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-16",
+    "price": 164.78,
+    "volume": 22134800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-15",
+    "price": 155.17,
+    "volume": 6873200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-14",
+    "price": 156.82,
+    "volume": 10185632
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-11",
+    "price": 156.9,
+    "volume": 7872172
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-10",
+    "price": 157.69,
+    "volume": 6733128
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-09",
+    "price": 156.28,
+    "volume": 6147685
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-08",
+    "price": 155.79,
+    "volume": 6438221
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-07",
+    "price": 155.27,
+    "volume": 6270900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-03",
+    "price": 156.01,
+    "volume": 3482521
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-02",
+    "price": 155.56,
+    "volume": 5544030
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-07-01",
+    "price": 155.92,
+    "volume": 10896700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-30",
+    "price": 152.75,
+    "volume": 9039552
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-27",
+    "price": 152.41,
+    "volume": 10010800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-26",
+    "price": 152.01,
+    "volume": 7156903
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-25",
+    "price": 152.28,
+    "volume": 7153708
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-24",
+    "price": 152.19,
+    "volume": 9544217
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-23",
+    "price": 151.32,
+    "volume": 7397900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-20",
+    "price": 149.79,
+    "volume": 22605500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-18",
+    "price": 150.73,
+    "volume": 8325237
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-17",
+    "price": 152.38,
+    "volume": 6407100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-16",
+    "price": 155.22,
+    "volume": 7024000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-13",
+    "price": 157.1,
+    "volume": 6587849
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-12",
+    "price": 156.66,
+    "volume": 7075511
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-11",
+    "price": 155.26,
+    "volume": 6016039
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-10",
+    "price": 156.45,
+    "volume": 6791881
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-09",
+    "price": 155.23,
+    "volume": 5319232
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-06",
+    "price": 155.03,
+    "volume": 5391841
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-05",
+    "price": 153.66,
+    "volume": 5296258
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-04",
+    "price": 153.22,
+    "volume": 6983900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-03",
+    "price": 154.42,
+    "volume": 8209800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-06-02",
+    "price": 155.4,
+    "volume": 6669669
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-30",
+    "price": 155.21,
+    "volume": 15529716
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-29",
+    "price": 153.58,
+    "volume": 6810982
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-28",
+    "price": 152.43,
+    "volume": 8459310
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-27",
+    "price": 153.25,
+    "volume": 6990700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-23",
+    "price": 152.94,
+    "volume": 6727539
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-22",
+    "price": 152.61,
+    "volume": 7535335
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-21",
+    "price": 153.18,
+    "volume": 7032225
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-20",
+    "price": 153.66,
+    "volume": 7351500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-19",
+    "price": 152.49,
+    "volume": 12639948
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-16",
+    "price": 151.33,
+    "volume": 8051200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-15",
+    "price": 149.61,
+    "volume": 7945800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-14",
+    "price": 146.36,
+    "volume": 10216000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-13",
+    "price": 148.44,
+    "volume": 10549609
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-12",
+    "price": 154.14,
+    "volume": 9023800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-09",
+    "price": 154.22,
+    "volume": 6520449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-08",
+    "price": 155.66,
+    "volume": 7606100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-07",
+    "price": 157.3,
+    "volume": 7854106
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-06",
+    "price": 154.47,
+    "volume": 8644200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-05",
+    "price": 155,
+    "volume": 5464496
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-02",
+    "price": 156.12,
+    "volume": 5974539
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-05-01",
+    "price": 154.46,
+    "volume": 7325849
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-30",
+    "price": 156.31,
+    "volume": 9598200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-29",
+    "price": 155.91,
+    "volume": 5246725
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-28",
+    "price": 155.35,
+    "volume": 5815200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-25",
+    "price": 154.58,
+    "volume": 8643927
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-24",
+    "price": 154.93,
+    "volume": 8310425
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-23",
+    "price": 155.24,
+    "volume": 9099438
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-22",
+    "price": 157.75,
+    "volume": 7136321
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-21",
+    "price": 156.92,
+    "volume": 6285438
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-17",
+    "price": 157.47,
+    "volume": 10981100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-16",
+    "price": 153.91,
+    "volume": 7987296
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-15",
+    "price": 153.62,
+    "volume": 10847700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-14",
+    "price": 154.36,
+    "volume": 10685338
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-11",
+    "price": 151.73,
+    "volume": 9943900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-10",
+    "price": 148.69,
+    "volume": 13830500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-09",
+    "price": 150.97,
+    "volume": 18773742
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-08",
+    "price": 150,
+    "volume": 12018400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-07",
+    "price": 150.62,
+    "volume": 18083040
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-04",
+    "price": 153.24,
+    "volume": 16601728
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-03",
+    "price": 159.82,
+    "volume": 13249313
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-02",
+    "price": 155.36,
+    "volume": 10356920
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-04-01",
+    "price": 153.25,
+    "volume": 23303100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-31",
+    "price": 165.84,
+    "volume": 12481400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-28",
+    "price": 163.71,
+    "volume": 5760545
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-27",
+    "price": 163.13,
+    "volume": 6752500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-26",
+    "price": 161.72,
+    "volume": 7223773
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-25",
+    "price": 161.02,
+    "volume": 7456200
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-24",
+    "price": 163.29,
+    "volume": 8046565
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-21",
+    "price": 163.63,
+    "volume": 17047106
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-20",
+    "price": 163.02,
+    "volume": 7485930
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-19",
+    "price": 162.99,
+    "volume": 5936637
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-18",
+    "price": 164.25,
+    "volume": 7348974
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-17",
+    "price": 162.84,
+    "volume": 6669815
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-14",
+    "price": 162.81,
+    "volume": 6235800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-13",
+    "price": 162.99,
+    "volume": 5286734
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-12",
+    "price": 162.85,
+    "volume": 8010700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-11",
+    "price": 165.86,
+    "volume": 9890648
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-10",
+    "price": 167.7,
+    "volume": 17559000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-07",
+    "price": 166.69,
+    "volume": 9637600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-06",
+    "price": 165.83,
+    "volume": 8037900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-05",
+    "price": 165.12,
+    "volume": 8745050
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-04",
+    "price": 165.42,
+    "volume": 11999962
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-03-03",
+    "price": 167.28,
+    "volume": 9191500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-28",
+    "price": 165.02,
+    "volume": 12037415
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-27",
+    "price": 163.73,
+    "volume": 8364600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-26",
+    "price": 163.08,
+    "volume": 11396410
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-25",
+    "price": 166.09,
+    "volume": 12303700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-24",
+    "price": 163.74,
+    "volume": 10201917
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-21",
+    "price": 162.3,
+    "volume": 12546930
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-20",
+    "price": 159.68,
+    "volume": 7224030
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-19",
+    "price": 157.89,
+    "volume": 7974736
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-18",
+    "price": 154.99,
+    "volume": 9670700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-14",
+    "price": 156.15,
+    "volume": 6411840
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-13",
+    "price": 157.25,
+    "volume": 10705077
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-12",
+    "price": 155.26,
+    "volume": 7746014
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-11",
+    "price": 156.13,
+    "volume": 7554811
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-10",
+    "price": 154.24,
+    "volume": 6936561
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-07",
+    "price": 153.12,
+    "volume": 6204916
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-06",
+    "price": 153.51,
+    "volume": 7418468
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-05",
+    "price": 154.69,
+    "volume": 8946957
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-04",
+    "price": 153.49,
+    "volume": 9645289
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-02-03",
+    "price": 151.87,
+    "volume": 6687487
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-31",
+    "price": 152.15,
+    "volume": 8458715
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-30",
+    "price": 152.87,
+    "volume": 8910983
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-29",
+    "price": 151.15,
+    "volume": 7156421
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-28",
+    "price": 150.38,
+    "volume": 10320613
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-27",
+    "price": 152.91,
+    "volume": 15152314
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-24",
+    "price": 146.82,
+    "volume": 9887682
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-23",
+    "price": 146.64,
+    "volume": 10506361
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-22",
+    "price": 145.27,
+    "volume": 16834747
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-21",
+    "price": 148.15,
+    "volume": 11111747
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-17",
+    "price": 147.03,
+    "volume": 10773054
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-16",
+    "price": 147.77,
+    "volume": 8964016
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-15",
+    "price": 144.97,
+    "volume": 7434562
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-14",
+    "price": 144.75,
+    "volume": 8681741
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-13",
+    "price": 144.47,
+    "volume": 10376377
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-10",
+    "price": 142.06,
+    "volume": 8821541
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-08",
+    "price": 142.27,
+    "volume": 11175552
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-07",
+    "price": 146.23,
+    "volume": 8422010
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-06",
+    "price": 143.66,
+    "volume": 7910493
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-03",
+    "price": 144.19,
+    "volume": 5879816
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2025-01-02",
+    "price": 144.02,
+    "volume": 6051330
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-31",
+    "price": 144.62,
+    "volume": 5811401
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-30",
+    "price": 143.34,
+    "volume": 6268692
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-27",
+    "price": 145.05,
+    "volume": 5588306
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-26",
+    "price": 145.58,
+    "volume": 4656981
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-24",
+    "price": 145.85,
+    "volume": 3164071
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-23",
+    "price": 145.27,
+    "volume": 8720824
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-20",
+    "price": 144.47,
+    "volume": 17702755
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-19",
+    "price": 143.58,
+    "volume": 9516653
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-18",
+    "price": 144.75,
+    "volume": 9336094
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-17",
+    "price": 146.41,
+    "volume": 10342958
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-16",
+    "price": 143.85,
+    "volume": 8732378
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-13",
+    "price": 146.62,
+    "volume": 8324900
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-12",
+    "price": 146.24,
+    "volume": 6176269
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-11",
+    "price": 146.64,
+    "volume": 13446656
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-10",
+    "price": 149.23,
+    "volume": 9398671
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-09",
+    "price": 149.6,
+    "volume": 8410303
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-06",
+    "price": 149.31,
+    "volume": 8389611
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-05",
+    "price": 149.52,
+    "volume": 7898098
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-04",
+    "price": 150.47,
+    "volume": 10333110
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-03",
+    "price": 152.36,
+    "volume": 8674415
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-12-02",
+    "price": 154.8,
+    "volume": 6946494
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-29",
+    "price": 155.01,
+    "volume": 5687821
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-27",
+    "price": 155.4,
+    "volume": 4140444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-26",
+    "price": 154.52,
+    "volume": 5683499
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-25",
+    "price": 155.78,
+    "volume": 12256242
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-22",
+    "price": 155.17,
+    "volume": 8265961
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-21",
+    "price": 155.5,
+    "volume": 10141056
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-20",
+    "price": 153.11,
+    "volume": 9061274
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-19",
+    "price": 153,
+    "volume": 8233678
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-18",
+    "price": 154.77,
+    "volume": 7514177
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-15",
+    "price": 154,
+    "volume": 11328515
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-14",
+    "price": 151.87,
+    "volume": 7716385
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-13",
+    "price": 153.24,
+    "volume": 7162233
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-12",
+    "price": 152.64,
+    "volume": 7181408
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-11",
+    "price": 155.04,
+    "volume": 7146759
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-08",
+    "price": 155.47,
+    "volume": 8926134
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-07",
+    "price": 156.73,
+    "volume": 7522812
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-06",
+    "price": 157.88,
+    "volume": 8926601
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-05",
+    "price": 158.35,
+    "volume": 6547074
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-04",
+    "price": 158.24,
+    "volume": 4644011
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-11-01",
+    "price": 160.13,
+    "volume": 5256652
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-31",
+    "price": 159.86,
+    "volume": 8613860
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-30",
+    "price": 160.61,
+    "volume": 5820530
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-29",
+    "price": 160.09,
+    "volume": 5216879
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-28",
+    "price": 161.6,
+    "volume": 4842653
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-25",
+    "price": 160.88,
+    "volume": 6400449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-24",
+    "price": 163.67,
+    "volume": 5386525
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-23",
+    "price": 165.86,
+    "volume": 7442026
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-22",
+    "price": 163.45,
+    "volume": 5680612
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-21",
+    "price": 162.83,
+    "volume": 6082736
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-18",
+    "price": 165.12,
+    "volume": 5908012
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-17",
+    "price": 164.47,
+    "volume": 4798238
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-16",
+    "price": 164.28,
+    "volume": 5982291
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-15",
+    "price": 164.1,
+    "volume": 10547966
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-14",
+    "price": 161.6,
+    "volume": 5963961
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-11",
+    "price": 161.46,
+    "volume": 5253459
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-10",
+    "price": 160.51,
+    "volume": 4793889
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-09",
+    "price": 160.65,
+    "volume": 6047269
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-08",
+    "price": 159.69,
+    "volume": 4766250
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-07",
+    "price": 159.53,
+    "volume": 4265971
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-04",
+    "price": 160.29,
+    "volume": 5331694
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-03",
+    "price": 160.5,
+    "volume": 4791223
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-02",
+    "price": 161.17,
+    "volume": 4684472
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-10-01",
+    "price": 161.99,
+    "volume": 4408019
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-30",
+    "price": 162.06,
+    "volume": 6010407
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-27",
+    "price": 161.4,
+    "volume": 7553905
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-26",
+    "price": 161.39,
+    "volume": 6122231
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-25",
+    "price": 160.6,
+    "volume": 5420011
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-24",
+    "price": 162.78,
+    "volume": 6041561
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-23",
+    "price": 163.22,
+    "volume": 4671645
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-20",
+    "price": 164.16,
+    "volume": 11838967
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-19",
+    "price": 164.82,
+    "volume": 4956119
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-18",
+    "price": 166.15,
+    "volume": 4722765
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-17",
+    "price": 167.07,
+    "volume": 5066586
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-16",
+    "price": 166.99,
+    "volume": 5187887
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-13",
+    "price": 165.52,
+    "volume": 3693548
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-12",
+    "price": 164.64,
+    "volume": 4541046
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-11",
+    "price": 164.82,
+    "volume": 5920165
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-10",
+    "price": 167.38,
+    "volume": 6559734
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-09",
+    "price": 166.61,
+    "volume": 7538233
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-06",
+    "price": 164.38,
+    "volume": 6016884
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-05",
+    "price": 164.99,
+    "volume": 4600392
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-04",
+    "price": 167.36,
+    "volume": 6939132
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-09-03",
+    "price": 167.16,
+    "volume": 6956452
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-30",
+    "price": 165.86,
+    "volume": 7971017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-29",
+    "price": 164.23,
+    "volume": 7390125
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-28",
+    "price": 163.92,
+    "volume": 5187198
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-27",
+    "price": 162.95,
+    "volume": 4388728
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-26",
+    "price": 164.61,
+    "volume": 6870622
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-23",
+    "price": 164.13,
+    "volume": 7093429
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-22",
+    "price": 162.35,
+    "volume": 6552142
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-21",
+    "price": 161.43,
+    "volume": 5019375
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-20",
+    "price": 160.16,
+    "volume": 7275133
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-19",
+    "price": 159.63,
+    "volume": 4408517
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-16",
+    "price": 159.39,
+    "volume": 5012774
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-15",
+    "price": 159.09,
+    "volume": 7237785
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-14",
+    "price": 158.48,
+    "volume": 5141249
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-13",
+    "price": 158.39,
+    "volume": 9711395
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-12",
+    "price": 159.88,
+    "volume": 7605419
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-09",
+    "price": 160.62,
+    "volume": 4579186
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-08",
+    "price": 160.22,
+    "volume": 5094830
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-07",
+    "price": 158.9,
+    "volume": 5993028
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-06",
+    "price": 158.97,
+    "volume": 7607144
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-05",
+    "price": 161.25,
+    "volume": 12032209
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-02",
+    "price": 164.14,
+    "volume": 11280357
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-08-01",
+    "price": 160.76,
+    "volume": 7213419
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-31",
+    "price": 157.85,
+    "volume": 8293239
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-30",
+    "price": 161.33,
+    "volume": 6545677
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-29",
+    "price": 158.56,
+    "volume": 5625204
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-26",
+    "price": 160.64,
+    "volume": 8356878
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-25",
+    "price": 159.64,
+    "volume": 10019578
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-24",
+    "price": 156.28,
+    "volume": 7168217
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-23",
+    "price": 152.35,
+    "volume": 6261870
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-22",
+    "price": 154.24,
+    "volume": 6840609
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-19",
+    "price": 154.69,
+    "volume": 7398036
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-18",
+    "price": 155.42,
+    "volume": 10166247
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-17",
+    "price": 156.58,
+    "volume": 13801429
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-16",
+    "price": 151.01,
+    "volume": 6469582
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-15",
+    "price": 149.24,
+    "volume": 6711354
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-12",
+    "price": 149.88,
+    "volume": 5336394
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-11",
+    "price": 149.7,
+    "volume": 6352109
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-10",
+    "price": 149.43,
+    "volume": 6093187
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-09",
+    "price": 147.05,
+    "volume": 5892187
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-08",
+    "price": 145.48,
+    "volume": 5260229
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-05",
+    "price": 146.48,
+    "volume": 4888535
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-03",
+    "price": 145.69,
+    "volume": 3246157
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-02",
+    "price": 146.03,
+    "volume": 5491962
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-07-01",
+    "price": 146.44,
+    "volume": 5144443
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-28",
+    "price": 146.16,
+    "volume": 10495735
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-27",
+    "price": 145.8,
+    "volume": 5739246
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-26",
+    "price": 146.82,
+    "volume": 5267809
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-25",
+    "price": 147.19,
+    "volume": 6620303
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-24",
+    "price": 149.12,
+    "volume": 6914671
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-21",
+    "price": 148.75,
+    "volume": 15176869
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-20",
+    "price": 147.78,
+    "volume": 8749717
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-18",
+    "price": 145.65,
+    "volume": 6156572
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-17",
+    "price": 145.95,
+    "volume": 6668651
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-14",
+    "price": 145.54,
+    "volume": 4075342
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-13",
+    "price": 145.45,
+    "volume": 6840374
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-12",
+    "price": 145.41,
+    "volume": 6180493
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-11",
+    "price": 146.76,
+    "volume": 5661236
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-10",
+    "price": 147.13,
+    "volume": 5751309
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-07",
+    "price": 147.08,
+    "volume": 5111626
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-06",
+    "price": 146.42,
+    "volume": 5016301
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-05",
+    "price": 145.97,
+    "volume": 5891299
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-04",
+    "price": 147.8,
+    "volume": 8876441
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-06-03",
+    "price": 147.74,
+    "volume": 7329241
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-31",
+    "price": 146.67,
+    "volume": 14621203
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-30",
+    "price": 145.28,
+    "volume": 8491111
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-29",
+    "price": 144.44,
+    "volume": 8263810
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-28",
+    "price": 144.38,
+    "volume": 10499829
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-24",
+    "price": 146.97,
+    "volume": 9520576
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-23",
+    "price": 149.7,
+    "volume": 8000422
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-22",
+    "price": 153.5,
+    "volume": 6609788
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-21",
+    "price": 151.24,
+    "volume": 5492354
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-20",
+    "price": 151.27,
+    "volume": 7742280
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-17",
+    "price": 154.64,
+    "volume": 6521794
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-16",
+    "price": 154.28,
+    "volume": 7590959
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-15",
+    "price": 152.67,
+    "volume": 5547955
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-14",
+    "price": 151.38,
+    "volume": 8254171
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-13",
+    "price": 151.22,
+    "volume": 5628467
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-10",
+    "price": 149.91,
+    "volume": 5710566
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-09",
+    "price": 149.85,
+    "volume": 6546153
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-08",
+    "price": 148.95,
+    "volume": 7735148
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-07",
+    "price": 148.72,
+    "volume": 7333730
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-06",
+    "price": 148.58,
+    "volume": 5042757
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-03",
+    "price": 149.27,
+    "volume": 6532718
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-02",
+    "price": 149.92,
+    "volume": 8459796
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-05-01",
+    "price": 151.18,
+    "volume": 14473711
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-30",
+    "price": 144.59,
+    "volume": 8817719
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-29",
+    "price": 146.82,
+    "volume": 6461588
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-26",
+    "price": 146.14,
+    "volume": 6182982
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-25",
+    "price": 146.82,
+    "volume": 7642732
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-24",
+    "price": 148.53,
+    "volume": 9756259
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-23",
+    "price": 149.56,
+    "volume": 10110442
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-22",
+    "price": 149.12,
+    "volume": 10118694
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-19",
+    "price": 147.91,
+    "volume": 9750751
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-18",
+    "price": 145.74,
+    "volume": 9887704
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-17",
+    "price": 144.77,
+    "volume": 9378059
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-16",
+    "price": 144.45,
+    "volume": 12774859
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-15",
+    "price": 147.59,
+    "volume": 8502266
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-12",
+    "price": 147.52,
+    "volume": 7100178
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-11",
+    "price": 148.79,
+    "volume": 8374434
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-10",
+    "price": 150.2,
+    "volume": 6809519
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-09",
+    "price": 152.29,
+    "volume": 6135556
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-08",
+    "price": 151.59,
+    "volume": 5935415
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-05",
+    "price": 152.39,
+    "volume": 6783020
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-04",
+    "price": 152.5,
+    "volume": 6947423
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-03",
+    "price": 154.26,
+    "volume": 8098242
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-02",
+    "price": 157.73,
+    "volume": 6102497
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-04-01",
+    "price": 157.78,
+    "volume": 4364699
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-28",
+    "price": 158.19,
+    "volume": 6181503
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-27",
+    "price": 157.96,
+    "volume": 8461600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-26",
+    "price": 155.77,
+    "volume": 6864099
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-25",
+    "price": 155.22,
+    "volume": 7498100
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-22",
+    "price": 155.23,
+    "volume": 7248622
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-21",
+    "price": 155.75,
+    "volume": 5915777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-20",
+    "price": 155.76,
+    "volume": 5982304
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-19",
+    "price": 156.21,
+    "volume": 7840624
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-18",
+    "price": 156.76,
+    "volume": 6602255
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-15",
+    "price": 158.18,
+    "volume": 13165500
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-14",
+    "price": 159.21,
+    "volume": 6988264
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-13",
+    "price": 161.1,
+    "volume": 6260000
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-12",
+    "price": 162.74,
+    "volume": 8018736
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-11",
+    "price": 161.23,
+    "volume": 4620826
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-08",
+    "price": 159.52,
+    "volume": 5283951
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-07",
+    "price": 158.87,
+    "volume": 5188726
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-06",
+    "price": 159.34,
+    "volume": 5773683
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-05",
+    "price": 159.97,
+    "volume": 8298182
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-04",
+    "price": 159.84,
+    "volume": 8533083
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-03-01",
+    "price": 162.12,
+    "volume": 5670135
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-29",
+    "price": 161.38,
+    "volume": 9849270
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-28",
+    "price": 161.55,
+    "volume": 6071076
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-27",
+    "price": 160.98,
+    "volume": 5078650
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-26",
+    "price": 160.79,
+    "volume": 5465417
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-23",
+    "price": 161.84,
+    "volume": 6725963
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-22",
+    "price": 160.45,
+    "volume": 8065010
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-21",
+    "price": 158.68,
+    "volume": 7473300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-20",
+    "price": 157.86,
+    "volume": 9501742
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-16",
+    "price": 156.55,
+    "volume": 8540961
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-15",
+    "price": 157.92,
+    "volume": 7462529
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-14",
+    "price": 155.74,
+    "volume": 9098805
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-13",
+    "price": 156.47,
+    "volume": 8621022
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-12",
+    "price": 157.85,
+    "volume": 6701508
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-09",
+    "price": 156.76,
+    "volume": 6529202
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-08",
+    "price": 156.4,
+    "volume": 9754960
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-07",
+    "price": 157.98,
+    "volume": 8690294
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-06",
+    "price": 158.06,
+    "volume": 9230611
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-05",
+    "price": 155.8,
+    "volume": 9121808
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-02",
+    "price": 156.61,
+    "volume": 8295916
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-02-01",
+    "price": 158.36,
+    "volume": 8012122
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-31",
+    "price": 158.9,
+    "volume": 8257029
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-30",
+    "price": 158.77,
+    "volume": 7200538
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-29",
+    "price": 159.36,
+    "volume": 6483190
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-26",
+    "price": 159.5,
+    "volume": 5591930
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-25",
+    "price": 159.56,
+    "volume": 5478898
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-24",
+    "price": 158.96,
+    "volume": 7247926
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-23",
+    "price": 159.81,
+    "volume": 9149777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-22",
+    "price": 162.47,
+    "volume": 6824156
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-19",
+    "price": 161.68,
+    "volume": 7071320
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-18",
+    "price": 161.21,
+    "volume": 5368502
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-17",
+    "price": 160.43,
+    "volume": 5072104
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-16",
+    "price": 160.52,
+    "volume": 6923174
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-12",
+    "price": 162.39,
+    "volume": 4496942
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-11",
+    "price": 161.15,
+    "volume": 4946015
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-10",
+    "price": 161.87,
+    "volume": 4945088
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-09",
+    "price": 161.63,
+    "volume": 6357014
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-08",
+    "price": 161.53,
+    "volume": 6569810
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-05",
+    "price": 161.13,
+    "volume": 5602564
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-04",
+    "price": 160.63,
+    "volume": 6766641
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-03",
+    "price": 160.97,
+    "volume": 8231987
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2024-01-02",
+    "price": 159.97,
+    "volume": 9622108
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-29",
+    "price": 156.74,
+    "volume": 4313691
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-28",
+    "price": 156.58,
+    "volume": 4377535
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-27",
+    "price": 156.35,
+    "volume": 5288101
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-26",
+    "price": 156.14,
+    "volume": 4170190
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-22",
+    "price": 155.46,
+    "volume": 3798865
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-21",
+    "price": 154.84,
+    "volume": 4598843
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-20",
+    "price": 153.27,
+    "volume": 7008313
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-19",
+    "price": 156.46,
+    "volume": 6651744
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-18",
+    "price": 155.44,
+    "volume": 7231383
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-15",
+    "price": 155.16,
+    "volume": 21727754
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-14",
+    "price": 156.87,
+    "volume": 9240800
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-13",
+    "price": 155.79,
+    "volume": 10764575
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-12",
+    "price": 155.07,
+    "volume": 5324406
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-11",
+    "price": 155.06,
+    "volume": 6090360
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-08",
+    "price": 154.42,
+    "volume": 6254673
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-07",
+    "price": 155.4,
+    "volume": 6532388
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-06",
+    "price": 156.62,
+    "volume": 6642891
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-05",
+    "price": 158.55,
+    "volume": 7268151
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-04",
+    "price": 158.88,
+    "volume": 8920279
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-12-01",
+    "price": 158.38,
+    "volume": 10342901
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-30",
+    "price": 154.66,
+    "volume": 12481867
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-29",
+    "price": 152.11,
+    "volume": 5190026
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-28",
+    "price": 151.63,
+    "volume": 5909044
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-27",
+    "price": 151.28,
+    "volume": 6449740
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-24",
+    "price": 152.5,
+    "volume": 3351448
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-22",
+    "price": 150.82,
+    "volume": 4635503
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-21",
+    "price": 151.12,
+    "volume": 5916344
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-20",
+    "price": 149.91,
+    "volume": 8860472
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-17",
+    "price": 149.79,
+    "volume": 7025544
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-16",
+    "price": 150.1,
+    "volume": 6875566
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-15",
+    "price": 148.8,
+    "volume": 6729120
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-14",
+    "price": 147.66,
+    "volume": 6713647
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-13",
+    "price": 147.63,
+    "volume": 5889367
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-10",
+    "price": 147.25,
+    "volume": 6931611
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-09",
+    "price": 147.42,
+    "volume": 6973598
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-08",
+    "price": 150.35,
+    "volume": 5460167
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-07",
+    "price": 150.9,
+    "volume": 4840590
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-06",
+    "price": 151.7,
+    "volume": 4851421
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-03",
+    "price": 151.34,
+    "volume": 4926765
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-02",
+    "price": 150.24,
+    "volume": 5349097
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-11-01",
+    "price": 148.69,
+    "volume": 5732973
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-31",
+    "price": 148.34,
+    "volume": 7577017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-30",
+    "price": 147.03,
+    "volume": 8205509
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-27",
+    "price": 145.6,
+    "volume": 11385751
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-26",
+    "price": 149,
+    "volume": 7612507
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-25",
+    "price": 151.57,
+    "volume": 5880816
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-24",
+    "price": 151.23,
+    "volume": 6155269
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-23",
+    "price": 151.39,
+    "volume": 5873981
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-20",
+    "price": 153,
+    "volume": 7206976
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-19",
+    "price": 152.32,
+    "volume": 7733790
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-18",
+    "price": 152.73,
+    "volume": 9097348
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-17",
+    "price": 156.09,
+    "volume": 12244374
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-16",
+    "price": 157.53,
+    "volume": 6408142
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-13",
+    "price": 156.85,
+    "volume": 5360347
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-12",
+    "price": 156.33,
+    "volume": 5792419
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-11",
+    "price": 156.18,
+    "volume": 6922907
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-10",
+    "price": 158.36,
+    "volume": 5273531
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-09",
+    "price": 158.54,
+    "volume": 4414322
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-06",
+    "price": 157.64,
+    "volume": 5802226
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-05",
+    "price": 157.14,
+    "volume": 5993541
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-04",
+    "price": 155.52,
+    "volume": 4955308
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-03",
+    "price": 155.34,
+    "volume": 5741035
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-10-02",
+    "price": 155.15,
+    "volume": 7259935
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-29",
+    "price": 155.75,
+    "volume": 7680711
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-28",
+    "price": 156.88,
+    "volume": 7861879
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-27",
+    "price": 157.11,
+    "volume": 10210686
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-26",
+    "price": 159.02,
+    "volume": 4904860
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-25",
+    "price": 160.26,
+    "volume": 6722584
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-22",
+    "price": 160.5,
+    "volume": 4977354
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-21",
+    "price": 161.66,
+    "volume": 4526772
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-20",
+    "price": 162.91,
+    "volume": 3837595
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-19",
+    "price": 162.2,
+    "volume": 5550851
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-18",
+    "price": 162.47,
+    "volume": 5789146
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-15",
+    "price": 161.45,
+    "volume": 13392074
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-14",
+    "price": 163.74,
+    "volume": 7758552
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-13",
+    "price": 163.99,
+    "volume": 7397520
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-12",
+    "price": 163.58,
+    "volume": 6045756
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-11",
+    "price": 162.66,
+    "volume": 6309295
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-08",
+    "price": 160.56,
+    "volume": 6958201
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-07",
+    "price": 160.03,
+    "volume": 9931811
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-06",
+    "price": 158.01,
+    "volume": 9753833
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-05",
+    "price": 160.68,
+    "volume": 9019777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-09-01",
+    "price": 160.48,
+    "volume": 8610052
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-31",
+    "price": 161.68,
+    "volume": 15332999
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-30",
+    "price": 163.73,
+    "volume": 9939097
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-29",
+    "price": 164.31,
+    "volume": 12208612
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-28",
+    "price": 164.29,
+    "volume": 18457993
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-25",
+    "price": 166.25,
+    "volume": 18185517
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-24",
+    "price": 165.09,
+    "volume": 70755064
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-23",
+    "price": 164.53,
+    "volume": 119011431
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-22",
+    "price": 166.02,
+    "volume": 56835372
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-21",
+    "price": 167.35,
+    "volume": 151319484
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-18",
+    "price": 172.49,
+    "volume": 49631742
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-17",
+    "price": 174.01,
+    "volume": 70904183
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-16",
+    "price": 172.39,
+    "volume": 85594288
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-15",
+    "price": 172.94,
+    "volume": 88924923
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-14",
+    "price": 173.44,
+    "volume": 64036947
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-11",
+    "price": 173.85,
+    "volume": 45905612
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-10",
+    "price": 172.17,
+    "volume": 48213840
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-09",
+    "price": 173.07,
+    "volume": 42974372
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-08",
+    "price": 173.18,
+    "volume": 27378701
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-07",
+    "price": 173.1,
+    "volume": 17736444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-04",
+    "price": 169.04,
+    "volume": 23415053
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-03",
+    "price": 170.64,
+    "volume": 17425230
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-02",
+    "price": 169.91,
+    "volume": 14599264
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-08-01",
+    "price": 168.89,
+    "volume": 15811545
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-31",
+    "price": 167.53,
+    "volume": 22632720
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-28",
+    "price": 174.48,
+    "volume": 14138839
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-27",
+    "price": 173.69,
+    "volume": 12446386
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-26",
+    "price": 172.72,
+    "volume": 14288173
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-25",
+    "price": 172.39,
+    "volume": 13790053
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-24",
+    "price": 171.08,
+    "volume": 15155446
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-21",
+    "price": 170.19,
+    "volume": 12079999
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-20",
+    "price": 168.38,
+    "volume": 21892881
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-19",
+    "price": 158.74,
+    "volume": 7522557
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-18",
+    "price": 159.06,
+    "volume": 6332509
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-17",
+    "price": 159.07,
+    "volume": 5488030
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-14",
+    "price": 159.87,
+    "volume": 5362237
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-13",
+    "price": 158.81,
+    "volume": 6401743
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-12",
+    "price": 158.08,
+    "volume": 6940442
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-11",
+    "price": 158.63,
+    "volume": 6606956
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-10",
+    "price": 159.51,
+    "volume": 5739364
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-07",
+    "price": 159.25,
+    "volume": 7022226
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-06",
+    "price": 161.6,
+    "volume": 6333687
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-05",
+    "price": 162.81,
+    "volume": 7225523
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-07-03",
+    "price": 163.35,
+    "volume": 4033713
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-30",
+    "price": 165.52,
+    "volume": 7580141
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-29",
+    "price": 164.1,
+    "volume": 4547514
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-28",
+    "price": 162.96,
+    "volume": 6780435
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-27",
+    "price": 163.29,
+    "volume": 4927711
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-26",
+    "price": 163.63,
+    "volume": 6978804
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-23",
+    "price": 165.48,
+    "volume": 9450724
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-22",
+    "price": 165.62,
+    "volume": 5486186
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-21",
+    "price": 163.88,
+    "volume": 7177549
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-20",
+    "price": 164.13,
+    "volume": 7996117
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-16",
+    "price": 164.23,
+    "volume": 13426606
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-15",
+    "price": 163.73,
+    "volume": 7138314
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-14",
+    "price": 161.56,
+    "volume": 6699139
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-13",
+    "price": 160.74,
+    "volume": 6066788
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-12",
+    "price": 159.9,
+    "volume": 6511261
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-09",
+    "price": 160.01,
+    "volume": 6264779
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-08",
+    "price": 160.26,
+    "volume": 5818952
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-07",
+    "price": 158.52,
+    "volume": 6504285
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-06",
+    "price": 158.18,
+    "volume": 5073642
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-05",
+    "price": 158.32,
+    "volume": 6828969
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-02",
+    "price": 156.97,
+    "volume": 7659721
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-06-01",
+    "price": 154.54,
+    "volume": 7901348
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-31",
+    "price": 155.06,
+    "volume": 11324588
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-30",
+    "price": 154.37,
+    "volume": 5593080
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-26",
+    "price": 154.35,
+    "volume": 6845396
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-25",
+    "price": 154.41,
+    "volume": 6886056
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-24",
+    "price": 156.66,
+    "volume": 5015148
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-23",
+    "price": 156.81,
+    "volume": 5793009
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-22",
+    "price": 156.87,
+    "volume": 5675927
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-19",
+    "price": 158.91,
+    "volume": 6527141
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-18",
+    "price": 158.48,
+    "volume": 5172966
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-17",
+    "price": 158.99,
+    "volume": 6840687
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-16",
+    "price": 159.34,
+    "volume": 5599505
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-15",
+    "price": 159.55,
+    "volume": 5104486
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-12",
+    "price": 160.78,
+    "volume": 3904327
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-11",
+    "price": 160.99,
+    "volume": 5867620
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-10",
+    "price": 161.65,
+    "volume": 6756629
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-09",
+    "price": 161.05,
+    "volume": 5520642
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-08",
+    "price": 162.31,
+    "volume": 4994929
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-05",
+    "price": 162.68,
+    "volume": 5194461
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-04",
+    "price": 162.13,
+    "volume": 5127992
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-03",
+    "price": 162.87,
+    "volume": 5937170
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-02",
+    "price": 165.03,
+    "volume": 7541724
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-05-01",
+    "price": 163.6,
+    "volume": 4893426
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-28",
+    "price": 163.7,
+    "volume": 6024864
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-27",
+    "price": 163,
+    "volume": 5739700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-26",
+    "price": 162.62,
+    "volume": 5518174
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-25",
+    "price": 165.18,
+    "volume": 6263103
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-24",
+    "price": 163.68,
+    "volume": 5278892
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-21",
+    "price": 162.69,
+    "volume": 7014214
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-20",
+    "price": 163.58,
+    "volume": 9498768
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-19",
+    "price": 162.53,
+    "volume": 6752006
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-18",
+    "price": 161.01,
+    "volume": 14571485
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-17",
+    "price": 165.67,
+    "volume": 8046428
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-14",
+    "price": 165.84,
+    "volume": 7225127
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-13",
+    "price": 166.11,
+    "volume": 5640617
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-12",
+    "price": 163.92,
+    "volume": 5764240
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-11",
+    "price": 164.27,
+    "volume": 5903824
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-10",
+    "price": 164.32,
+    "volume": 5353951
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-06",
+    "price": 165.15,
+    "volume": 9615407
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-05",
+    "price": 165.61,
+    "volume": 16704181
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-04",
+    "price": 158.49,
+    "volume": 8314527
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-04-03",
+    "price": 156.85,
+    "volume": 6841888
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-31",
+    "price": 155,
+    "volume": 9890047
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-30",
+    "price": 153.43,
+    "volume": 4555905
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-29",
+    "price": 153.31,
+    "volume": 6012030
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-28",
+    "price": 151.82,
+    "volume": 6115293
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-27",
+    "price": 153.3,
+    "volume": 6772282
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-24",
+    "price": 152.65,
+    "volume": 5696845
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-23",
+    "price": 151.13,
+    "volume": 9051510
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-22",
+    "price": 151.05,
+    "volume": 7943527
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-21",
+    "price": 153.89,
+    "volume": 8376843
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-20",
+    "price": 153.89,
+    "volume": 7128958
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-17",
+    "price": 152.38,
+    "volume": 20540668
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-16",
+    "price": 154.03,
+    "volume": 7606979
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-15",
+    "price": 154.35,
+    "volume": 7757686
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-14",
+    "price": 153.92,
+    "volume": 8421189
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-13",
+    "price": 153.06,
+    "volume": 10799575
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-10",
+    "price": 151.61,
+    "volume": 8504316
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-09",
+    "price": 151.24,
+    "volume": 7439367
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-08",
+    "price": 152.96,
+    "volume": 6230522
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-07",
+    "price": 154.09,
+    "volume": 7457731
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-06",
+    "price": 155.56,
+    "volume": 8148207
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-03",
+    "price": 154.02,
+    "volume": 5747158
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-02",
+    "price": 152.45,
+    "volume": 8765070
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-03-01",
+    "price": 152.57,
+    "volume": 6766972
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-28",
+    "price": 153.26,
+    "volume": 9062342
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-27",
+    "price": 155.63,
+    "volume": 7267122
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-24",
+    "price": 155.97,
+    "volume": 8689726
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-23",
+    "price": 157.73,
+    "volume": 9385092
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-22",
+    "price": 157.78,
+    "volume": 9820240
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-21",
+    "price": 158,
+    "volume": 9423860
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-17",
+    "price": 160.39,
+    "volume": 12401926
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-16",
+    "price": 158.24,
+    "volume": 11176958
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-15",
+    "price": 159.37,
+    "volume": 12633301
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-14",
+    "price": 162.04,
+    "volume": 6316011
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-13",
+    "price": 162.75,
+    "volume": 6414709
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-10",
+    "price": 162.15,
+    "volume": 7028039
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-09",
+    "price": 161.4,
+    "volume": 7949544
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-08",
+    "price": 163.61,
+    "volume": 6054697
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-07",
+    "price": 163.4,
+    "volume": 7310756
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-06",
+    "price": 163.36,
+    "volume": 7020989
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-03",
+    "price": 164.61,
+    "volume": 6868540
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-02",
+    "price": 165.54,
+    "volume": 10098965
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-02-01",
+    "price": 164.92,
+    "volume": 9865296
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-31",
+    "price": 163.42,
+    "volume": 11612526
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-30",
+    "price": 162,
+    "volume": 23259077
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-27",
+    "price": 168.23,
+    "volume": 6058104
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-26",
+    "price": 168.89,
+    "volume": 6946106
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-25",
+    "price": 169.51,
+    "volume": 7099816
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-24",
+    "price": 168.31,
+    "volume": 10541842
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-23",
+    "price": 168.31,
+    "volume": 8425412
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-20",
+    "price": 168.74,
+    "volume": 8620553
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-19",
+    "price": 169.53,
+    "volume": 6939514
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-18",
+    "price": 169.76,
+    "volume": 7047759
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-17",
+    "price": 172.36,
+    "volume": 6053302
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-13",
+    "price": 173.43,
+    "volume": 6088155
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-12",
+    "price": 174,
+    "volume": 4269394
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-11",
+    "price": 174.88,
+    "volume": 6494755
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-10",
+    "price": 175.16,
+    "volume": 5047467
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-09",
+    "price": 175.58,
+    "volume": 7925277
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-06",
+    "price": 180.25,
+    "volume": 5705960
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-05",
+    "price": 178.8,
+    "volume": 6255308
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-04",
+    "price": 180.13,
+    "volume": 9788784
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2023-01-03",
+    "price": 178.19,
+    "volume": 6344864
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-30",
+    "price": 176.65,
+    "volume": 4216656
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-29",
+    "price": 177.56,
+    "volume": 2828780
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-28",
+    "price": 176.66,
+    "volume": 2645619
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-27",
+    "price": 177.43,
+    "volume": 3067292
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-23",
+    "price": 177.48,
+    "volume": 3683420
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-22",
+    "price": 177.03,
+    "volume": 5709312
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-21",
+    "price": 177.68,
+    "volume": 5471973
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-20",
+    "price": 175.67,
+    "volume": 6174730
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-19",
+    "price": 175.48,
+    "volume": 5736042
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-16",
+    "price": 175.67,
+    "volume": 18841796
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-15",
+    "price": 177.49,
+    "volume": 7602616
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-14",
+    "price": 179.76,
+    "volume": 9533583
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-13",
+    "price": 179.21,
+    "volume": 9177603
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-12",
+    "price": 177.84,
+    "volume": 4882385
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-09",
+    "price": 175.74,
+    "volume": 4560968
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-08",
+    "price": 177.2,
+    "volume": 4798463
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-07",
+    "price": 177.17,
+    "volume": 5702579
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-06",
+    "price": 176.1,
+    "volume": 7943506
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-05",
+    "price": 178.78,
+    "volume": 5120648
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-02",
+    "price": 178.88,
+    "volume": 5824048
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-12-01",
+    "price": 178.74,
+    "volume": 6282567
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-30",
+    "price": 178,
+    "volume": 13288014
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-29",
+    "price": 176.09,
+    "volume": 6700469
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-28",
+    "price": 177.33,
+    "volume": 6183178
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-25",
+    "price": 177.24,
+    "volume": 3058608
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-23",
+    "price": 177.01,
+    "volume": 5389488
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-22",
+    "price": 176.82,
+    "volume": 4708028
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-21",
+    "price": 175.97,
+    "volume": 5706552
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-18",
+    "price": 176.2,
+    "volume": 6555709
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-17",
+    "price": 174.86,
+    "volume": 4465845
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-16",
+    "price": 173.46,
+    "volume": 5501017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-15",
+    "price": 172.39,
+    "volume": 9350954
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-14",
+    "price": 171.91,
+    "volume": 6581488
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-11",
+    "price": 169.25,
+    "volume": 11074659
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-10",
+    "price": 174.47,
+    "volume": 7877515
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-09",
+    "price": 172.45,
+    "volume": 6150217
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-08",
+    "price": 173.84,
+    "volume": 5148386
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-07",
+    "price": 172.98,
+    "volume": 6621046
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-04",
+    "price": 171.48,
+    "volume": 5300904
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-03",
+    "price": 170.72,
+    "volume": 4819890
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-02",
+    "price": 170.43,
+    "volume": 6878410
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-11-01",
+    "price": 173.09,
+    "volume": 6985027
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-31",
+    "price": 173.97,
+    "volume": 7809972
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-28",
+    "price": 174.87,
+    "volume": 6073933
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-27",
+    "price": 172.31,
+    "volume": 5390871
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-26",
+    "price": 172.21,
+    "volume": 6124314
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-25",
+    "price": 170.71,
+    "volume": 5661948
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-24",
+    "price": 170.98,
+    "volume": 6855502
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-21",
+    "price": 168.71,
+    "volume": 8487565
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-20",
+    "price": 165.11,
+    "volume": 5659884
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-19",
+    "price": 164.69,
+    "volume": 10044639
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-18",
+    "price": 166.01,
+    "volume": 10883584
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-17",
+    "price": 166.59,
+    "volume": 6710843
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-14",
+    "price": 164.46,
+    "volume": 5684946
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-13",
+    "price": 165.15,
+    "volume": 6465108
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-12",
+    "price": 162.69,
+    "volume": 4341741
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-11",
+    "price": 162.73,
+    "volume": 6212362
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-10",
+    "price": 160.41,
+    "volume": 5315589
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-07",
+    "price": 160.2,
+    "volume": 6363549
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-06",
+    "price": 161.91,
+    "volume": 5890654
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-05",
+    "price": 165.11,
+    "volume": 4539577
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-04",
+    "price": 165.62,
+    "volume": 6236107
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-10-03",
+    "price": 163.2,
+    "volume": 8656972
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-30",
+    "price": 163.36,
+    "volume": 8985190
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-29",
+    "price": 164.53,
+    "volume": 7008279
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-28",
+    "price": 166.36,
+    "volume": 8661065
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-27",
+    "price": 164.94,
+    "volume": 8686684
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-26",
+    "price": 165.7,
+    "volume": 8735455
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-23",
+    "price": 166.72,
+    "volume": 9598555
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-22",
+    "price": 166.18,
+    "volume": 7401060
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-21",
+    "price": 163.28,
+    "volume": 8071195
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-20",
+    "price": 164.97,
+    "volume": 7143441
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-19",
+    "price": 166.28,
+    "volume": 7380906
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-16",
+    "price": 167.6,
+    "volume": 20201543
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-15",
+    "price": 165.08,
+    "volume": 7174495
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-14",
+    "price": 164.66,
+    "volume": 9555693
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-13",
+    "price": 161.33,
+    "volume": 6726360
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-12",
+    "price": 165.64,
+    "volume": 6365306
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-09",
+    "price": 165.71,
+    "volume": 5501863
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-08",
+    "price": 165.39,
+    "volume": 5838401
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-07",
+    "price": 164.07,
+    "volume": 4546700
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-06",
+    "price": 163.18,
+    "volume": 7394550
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-02",
+    "price": 162.74,
+    "volume": 5803704
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-09-01",
+    "price": 165.34,
+    "volume": 7509594
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-31",
+    "price": 161.34,
+    "volume": 8741708
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-30",
+    "price": 162.43,
+    "volume": 6973254
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-29",
+    "price": 163,
+    "volume": 5259249
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-26",
+    "price": 164.27,
+    "volume": 5667136
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-25",
+    "price": 167.13,
+    "volume": 5678662
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-24",
+    "price": 165.58,
+    "volume": 5684329
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-23",
+    "price": 166.13,
+    "volume": 5566296
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-22",
+    "price": 167.59,
+    "volume": 5462550
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-19",
+    "price": 169.31,
+    "volume": 8128543
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-18",
+    "price": 166.77,
+    "volume": 8312105
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-17",
+    "price": 167.58,
+    "volume": 7406590
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-16",
+    "price": 167.57,
+    "volume": 7453595
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-15",
+    "price": 166.09,
+    "volume": 10072044
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-12",
+    "price": 165.3,
+    "volume": 14606901
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-11",
+    "price": 167.14,
+    "volume": 9328688
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-10",
+    "price": 170.67,
+    "volume": 5603444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-09",
+    "price": 170.18,
+    "volume": 5532526
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-08",
+    "price": 170.2,
+    "volume": 4630836
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-05",
+    "price": 171.11,
+    "volume": 5235516
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-04",
+    "price": 171.79,
+    "volume": 5651554
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-03",
+    "price": 174.59,
+    "volume": 5009952
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-02",
+    "price": 172.92,
+    "volume": 5794225
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-08-01",
+    "price": 173.91,
+    "volume": 5461387
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-29",
+    "price": 174.52,
+    "volume": 6451431
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-28",
+    "price": 174.2,
+    "volume": 5513018
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-27",
+    "price": 173.2,
+    "volume": 4648499
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-26",
+    "price": 173.68,
+    "volume": 4525545
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-25",
+    "price": 172.46,
+    "volume": 4437270
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-22",
+    "price": 172.12,
+    "volume": 4257030
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-21",
+    "price": 171.31,
+    "volume": 5729215
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-20",
+    "price": 170.71,
+    "volume": 7455775
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-19",
+    "price": 171.69,
+    "volume": 13256444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-18",
+    "price": 174.23,
+    "volume": 7605677
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-15",
+    "price": 178.23,
+    "volume": 5691095
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-14",
+    "price": 175.68,
+    "volume": 5359551
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-13",
+    "price": 175.44,
+    "volume": 5291697
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-12",
+    "price": 175.85,
+    "volume": 4708892
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-11",
+    "price": 178.35,
+    "volume": 3645448
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-08",
+    "price": 178.28,
+    "volume": 3828375
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-07",
+    "price": 178.5,
+    "volume": 5725839
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-06",
+    "price": 178.3,
+    "volume": 5335631
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-05",
+    "price": 178.14,
+    "volume": 5677363
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-07-01",
+    "price": 179.52,
+    "volume": 5498393
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-30",
+    "price": 177.51,
+    "volume": 10777248
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-29",
+    "price": 176.99,
+    "volume": 7097873
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-28",
+    "price": 176.94,
+    "volume": 9277210
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-27",
+    "price": 182.12,
+    "volume": 5908839
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-24",
+    "price": 182.29,
+    "volume": 9374446
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-23",
+    "price": 179.66,
+    "volume": 10223458
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-22",
+    "price": 175.74,
+    "volume": 10593449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-21",
+    "price": 173.01,
+    "volume": 8219662
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-17",
+    "price": 169.46,
+    "volume": 12486568
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-16",
+    "price": 170.08,
+    "volume": 7056743
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-15",
+    "price": 169.99,
+    "volume": 7796330
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-14",
+    "price": 168.19,
+    "volume": 7116777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-13",
+    "price": 170.81,
+    "volume": 7997023
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-10",
+    "price": 172.55,
+    "volume": 6647865
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-09",
+    "price": 173.71,
+    "volume": 5510417
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-08",
+    "price": 177.28,
+    "volume": 4333091
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-07",
+    "price": 178.34,
+    "volume": 5447818
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-06",
+    "price": 176.4,
+    "volume": 5386517
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-03",
+    "price": 176.42,
+    "volume": 4234186
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-02",
+    "price": 177.15,
+    "volume": 8666511
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-06-01",
+    "price": 177.71,
+    "volume": 5175435
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-31",
+    "price": 179.53,
+    "volume": 16391449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-27",
+    "price": 181.09,
+    "volume": 5853621
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-26",
+    "price": 179.46,
+    "volume": 6897747
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-25",
+    "price": 179.62,
+    "volume": 6558994
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-24",
+    "price": 181.4,
+    "volume": 6419836
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-23",
+    "price": 179.44,
+    "volume": 7040831
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-20",
+    "price": 176.98,
+    "volume": 7522122
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-19",
+    "price": 173.94,
+    "volume": 6874509
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-18",
+    "price": 175.5,
+    "volume": 8608771
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-17",
+    "price": 178.82,
+    "volume": 5751129
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-16",
+    "price": 178.08,
+    "volume": 5516706
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-13",
+    "price": 176.85,
+    "volume": 7732163
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-12",
+    "price": 177.87,
+    "volume": 6898565
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-11",
+    "price": 176.13,
+    "volume": 6138896
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-10",
+    "price": 177.09,
+    "volume": 8186717
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-09",
+    "price": 177.33,
+    "volume": 7855212
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-06",
+    "price": 176.37,
+    "volume": 6434011
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-05",
+    "price": 176.76,
+    "volume": 7089184
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-04",
+    "price": 180.2,
+    "volume": 5923144
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-03",
+    "price": 178.29,
+    "volume": 5898660
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-05-02",
+    "price": 178.64,
+    "volume": 7145420
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-29",
+    "price": 180.46,
+    "volume": 8464103
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-28",
+    "price": 183.46,
+    "volume": 9405147
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-27",
+    "price": 182.1,
+    "volume": 11090331
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-26",
+    "price": 184.68,
+    "volume": 10190017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-25",
+    "price": 186.01,
+    "volume": 11176501
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-22",
+    "price": 181.54,
+    "volume": 8003593
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-21",
+    "price": 183.36,
+    "volume": 6969405
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-20",
+    "price": 183.89,
+    "volume": 8044908
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-19",
+    "price": 183.08,
+    "volume": 14380839
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-18",
+    "price": 177.66,
+    "volume": 6318656
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-14",
+    "price": 179.9,
+    "volume": 6188193
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-13",
+    "price": 180.66,
+    "volume": 5643118
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-12",
+    "price": 179.9,
+    "volume": 5957536
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-11",
+    "price": 179.84,
+    "volume": 5932040
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-08",
+    "price": 182.12,
+    "volume": 7144608
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-07",
+    "price": 181.76,
+    "volume": 7385179
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-06",
+    "price": 182.23,
+    "volume": 10330886
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-05",
+    "price": 177.61,
+    "volume": 7446074
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-04",
+    "price": 176.47,
+    "volume": 6860771
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-04-01",
+    "price": 178.19,
+    "volume": 6525643
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-31",
+    "price": 177.23,
+    "volume": 11490395
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-30",
+    "price": 179.59,
+    "volume": 6277556
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-29",
+    "price": 177.74,
+    "volume": 5933444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-28",
+    "price": 177.83,
+    "volume": 5604162
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-25",
+    "price": 176.92,
+    "volume": 4809977
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-24",
+    "price": 175.24,
+    "volume": 5012277
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-23",
+    "price": 174.34,
+    "volume": 5254350
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-22",
+    "price": 175,
+    "volume": 8442113
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-21",
+    "price": 175.83,
+    "volume": 7574873
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-18",
+    "price": 174.84,
+    "volume": 13809537
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-17",
+    "price": 176.8,
+    "volume": 7472219
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-16",
+    "price": 174.52,
+    "volume": 9603324
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-15",
+    "price": 176.14,
+    "volume": 10554596
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-14",
+    "price": 171.69,
+    "volume": 7729453
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-11",
+    "price": 169.35,
+    "volume": 5188196
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-10",
+    "price": 169.66,
+    "volume": 6171649
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-09",
+    "price": 169.36,
+    "volume": 7248218
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-08",
+    "price": 168.72,
+    "volume": 11100340
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-07",
+    "price": 172.21,
+    "volume": 11663353
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-04",
+    "price": 169.48,
+    "volume": 6302672
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-03",
+    "price": 168.48,
+    "volume": 7333736
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-02",
+    "price": 166.04,
+    "volume": 6793377
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-03-01",
+    "price": 164,
+    "volume": 8737846
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-28",
+    "price": 164.57,
+    "volume": 9373511
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-25",
+    "price": 166,
+    "volume": 11340354
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-24",
+    "price": 158.14,
+    "volume": 12883436
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-23",
+    "price": 161.22,
+    "volume": 8016903
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-22",
+    "price": 161.14,
+    "volume": 6868893
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-18",
+    "price": 163.36,
+    "volume": 6423165
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-17",
+    "price": 166.19,
+    "volume": 6227569
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-16",
+    "price": 167.21,
+    "volume": 8482618
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-15",
+    "price": 167.31,
+    "volume": 6632823
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-14",
+    "price": 165.6,
+    "volume": 8967638
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-11",
+    "price": 167.71,
+    "volume": 13125328
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-10",
+    "price": 169.42,
+    "volume": 10355349
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-09",
+    "price": 171.49,
+    "volume": 5387540
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-08",
+    "price": 171.51,
+    "volume": 6296300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-07",
+    "price": 171.06,
+    "volume": 6065670
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-04",
+    "price": 171.63,
+    "volume": 6392155
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-03",
+    "price": 172.76,
+    "volume": 6240613
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-02",
+    "price": 172.77,
+    "volume": 7382821
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-02-01",
+    "price": 170.88,
+    "volume": 8154721
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-31",
+    "price": 172.29,
+    "volume": 8054895
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-28",
+    "price": 171.79,
+    "volume": 9783217
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-27",
+    "price": 170.59,
+    "volume": 9068738
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-26",
+    "price": 168.38,
+    "volume": 9963229
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-25",
+    "price": 167.63,
+    "volume": 14081247
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-24",
+    "price": 162.97,
+    "volume": 14087602
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-21",
+    "price": 164.87,
+    "volume": 10550302
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-20",
+    "price": 165.25,
+    "volume": 6011300
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-19",
+    "price": 166.58,
+    "volume": 5926454
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-18",
+    "price": 167.1,
+    "volume": 7815939
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-14",
+    "price": 167.84,
+    "volume": 5847839
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-13",
+    "price": 168.76,
+    "volume": 6159444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-12",
+    "price": 169.79,
+    "volume": 8116205
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-11",
+    "price": 171.25,
+    "volume": 8341067
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-10",
+    "price": 173.09,
+    "volume": 7698444
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-07",
+    "price": 173.95,
+    "volume": 6986006
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-06",
+    "price": 171.63,
+    "volume": 7301633
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-05",
+    "price": 172.22,
+    "volume": 7016099
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-04",
+    "price": 171.08,
+    "volume": 6748363
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2022-01-03",
+    "price": 171.54,
+    "volume": 6012777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-31",
+    "price": 171.07,
+    "volume": 4409475
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-30",
+    "price": 172.31,
+    "volume": 4231812
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-29",
+    "price": 171.55,
+    "volume": 3661968
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-28",
+    "price": 170.35,
+    "volume": 3187062
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-27",
+    "price": 169.67,
+    "volume": 3705063
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-23",
+    "price": 168.25,
+    "volume": 3501450
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-22",
+    "price": 167.93,
+    "volume": 4178361
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-21",
+    "price": 167.21,
+    "volume": 7954249
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-20",
+    "price": 167.75,
+    "volume": 7954532
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-17",
+    "price": 168.23,
+    "volume": 16732018
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-16",
+    "price": 173.01,
+    "volume": 8998582
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-15",
+    "price": 171.14,
+    "volume": 8552246
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-14",
+    "price": 170.29,
+    "volume": 10482433
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-13",
+    "price": 168.45,
+    "volume": 11142277
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-10",
+    "price": 165.49,
+    "volume": 6572247
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-09",
+    "price": 165.9,
+    "volume": 8574177
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-08",
+    "price": 164.34,
+    "volume": 6216391
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-07",
+    "price": 163.36,
+    "volume": 8311254
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-06",
+    "price": 162.94,
+    "volume": 9692041
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-03",
+    "price": 159.38,
+    "volume": 8750521
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-02",
+    "price": 157.09,
+    "volume": 11334736
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-12-01",
+    "price": 158.08,
+    "volume": 9836412
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-30",
+    "price": 155.93,
+    "volume": 14981664
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-29",
+    "price": 159.75,
+    "volume": 9188537
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-26",
+    "price": 159.2,
+    "volume": 8523072
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-24",
+    "price": 160.24,
+    "volume": 5230887
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-23",
+    "price": 160.69,
+    "volume": 7735770
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-22",
+    "price": 159.7,
+    "volume": 7642322
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-19",
+    "price": 162.89,
+    "volume": 7628928
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-18",
+    "price": 162.4,
+    "volume": 6359664
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-17",
+    "price": 163.28,
+    "volume": 5414474
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-16",
+    "price": 162.67,
+    "volume": 7594717
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-15",
+    "price": 163.52,
+    "volume": 7496205
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-12",
+    "price": 165.01,
+    "volume": 18995209
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-11",
+    "price": 163.06,
+    "volume": 4118791
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-10",
+    "price": 164.27,
+    "volume": 6225098
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-09",
+    "price": 162.51,
+    "volume": 6112777
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-08",
+    "price": 162.87,
+    "volume": 5579037
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-05",
+    "price": 163.43,
+    "volume": 6215911
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-04",
+    "price": 164.6,
+    "volume": 8224377
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-03",
+    "price": 165.06,
+    "volume": 6717787
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-02",
+    "price": 165.59,
+    "volume": 8450626
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-11-01",
+    "price": 163.02,
+    "volume": 5846426
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-29",
+    "price": 162.88,
+    "volume": 8526806
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-28",
+    "price": 162.85,
+    "volume": 6278844
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-27",
+    "price": 163.74,
+    "volume": 7018787
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-26",
+    "price": 165.75,
+    "volume": 6939057
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-25",
+    "price": 164.08,
+    "volume": 6715399
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-22",
+    "price": 163.72,
+    "volume": 4304467
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-21",
+    "price": 163.4,
+    "volume": 4524127
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-20",
+    "price": 163.78,
+    "volume": 6003177
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-19",
+    "price": 163.87,
+    "volume": 10081294
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-18",
+    "price": 160.12,
+    "volume": 7465461
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-15",
+    "price": 161.3,
+    "volume": 6918407
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-14",
+    "price": 160.11,
+    "volume": 4580894
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-13",
+    "price": 159.2,
+    "volume": 6901589
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-12",
+    "price": 157.69,
+    "volume": 6686443
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-11",
+    "price": 160.25,
+    "volume": 4101646
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-08",
+    "price": 160.93,
+    "volume": 4343438
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-07",
+    "price": 161.34,
+    "volume": 5309181
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-06",
+    "price": 159.91,
+    "volume": 7312649
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-05",
+    "price": 159.58,
+    "volume": 5129033
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-04",
+    "price": 159.22,
+    "volume": 8621017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-10-01",
+    "price": 160.47,
+    "volume": 8568560
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-30",
+    "price": 161.5,
+    "volume": 6974317
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-29",
+    "price": 164.02,
+    "volume": 5124102
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-28",
+    "price": 162.81,
+    "volume": 7610354
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-27",
+    "price": 163.17,
+    "volume": 5775461
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-24",
+    "price": 164.36,
+    "volume": 4399614
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-23",
+    "price": 164.86,
+    "volume": 4697939
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-22",
+    "price": 163.93,
+    "volume": 5657126
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-21",
+    "price": 164.53,
+    "volume": 6663566
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-20",
+    "price": 163.81,
+    "volume": 7271017
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-17",
+    "price": 164.75,
+    "volume": 13422106
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-16",
+    "price": 165.22,
+    "volume": 5665537
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-15",
+    "price": 165.42,
+    "volume": 7935279
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-14",
+    "price": 164.8,
+    "volume": 5259559
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-13",
+    "price": 165.8,
+    "volume": 6273506
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-10",
+    "price": 166.97,
+    "volume": 6699315
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-09",
+    "price": 168.07,
+    "volume": 7114577
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-08",
+    "price": 171.9,
+    "volume": 4661733
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-07",
+    "price": 172.32,
+    "volume": 6859871
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-03",
+    "price": 175.04,
+    "volume": 4097512
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-02",
+    "price": 174.93,
+    "volume": 4545449
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-09-01",
+    "price": 173.74,
+    "volume": 5327351
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-31",
+    "price": 173.13,
+    "volume": 7106790
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-30",
+    "price": 173.66,
+    "volume": 3253006
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-27",
+    "price": 172.93,
+    "volume": 7046079
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-26",
+    "price": 173.3,
+    "volume": 5031639
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-25",
+    "price": 174.23,
+    "volume": 5700289
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-24",
+    "price": 175.39,
+    "volume": 5734824
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-23",
+    "price": 177.61,
+    "volume": 6461676
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-20",
+    "price": 179.44,
+    "volume": 5428729
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-19",
+    "price": 178.57,
+    "volume": 5615038
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-18",
+    "price": 177.19,
+    "volume": 7134094
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-17",
+    "price": 179.47,
+    "volume": 6041881
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-16",
+    "price": 177.84,
+    "volume": 4783192
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-13",
+    "price": 176.25,
+    "volume": 5882102
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-12",
+    "price": 175.2,
+    "volume": 4301392
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-11",
+    "price": 173.8,
+    "volume": 4221298
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-10",
+    "price": 173.77,
+    "volume": 3678454
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-09",
+    "price": 173.71,
+    "volume": 3950185
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-06",
+    "price": 173.11,
+    "volume": 4581065
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-05",
+    "price": 173.69,
+    "volume": 4291332
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-04",
+    "price": 173.36,
+    "volume": 4793117
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-03",
+    "price": 174.39,
+    "volume": 6032998
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-08-02",
+    "price": 172.27,
+    "volume": 3721473
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-30",
+    "price": 172.2,
+    "volume": 5346742
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-29",
+    "price": 172.18,
+    "volume": 4214059
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-28",
+    "price": 172.18,
+    "volume": 5750714
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-27",
+    "price": 172.66,
+    "volume": 7089269
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-26",
+    "price": 171.87,
+    "volume": 4485035
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-23",
+    "price": 171.79,
+    "volume": 5015073
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-22",
+    "price": 169.98,
+    "volume": 5281948
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-21",
+    "price": 169.49,
+    "volume": 7585479
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-20",
+    "price": 168.45,
+    "volume": 9902815
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-19",
+    "price": 166.88,
+    "volume": 8220113
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-16",
+    "price": 168.1,
+    "volume": 5835263
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-15",
+    "price": 168.37,
+    "volume": 6656878
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-14",
+    "price": 170.42,
+    "volume": 6162925
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-13",
+    "price": 169.27,
+    "volume": 4691233
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-12",
+    "price": 169.48,
+    "volume": 7840452
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-09",
+    "price": 169.75,
+    "volume": 6120925
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-08",
+    "price": 169.08,
+    "volume": 5755679
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-07",
+    "price": 169.41,
+    "volume": 6293581
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-06",
+    "price": 167.97,
+    "volume": 6098526
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-02",
+    "price": 168.98,
+    "volume": 9060270
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-07-01",
+    "price": 165.96,
+    "volume": 6320173
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-30",
+    "price": 164.74,
+    "volume": 6151745
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-29",
+    "price": 164.03,
+    "volume": 3749744
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-28",
+    "price": 164.02,
+    "volume": 5604009
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-25",
+    "price": 164.21,
+    "volume": 10963806
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-24",
+    "price": 163.37,
+    "volume": 4549234
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-23",
+    "price": 162.63,
+    "volume": 4493351
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-22",
+    "price": 163.62,
+    "volume": 5627795
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-21",
+    "price": 163.84,
+    "volume": 6592400
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-18",
+    "price": 161.98,
+    "volume": 12993018
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-17",
+    "price": 165.22,
+    "volume": 5874962
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-16",
+    "price": 164.43,
+    "volume": 6988477
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-15",
+    "price": 164.49,
+    "volume": 5063027
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-14",
+    "price": 165.37,
+    "volume": 4931297
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-11",
+    "price": 164.96,
+    "volume": 7389922
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-10",
+    "price": 167.08,
+    "volume": 6463322
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-09",
+    "price": 165.59,
+    "volume": 5552600
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-08",
+    "price": 163.39,
+    "volume": 7746805
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-07",
+    "price": 164.84,
+    "volume": 5362781
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-04",
+    "price": 165.97,
+    "volume": 6510480
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-03",
+    "price": 166.04,
+    "volume": 5809122
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-02",
+    "price": 166.2,
+    "volume": 6806032
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-06-01",
+    "price": 165.53,
+    "volume": 10448370
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-28",
+    "price": 169.25,
+    "volume": 6401011
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-27",
+    "price": 168.81,
+    "volume": 8114708
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-26",
+    "price": 169.07,
+    "volume": 5726683
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-25",
+    "price": 170.08,
+    "volume": 7444857
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-24",
+    "price": 170.55,
+    "volume": 5195384
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-21",
+    "price": 170.96,
+    "volume": 6501751
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-20",
+    "price": 171.07,
+    "volume": 4853192
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-19",
+    "price": 170.08,
+    "volume": 5533788
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-18",
+    "price": 170.45,
+    "volume": 5845985
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-17",
+    "price": 170.39,
+    "volume": 5722638
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-14",
+    "price": 170.22,
+    "volume": 5797704
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-13",
+    "price": 169.96,
+    "volume": 8018910
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-12",
+    "price": 168.2,
+    "volume": 6758316
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-11",
+    "price": 168.88,
+    "volume": 8217953
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-10",
+    "price": 170.27,
+    "volume": 8357486
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-07",
+    "price": 168.5,
+    "volume": 5316209
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-06",
+    "price": 167.74,
+    "volume": 5529946
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-05",
+    "price": 167.07,
+    "volume": 5134587
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-04",
+    "price": 167.77,
+    "volume": 10179539
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-05-03",
+    "price": 165.21,
+    "volume": 6594230
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-30",
+    "price": 162.73,
+    "volume": 9079081
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-29",
+    "price": 164.2,
+    "volume": 6394287
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-28",
+    "price": 161.98,
+    "volume": 7448016
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-27",
+    "price": 163.18,
+    "volume": 6217651
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-26",
+    "price": 164.12,
+    "volume": 6027788
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-23",
+    "price": 165.52,
+    "volume": 6033245
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-22",
+    "price": 165.18,
+    "volume": 7232981
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-21",
+    "price": 166.59,
+    "volume": 6333210
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-20",
+    "price": 166.48,
+    "volume": 14050663
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-19",
+    "price": 162.69,
+    "volume": 8353528
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-16",
+    "price": 162.24,
+    "volume": 9049432
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-15",
+    "price": 160.39,
+    "volume": 7524568
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-14",
+    "price": 159.92,
+    "volume": 7718321
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-13",
+    "price": 159.48,
+    "volume": 18424075
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-12",
+    "price": 161.64,
+    "volume": 5023037
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-09",
+    "price": 161.25,
+    "volume": 8418332
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-08",
+    "price": 162.97,
+    "volume": 5039397
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-07",
+    "price": 163.61,
+    "volume": 4608010
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-06",
+    "price": 163.39,
+    "volume": 5074239
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-05",
+    "price": 163.43,
+    "volume": 7387123
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-04-01",
+    "price": 162.83,
+    "volume": 7229717
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-31",
+    "price": 164.35,
+    "volume": 8281521
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-30",
+    "price": 165.01,
+    "volume": 7236347
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-29",
+    "price": 166.04,
+    "volume": 8535084
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-26",
+    "price": 164.93,
+    "volume": 7619247
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-25",
+    "price": 161.97,
+    "volume": 6269774
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-24",
+    "price": 161.91,
+    "volume": 6370143
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-23",
+    "price": 160.35,
+    "volume": 7178323
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-22",
+    "price": 160.5,
+    "volume": 7589623
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-19",
+    "price": 160.04,
+    "volume": 14891523
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-18",
+    "price": 160.47,
+    "volume": 4801794
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-17",
+    "price": 160.77,
+    "volume": 6001421
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-16",
+    "price": 161.37,
+    "volume": 6369144
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-15",
+    "price": 160.42,
+    "volume": 5526008
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-12",
+    "price": 159.6,
+    "volume": 5474849
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-11",
+    "price": 159.14,
+    "volume": 6305584
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-10",
+    "price": 159.15,
+    "volume": 6635577
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-09",
+    "price": 157.7,
+    "volume": 7461267
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-08",
+    "price": 157.4,
+    "volume": 6546688
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-05",
+    "price": 156.1,
+    "volume": 8331633
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-04",
+    "price": 153.07,
+    "volume": 11033178
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-03",
+    "price": 156.22,
+    "volume": 8499626
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-02",
+    "price": 159.02,
+    "volume": 7610885
+  },
+  {
+    "symbol": "JNJ",
+    "date": "2021-03-01",
+    "price": 159.32,
+    "volume": 10551378
+  }
+]

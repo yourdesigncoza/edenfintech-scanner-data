@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-27",
+    "price": 0.6573,
+    "volume": 543300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-26",
+    "price": 0.6678,
+    "volume": 651707
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-25",
+    "price": 0.66,
+    "volume": 1102855
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-24",
+    "price": 0.6444,
+    "volume": 858900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-23",
+    "price": 0.6251,
+    "volume": 1448900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-20",
+    "price": 0.6415,
+    "volume": 2159100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-19",
+    "price": 0.586,
+    "volume": 662900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-18",
+    "price": 0.577,
+    "volume": 2158215
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-17",
+    "price": 0.541,
+    "volume": 1173107
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-13",
+    "price": 0.5637,
+    "volume": 1517005
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-12",
+    "price": 0.5542,
+    "volume": 1859925
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-11",
+    "price": 0.6006,
+    "volume": 2449675
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-10",
+    "price": 0.673,
+    "volume": 2966546
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-09",
+    "price": 0.75,
+    "volume": 2500500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-06",
+    "price": 0.7904,
+    "volume": 1735800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-05",
+    "price": 0.6896,
+    "volume": 1421609
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-04",
+    "price": 0.72,
+    "volume": 1946300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-03",
+    "price": 0.72,
+    "volume": 1677558
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-02-02",
+    "price": 0.7334,
+    "volume": 1086200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-30",
+    "price": 0.769,
+    "volume": 2025300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-29",
+    "price": 0.792,
+    "volume": 1276715
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-28",
+    "price": 0.7996,
+    "volume": 1036333
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-27",
+    "price": 0.8046,
+    "volume": 1177600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-26",
+    "price": 0.75,
+    "volume": 1113501
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-23",
+    "price": 0.7754,
+    "volume": 558615
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-22",
+    "price": 0.7898,
+    "volume": 841351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-21",
+    "price": 0.7629,
+    "volume": 1690110
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-20",
+    "price": 0.78,
+    "volume": 2558641
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-16",
+    "price": 0.855,
+    "volume": 819800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-15",
+    "price": 0.88,
+    "volume": 628400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-14",
+    "price": 0.882,
+    "volume": 815000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-13",
+    "price": 0.8643,
+    "volume": 1824440
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-12",
+    "price": 0.92,
+    "volume": 1036400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-09",
+    "price": 0.9471,
+    "volume": 1004300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-08",
+    "price": 0.9548,
+    "volume": 880071
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-07",
+    "price": 0.9275,
+    "volume": 719300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-06",
+    "price": 0.9509,
+    "volume": 874836
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-05",
+    "price": 0.945,
+    "volume": 944600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2026-01-02",
+    "price": 0.9804,
+    "volume": 875000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-31",
+    "price": 0.93,
+    "volume": 1516146
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-30",
+    "price": 0.9212,
+    "volume": 1053700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-29",
+    "price": 0.9595,
+    "volume": 878833
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-26",
+    "price": 0.9922,
+    "volume": 1897623
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-24",
+    "price": 0.908,
+    "volume": 1410810
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-23",
+    "price": 0.889,
+    "volume": 1000538
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-22",
+    "price": 0.8883,
+    "volume": 870536
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-19",
+    "price": 0.9497,
+    "volume": 2129357
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-18",
+    "price": 0.9063,
+    "volume": 1179236
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-17",
+    "price": 0.8928,
+    "volume": 870500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-16",
+    "price": 0.92,
+    "volume": 919600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-15",
+    "price": 0.8808,
+    "volume": 1191836
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-12",
+    "price": 0.92,
+    "volume": 1550672
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-11",
+    "price": 0.9692,
+    "volume": 1113400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-10",
+    "price": 0.937,
+    "volume": 1479025
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-09",
+    "price": 0.8858,
+    "volume": 1082700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-08",
+    "price": 0.9003,
+    "volume": 3017200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-05",
+    "price": 0.89,
+    "volume": 1894400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-04",
+    "price": 0.8985,
+    "volume": 842728
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-03",
+    "price": 0.9076,
+    "volume": 1008200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-02",
+    "price": 0.9445,
+    "volume": 2084400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-12-01",
+    "price": 0.8747,
+    "volume": 2825197
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-28",
+    "price": 0.9671,
+    "volume": 1694932
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-26",
+    "price": 0.9658,
+    "volume": 2422200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-25",
+    "price": 0.9008,
+    "volume": 1616700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-24",
+    "price": 0.9458,
+    "volume": 2193332
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-21",
+    "price": 0.9501,
+    "volume": 1148460
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-20",
+    "price": 0.9125,
+    "volume": 2321600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-19",
+    "price": 0.99,
+    "volume": 2872741
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-18",
+    "price": 1.05,
+    "volume": 986321
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-17",
+    "price": 1.02,
+    "volume": 1613100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-14",
+    "price": 1.09,
+    "volume": 1681719
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-13",
+    "price": 1.13,
+    "volume": 4067400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-12",
+    "price": 1.21,
+    "volume": 3608828
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-11",
+    "price": 1.14,
+    "volume": 6642500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-10",
+    "price": 0.8901,
+    "volume": 2298600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-07",
+    "price": 0.8909,
+    "volume": 3189100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-06",
+    "price": 1.01,
+    "volume": 4439012
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-05",
+    "price": 0.92,
+    "volume": 2183829
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-04",
+    "price": 0.9372,
+    "volume": 1314400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-11-03",
+    "price": 0.9415,
+    "volume": 9820200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-31",
+    "price": 1.06,
+    "volume": 3285800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-30",
+    "price": 0.9528,
+    "volume": 5738029
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-29",
+    "price": 1.05,
+    "volume": 8431800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-28",
+    "price": 1.25,
+    "volume": 7454800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-27",
+    "price": 1.44,
+    "volume": 3222630
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-24",
+    "price": 1.39,
+    "volume": 828418
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-23",
+    "price": 1.38,
+    "volume": 849913
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-22",
+    "price": 1.37,
+    "volume": 2998000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-21",
+    "price": 1.4,
+    "volume": 1588243
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-20",
+    "price": 1.35,
+    "volume": 1653204
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-17",
+    "price": 1.27,
+    "volume": 3021542
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-16",
+    "price": 1.26,
+    "volume": 2415200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-15",
+    "price": 1.28,
+    "volume": 2962100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-14",
+    "price": 1.29,
+    "volume": 1783800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-13",
+    "price": 1.21,
+    "volume": 4269900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-10",
+    "price": 1.28,
+    "volume": 4107700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-09",
+    "price": 1.45,
+    "volume": 5045939
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-08",
+    "price": 1.42,
+    "volume": 1532927
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-07",
+    "price": 1.41,
+    "volume": 2928700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-06",
+    "price": 1.47,
+    "volume": 5906400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-03",
+    "price": 1.58,
+    "volume": 2748000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-02",
+    "price": 1.62,
+    "volume": 1759044
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-10-01",
+    "price": 1.56,
+    "volume": 2234912
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-30",
+    "price": 1.51,
+    "volume": 2501740
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-29",
+    "price": 1.52,
+    "volume": 2805849
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-26",
+    "price": 1.5,
+    "volume": 3766737
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-25",
+    "price": 1.45,
+    "volume": 4992500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-24",
+    "price": 1.57,
+    "volume": 6526613
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-23",
+    "price": 1.65,
+    "volume": 6772400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-22",
+    "price": 1.84,
+    "volume": 4732100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-19",
+    "price": 1.65,
+    "volume": 5140746
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-18",
+    "price": 1.68,
+    "volume": 4489323
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-17",
+    "price": 1.41,
+    "volume": 7909700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-16",
+    "price": 1.5,
+    "volume": 6220200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-15",
+    "price": 1.41,
+    "volume": 10867800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-12",
+    "price": 1.54,
+    "volume": 6746700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-11",
+    "price": 1.6,
+    "volume": 4672100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-10",
+    "price": 1.65,
+    "volume": 1898929
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-09",
+    "price": 1.55,
+    "volume": 4591900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-08",
+    "price": 1.56,
+    "volume": 6126500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-05",
+    "price": 1.71,
+    "volume": 4004738
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-04",
+    "price": 1.67,
+    "volume": 3119500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-03",
+    "price": 1.6,
+    "volume": 5439733
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-09-02",
+    "price": 1.36,
+    "volume": 7110500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-29",
+    "price": 1.47,
+    "volume": 2081300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-28",
+    "price": 1.41,
+    "volume": 2198700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-27",
+    "price": 1.32,
+    "volume": 3132622
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-26",
+    "price": 1.37,
+    "volume": 2992416
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-25",
+    "price": 1.28,
+    "volume": 2879122
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-22",
+    "price": 1.2,
+    "volume": 2095500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-21",
+    "price": 1.13,
+    "volume": 1232745
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-20",
+    "price": 1.12,
+    "volume": 1178140
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-19",
+    "price": 1.15,
+    "volume": 2601202
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-18",
+    "price": 1.23,
+    "volume": 1519139
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-15",
+    "price": 1.23,
+    "volume": 2105400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-14",
+    "price": 1.26,
+    "volume": 1159000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-13",
+    "price": 1.28,
+    "volume": 3453800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-12",
+    "price": 1.11,
+    "volume": 1705377
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-11",
+    "price": 1.1,
+    "volume": 2746441
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-08",
+    "price": 1.14,
+    "volume": 2250007
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-07",
+    "price": 1.12,
+    "volume": 1872640
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-06",
+    "price": 1.11,
+    "volume": 7885600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-05",
+    "price": 1.29,
+    "volume": 3962800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-04",
+    "price": 1.39,
+    "volume": 2070600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-08-01",
+    "price": 1.26,
+    "volume": 2011410
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-31",
+    "price": 1.31,
+    "volume": 2207300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-30",
+    "price": 1.35,
+    "volume": 1209400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-29",
+    "price": 1.36,
+    "volume": 2231319
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-28",
+    "price": 1.49,
+    "volume": 1759717
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-25",
+    "price": 1.58,
+    "volume": 4564500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-24",
+    "price": 1.49,
+    "volume": 2583300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-23",
+    "price": 1.59,
+    "volume": 3033644
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-22",
+    "price": 1.7,
+    "volume": 9311500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-21",
+    "price": 1.37,
+    "volume": 1989913
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-18",
+    "price": 1.4,
+    "volume": 1839021
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-17",
+    "price": 1.44,
+    "volume": 1737822
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-16",
+    "price": 1.42,
+    "volume": 2255000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-15",
+    "price": 1.34,
+    "volume": 2101000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-14",
+    "price": 1.35,
+    "volume": 2150843
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-11",
+    "price": 1.28,
+    "volume": 2025639
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-10",
+    "price": 1.31,
+    "volume": 1284500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-09",
+    "price": 1.33,
+    "volume": 1877031
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-08",
+    "price": 1.37,
+    "volume": 1633026
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-07",
+    "price": 1.34,
+    "volume": 3449849
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-03",
+    "price": 1.44,
+    "volume": 2076644
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-02",
+    "price": 1.4,
+    "volume": 3755435
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-07-01",
+    "price": 1.38,
+    "volume": 3557700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-30",
+    "price": 1.21,
+    "volume": 5429345
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-27",
+    "price": 1.3,
+    "volume": 18081200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-26",
+    "price": 1.26,
+    "volume": 2991400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-25",
+    "price": 1.28,
+    "volume": 2905603
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-24",
+    "price": 1.35,
+    "volume": 1707317
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-23",
+    "price": 1.4,
+    "volume": 3815900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-20",
+    "price": 1.37,
+    "volume": 4850332
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-18",
+    "price": 1.44,
+    "volume": 2327841
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-17",
+    "price": 1.46,
+    "volume": 2968409
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-16",
+    "price": 1.48,
+    "volume": 3375028
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-13",
+    "price": 1.35,
+    "volume": 4144100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-12",
+    "price": 1.47,
+    "volume": 4082111
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-11",
+    "price": 1.57,
+    "volume": 4162619
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-10",
+    "price": 1.56,
+    "volume": 5881806
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-09",
+    "price": 1.75,
+    "volume": 9041900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-06",
+    "price": 1.63,
+    "volume": 26658400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-05",
+    "price": 1.21,
+    "volume": 2485700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-04",
+    "price": 1.25,
+    "volume": 2600800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-03",
+    "price": 1.21,
+    "volume": 3149032
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-06-02",
+    "price": 1.2,
+    "volume": 5752700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-30",
+    "price": 1.02,
+    "volume": 3975000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-29",
+    "price": 0.9175,
+    "volume": 2370972
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-28",
+    "price": 0.8635,
+    "volume": 3094100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-27",
+    "price": 0.9521,
+    "volume": 2612600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-23",
+    "price": 0.9801,
+    "volume": 2908507
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-22",
+    "price": 0.9911,
+    "volume": 1980547
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-21",
+    "price": 0.9801,
+    "volume": 4809141
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-20",
+    "price": 1,
+    "volume": 3476917
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-19",
+    "price": 0.9,
+    "volume": 4221800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-16",
+    "price": 0.8965,
+    "volume": 2383201
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-15",
+    "price": 0.8184,
+    "volume": 4307100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-14",
+    "price": 0.8328,
+    "volume": 3433400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-13",
+    "price": 0.8021,
+    "volume": 2700910
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-12",
+    "price": 0.7418,
+    "volume": 6540800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-09",
+    "price": 0.69,
+    "volume": 6567100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-08",
+    "price": 0.7237,
+    "volume": 1220700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-07",
+    "price": 0.7137,
+    "volume": 2051838
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-06",
+    "price": 0.7247,
+    "volume": 918902
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-05",
+    "price": 0.7325,
+    "volume": 834845
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-02",
+    "price": 0.7559,
+    "volume": 1468300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-05-01",
+    "price": 0.7283,
+    "volume": 1647340
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-30",
+    "price": 0.7272,
+    "volume": 2075311
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-29",
+    "price": 0.6753,
+    "volume": 1917100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-28",
+    "price": 0.6532,
+    "volume": 1459765
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-25",
+    "price": 0.6425,
+    "volume": 987600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-24",
+    "price": 0.6236,
+    "volume": 1323113
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-23",
+    "price": 0.6089,
+    "volume": 1596200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-22",
+    "price": 0.5692,
+    "volume": 1455437
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-21",
+    "price": 0.5434,
+    "volume": 1301600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-17",
+    "price": 0.51,
+    "volume": 1454730
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-16",
+    "price": 0.5028,
+    "volume": 1055135
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-15",
+    "price": 0.4866,
+    "volume": 1085518
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-14",
+    "price": 0.4903,
+    "volume": 1681525
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-11",
+    "price": 0.4802,
+    "volume": 2884300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-10",
+    "price": 0.4622,
+    "volume": 3315100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-09",
+    "price": 0.5037,
+    "volume": 5005900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-08",
+    "price": 0.4919,
+    "volume": 2100825
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-07",
+    "price": 0.5164,
+    "volume": 4183900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-04",
+    "price": 0.511,
+    "volume": 6041531
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-03",
+    "price": 0.5662,
+    "volume": 2135201
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-02",
+    "price": 0.62,
+    "volume": 1912800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-04-01",
+    "price": 0.6174,
+    "volume": 2111200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-31",
+    "price": 0.6392,
+    "volume": 1834700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-28",
+    "price": 0.6629,
+    "volume": 1504900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-27",
+    "price": 0.7336,
+    "volume": 3755608
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-26",
+    "price": 0.649,
+    "volume": 2480100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-25",
+    "price": 0.6203,
+    "volume": 5776713
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-24",
+    "price": 0.7186,
+    "volume": 2101600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-21",
+    "price": 0.7164,
+    "volume": 4496303
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-20",
+    "price": 0.7391,
+    "volume": 2035400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-19",
+    "price": 0.7438,
+    "volume": 1680600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-18",
+    "price": 0.7467,
+    "volume": 1725400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-17",
+    "price": 0.77,
+    "volume": 2464140
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-14",
+    "price": 0.7901,
+    "volume": 1326700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-13",
+    "price": 0.7801,
+    "volume": 1809800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-12",
+    "price": 0.8577,
+    "volume": 3117500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-11",
+    "price": 0.7719,
+    "volume": 4045009
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-10",
+    "price": 0.8,
+    "volume": 4073323
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-07",
+    "price": 0.8727,
+    "volume": 7580200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-06",
+    "price": 0.8577,
+    "volume": 4267210
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-05",
+    "price": 0.95,
+    "volume": 3555400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-04",
+    "price": 0.9878,
+    "volume": 4244300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-03-03",
+    "price": 1.04,
+    "volume": 6157100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-28",
+    "price": 1.09,
+    "volume": 4042745
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-27",
+    "price": 0.9663,
+    "volume": 6978300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-26",
+    "price": 1.03,
+    "volume": 5702500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-25",
+    "price": 1.07,
+    "volume": 16602000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-24",
+    "price": 1.56,
+    "volume": 9764200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-21",
+    "price": 1.43,
+    "volume": 1799500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-20",
+    "price": 1.47,
+    "volume": 1618248
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-19",
+    "price": 1.5,
+    "volume": 1632500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-18",
+    "price": 1.51,
+    "volume": 1755838
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-14",
+    "price": 1.46,
+    "volume": 1973800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-13",
+    "price": 1.39,
+    "volume": 1676800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-12",
+    "price": 1.45,
+    "volume": 2222100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-11",
+    "price": 1.38,
+    "volume": 1377812
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-10",
+    "price": 1.4,
+    "volume": 1701631
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-07",
+    "price": 1.42,
+    "volume": 1919000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-06",
+    "price": 1.41,
+    "volume": 3162900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-05",
+    "price": 1.49,
+    "volume": 6792349
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-04",
+    "price": 1.49,
+    "volume": 1889625
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-02-03",
+    "price": 1.44,
+    "volume": 2150220
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-31",
+    "price": 1.54,
+    "volume": 2093700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-30",
+    "price": 1.53,
+    "volume": 4711000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-29",
+    "price": 1.73,
+    "volume": 2797633
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-28",
+    "price": 1.61,
+    "volume": 2651700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-27",
+    "price": 1.52,
+    "volume": 2235635
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-24",
+    "price": 1.47,
+    "volume": 1452300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-23",
+    "price": 1.47,
+    "volume": 2340049
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-22",
+    "price": 1.49,
+    "volume": 2064400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-21",
+    "price": 1.51,
+    "volume": 2753028
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-17",
+    "price": 1.48,
+    "volume": 3126500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-16",
+    "price": 1.54,
+    "volume": 1462773
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-15",
+    "price": 1.54,
+    "volume": 2247052
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-14",
+    "price": 1.5,
+    "volume": 6874234
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-13",
+    "price": 1.62,
+    "volume": 1752000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-10",
+    "price": 1.79,
+    "volume": 2480300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-08",
+    "price": 1.65,
+    "volume": 2102937
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-07",
+    "price": 1.81,
+    "volume": 2461672
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-06",
+    "price": 1.77,
+    "volume": 2763416
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-03",
+    "price": 1.65,
+    "volume": 2629169
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2025-01-02",
+    "price": 1.68,
+    "volume": 3121800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-31",
+    "price": 1.61,
+    "volume": 3799100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-30",
+    "price": 1.53,
+    "volume": 3748443
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-27",
+    "price": 1.58,
+    "volume": 2568200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-26",
+    "price": 1.64,
+    "volume": 3454600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-24",
+    "price": 1.61,
+    "volume": 1131900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-23",
+    "price": 1.65,
+    "volume": 3213600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-20",
+    "price": 1.77,
+    "volume": 4001600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-19",
+    "price": 1.85,
+    "volume": 3346918
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-18",
+    "price": 1.97,
+    "volume": 2833349
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-17",
+    "price": 2.19,
+    "volume": 2974200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-16",
+    "price": 2.32,
+    "volume": 3839307
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-13",
+    "price": 2.19,
+    "volume": 4375000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-12",
+    "price": 2.24,
+    "volume": 3302126
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-11",
+    "price": 2.3,
+    "volume": 4369300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-10",
+    "price": 2.46,
+    "volume": 4263638
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-09",
+    "price": 2.65,
+    "volume": 4482400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-06",
+    "price": 2.4,
+    "volume": 2684500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-05",
+    "price": 2.45,
+    "volume": 3197844
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-04",
+    "price": 2.56,
+    "volume": 6765700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-03",
+    "price": 2.45,
+    "volume": 5800800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-12-02",
+    "price": 2.37,
+    "volume": 7254325
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-29",
+    "price": 2.11,
+    "volume": 3513600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-27",
+    "price": 2.3,
+    "volume": 3990823
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-26",
+    "price": 2.24,
+    "volume": 4254932
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-25",
+    "price": 2.26,
+    "volume": 9896300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-22",
+    "price": 2.01,
+    "volume": 4560600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-21",
+    "price": 1.8,
+    "volume": 2917800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-20",
+    "price": 1.73,
+    "volume": 2888700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-19",
+    "price": 1.68,
+    "volume": 2763336
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-18",
+    "price": 1.73,
+    "volume": 3262200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-15",
+    "price": 1.72,
+    "volume": 4183618
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-14",
+    "price": 1.71,
+    "volume": 5164322
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-13",
+    "price": 1.58,
+    "volume": 12487200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-12",
+    "price": 1.77,
+    "volume": 5829600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-11",
+    "price": 1.86,
+    "volume": 3618100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-08",
+    "price": 1.72,
+    "volume": 1879641
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-07",
+    "price": 1.72,
+    "volume": 2482907
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-06",
+    "price": 1.76,
+    "volume": 3864825
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-05",
+    "price": 1.79,
+    "volume": 2724021
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-04",
+    "price": 1.67,
+    "volume": 3256500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-11-01",
+    "price": 1.63,
+    "volume": 3121113
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-31",
+    "price": 1.6,
+    "volume": 3256819
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-30",
+    "price": 1.66,
+    "volume": 5636721
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-29",
+    "price": 1.8,
+    "volume": 4317537
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-28",
+    "price": 1.71,
+    "volume": 3732879
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-25",
+    "price": 1.6,
+    "volume": 2763217
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-24",
+    "price": 1.62,
+    "volume": 2603137
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-23",
+    "price": 1.64,
+    "volume": 3137107
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-22",
+    "price": 1.71,
+    "volume": 5643416
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-21",
+    "price": 1.52,
+    "volume": 3592106
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-18",
+    "price": 1.61,
+    "volume": 3583600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-17",
+    "price": 1.53,
+    "volume": 3455900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-16",
+    "price": 1.56,
+    "volume": 4708216
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-15",
+    "price": 1.63,
+    "volume": 5090739
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-14",
+    "price": 1.5,
+    "volume": 3847700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-11",
+    "price": 1.54,
+    "volume": 4731500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-10",
+    "price": 1.53,
+    "volume": 3244100
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-09",
+    "price": 1.54,
+    "volume": 4680300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-08",
+    "price": 1.61,
+    "volume": 3703600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-07",
+    "price": 1.66,
+    "volume": 4232628
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-04",
+    "price": 1.68,
+    "volume": 2876580
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-03",
+    "price": 1.63,
+    "volume": 3316300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-02",
+    "price": 1.68,
+    "volume": 3758301
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-10-01",
+    "price": 1.82,
+    "volume": 3860603
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-30",
+    "price": 1.77,
+    "volume": 2682904
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-27",
+    "price": 1.77,
+    "volume": 4390634
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-26",
+    "price": 1.63,
+    "volume": 2610300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-25",
+    "price": 1.63,
+    "volume": 2780000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-24",
+    "price": 1.72,
+    "volume": 3412700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-23",
+    "price": 1.64,
+    "volume": 5593500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-20",
+    "price": 1.74,
+    "volume": 6199526
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-19",
+    "price": 1.84,
+    "volume": 3549811
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-18",
+    "price": 1.75,
+    "volume": 6599500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-17",
+    "price": 1.81,
+    "volume": 2912328
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-16",
+    "price": 1.81,
+    "volume": 2441045
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-13",
+    "price": 1.84,
+    "volume": 3675800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-12",
+    "price": 1.85,
+    "volume": 3577425
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-11",
+    "price": 1.92,
+    "volume": 3270900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-10",
+    "price": 1.89,
+    "volume": 2942412
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-09",
+    "price": 1.8,
+    "volume": 3856600
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-06",
+    "price": 1.9,
+    "volume": 4161413
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-05",
+    "price": 2.07,
+    "volume": 2582109
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-04",
+    "price": 2.08,
+    "volume": 3468900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-09-03",
+    "price": 2.11,
+    "volume": 3326036
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-30",
+    "price": 2.16,
+    "volume": 5569800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-29",
+    "price": 2.19,
+    "volume": 1888813
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-28",
+    "price": 2.15,
+    "volume": 2998000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-27",
+    "price": 2.28,
+    "volume": 1845613
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-26",
+    "price": 2.28,
+    "volume": 2357997
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-23",
+    "price": 2.22,
+    "volume": 2412900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-22",
+    "price": 2.14,
+    "volume": 2676506
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-21",
+    "price": 2.29,
+    "volume": 3507400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-20",
+    "price": 2.11,
+    "volume": 4917800
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-19",
+    "price": 2.29,
+    "volume": 4678700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-16",
+    "price": 2.05,
+    "volume": 3642300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-15",
+    "price": 1.97,
+    "volume": 3609500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-14",
+    "price": 1.98,
+    "volume": 3708400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-13",
+    "price": 2.1,
+    "volume": 3215907
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-12",
+    "price": 2.05,
+    "volume": 6932400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-09",
+    "price": 2.1,
+    "volume": 4148940
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-08",
+    "price": 2.26,
+    "volume": 3780848
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-07",
+    "price": 2.21,
+    "volume": 4899601
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-06",
+    "price": 2.28,
+    "volume": 12835128
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-05",
+    "price": 2.93,
+    "volume": 4712413
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-02",
+    "price": 3,
+    "volume": 3530700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-08-01",
+    "price": 3.18,
+    "volume": 3441500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-31",
+    "price": 3.41,
+    "volume": 2553817
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-30",
+    "price": 3.4,
+    "volume": 2807214
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-29",
+    "price": 3.44,
+    "volume": 2536700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-26",
+    "price": 3.51,
+    "volume": 4688061
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-25",
+    "price": 3.52,
+    "volume": 2540231
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-24",
+    "price": 3.3,
+    "volume": 2137400
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-23",
+    "price": 3.34,
+    "volume": 2936628
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-22",
+    "price": 3.25,
+    "volume": 6500090
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-19",
+    "price": 3.27,
+    "volume": 2827278
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-18",
+    "price": 3.27,
+    "volume": 3564274
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-17",
+    "price": 3.54,
+    "volume": 6543876
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-16",
+    "price": 3.72,
+    "volume": 7607518
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-15",
+    "price": 3.17,
+    "volume": 4742079
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-12",
+    "price": 2.98,
+    "volume": 2722436
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-11",
+    "price": 2.93,
+    "volume": 4088806
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-10",
+    "price": 2.69,
+    "volume": 2434446
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-09",
+    "price": 2.8,
+    "volume": 3514227
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-08",
+    "price": 2.91,
+    "volume": 3161390
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-05",
+    "price": 2.77,
+    "volume": 3168582
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-03",
+    "price": 2.88,
+    "volume": 1217063
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-02",
+    "price": 2.89,
+    "volume": 2603244
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-07-01",
+    "price": 2.99,
+    "volume": 3323900
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-28",
+    "price": 3.16,
+    "volume": 7359784
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-27",
+    "price": 2.96,
+    "volume": 3579211
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-26",
+    "price": 2.91,
+    "volume": 2656948
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-25",
+    "price": 2.98,
+    "volume": 3429300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-24",
+    "price": 3.03,
+    "volume": 5770412
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-21",
+    "price": 2.85,
+    "volume": 4257221
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-20",
+    "price": 2.82,
+    "volume": 6594767
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-18",
+    "price": 2.7,
+    "volume": 20178314
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-17",
+    "price": 2.61,
+    "volume": 5722453
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-14",
+    "price": 2.79,
+    "volume": 6455867
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-13",
+    "price": 3.04,
+    "volume": 7388457
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-12",
+    "price": 3.43,
+    "volume": 4065239
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-11",
+    "price": 3.6,
+    "volume": 2311660
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-10",
+    "price": 3.67,
+    "volume": 2342419
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-07",
+    "price": 3.7,
+    "volume": 2218072
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-06",
+    "price": 3.75,
+    "volume": 2198668
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-05",
+    "price": 3.68,
+    "volume": 3338054
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-04",
+    "price": 3.62,
+    "volume": 3698894
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-06-03",
+    "price": 3.66,
+    "volume": 3549120
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-31",
+    "price": 3.83,
+    "volume": 4279796
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-30",
+    "price": 3.77,
+    "volume": 4510152
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-29",
+    "price": 3.67,
+    "volume": 3988923
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-28",
+    "price": 3.63,
+    "volume": 2597351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-24",
+    "price": 3.69,
+    "volume": 2343504
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-23",
+    "price": 3.77,
+    "volume": 3924428
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-22",
+    "price": 3.94,
+    "volume": 2529447
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-21",
+    "price": 4.1,
+    "volume": 7357155
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-20",
+    "price": 4.07,
+    "volume": 4834947
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-17",
+    "price": 4.38,
+    "volume": 4114555
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-16",
+    "price": 4.6,
+    "volume": 2933307
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-15",
+    "price": 4.61,
+    "volume": 4450453
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-14",
+    "price": 4.68,
+    "volume": 4275653
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-13",
+    "price": 4.57,
+    "volume": 4859449
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-10",
+    "price": 4.68,
+    "volume": 3345777
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-09",
+    "price": 4.93,
+    "volume": 3246442
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-08",
+    "price": 4.96,
+    "volume": 3521359
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-07",
+    "price": 5.06,
+    "volume": 2867302
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-06",
+    "price": 5.16,
+    "volume": 2523948
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-03",
+    "price": 5.24,
+    "volume": 4176723
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-02",
+    "price": 5.21,
+    "volume": 4370223
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-05-01",
+    "price": 5.38,
+    "volume": 7546485
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-30",
+    "price": 5.17,
+    "volume": 18726047
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-29",
+    "price": 7.17,
+    "volume": 5312366
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-26",
+    "price": 7.1,
+    "volume": 1957947
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-25",
+    "price": 6.88,
+    "volume": 1511388
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-24",
+    "price": 6.81,
+    "volume": 2097998
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-23",
+    "price": 6.83,
+    "volume": 1902929
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-22",
+    "price": 6.82,
+    "volume": 1470352
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-19",
+    "price": 7.09,
+    "volume": 2227881
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-18",
+    "price": 7.03,
+    "volume": 2076180
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-17",
+    "price": 6.9,
+    "volume": 3411212
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-16",
+    "price": 6.81,
+    "volume": 1978153
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-15",
+    "price": 6.87,
+    "volume": 2173948
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-12",
+    "price": 7.15,
+    "volume": 1489245
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-11",
+    "price": 7.45,
+    "volume": 1929695
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-10",
+    "price": 7.5,
+    "volume": 2394476
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-09",
+    "price": 7.59,
+    "volume": 2383372
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-08",
+    "price": 7.22,
+    "volume": 1295190
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-05",
+    "price": 7.13,
+    "volume": 2089299
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-04",
+    "price": 7.06,
+    "volume": 1270612
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-03",
+    "price": 7.19,
+    "volume": 1489608
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-02",
+    "price": 7.13,
+    "volume": 2027262
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-04-01",
+    "price": 7.22,
+    "volume": 2538260
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-28",
+    "price": 7.57,
+    "volume": 1319591
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-27",
+    "price": 7.58,
+    "volume": 2580980
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-26",
+    "price": 7.37,
+    "volume": 2127203
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-25",
+    "price": 7.49,
+    "volume": 2634342
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-22",
+    "price": 7.81,
+    "volume": 1238981
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-21",
+    "price": 8.02,
+    "volume": 1896622
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-20",
+    "price": 8,
+    "volume": 1485204
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-19",
+    "price": 7.83,
+    "volume": 1979349
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-18",
+    "price": 7.83,
+    "volume": 2483074
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-15",
+    "price": 7.97,
+    "volume": 2855289
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-14",
+    "price": 7.87,
+    "volume": 2830916
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-13",
+    "price": 8.03,
+    "volume": 1799693
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-12",
+    "price": 8.02,
+    "volume": 1478709
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-11",
+    "price": 8.2,
+    "volume": 1872987
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-08",
+    "price": 8.18,
+    "volume": 1658814
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-07",
+    "price": 8.24,
+    "volume": 2244182
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-06",
+    "price": 7.95,
+    "volume": 2961627
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-05",
+    "price": 8.24,
+    "volume": 3484313
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-04",
+    "price": 8.86,
+    "volume": 1905567
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-03-01",
+    "price": 9.04,
+    "volume": 2816768
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-29",
+    "price": 8.94,
+    "volume": 2386188
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-28",
+    "price": 8.55,
+    "volume": 3274463
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-27",
+    "price": 8.84,
+    "volume": 1833825
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-26",
+    "price": 8.71,
+    "volume": 3870158
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-23",
+    "price": 8.92,
+    "volume": 2307847
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-22",
+    "price": 8.76,
+    "volume": 4023191
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-21",
+    "price": 8.72,
+    "volume": 3810438
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-20",
+    "price": 8.74,
+    "volume": 2865108
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-16",
+    "price": 9.09,
+    "volume": 2817966
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-15",
+    "price": 9.31,
+    "volume": 3319861
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-14",
+    "price": 9.05,
+    "volume": 3451636
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-13",
+    "price": 8.69,
+    "volume": 4994510
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-12",
+    "price": 8.83,
+    "volume": 2509544
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-09",
+    "price": 8.73,
+    "volume": 2927780
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-08",
+    "price": 8.6,
+    "volume": 2527180
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-07",
+    "price": 8.6,
+    "volume": 4796037
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-06",
+    "price": 8.73,
+    "volume": 10544188
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-05",
+    "price": 9.3,
+    "volume": 7025407
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-02",
+    "price": 9.57,
+    "volume": 4077853
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-02-01",
+    "price": 9.85,
+    "volume": 1790309
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-31",
+    "price": 9.85,
+    "volume": 2797286
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-30",
+    "price": 9.78,
+    "volume": 2124661
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-29",
+    "price": 10.16,
+    "volume": 3317051
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-26",
+    "price": 10.33,
+    "volume": 1951303
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-25",
+    "price": 10.14,
+    "volume": 2544296
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-24",
+    "price": 9.98,
+    "volume": 1837859
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-23",
+    "price": 10.01,
+    "volume": 2063015
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-22",
+    "price": 10,
+    "volume": 2896645
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-19",
+    "price": 9.84,
+    "volume": 4296999
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-18",
+    "price": 10.06,
+    "volume": 3403291
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-17",
+    "price": 10.75,
+    "volume": 2261276
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-16",
+    "price": 10.87,
+    "volume": 2404625
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-12",
+    "price": 11.1,
+    "volume": 1429704
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-11",
+    "price": 10.87,
+    "volume": 1518450
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-10",
+    "price": 10.8,
+    "volume": 1757300
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-09",
+    "price": 10.99,
+    "volume": 3236997
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-08",
+    "price": 10.87,
+    "volume": 2062867
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-05",
+    "price": 10.78,
+    "volume": 2321267
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-04",
+    "price": 10.68,
+    "volume": 4841351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-03",
+    "price": 11.07,
+    "volume": 3225659
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2024-01-02",
+    "price": 11.23,
+    "volume": 1991586
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-29",
+    "price": 11.36,
+    "volume": 1693954
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-28",
+    "price": 11.41,
+    "volume": 2207511
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-27",
+    "price": 11.29,
+    "volume": 1546654
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-26",
+    "price": 11.12,
+    "volume": 1100153
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-22",
+    "price": 11.06,
+    "volume": 1386769
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-21",
+    "price": 11.17,
+    "volume": 1896072
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-20",
+    "price": 11,
+    "volume": 2935036
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-19",
+    "price": 11.14,
+    "volume": 2173845
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-18",
+    "price": 11.03,
+    "volume": 2392525
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-15",
+    "price": 10.67,
+    "volume": 3328128
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-14",
+    "price": 11.07,
+    "volume": 4562991
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-13",
+    "price": 10.98,
+    "volume": 2368678
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-12",
+    "price": 10.55,
+    "volume": 2111416
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-11",
+    "price": 10.67,
+    "volume": 1705274
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-08",
+    "price": 10.68,
+    "volume": 1623161
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-07",
+    "price": 10.85,
+    "volume": 2039685
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-06",
+    "price": 10.51,
+    "volume": 1663683
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-05",
+    "price": 10,
+    "volume": 1976212
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-04",
+    "price": 10.27,
+    "volume": 1775040
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-12-01",
+    "price": 10.23,
+    "volume": 2014651
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-30",
+    "price": 9.93,
+    "volume": 2769669
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-29",
+    "price": 10.2,
+    "volume": 2099968
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-28",
+    "price": 10.28,
+    "volume": 2322060
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-27",
+    "price": 10.01,
+    "volume": 1659761
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-24",
+    "price": 10.15,
+    "volume": 706591
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-22",
+    "price": 10.33,
+    "volume": 2029424
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-21",
+    "price": 10.13,
+    "volume": 3950369
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-20",
+    "price": 9.81,
+    "volume": 5689344
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-17",
+    "price": 10.46,
+    "volume": 2343049
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-16",
+    "price": 10.36,
+    "volume": 4749029
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-15",
+    "price": 10.49,
+    "volume": 7191748
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-14",
+    "price": 8.89,
+    "volume": 2182928
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-13",
+    "price": 8.52,
+    "volume": 1322530
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-10",
+    "price": 8.44,
+    "volume": 2325713
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-09",
+    "price": 8.6,
+    "volume": 1875505
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-08",
+    "price": 8.91,
+    "volume": 2179039
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-07",
+    "price": 8.62,
+    "volume": 2390529
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-06",
+    "price": 8.02,
+    "volume": 1668795
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-03",
+    "price": 8.35,
+    "volume": 2355695
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-02",
+    "price": 7.99,
+    "volume": 4121423
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-11-01",
+    "price": 7.5,
+    "volume": 6598721
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-31",
+    "price": 7.53,
+    "volume": 9726852
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-30",
+    "price": 8.87,
+    "volume": 4624881
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-27",
+    "price": 8.48,
+    "volume": 3047867
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-26",
+    "price": 8.48,
+    "volume": 2709534
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-25",
+    "price": 8.34,
+    "volume": 1794925
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-24",
+    "price": 8.28,
+    "volume": 1564970
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-23",
+    "price": 8.32,
+    "volume": 1396391
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-20",
+    "price": 8.39,
+    "volume": 1911545
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-19",
+    "price": 8.24,
+    "volume": 1200092
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-18",
+    "price": 8.42,
+    "volume": 1173518
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-17",
+    "price": 8.44,
+    "volume": 1104214
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-16",
+    "price": 8.49,
+    "volume": 1331513
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-13",
+    "price": 8.26,
+    "volume": 1575672
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-12",
+    "price": 8.2,
+    "volume": 2021607
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-11",
+    "price": 8.45,
+    "volume": 2366116
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-10",
+    "price": 8.68,
+    "volume": 1836137
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-09",
+    "price": 8.29,
+    "volume": 1100997
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-06",
+    "price": 8.36,
+    "volume": 1518238
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-05",
+    "price": 8.41,
+    "volume": 1249024
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-04",
+    "price": 8.47,
+    "volume": 1762690
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-03",
+    "price": 8.67,
+    "volume": 1659118
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-10-02",
+    "price": 8.75,
+    "volume": 1603029
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-29",
+    "price": 8.92,
+    "volume": 2621649
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-28",
+    "price": 8.94,
+    "volume": 1978440
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-27",
+    "price": 8.73,
+    "volume": 2017992
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-26",
+    "price": 8.84,
+    "volume": 4722423
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-25",
+    "price": 8.97,
+    "volume": 1754477
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-22",
+    "price": 8.94,
+    "volume": 1764135
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-21",
+    "price": 8.97,
+    "volume": 1797677
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-20",
+    "price": 9.45,
+    "volume": 2159081
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-19",
+    "price": 9.5,
+    "volume": 1605255
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-18",
+    "price": 9.75,
+    "volume": 1238479
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-15",
+    "price": 9.82,
+    "volume": 2138677
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-14",
+    "price": 10.02,
+    "volume": 1487726
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-13",
+    "price": 9.93,
+    "volume": 1419438
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-12",
+    "price": 10.06,
+    "volume": 1235390
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-11",
+    "price": 10.4,
+    "volume": 1564031
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-08",
+    "price": 10.19,
+    "volume": 936865
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-07",
+    "price": 10.15,
+    "volume": 1517121
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-06",
+    "price": 10.22,
+    "volume": 1852232
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-05",
+    "price": 10.48,
+    "volume": 1745985
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-09-01",
+    "price": 10.64,
+    "volume": 1936412
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-31",
+    "price": 10.21,
+    "volume": 2213250
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-30",
+    "price": 10.08,
+    "volume": 2402992
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-29",
+    "price": 9.9,
+    "volume": 2282691
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-28",
+    "price": 9.97,
+    "volume": 2251270
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-25",
+    "price": 9.57,
+    "volume": 1296027
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-24",
+    "price": 9.59,
+    "volume": 1991314
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-23",
+    "price": 9.9,
+    "volume": 2200260
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-22",
+    "price": 9.74,
+    "volume": 1225793
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-21",
+    "price": 10.05,
+    "volume": 2135956
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-18",
+    "price": 10,
+    "volume": 2772351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-17",
+    "price": 10.61,
+    "volume": 5865586
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-16",
+    "price": 9.53,
+    "volume": 2228612
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-15",
+    "price": 9.8,
+    "volume": 2117541
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-14",
+    "price": 10.15,
+    "volume": 2746220
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-11",
+    "price": 10.15,
+    "volume": 2182232
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-10",
+    "price": 10.29,
+    "volume": 3243272
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-09",
+    "price": 10.13,
+    "volume": 6444801
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-08",
+    "price": 10.46,
+    "volume": 21253842
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-07",
+    "price": 10.03,
+    "volume": 7175904
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-04",
+    "price": 10.49,
+    "volume": 2135446
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-03",
+    "price": 10.44,
+    "volume": 2204103
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-02",
+    "price": 10.16,
+    "volume": 2803723
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-08-01",
+    "price": 10.34,
+    "volume": 2949408
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-31",
+    "price": 10.13,
+    "volume": 2029223
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-28",
+    "price": 10.19,
+    "volume": 1509185
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-27",
+    "price": 9.89,
+    "volume": 1856546
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-26",
+    "price": 10.1,
+    "volume": 2006621
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-25",
+    "price": 10.09,
+    "volume": 2178451
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-24",
+    "price": 9.87,
+    "volume": 2346201
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-21",
+    "price": 9.6,
+    "volume": 2322139
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-20",
+    "price": 9.58,
+    "volume": 2140047
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-19",
+    "price": 9.59,
+    "volume": 2812143
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-18",
+    "price": 9.36,
+    "volume": 2056365
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-17",
+    "price": 9.12,
+    "volume": 2388308
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-14",
+    "price": 9.18,
+    "volume": 1819411
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-13",
+    "price": 9.48,
+    "volume": 3270700
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-12",
+    "price": 9.39,
+    "volume": 2549066
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-11",
+    "price": 9.17,
+    "volume": 2755685
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-10",
+    "price": 8.9,
+    "volume": 3016674
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-07",
+    "price": 8.99,
+    "volume": 2941548
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-06",
+    "price": 8.66,
+    "volume": 3046027
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-05",
+    "price": 8.97,
+    "volume": 3360974
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-07-03",
+    "price": 9.42,
+    "volume": 1891825
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-30",
+    "price": 8.88,
+    "volume": 2429327
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-29",
+    "price": 8.83,
+    "volume": 2488114
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-28",
+    "price": 8.83,
+    "volume": 3392242
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-27",
+    "price": 8.7,
+    "volume": 2910000
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-26",
+    "price": 8.74,
+    "volume": 3552839
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-23",
+    "price": 8.87,
+    "volume": 5017913
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-22",
+    "price": 9.24,
+    "volume": 2807690
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-21",
+    "price": 9.52,
+    "volume": 2482213
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-20",
+    "price": 9.62,
+    "volume": 2380160
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-16",
+    "price": 9.8,
+    "volume": 3964206
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-15",
+    "price": 10.22,
+    "volume": 2279124
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-14",
+    "price": 10.19,
+    "volume": 3065988
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-13",
+    "price": 10.61,
+    "volume": 3218415
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-12",
+    "price": 10.93,
+    "volume": 3526369
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-09",
+    "price": 10.5,
+    "volume": 3172770
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-08",
+    "price": 10.36,
+    "volume": 3687010
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-07",
+    "price": 10.14,
+    "volume": 3354627
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-06",
+    "price": 10.07,
+    "volume": 3863125
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-05",
+    "price": 9.48,
+    "volume": 3112459
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-02",
+    "price": 9.61,
+    "volume": 4859643
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-06-01",
+    "price": 9.02,
+    "volume": 3902637
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-31",
+    "price": 8.98,
+    "volume": 3297979
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-30",
+    "price": 9.11,
+    "volume": 3341742
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-26",
+    "price": 9.2,
+    "volume": 2610516
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-25",
+    "price": 9.32,
+    "volume": 2490620
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-24",
+    "price": 9.69,
+    "volume": 2600699
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-23",
+    "price": 9.47,
+    "volume": 3761836
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-22",
+    "price": 9.45,
+    "volume": 2853231
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-19",
+    "price": 9.22,
+    "volume": 2005226
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-18",
+    "price": 9.43,
+    "volume": 3717564
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-17",
+    "price": 9.15,
+    "volume": 3221048
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-16",
+    "price": 9.22,
+    "volume": 3329997
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-15",
+    "price": 9.66,
+    "volume": 4503695
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-12",
+    "price": 9.71,
+    "volume": 3424190
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-11",
+    "price": 9.47,
+    "volume": 3716404
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-10",
+    "price": 9.8,
+    "volume": 4796119
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-09",
+    "price": 9.98,
+    "volume": 3800466
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-08",
+    "price": 10.1,
+    "volume": 5914583
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-05",
+    "price": 10.14,
+    "volume": 8728098
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-04",
+    "price": 9.44,
+    "volume": 9858394
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-03",
+    "price": 10.17,
+    "volume": 33676905
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-02",
+    "price": 9.08,
+    "volume": 50376167
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-05-01",
+    "price": 17.6,
+    "volume": 9201716
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-28",
+    "price": 17.98,
+    "volume": 3642528
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-27",
+    "price": 18.13,
+    "volume": 3225194
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-26",
+    "price": 18.34,
+    "volume": 1661614
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-25",
+    "price": 18.06,
+    "volume": 2340103
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-24",
+    "price": 18.44,
+    "volume": 1704409
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-21",
+    "price": 18.48,
+    "volume": 3305887
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-20",
+    "price": 18.6,
+    "volume": 3169682
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-19",
+    "price": 17.63,
+    "volume": 2095448
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-18",
+    "price": 17.3,
+    "volume": 3682680
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-17",
+    "price": 17.94,
+    "volume": 3338471
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-14",
+    "price": 18.28,
+    "volume": 3361268
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-13",
+    "price": 17.99,
+    "volume": 5061484
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-12",
+    "price": 16.77,
+    "volume": 2914794
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-11",
+    "price": 17.03,
+    "volume": 3044050
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-10",
+    "price": 16.37,
+    "volume": 2617568
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-06",
+    "price": 16.23,
+    "volume": 1878460
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-05",
+    "price": 16.17,
+    "volume": 2447943
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-04",
+    "price": 16.41,
+    "volume": 1988563
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-04-03",
+    "price": 16.19,
+    "volume": 2513764
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-31",
+    "price": 16.3,
+    "volume": 4326817
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-30",
+    "price": 16.24,
+    "volume": 1725414
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-29",
+    "price": 16.17,
+    "volume": 2814688
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-28",
+    "price": 16.1,
+    "volume": 3159967
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-27",
+    "price": 15.89,
+    "volume": 2307197
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-24",
+    "price": 15.68,
+    "volume": 2173442
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-23",
+    "price": 15.43,
+    "volume": 2486120
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-22",
+    "price": 15.49,
+    "volume": 3612289
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-21",
+    "price": 15.97,
+    "volume": 2733025
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-20",
+    "price": 15.86,
+    "volume": 2194530
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-17",
+    "price": 16.28,
+    "volume": 3428674
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-16",
+    "price": 16.44,
+    "volume": 2169395
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-15",
+    "price": 16.13,
+    "volume": 1989729
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-14",
+    "price": 16,
+    "volume": 1997617
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-13",
+    "price": 15.55,
+    "volume": 2173263
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-10",
+    "price": 15.89,
+    "volume": 1806096
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-09",
+    "price": 16.15,
+    "volume": 2260686
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-08",
+    "price": 16.56,
+    "volume": 2107856
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-07",
+    "price": 17.08,
+    "volume": 2419965
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-06",
+    "price": 16.87,
+    "volume": 3651433
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-03",
+    "price": 16.6,
+    "volume": 2844463
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-02",
+    "price": 16.04,
+    "volume": 2356142
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-03-01",
+    "price": 15.51,
+    "volume": 2954521
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-28",
+    "price": 15.89,
+    "volume": 3774002
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-27",
+    "price": 15.81,
+    "volume": 3709904
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-24",
+    "price": 15.99,
+    "volume": 3386824
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-23",
+    "price": 15.79,
+    "volume": 2810648
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-22",
+    "price": 15.73,
+    "volume": 1992934
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-21",
+    "price": 15.66,
+    "volume": 2869021
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-17",
+    "price": 16.36,
+    "volume": 2359075
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-16",
+    "price": 16.64,
+    "volume": 2275305
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-15",
+    "price": 17.19,
+    "volume": 2074326
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-14",
+    "price": 16.95,
+    "volume": 1629434
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-13",
+    "price": 16.85,
+    "volume": 2414436
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-10",
+    "price": 16.95,
+    "volume": 2505231
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-09",
+    "price": 17.1,
+    "volume": 2431418
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-08",
+    "price": 17.57,
+    "volume": 4910250
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-07",
+    "price": 17.43,
+    "volume": 20721458
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-06",
+    "price": 21.03,
+    "volume": 6480068
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-03",
+    "price": 21.34,
+    "volume": 3094317
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-02",
+    "price": 20.89,
+    "volume": 2442094
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-02-01",
+    "price": 20.95,
+    "volume": 2641999
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-31",
+    "price": 20.76,
+    "volume": 2073522
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-30",
+    "price": 21.13,
+    "volume": 2492499
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-27",
+    "price": 20.59,
+    "volume": 1794180
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-26",
+    "price": 20.31,
+    "volume": 2870640
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-25",
+    "price": 19.8,
+    "volume": 2943225
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-24",
+    "price": 20.63,
+    "volume": 1466669
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-23",
+    "price": 20.99,
+    "volume": 3125444
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-20",
+    "price": 20.56,
+    "volume": 2776292
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-19",
+    "price": 20.58,
+    "volume": 4534720
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-18",
+    "price": 20.38,
+    "volume": 9055355
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-17",
+    "price": 24.44,
+    "volume": 1240949
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-13",
+    "price": 24.62,
+    "volume": 1859506
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-12",
+    "price": 24.3,
+    "volume": 2021436
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-11",
+    "price": 24.53,
+    "volume": 2018239
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-10",
+    "price": 25.7,
+    "volume": 1778587
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-09",
+    "price": 25.04,
+    "volume": 2336550
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-06",
+    "price": 25.68,
+    "volume": 1050713
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-05",
+    "price": 26.45,
+    "volume": 1775855
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-04",
+    "price": 25.46,
+    "volume": 1277097
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2023-01-03",
+    "price": 25.41,
+    "volume": 1332613
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-30",
+    "price": 25.27,
+    "volume": 660557
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-29",
+    "price": 25.53,
+    "volume": 906358
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-28",
+    "price": 25.26,
+    "volume": 1075626
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-27",
+    "price": 25.41,
+    "volume": 817089
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-23",
+    "price": 26,
+    "volume": 776567
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-22",
+    "price": 26.06,
+    "volume": 1623028
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-21",
+    "price": 26.87,
+    "volume": 905882
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-20",
+    "price": 26.76,
+    "volume": 1022879
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-19",
+    "price": 27.27,
+    "volume": 1116505
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-16",
+    "price": 27.72,
+    "volume": 1815543
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-15",
+    "price": 27.62,
+    "volume": 1443787
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-14",
+    "price": 28.73,
+    "volume": 1364478
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-13",
+    "price": 27.95,
+    "volume": 1510870
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-12",
+    "price": 27.65,
+    "volume": 1010507
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-09",
+    "price": 27.19,
+    "volume": 761827
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-08",
+    "price": 28.08,
+    "volume": 788347
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-07",
+    "price": 27.59,
+    "volume": 893028
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-06",
+    "price": 28.19,
+    "volume": 1716584
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-05",
+    "price": 28.59,
+    "volume": 995388
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-02",
+    "price": 29.69,
+    "volume": 1074708
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-12-01",
+    "price": 29.59,
+    "volume": 1333196
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-30",
+    "price": 29.84,
+    "volume": 2043575
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-29",
+    "price": 28.11,
+    "volume": 915325
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-28",
+    "price": 28.41,
+    "volume": 1091190
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-25",
+    "price": 28.56,
+    "volume": 375164
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-23",
+    "price": 28.56,
+    "volume": 903360
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-22",
+    "price": 28.33,
+    "volume": 924964
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-21",
+    "price": 28.61,
+    "volume": 1000858
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-18",
+    "price": 28.29,
+    "volume": 1360135
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-17",
+    "price": 28.76,
+    "volume": 1093418
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-16",
+    "price": 28.52,
+    "volume": 1512982
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-15",
+    "price": 28.9,
+    "volume": 1683296
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-14",
+    "price": 26.96,
+    "volume": 1440267
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-11",
+    "price": 28.21,
+    "volume": 1338844
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-10",
+    "price": 28.49,
+    "volume": 1917291
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-09",
+    "price": 27.23,
+    "volume": 2234220
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-08",
+    "price": 26.28,
+    "volume": 1419280
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-07",
+    "price": 25.75,
+    "volume": 1427996
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-04",
+    "price": 25.89,
+    "volume": 1746897
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-03",
+    "price": 25.55,
+    "volume": 3095738
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-02",
+    "price": 25.75,
+    "volume": 10863966
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-11-01",
+    "price": 21.11,
+    "volume": 2484914
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-31",
+    "price": 21.57,
+    "volume": 2056620
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-28",
+    "price": 22.81,
+    "volume": 1196843
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-27",
+    "price": 22.06,
+    "volume": 1361555
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-26",
+    "price": 21.7,
+    "volume": 800762
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-25",
+    "price": 22.19,
+    "volume": 1178902
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-24",
+    "price": 21,
+    "volume": 1100179
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-21",
+    "price": 21.5,
+    "volume": 871808
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-20",
+    "price": 21.32,
+    "volume": 1285402
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-19",
+    "price": 21.11,
+    "volume": 1176001
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-18",
+    "price": 21.87,
+    "volume": 1428891
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-17",
+    "price": 21.76,
+    "volume": 1581896
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-14",
+    "price": 20.02,
+    "volume": 1976319
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-13",
+    "price": 21.75,
+    "volume": 1281365
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-12",
+    "price": 21.56,
+    "volume": 1155893
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-11",
+    "price": 20.92,
+    "volume": 1092246
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-10",
+    "price": 21.24,
+    "volume": 912624
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-07",
+    "price": 21.1,
+    "volume": 1103442
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-06",
+    "price": 22.04,
+    "volume": 926963
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-05",
+    "price": 21.48,
+    "volume": 1205491
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-04",
+    "price": 21.88,
+    "volume": 1209470
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-10-03",
+    "price": 21.2,
+    "volume": 1100225
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-30",
+    "price": 21.07,
+    "volume": 1336464
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-29",
+    "price": 21.63,
+    "volume": 2067805
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-28",
+    "price": 22.68,
+    "volume": 2334947
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-27",
+    "price": 20.51,
+    "volume": 1380279
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-26",
+    "price": 20.67,
+    "volume": 2615788
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-23",
+    "price": 18.95,
+    "volume": 1600306
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-22",
+    "price": 19.32,
+    "volume": 1798520
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-21",
+    "price": 20.03,
+    "volume": 1313863
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-20",
+    "price": 21.09,
+    "volume": 1082091
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-19",
+    "price": 21.86,
+    "volume": 1629861
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-16",
+    "price": 21.13,
+    "volume": 2214807
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-15",
+    "price": 22.93,
+    "volume": 1911375
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-14",
+    "price": 21.94,
+    "volume": 1104786
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-13",
+    "price": 21.62,
+    "volume": 1885086
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-12",
+    "price": 23.12,
+    "volume": 1468652
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-09",
+    "price": 23.07,
+    "volume": 1339556
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-08",
+    "price": 22.72,
+    "volume": 1753676
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-07",
+    "price": 21.45,
+    "volume": 1462468
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-06",
+    "price": 20.34,
+    "volume": 1422128
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-02",
+    "price": 20.64,
+    "volume": 2046852
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-09-01",
+    "price": 19.95,
+    "volume": 1805373
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-31",
+    "price": 19.68,
+    "volume": 1741353
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-30",
+    "price": 19.07,
+    "volume": 1474203
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-29",
+    "price": 19.71,
+    "volume": 1588575
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-26",
+    "price": 19.34,
+    "volume": 1140436
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-25",
+    "price": 20.37,
+    "volume": 1051078
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-24",
+    "price": 20.24,
+    "volume": 1621377
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-23",
+    "price": 19.66,
+    "volume": 1331025
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-22",
+    "price": 19.64,
+    "volume": 1605580
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-19",
+    "price": 21.15,
+    "volume": 1874596
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-18",
+    "price": 21.18,
+    "volume": 1601842
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-17",
+    "price": 20.77,
+    "volume": 2409746
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-16",
+    "price": 21.95,
+    "volume": 1244263
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-15",
+    "price": 22.55,
+    "volume": 1257125
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-12",
+    "price": 22.6,
+    "volume": 852832
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-11",
+    "price": 22.09,
+    "volume": 1189397
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-10",
+    "price": 22.94,
+    "volume": 1274739
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-09",
+    "price": 21.56,
+    "volume": 1340120
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-08",
+    "price": 22.44,
+    "volume": 2376284
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-05",
+    "price": 23.59,
+    "volume": 2901910
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-04",
+    "price": 21.63,
+    "volume": 2114975
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-03",
+    "price": 22.15,
+    "volume": 2287862
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-02",
+    "price": 21.38,
+    "volume": 1524481
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-08-01",
+    "price": 21.14,
+    "volume": 2490277
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-29",
+    "price": 21.3,
+    "volume": 1254214
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-28",
+    "price": 21.05,
+    "volume": 1214317
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-27",
+    "price": 20.9,
+    "volume": 2460309
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-26",
+    "price": 19.73,
+    "volume": 1052183
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-25",
+    "price": 20.39,
+    "volume": 1354975
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-22",
+    "price": 20.47,
+    "volume": 1216240
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-21",
+    "price": 21.11,
+    "volume": 1663439
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-20",
+    "price": 20.34,
+    "volume": 1999170
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-19",
+    "price": 19.58,
+    "volume": 2182149
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-18",
+    "price": 19.75,
+    "volume": 2129309
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-15",
+    "price": 19.42,
+    "volume": 1550126
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-14",
+    "price": 18.36,
+    "volume": 1183750
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-13",
+    "price": 18.54,
+    "volume": 1375470
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-12",
+    "price": 18.38,
+    "volume": 1957973
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-11",
+    "price": 17.57,
+    "volume": 2169913
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-08",
+    "price": 19.37,
+    "volume": 2674099
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-07",
+    "price": 18.94,
+    "volume": 3212968
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-06",
+    "price": 18.86,
+    "volume": 1599141
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-05",
+    "price": 19.18,
+    "volume": 2375308
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-07-01",
+    "price": 19.15,
+    "volume": 3005914
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-30",
+    "price": 18.78,
+    "volume": 2884287
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-29",
+    "price": 18.28,
+    "volume": 1806746
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-28",
+    "price": 18.35,
+    "volume": 2027759
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-27",
+    "price": 19.43,
+    "volume": 2111493
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-24",
+    "price": 19.39,
+    "volume": 15989663
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-23",
+    "price": 19.17,
+    "volume": 2842564
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-22",
+    "price": 18.49,
+    "volume": 3322846
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-21",
+    "price": 18.45,
+    "volume": 3795879
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-17",
+    "price": 19.15,
+    "volume": 3461216
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-16",
+    "price": 17.02,
+    "volume": 2519064
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-15",
+    "price": 18.59,
+    "volume": 2383792
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-14",
+    "price": 17.53,
+    "volume": 2608296
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-13",
+    "price": 17.29,
+    "volume": 2596860
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-10",
+    "price": 18.95,
+    "volume": 1608058
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-09",
+    "price": 19.74,
+    "volume": 1722269
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-08",
+    "price": 20.55,
+    "volume": 1847887
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-07",
+    "price": 20.47,
+    "volume": 2264480
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-06",
+    "price": 20.89,
+    "volume": 2754390
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-03",
+    "price": 21.14,
+    "volume": 4025350
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-02",
+    "price": 20.42,
+    "volume": 2705007
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-06-01",
+    "price": 18.74,
+    "volume": 2252283
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-31",
+    "price": 19.46,
+    "volume": 2052262
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-27",
+    "price": 19.34,
+    "volume": 1652072
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-26",
+    "price": 18.63,
+    "volume": 2802221
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-25",
+    "price": 18.17,
+    "volume": 2456875
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-24",
+    "price": 17.98,
+    "volume": 2073551
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-23",
+    "price": 18.42,
+    "volume": 2511804
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-20",
+    "price": 18.6,
+    "volume": 2159870
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-19",
+    "price": 19.24,
+    "volume": 3084780
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-18",
+    "price": 18.51,
+    "volume": 2621907
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-17",
+    "price": 19.25,
+    "volume": 3163167
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-16",
+    "price": 18.73,
+    "volume": 8158033
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-13",
+    "price": 18.2,
+    "volume": 3263967
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-12",
+    "price": 17.7,
+    "volume": 4204909
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-11",
+    "price": 16.46,
+    "volume": 4150994
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-10",
+    "price": 17.73,
+    "volume": 4340014
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-09",
+    "price": 17.5,
+    "volume": 4318179
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-06",
+    "price": 18.65,
+    "volume": 5689158
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-05",
+    "price": 19.51,
+    "volume": 8643631
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-04",
+    "price": 20.39,
+    "volume": 22976377
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-03",
+    "price": 17.42,
+    "volume": 50792406
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-05-02",
+    "price": 24.98,
+    "volume": 6970091
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-29",
+    "price": 24.74,
+    "volume": 2404508
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-28",
+    "price": 25.7,
+    "volume": 1730753
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-27",
+    "price": 25.25,
+    "volume": 2692258
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-26",
+    "price": 25.9,
+    "volume": 2283915
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-25",
+    "price": 27.32,
+    "volume": 2202223
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-22",
+    "price": 26.74,
+    "volume": 2302851
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-21",
+    "price": 27.99,
+    "volume": 2540388
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-20",
+    "price": 29.66,
+    "volume": 3043486
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-19",
+    "price": 32.18,
+    "volume": 1445256
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-18",
+    "price": 31.51,
+    "volume": 2508219
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-14",
+    "price": 32.36,
+    "volume": 1346768
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-13",
+    "price": 32.5,
+    "volume": 2138849
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-12",
+    "price": 32.32,
+    "volume": 4402983
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-11",
+    "price": 35.29,
+    "volume": 1413308
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-08",
+    "price": 35.2,
+    "volume": 1409191
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-07",
+    "price": 35.26,
+    "volume": 1808239
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-06",
+    "price": 35.57,
+    "volume": 2167761
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-05",
+    "price": 36.21,
+    "volume": 1788001
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-04",
+    "price": 37.03,
+    "volume": 1933051
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-04-01",
+    "price": 36.52,
+    "volume": 1868251
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-31",
+    "price": 36.28,
+    "volume": 1948769
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-30",
+    "price": 36.04,
+    "volume": 1487852
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-29",
+    "price": 36.43,
+    "volume": 2127356
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-28",
+    "price": 35.82,
+    "volume": 1741941
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-25",
+    "price": 35.41,
+    "volume": 1952220
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-24",
+    "price": 35.74,
+    "volume": 2170636
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-23",
+    "price": 34.21,
+    "volume": 1712042
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-22",
+    "price": 34.32,
+    "volume": 1935811
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-21",
+    "price": 33.62,
+    "volume": 2300500
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-18",
+    "price": 33.73,
+    "volume": 3794523
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-17",
+    "price": 32.88,
+    "volume": 2529012
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-16",
+    "price": 31.82,
+    "volume": 2455411
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-15",
+    "price": 30.81,
+    "volume": 2122485
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-14",
+    "price": 30.18,
+    "volume": 2825463
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-11",
+    "price": 30.07,
+    "volume": 2834392
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-10",
+    "price": 30.64,
+    "volume": 2087897
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-09",
+    "price": 30.92,
+    "volume": 2448213
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-08",
+    "price": 30.25,
+    "volume": 2591124
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-07",
+    "price": 30.26,
+    "volume": 3140512
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-04",
+    "price": 30.74,
+    "volume": 2433371
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-03",
+    "price": 30.63,
+    "volume": 2704866
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-02",
+    "price": 31.87,
+    "volume": 2528996
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-03-01",
+    "price": 31.34,
+    "volume": 2297651
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-28",
+    "price": 31.27,
+    "volume": 2951457
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-25",
+    "price": 31.01,
+    "volume": 3117732
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-24",
+    "price": 30.69,
+    "volume": 4125965
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-23",
+    "price": 29.12,
+    "volume": 3665280
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-22",
+    "price": 28.03,
+    "volume": 2036917
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-18",
+    "price": 28.29,
+    "volume": 1795134
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-17",
+    "price": 28.92,
+    "volume": 1924899
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-16",
+    "price": 29.92,
+    "volume": 2519825
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-15",
+    "price": 30.77,
+    "volume": 2346385
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-14",
+    "price": 30.44,
+    "volume": 2850332
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-11",
+    "price": 30.73,
+    "volume": 2846317
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-10",
+    "price": 31.6,
+    "volume": 4504036
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-09",
+    "price": 33.01,
+    "volume": 7846049
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-08",
+    "price": 31.63,
+    "volume": 21001992
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-07",
+    "price": 27.27,
+    "volume": 9435146
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-04",
+    "price": 26.31,
+    "volume": 3308726
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-03",
+    "price": 24.92,
+    "volume": 2823874
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-02",
+    "price": 26.05,
+    "volume": 2040562
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-02-01",
+    "price": 27.21,
+    "volume": 3285212
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-31",
+    "price": 26.47,
+    "volume": 4041370
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-28",
+    "price": 24.37,
+    "volume": 4265660
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-27",
+    "price": 24.13,
+    "volume": 2904587
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-26",
+    "price": 24.36,
+    "volume": 4476005
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-25",
+    "price": 25.23,
+    "volume": 4588282
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-24",
+    "price": 26.65,
+    "volume": 7255734
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-21",
+    "price": 26.21,
+    "volume": 4955460
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-20",
+    "price": 26.84,
+    "volume": 5120609
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-19",
+    "price": 27.79,
+    "volume": 3255116
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-18",
+    "price": 27.51,
+    "volume": 3333255
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-14",
+    "price": 28.94,
+    "volume": 2953443
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-13",
+    "price": 29.19,
+    "volume": 4255523
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-12",
+    "price": 29.03,
+    "volume": 5134106
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-11",
+    "price": 29.59,
+    "volume": 4246546
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-10",
+    "price": 29.28,
+    "volume": 3077369
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-07",
+    "price": 29.55,
+    "volume": 2597978
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-06",
+    "price": 29.49,
+    "volume": 3181746
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-05",
+    "price": 28.99,
+    "volume": 4685816
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-04",
+    "price": 29.66,
+    "volume": 5245919
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2022-01-03",
+    "price": 31.12,
+    "volume": 2617067
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-31",
+    "price": 30.7,
+    "volume": 3593569
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-30",
+    "price": 30.52,
+    "volume": 2597980
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-29",
+    "price": 29.28,
+    "volume": 2774134
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-28",
+    "price": 29.39,
+    "volume": 2717884
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-27",
+    "price": 30.28,
+    "volume": 2305569
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-23",
+    "price": 30.55,
+    "volume": 2655372
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-22",
+    "price": 30.36,
+    "volume": 3436531
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-21",
+    "price": 30.4,
+    "volume": 2569620
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-20",
+    "price": 29.66,
+    "volume": 5162086
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-17",
+    "price": 29.46,
+    "volume": 5093337
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-16",
+    "price": 27.69,
+    "volume": 3060207
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-15",
+    "price": 27.89,
+    "volume": 2836765
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-14",
+    "price": 27.47,
+    "volume": 4628441
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-13",
+    "price": 27.92,
+    "volume": 3883157
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-10",
+    "price": 27.57,
+    "volume": 2743637
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-09",
+    "price": 28,
+    "volume": 3344355
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-08",
+    "price": 28.71,
+    "volume": 7695994
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-07",
+    "price": 28.19,
+    "volume": 6440123
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-06",
+    "price": 29.43,
+    "volume": 6963102
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-03",
+    "price": 28.56,
+    "volume": 5982944
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-02",
+    "price": 28.95,
+    "volume": 6745068
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-12-01",
+    "price": 27.44,
+    "volume": 9916566
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-30",
+    "price": 27.85,
+    "volume": 9355164
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-29",
+    "price": 25.7,
+    "volume": 5554972
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-26",
+    "price": 24.99,
+    "volume": 3440411
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-24",
+    "price": 25.25,
+    "volume": 4622790
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-23",
+    "price": 25.02,
+    "volume": 5114319
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-22",
+    "price": 25.54,
+    "volume": 4309195
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-19",
+    "price": 26.53,
+    "volume": 4305731
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-18",
+    "price": 27.06,
+    "volume": 6439580
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-17",
+    "price": 28.6,
+    "volume": 6532466
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-16",
+    "price": 29.69,
+    "volume": 4285173
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-15",
+    "price": 29.31,
+    "volume": 4999150
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-12",
+    "price": 29.42,
+    "volume": 3916601
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-11",
+    "price": 29.64,
+    "volume": 4850493
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-10",
+    "price": 30.15,
+    "volume": 5888932
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-09",
+    "price": 30.05,
+    "volume": 6337815
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-08",
+    "price": 30.78,
+    "volume": 9422765
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-05",
+    "price": 30.64,
+    "volume": 9045168
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-04",
+    "price": 31.63,
+    "volume": 16335018
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-03",
+    "price": 34.08,
+    "volume": 22873396
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-02",
+    "price": 32.12,
+    "volume": 77348513
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-11-01",
+    "price": 62.76,
+    "volume": 7210114
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-29",
+    "price": 59.44,
+    "volume": 1852438
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-28",
+    "price": 58.09,
+    "volume": 1447021
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-27",
+    "price": 58.28,
+    "volume": 1522351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-26",
+    "price": 59.03,
+    "volume": 2272413
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-25",
+    "price": 58.78,
+    "volume": 2896434
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-22",
+    "price": 59.86,
+    "volume": 1698587
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-21",
+    "price": 61.42,
+    "volume": 1706246
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-20",
+    "price": 61.53,
+    "volume": 2053940
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-19",
+    "price": 62.8,
+    "volume": 2093282
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-18",
+    "price": 62.34,
+    "volume": 1710688
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-15",
+    "price": 61.28,
+    "volume": 2834126
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-14",
+    "price": 62.08,
+    "volume": 2103569
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-13",
+    "price": 63.5,
+    "volume": 2287680
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-12",
+    "price": 62.6,
+    "volume": 1605777
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-11",
+    "price": 62.28,
+    "volume": 2191881
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-08",
+    "price": 63.67,
+    "volume": 3077244
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-07",
+    "price": 66.42,
+    "volume": 2854638
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-06",
+    "price": 69.6,
+    "volume": 694614
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-05",
+    "price": 69.96,
+    "volume": 1071301
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-04",
+    "price": 69.07,
+    "volume": 2172425
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-10-01",
+    "price": 68.62,
+    "volume": 1461441
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-30",
+    "price": 68.02,
+    "volume": 1549208
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-29",
+    "price": 67.96,
+    "volume": 1397363
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-28",
+    "price": 69.65,
+    "volume": 1396710
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-27",
+    "price": 72.1,
+    "volume": 1435860
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-24",
+    "price": 72.85,
+    "volume": 1033651
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-23",
+    "price": 73.75,
+    "volume": 899736
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-22",
+    "price": 73.58,
+    "volume": 881785
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-21",
+    "price": 74.47,
+    "volume": 1189111
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-20",
+    "price": 73.97,
+    "volume": 2497741
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-17",
+    "price": 78.25,
+    "volume": 2469180
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-16",
+    "price": 75.61,
+    "volume": 1686760
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-15",
+    "price": 74.15,
+    "volume": 2974411
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-14",
+    "price": 75.56,
+    "volume": 2078678
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-13",
+    "price": 77,
+    "volume": 1364760
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-10",
+    "price": 78.54,
+    "volume": 862424
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-09",
+    "price": 79.83,
+    "volume": 737160
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-08",
+    "price": 79.92,
+    "volume": 1432023
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-07",
+    "price": 81.86,
+    "volume": 2048835
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-03",
+    "price": 86.62,
+    "volume": 1453719
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-02",
+    "price": 84.23,
+    "volume": 784103
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-09-01",
+    "price": 83.33,
+    "volume": 1298849
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-31",
+    "price": 83.22,
+    "volume": 986379
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-30",
+    "price": 83.16,
+    "volume": 916181
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-27",
+    "price": 81.21,
+    "volume": 563460
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-26",
+    "price": 80.71,
+    "volume": 875425
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-25",
+    "price": 80.64,
+    "volume": 691756
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-24",
+    "price": 80.93,
+    "volume": 776158
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-23",
+    "price": 80.3,
+    "volume": 865423
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-20",
+    "price": 78.86,
+    "volume": 575247
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-19",
+    "price": 77.44,
+    "volume": 1107407
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-18",
+    "price": 79.54,
+    "volume": 921619
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-17",
+    "price": 80.03,
+    "volume": 1188781
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-16",
+    "price": 79.84,
+    "volume": 1645010
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-13",
+    "price": 83.25,
+    "volume": 774261
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-12",
+    "price": 82.4,
+    "volume": 1294375
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-11",
+    "price": 83.16,
+    "volume": 2124877
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-10",
+    "price": 85,
+    "volume": 3196468
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-09",
+    "price": 79.78,
+    "volume": 2830194
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-06",
+    "price": 83.95,
+    "volume": 919146
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-05",
+    "price": 87.18,
+    "volume": 886690
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-04",
+    "price": 88.56,
+    "volume": 667688
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-03",
+    "price": 88.46,
+    "volume": 882494
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-08-02",
+    "price": 89.47,
+    "volume": 824162
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-30",
+    "price": 88.63,
+    "volume": 982069
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-29",
+    "price": 89.9,
+    "volume": 1171128
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-28",
+    "price": 87.71,
+    "volume": 715075
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-27",
+    "price": 86.01,
+    "volume": 811569
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-26",
+    "price": 87.44,
+    "volume": 943159
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-23",
+    "price": 88.06,
+    "volume": 894558
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-22",
+    "price": 86.66,
+    "volume": 599200
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-21",
+    "price": 85.56,
+    "volume": 642894
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-20",
+    "price": 84.87,
+    "volume": 1013860
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-19",
+    "price": 83.52,
+    "volume": 1034818
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-16",
+    "price": 81.58,
+    "volume": 906975
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-15",
+    "price": 81.47,
+    "volume": 873894
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-14",
+    "price": 81.43,
+    "volume": 801805
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-13",
+    "price": 84.66,
+    "volume": 640214
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-12",
+    "price": 84.51,
+    "volume": 628538
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-09",
+    "price": 85.24,
+    "volume": 693386
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-08",
+    "price": 84.29,
+    "volume": 930206
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-07",
+    "price": 85.47,
+    "volume": 1349136
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-06",
+    "price": 86.26,
+    "volume": 1046560
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-02",
+    "price": 84.17,
+    "volume": 690041
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-07-01",
+    "price": 83.3,
+    "volume": 891968
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-30",
+    "price": 83.11,
+    "volume": 927487
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-29",
+    "price": 84.93,
+    "volume": 1258309
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-28",
+    "price": 84.61,
+    "volume": 1235271
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-25",
+    "price": 82.95,
+    "volume": 2168913
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-24",
+    "price": 82.7,
+    "volume": 1132903
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-23",
+    "price": 81.43,
+    "volume": 797628
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-22",
+    "price": 81.09,
+    "volume": 1020115
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-21",
+    "price": 80.04,
+    "volume": 1212937
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-18",
+    "price": 79.99,
+    "volume": 1708265
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-17",
+    "price": 78.52,
+    "volume": 1586669
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-16",
+    "price": 76.81,
+    "volume": 1160686
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-15",
+    "price": 76.52,
+    "volume": 824167
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-14",
+    "price": 77.92,
+    "volume": 892106
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-11",
+    "price": 76.75,
+    "volume": 1069937
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-10",
+    "price": 76.09,
+    "volume": 700910
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-09",
+    "price": 74.54,
+    "volume": 613431
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-08",
+    "price": 75.34,
+    "volume": 1134185
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-07",
+    "price": 74.61,
+    "volume": 1695135
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-04",
+    "price": 72.78,
+    "volume": 1172235
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-03",
+    "price": 73.83,
+    "volume": 1898563
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-02",
+    "price": 76.34,
+    "volume": 846765
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-06-01",
+    "price": 76.32,
+    "volume": 1352791
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-28",
+    "price": 76.91,
+    "volume": 918740
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-27",
+    "price": 77.04,
+    "volume": 1457039
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-26",
+    "price": 76.32,
+    "volume": 1446919
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-25",
+    "price": 74.77,
+    "volume": 2093471
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-24",
+    "price": 73.99,
+    "volume": 1736807
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-21",
+    "price": 73.85,
+    "volume": 2221610
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-20",
+    "price": 76.11,
+    "volume": 1890609
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-19",
+    "price": 75.01,
+    "volume": 2224106
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-18",
+    "price": 76.72,
+    "volume": 1733052
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-17",
+    "price": 75.71,
+    "volume": 2321869
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-14",
+    "price": 77.35,
+    "volume": 4157309
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-13",
+    "price": 76.07,
+    "volume": 2479171
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-12",
+    "price": 79.69,
+    "volume": 1718089
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-11",
+    "price": 82.39,
+    "volume": 1847202
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-10",
+    "price": 82.14,
+    "volume": 1252168
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-07",
+    "price": 85.16,
+    "volume": 1140694
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-06",
+    "price": 84.76,
+    "volume": 2155675
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-05",
+    "price": 86.02,
+    "volume": 2718726
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-04",
+    "price": 83.18,
+    "volume": 5377590
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-05-03",
+    "price": 83.01,
+    "volume": 3704177
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-30",
+    "price": 90.33,
+    "volume": 1136518
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-29",
+    "price": 92.28,
+    "volume": 843651
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-28",
+    "price": 95.4,
+    "volume": 904571
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-27",
+    "price": 94.43,
+    "volume": 850648
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-26",
+    "price": 95.97,
+    "volume": 997664
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-23",
+    "price": 92.03,
+    "volume": 1597801
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-22",
+    "price": 93.19,
+    "volume": 2424954
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-21",
+    "price": 92.62,
+    "volume": 944623
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-20",
+    "price": 90.94,
+    "volume": 1093684
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-19",
+    "price": 89.98,
+    "volume": 1012240
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-16",
+    "price": 92.2,
+    "volume": 675569
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-15",
+    "price": 91.78,
+    "volume": 1035808
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-14",
+    "price": 89.16,
+    "volume": 1396652
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-13",
+    "price": 90.83,
+    "volume": 1177370
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-12",
+    "price": 88.99,
+    "volume": 844669
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-09",
+    "price": 89.63,
+    "volume": 618817
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-08",
+    "price": 89.65,
+    "volume": 899351
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-07",
+    "price": 88.39,
+    "volume": 877087
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-06",
+    "price": 90.4,
+    "volume": 1191296
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-05",
+    "price": 89.02,
+    "volume": 1239978
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-04-01",
+    "price": 88.25,
+    "volume": 1217410
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-31",
+    "price": 85.66,
+    "volume": 1192418
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-30",
+    "price": 83.44,
+    "volume": 1413990
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-29",
+    "price": 81.37,
+    "volume": 1674307
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-26",
+    "price": 85.3,
+    "volume": 1415983
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-25",
+    "price": 86.23,
+    "volume": 1159759
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-24",
+    "price": 86.37,
+    "volume": 1223552
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-23",
+    "price": 91.06,
+    "volume": 1288176
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-22",
+    "price": 92.6,
+    "volume": 1219939
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-19",
+    "price": 91.69,
+    "volume": 1668753
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-18",
+    "price": 90.35,
+    "volume": 1801719
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-17",
+    "price": 93.96,
+    "volume": 1710506
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-16",
+    "price": 91.99,
+    "volume": 1822750
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-15",
+    "price": 91.63,
+    "volume": 1454836
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-12",
+    "price": 89.2,
+    "volume": 1637720
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-11",
+    "price": 89.18,
+    "volume": 2554856
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-10",
+    "price": 84.22,
+    "volume": 2097498
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-09",
+    "price": 85.94,
+    "volume": 1999017
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-08",
+    "price": 81.61,
+    "volume": 2279488
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-05",
+    "price": 87.55,
+    "volume": 3055270
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-04",
+    "price": 88.59,
+    "volume": 3414735
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-03",
+    "price": 89.67,
+    "volume": 4641041
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-02",
+    "price": 97.59,
+    "volume": 2610926
+  },
+  {
+    "symbol": "CHGG",
+    "date": "2021-03-01",
+    "price": 99.05,
+    "volume": 1096723
+  }
+]

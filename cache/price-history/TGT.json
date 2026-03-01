@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "TGT",
+    "date": "2026-02-27",
+    "price": 113.79,
+    "volume": 6417010
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-26",
+    "price": 114.79,
+    "volume": 5930323
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-25",
+    "price": 116.44,
+    "volume": 4522100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-24",
+    "price": 115.52,
+    "volume": 4977600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-23",
+    "price": 113.34,
+    "volume": 7924830
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-20",
+    "price": 116.69,
+    "volume": 6285900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-19",
+    "price": 115.66,
+    "volume": 3631511
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-18",
+    "price": 115.66,
+    "volume": 5608103
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-17",
+    "price": 116.54,
+    "volume": 6258939
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-13",
+    "price": 115.76,
+    "volume": 6597145
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-12",
+    "price": 112.69,
+    "volume": 5588428
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-11",
+    "price": 114.61,
+    "volume": 6612000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-10",
+    "price": 113.23,
+    "volume": 4955200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-09",
+    "price": 115.52,
+    "volume": 4507549
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-06",
+    "price": 115.55,
+    "volume": 7804406
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-05",
+    "price": 110.85,
+    "volume": 6081531
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-04",
+    "price": 114.13,
+    "volume": 9816200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-03",
+    "price": 111.3,
+    "volume": 8373411
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-02-02",
+    "price": 109.53,
+    "volume": 10561600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-30",
+    "price": 105.47,
+    "volume": 6181800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-29",
+    "price": 102.84,
+    "volume": 6015200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-28",
+    "price": 101.74,
+    "volume": 4644400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-27",
+    "price": 104.1,
+    "volume": 4578900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-26",
+    "price": 103.96,
+    "volume": 6709801
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-23",
+    "price": 108.1,
+    "volume": 4594123
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-22",
+    "price": 106.46,
+    "volume": 4904300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-21",
+    "price": 106.04,
+    "volume": 6547300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-20",
+    "price": 109.34,
+    "volume": 9556628
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-16",
+    "price": 111.28,
+    "volume": 5253200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-15",
+    "price": 111.13,
+    "volume": 5827200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-14",
+    "price": 109.82,
+    "volume": 5886200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-13",
+    "price": 108.63,
+    "volume": 7742300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-12",
+    "price": 106.14,
+    "volume": 5893400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-09",
+    "price": 105.52,
+    "volume": 6490433
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-08",
+    "price": 106.33,
+    "volume": 8568630
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-07",
+    "price": 103.67,
+    "volume": 4686200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-06",
+    "price": 104.3,
+    "volume": 7699831
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-05",
+    "price": 102.1,
+    "volume": 7421200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-01-02",
+    "price": 100.51,
+    "volume": 7064444
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-31",
+    "price": 97.75,
+    "volume": 4290100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-30",
+    "price": 97.43,
+    "volume": 3686900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-29",
+    "price": 98.1,
+    "volume": 8837000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-26",
+    "price": 99.55,
+    "volume": 10644132
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-24",
+    "price": 96.53,
+    "volume": 3299500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-23",
+    "price": 94.3,
+    "volume": 7975900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-22",
+    "price": 95.2,
+    "volume": 11985244
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-19",
+    "price": 98.01,
+    "volume": 12620407
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-18",
+    "price": 99.05,
+    "volume": 9594235
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-17",
+    "price": 98.6,
+    "volume": 6830421
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-16",
+    "price": 97.67,
+    "volume": 5142540
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-15",
+    "price": 97.56,
+    "volume": 5730100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-12",
+    "price": 97.09,
+    "volume": 5260239
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-11",
+    "price": 96.97,
+    "volume": 6812931
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-10",
+    "price": 94.62,
+    "volume": 8444741
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-09",
+    "price": 93.62,
+    "volume": 4650500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-08",
+    "price": 93.06,
+    "volume": 7694700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-05",
+    "price": 92.19,
+    "volume": 5898900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-04",
+    "price": 91.59,
+    "volume": 6759400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-03",
+    "price": 90.92,
+    "volume": 7308436
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-02",
+    "price": 90.47,
+    "volume": 5863803
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-12-01",
+    "price": 91.36,
+    "volume": 6570600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-28",
+    "price": 90.62,
+    "volume": 4059000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-26",
+    "price": 89.8,
+    "volume": 7927600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-25",
+    "price": 86.58,
+    "volume": 6520100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-24",
+    "price": 84.54,
+    "volume": 9227308
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-21",
+    "price": 87.62,
+    "volume": 12573900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-20",
+    "price": 83.68,
+    "volume": 12051800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-19",
+    "price": 86.08,
+    "volume": 18972022
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-18",
+    "price": 88.53,
+    "volume": 10063400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-17",
+    "price": 88.48,
+    "volume": 7549400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-14",
+    "price": 89.9,
+    "volume": 6096943
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-13",
+    "price": 90.62,
+    "volume": 6303511
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-12",
+    "price": 91.91,
+    "volume": 5512400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-11",
+    "price": 91.58,
+    "volume": 4762908
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-10",
+    "price": 90.73,
+    "volume": 6299900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-07",
+    "price": 91.24,
+    "volume": 6524900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-06",
+    "price": 89.15,
+    "volume": 7051541
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-05",
+    "price": 91.94,
+    "volume": 8215300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-04",
+    "price": 89.98,
+    "volume": 5057400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-11-03",
+    "price": 91.45,
+    "volume": 5698100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-31",
+    "price": 92.72,
+    "volume": 7084802
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-30",
+    "price": 92.92,
+    "volume": 5631200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-29",
+    "price": 94.12,
+    "volume": 6125647
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-28",
+    "price": 97.11,
+    "volume": 7959604
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-27",
+    "price": 97.77,
+    "volume": 10000006
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-24",
+    "price": 94.26,
+    "volume": 5459000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-23",
+    "price": 94.25,
+    "volume": 4833400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-22",
+    "price": 94.02,
+    "volume": 4973000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-21",
+    "price": 94.4,
+    "volume": 7770113
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-20",
+    "price": 91.53,
+    "volume": 4886300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-17",
+    "price": 90.84,
+    "volume": 6461400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-16",
+    "price": 90.07,
+    "volume": 5556500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-15",
+    "price": 90.91,
+    "volume": 6402547
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-14",
+    "price": 88.96,
+    "volume": 6352348
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-13",
+    "price": 87.34,
+    "volume": 10515500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-10",
+    "price": 85.53,
+    "volume": 13925230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-09",
+    "price": 89.1,
+    "volume": 7189211
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-08",
+    "price": 90.38,
+    "volume": 6848500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-07",
+    "price": 89.27,
+    "volume": 6348100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-06",
+    "price": 88.96,
+    "volume": 8975719
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-03",
+    "price": 89.03,
+    "volume": 6872000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-02",
+    "price": 89.51,
+    "volume": 7557400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-10-01",
+    "price": 89.14,
+    "volume": 10378548
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-30",
+    "price": 89.7,
+    "volume": 16872300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-29",
+    "price": 88.83,
+    "volume": 7955637
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-26",
+    "price": 87.85,
+    "volume": 7575624
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-25",
+    "price": 87.14,
+    "volume": 8566342
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-24",
+    "price": 88.31,
+    "volume": 10691700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-23",
+    "price": 87.05,
+    "volume": 8077829
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-22",
+    "price": 86.56,
+    "volume": 12449500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-19",
+    "price": 88.13,
+    "volume": 13319502
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-18",
+    "price": 89.42,
+    "volume": 8781141
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-17",
+    "price": 88.93,
+    "volume": 9399028
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-16",
+    "price": 89.72,
+    "volume": 6736700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-15",
+    "price": 88.56,
+    "volume": 9310900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-12",
+    "price": 89.96,
+    "volume": 6176200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-11",
+    "price": 91.52,
+    "volume": 9492500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-10",
+    "price": 90.78,
+    "volume": 5747900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-09",
+    "price": 90.91,
+    "volume": 7564800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-08",
+    "price": 91.5,
+    "volume": 9261731
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-05",
+    "price": 93.17,
+    "volume": 4894606
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-04",
+    "price": 92.71,
+    "volume": 5901000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-03",
+    "price": 92.35,
+    "volume": 8485805
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-09-02",
+    "price": 92.44,
+    "volume": 12987200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-29",
+    "price": 95.98,
+    "volume": 5370900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-28",
+    "price": 96.81,
+    "volume": 5145000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-27",
+    "price": 97.96,
+    "volume": 6486002
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-26",
+    "price": 96.11,
+    "volume": 6398801
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-25",
+    "price": 97.13,
+    "volume": 7651300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-22",
+    "price": 99.24,
+    "volume": 13663612
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-21",
+    "price": 97.06,
+    "volume": 11415724
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-20",
+    "price": 98.69,
+    "volume": 33165726
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-19",
+    "price": 105.36,
+    "volume": 8815517
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-18",
+    "price": 104.95,
+    "volume": 6901622
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-15",
+    "price": 103.02,
+    "volume": 6305133
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-14",
+    "price": 104.25,
+    "volume": 4985800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-13",
+    "price": 105.36,
+    "volume": 7364729
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-12",
+    "price": 106.26,
+    "volume": 6595068
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-11",
+    "price": 104.01,
+    "volume": 5020200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-08",
+    "price": 105.4,
+    "volume": 3494900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-07",
+    "price": 105.67,
+    "volume": 4191041
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-06",
+    "price": 105.39,
+    "volume": 6306600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-05",
+    "price": 102.43,
+    "volume": 5093419
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-04",
+    "price": 99.79,
+    "volume": 5312712
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-08-01",
+    "price": 99.77,
+    "volume": 5021740
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-31",
+    "price": 100.5,
+    "volume": 6442342
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-30",
+    "price": 103.14,
+    "volume": 4527102
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-29",
+    "price": 104.18,
+    "volume": 4753506
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-28",
+    "price": 106.43,
+    "volume": 3864916
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-25",
+    "price": 106.05,
+    "volume": 3476001
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-24",
+    "price": 105.82,
+    "volume": 5415239
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-23",
+    "price": 107.43,
+    "volume": 5907500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-22",
+    "price": 106.54,
+    "volume": 6473016
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-21",
+    "price": 101.71,
+    "volume": 4478800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-18",
+    "price": 103.46,
+    "volume": 5282100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-17",
+    "price": 103.65,
+    "volume": 4529531
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-16",
+    "price": 101.34,
+    "volume": 3861900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-15",
+    "price": 102.21,
+    "volume": 5289948
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-14",
+    "price": 104.87,
+    "volume": 4468100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-11",
+    "price": 104.24,
+    "volume": 3866126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-10",
+    "price": 104.74,
+    "volume": 5116223
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-09",
+    "price": 102.43,
+    "volume": 4312231
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-08",
+    "price": 102.01,
+    "volume": 6100535
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-07",
+    "price": 101.6,
+    "volume": 5677102
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-03",
+    "price": 104.06,
+    "volume": 3535300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-02",
+    "price": 105.45,
+    "volume": 6327900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-07-01",
+    "price": 103.85,
+    "volume": 9968224
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-30",
+    "price": 98.65,
+    "volume": 4933601
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-27",
+    "price": 99.23,
+    "volume": 6389810
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-26",
+    "price": 97.6,
+    "volume": 5331900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-25",
+    "price": 96.7,
+    "volume": 4372035
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-24",
+    "price": 97.53,
+    "volume": 6406142
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-23",
+    "price": 96.53,
+    "volume": 6887215
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-20",
+    "price": 95.54,
+    "volume": 9619800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-18",
+    "price": 95.12,
+    "volume": 6408600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-17",
+    "price": 95.02,
+    "volume": 7195500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-16",
+    "price": 97.37,
+    "volume": 7427600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-13",
+    "price": 95.37,
+    "volume": 7303300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-12",
+    "price": 99.29,
+    "volume": 5320600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-11",
+    "price": 98.11,
+    "volume": 6803443
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-10",
+    "price": 100.77,
+    "volume": 9612436
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-09",
+    "price": 97.35,
+    "volume": 6299300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-06",
+    "price": 97.32,
+    "volume": 7822813
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-05",
+    "price": 93.52,
+    "volume": 4763495
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-04",
+    "price": 93.94,
+    "volume": 4416734
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-03",
+    "price": 95.78,
+    "volume": 6388824
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-06-02",
+    "price": 93.32,
+    "volume": 5748843
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-30",
+    "price": 94.01,
+    "volume": 7874043
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-29",
+    "price": 94.87,
+    "volume": 7042679
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-28",
+    "price": 95.94,
+    "volume": 4476000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-27",
+    "price": 96.99,
+    "volume": 6501845
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-23",
+    "price": 94.29,
+    "volume": 7373841
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-22",
+    "price": 95.06,
+    "volume": 11428002
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-21",
+    "price": 93.01,
+    "volume": 27058507
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-20",
+    "price": 98.12,
+    "volume": 10163500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-19",
+    "price": 97.99,
+    "volume": 8468700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-16",
+    "price": 98.58,
+    "volume": 6371500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-15",
+    "price": 97.07,
+    "volume": 8348519
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-14",
+    "price": 95.26,
+    "volume": 10286431
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-13",
+    "price": 99.09,
+    "volume": 7774500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-12",
+    "price": 101.08,
+    "volume": 9670805
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-09",
+    "price": 96.4,
+    "volume": 4614732
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-08",
+    "price": 96.93,
+    "volume": 5006334
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-07",
+    "price": 95.49,
+    "volume": 5727423
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-06",
+    "price": 93.65,
+    "volume": 5726600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-05",
+    "price": 94.02,
+    "volume": 6789319
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-02",
+    "price": 97.37,
+    "volume": 5294948
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-05-01",
+    "price": 95.97,
+    "volume": 5443714
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-30",
+    "price": 96.7,
+    "volume": 8255323
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-29",
+    "price": 96.91,
+    "volume": 3768423
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-28",
+    "price": 96.37,
+    "volume": 4662403
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-25",
+    "price": 96.58,
+    "volume": 5274928
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-24",
+    "price": 95.31,
+    "volume": 7718831
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-23",
+    "price": 92.16,
+    "volume": 9113800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-22",
+    "price": 94.1,
+    "volume": 7200100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-21",
+    "price": 93.78,
+    "volume": 6856600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-17",
+    "price": 93.11,
+    "volume": 5349810
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-16",
+    "price": 90.46,
+    "volume": 8048423
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-15",
+    "price": 92.08,
+    "volume": 6605613
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-14",
+    "price": 94.65,
+    "volume": 8164400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-11",
+    "price": 92.78,
+    "volume": 10457613
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-10",
+    "price": 92.71,
+    "volume": 12187919
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-09",
+    "price": 97.69,
+    "volume": 13717826
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-08",
+    "price": 88.76,
+    "volume": 13408900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-07",
+    "price": 94.38,
+    "volume": 13800600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-04",
+    "price": 95.72,
+    "volume": 16229747
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-03",
+    "price": 94.28,
+    "volume": 19020448
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-02",
+    "price": 105.77,
+    "volume": 5654401
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-04-01",
+    "price": 104.43,
+    "volume": 6240546
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-31",
+    "price": 104.36,
+    "volume": 7069227
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-28",
+    "price": 103.65,
+    "volume": 9704436
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-27",
+    "price": 106.51,
+    "volume": 5015300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-26",
+    "price": 106.09,
+    "volume": 5497126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-25",
+    "price": 105.4,
+    "volume": 6837700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-24",
+    "price": 108.35,
+    "volume": 8526100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-21",
+    "price": 104.06,
+    "volume": 31066226
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-20",
+    "price": 104.2,
+    "volume": 5863300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-19",
+    "price": 104.94,
+    "volume": 6331901
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-18",
+    "price": 104.59,
+    "volume": 4922206
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-17",
+    "price": 105.67,
+    "volume": 5436200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-14",
+    "price": 104.7,
+    "volume": 7551811
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-13",
+    "price": 104.5,
+    "volume": 9700204
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-12",
+    "price": 107.28,
+    "volume": 10434224
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-11",
+    "price": 112.76,
+    "volume": 8271800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-10",
+    "price": 113.85,
+    "volume": 8146222
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-07",
+    "price": 115.08,
+    "volume": 8050900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-06",
+    "price": 114.05,
+    "volume": 8020211
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-05",
+    "price": 116.56,
+    "volume": 7311000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-04",
+    "price": 117.14,
+    "volume": 15623300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-03-03",
+    "price": 120.76,
+    "volume": 12120900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-28",
+    "price": 124.24,
+    "volume": 8893620
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-27",
+    "price": 122.5,
+    "volume": 6164500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-26",
+    "price": 124.04,
+    "volume": 7714221
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-25",
+    "price": 127.39,
+    "volume": 6404300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-24",
+    "price": 125.77,
+    "volume": 8772920
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-21",
+    "price": 124.27,
+    "volume": 9052900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-20",
+    "price": 128.13,
+    "volume": 6195906
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-19",
+    "price": 130.75,
+    "volume": 3893522
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-18",
+    "price": 130.11,
+    "volume": 4901600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-14",
+    "price": 127.88,
+    "volume": 4549000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-13",
+    "price": 128.58,
+    "volume": 5325900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-12",
+    "price": 127.5,
+    "volume": 6429000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-11",
+    "price": 132.45,
+    "volume": 4782600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-10",
+    "price": 131.28,
+    "volume": 4003500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-07",
+    "price": 131.35,
+    "volume": 5756700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-06",
+    "price": 134.68,
+    "volume": 4289200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-05",
+    "price": 135.21,
+    "volume": 4908709
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-04",
+    "price": 135.6,
+    "volume": 4376200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-02-03",
+    "price": 134.16,
+    "volume": 6330501
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-31",
+    "price": 137.91,
+    "volume": 4057192
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-30",
+    "price": 140.44,
+    "volume": 2792025
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-29",
+    "price": 140.09,
+    "volume": 3279200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-28",
+    "price": 141.06,
+    "volume": 4141533
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-27",
+    "price": 142.5,
+    "volume": 5331613
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-24",
+    "price": 137.89,
+    "volume": 5868200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-23",
+    "price": 137.25,
+    "volume": 6788929
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-22",
+    "price": 135.77,
+    "volume": 4012400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-21",
+    "price": 137.34,
+    "volume": 4848927
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-17",
+    "price": 133.61,
+    "volume": 6892500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-16",
+    "price": 133.25,
+    "volume": 9900615
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-15",
+    "price": 134.53,
+    "volume": 5132600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-14",
+    "price": 136.47,
+    "volume": 4635549
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-13",
+    "price": 138.77,
+    "volume": 4061936
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-10",
+    "price": 141.62,
+    "volume": 5882800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-08",
+    "price": 138.22,
+    "volume": 4663432
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-07",
+    "price": 139.25,
+    "volume": 4166105
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-06",
+    "price": 139.29,
+    "volume": 4937900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-03",
+    "price": 135.79,
+    "volume": 4025991
+  },
+  {
+    "symbol": "TGT",
+    "date": "2025-01-02",
+    "price": 137.19,
+    "volume": 4360979
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-31",
+    "price": 135.18,
+    "volume": 2830498
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-30",
+    "price": 135.05,
+    "volume": 3945601
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-27",
+    "price": 135.5,
+    "volume": 3089050
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-26",
+    "price": 136.39,
+    "volume": 5042669
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-24",
+    "price": 132.4,
+    "volume": 1647700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-23",
+    "price": 131.92,
+    "volume": 4097814
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-20",
+    "price": 131.48,
+    "volume": 7189143
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-19",
+    "price": 130.43,
+    "volume": 5262100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-18",
+    "price": 130.7,
+    "volume": 6602400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-17",
+    "price": 131.6,
+    "volume": 5793000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-16",
+    "price": 132.45,
+    "volume": 5503836
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-13",
+    "price": 134.52,
+    "volume": 4261210
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-12",
+    "price": 135.29,
+    "volume": 3860200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-11",
+    "price": 135.98,
+    "volume": 4811931
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-10",
+    "price": 135.05,
+    "volume": 5575526
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-09",
+    "price": 135.29,
+    "volume": 9619300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-06",
+    "price": 132.39,
+    "volume": 7284123
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-05",
+    "price": 129.17,
+    "volume": 6858622
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-04",
+    "price": 130.07,
+    "volume": 6051300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-03",
+    "price": 131.45,
+    "volume": 8163940
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-12-02",
+    "price": 130.72,
+    "volume": 14195600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-29",
+    "price": 132.31,
+    "volume": 5023526
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-27",
+    "price": 130.09,
+    "volume": 6745228
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-26",
+    "price": 126.55,
+    "volume": 9888230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-25",
+    "price": 130.53,
+    "volume": 15456500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-22",
+    "price": 125.01,
+    "volume": 13730100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-21",
+    "price": 121.59,
+    "volume": 19616700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-20",
+    "price": 121.72,
+    "volume": 64557700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-19",
+    "price": 156,
+    "volume": 9170500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-18",
+    "price": 156.56,
+    "volume": 6508271
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-15",
+    "price": 152.13,
+    "volume": 3888700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-14",
+    "price": 153.47,
+    "volume": 4075100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-13",
+    "price": 154.99,
+    "volume": 3624515
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-12",
+    "price": 155.65,
+    "volume": 5082100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-11",
+    "price": 153.28,
+    "volume": 3541700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-08",
+    "price": 149.78,
+    "volume": 3323610
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-07",
+    "price": 150.91,
+    "volume": 4862354
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-06",
+    "price": 147.29,
+    "volume": 7506637
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-05",
+    "price": 150.99,
+    "volume": 2692300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-04",
+    "price": 149.99,
+    "volume": 3289701
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-11-01",
+    "price": 150.84,
+    "volume": 2453210
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-31",
+    "price": 150.04,
+    "volume": 3229500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-30",
+    "price": 148.52,
+    "volume": 2520500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-29",
+    "price": 147.93,
+    "volume": 2881500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-28",
+    "price": 149.3,
+    "volume": 2523740
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-25",
+    "price": 151.16,
+    "volume": 4082200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-24",
+    "price": 150.18,
+    "volume": 3060349
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-23",
+    "price": 148.05,
+    "volume": 3962000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-22",
+    "price": 149.19,
+    "volume": 2815030
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-21",
+    "price": 150.91,
+    "volume": 4455218
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-18",
+    "price": 156.84,
+    "volume": 2988748
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-17",
+    "price": 155.89,
+    "volume": 2879828
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-16",
+    "price": 158.87,
+    "volume": 3124548
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-15",
+    "price": 160.69,
+    "volume": 2988018
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-14",
+    "price": 157.97,
+    "volume": 2534419
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-11",
+    "price": 158.46,
+    "volume": 3594100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-10",
+    "price": 155.97,
+    "volume": 3139100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-09",
+    "price": 154.33,
+    "volume": 3514300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-08",
+    "price": 151.32,
+    "volume": 3224142
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-07",
+    "price": 149,
+    "volume": 3301408
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-04",
+    "price": 152.88,
+    "volume": 3557483
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-03",
+    "price": 149.6,
+    "volume": 4790132
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-02",
+    "price": 150.4,
+    "volume": 2795000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-10-01",
+    "price": 152.2,
+    "volume": 3994414
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-30",
+    "price": 155.86,
+    "volume": 2935829
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-27",
+    "price": 155.18,
+    "volume": 3067262
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-26",
+    "price": 155.98,
+    "volume": 2757937
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-25",
+    "price": 155.07,
+    "volume": 2319914
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-24",
+    "price": 156.18,
+    "volume": 3114000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-23",
+    "price": 155.29,
+    "volume": 2927700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-20",
+    "price": 154.75,
+    "volume": 7389826
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-19",
+    "price": 156.49,
+    "volume": 5098842
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-18",
+    "price": 153.6,
+    "volume": 3269539
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-17",
+    "price": 151.96,
+    "volume": 3162300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-16",
+    "price": 152.84,
+    "volume": 3429200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-13",
+    "price": 151.36,
+    "volume": 3592362
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-12",
+    "price": 148.44,
+    "volume": 3454594
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-11",
+    "price": 147.29,
+    "volume": 4089547
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-10",
+    "price": 148.01,
+    "volume": 4103200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-09",
+    "price": 150.59,
+    "volume": 3735200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-06",
+    "price": 151.28,
+    "volume": 4045100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-05",
+    "price": 151.9,
+    "volume": 3358900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-04",
+    "price": 152.48,
+    "volume": 3841041
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-09-03",
+    "price": 151.8,
+    "volume": 4071000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-30",
+    "price": 153.62,
+    "volume": 3933200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-29",
+    "price": 153.42,
+    "volume": 3879500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-28",
+    "price": 156.86,
+    "volume": 2666500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-27",
+    "price": 158.68,
+    "volume": 3252300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-26",
+    "price": 158.9,
+    "volume": 3655215
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-23",
+    "price": 158.5,
+    "volume": 3188300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-22",
+    "price": 156.82,
+    "volume": 7452400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-21",
+    "price": 159.25,
+    "volume": 25572113
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-20",
+    "price": 144.33,
+    "volume": 6815100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-19",
+    "price": 144.63,
+    "volume": 4427000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-16",
+    "price": 144.04,
+    "volume": 3473906
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-15",
+    "price": 141.66,
+    "volume": 4640641
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-14",
+    "price": 135.76,
+    "volume": 4838000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-13",
+    "price": 136.66,
+    "volume": 3319800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-12",
+    "price": 135.02,
+    "volume": 3695600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-09",
+    "price": 135.5,
+    "volume": 3778303
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-08",
+    "price": 133.97,
+    "volume": 3894009
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-07",
+    "price": 133.47,
+    "volume": 3209700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-06",
+    "price": 133.85,
+    "volume": 5005677
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-05",
+    "price": 133.87,
+    "volume": 6887700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-02",
+    "price": 139.17,
+    "volume": 6476500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-08-01",
+    "price": 147.02,
+    "volume": 3782400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-31",
+    "price": 150.41,
+    "volume": 5743885
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-30",
+    "price": 147.95,
+    "volume": 2379216
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-29",
+    "price": 146.82,
+    "volume": 2487000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-26",
+    "price": 149,
+    "volume": 2427000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-25",
+    "price": 146.29,
+    "volume": 3019700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-24",
+    "price": 146.45,
+    "volume": 3029508
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-23",
+    "price": 150.27,
+    "volume": 1622400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-22",
+    "price": 151.02,
+    "volume": 3692971
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-19",
+    "price": 149.73,
+    "volume": 3187000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-18",
+    "price": 152.09,
+    "volume": 2927400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-17",
+    "price": 155.93,
+    "volume": 3353700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-16",
+    "price": 155.01,
+    "volume": 3391800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-15",
+    "price": 151.3,
+    "volume": 3645900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-12",
+    "price": 152.85,
+    "volume": 2675771
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-11",
+    "price": 151.4,
+    "volume": 4728715
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-10",
+    "price": 146.11,
+    "volume": 4105702
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-09",
+    "price": 147.6,
+    "volume": 2848969
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-08",
+    "price": 148.72,
+    "volume": 5183800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-05",
+    "price": 145.65,
+    "volume": 3562244
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-03",
+    "price": 144.8,
+    "volume": 1633300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-02",
+    "price": 145.39,
+    "volume": 3296556
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-07-01",
+    "price": 145.74,
+    "volume": 2638900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-28",
+    "price": 148.04,
+    "volume": 12772526
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-27",
+    "price": 146.72,
+    "volume": 2273610
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-26",
+    "price": 147.17,
+    "volume": 2447102
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-25",
+    "price": 146.77,
+    "volume": 3367570
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-24",
+    "price": 149.69,
+    "volume": 3933203
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-21",
+    "price": 146.13,
+    "volume": 5652005
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-20",
+    "price": 143.38,
+    "volume": 2628700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-18",
+    "price": 142.54,
+    "volume": 2969500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-17",
+    "price": 144.97,
+    "volume": 5007764
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-14",
+    "price": 141.16,
+    "volume": 5019720
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-13",
+    "price": 144.68,
+    "volume": 3470600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-12",
+    "price": 146.78,
+    "volume": 3064300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-11",
+    "price": 146.19,
+    "volume": 3592400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-10",
+    "price": 148.52,
+    "volume": 3052921
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-07",
+    "price": 146,
+    "volume": 3110844
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-06",
+    "price": 145.13,
+    "volume": 4682900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-05",
+    "price": 147.35,
+    "volume": 5746100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-04",
+    "price": 150.55,
+    "volume": 4683706
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-06-03",
+    "price": 153.03,
+    "volume": 4162500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-31",
+    "price": 156.16,
+    "volume": 7501000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-30",
+    "price": 149.87,
+    "volume": 4239436
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-29",
+    "price": 147.74,
+    "volume": 3038500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-28",
+    "price": 147.1,
+    "volume": 4344300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-24",
+    "price": 145.23,
+    "volume": 3550300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-23",
+    "price": 144.41,
+    "volume": 6661102
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-22",
+    "price": 143.27,
+    "volume": 18724017
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-21",
+    "price": 155.78,
+    "volume": 6291009
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-20",
+    "price": 156.71,
+    "volume": 4429218
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-17",
+    "price": 160.13,
+    "volume": 4005500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-16",
+    "price": 160.65,
+    "volume": 5232900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-15",
+    "price": 157.51,
+    "volume": 2563700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-14",
+    "price": 158.96,
+    "volume": 2707913
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-13",
+    "price": 160.9,
+    "volume": 2629007
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-10",
+    "price": 163.13,
+    "volume": 2414113
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-09",
+    "price": 164.32,
+    "volume": 2538000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-08",
+    "price": 159.59,
+    "volume": 2678300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-07",
+    "price": 160.41,
+    "volume": 3492502
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-06",
+    "price": 158.35,
+    "volume": 3314545
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-03",
+    "price": 158.04,
+    "volume": 3802200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-02",
+    "price": 158.12,
+    "volume": 3880034
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-05-01",
+    "price": 156.43,
+    "volume": 4380435
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-30",
+    "price": 160.98,
+    "volume": 3534400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-29",
+    "price": 163.73,
+    "volume": 2737235
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-26",
+    "price": 164.74,
+    "volume": 2085518
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-25",
+    "price": 164.44,
+    "volume": 3141700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-24",
+    "price": 165.34,
+    "volume": 2631400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-23",
+    "price": 166.51,
+    "volume": 1890300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-22",
+    "price": 167.11,
+    "volume": 2155534
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-19",
+    "price": 168.3,
+    "volume": 3377100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-18",
+    "price": 166.58,
+    "volume": 3169500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-17",
+    "price": 164.47,
+    "volume": 3700382
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-16",
+    "price": 163.32,
+    "volume": 3450687
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-15",
+    "price": 165.01,
+    "volume": 5075400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-12",
+    "price": 166.12,
+    "volume": 3551700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-11",
+    "price": 171.33,
+    "volume": 2248121
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-10",
+    "price": 171.62,
+    "volume": 2148746
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-09",
+    "price": 171.63,
+    "volume": 1847129
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-08",
+    "price": 169.7,
+    "volume": 2123077
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-05",
+    "price": 171.77,
+    "volume": 2334000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-04",
+    "price": 172.22,
+    "volume": 3614400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-03",
+    "price": 175.49,
+    "volume": 3033900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-02",
+    "price": 176.24,
+    "volume": 3022100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-04-01",
+    "price": 177.82,
+    "volume": 3917400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-28",
+    "price": 177.21,
+    "volume": 3716230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-27",
+    "price": 174.67,
+    "volume": 4747265
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-26",
+    "price": 172.64,
+    "volume": 3513108
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-25",
+    "price": 172.66,
+    "volume": 4262600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-22",
+    "price": 168.63,
+    "volume": 2443809
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-21",
+    "price": 170.17,
+    "volume": 2624530
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-20",
+    "price": 170.46,
+    "volume": 2969720
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-19",
+    "price": 168.21,
+    "volume": 2290500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-18",
+    "price": 167.59,
+    "volume": 3189600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-15",
+    "price": 164.22,
+    "volume": 5074986
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-14",
+    "price": 164.31,
+    "volume": 3365900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-13",
+    "price": 166.67,
+    "volume": 5546300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-12",
+    "price": 167.57,
+    "volume": 2292100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-11",
+    "price": 168.07,
+    "volume": 3142428
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-08",
+    "price": 169.72,
+    "volume": 3362621
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-07",
+    "price": 171.54,
+    "volume": 3644700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-06",
+    "price": 173.54,
+    "volume": 8955240
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-05",
+    "price": 168.58,
+    "volume": 22986800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-04",
+    "price": 150.49,
+    "volume": 9096141
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-03-01",
+    "price": 155.29,
+    "volume": 4285500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-29",
+    "price": 152.92,
+    "volume": 4447831
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-28",
+    "price": 151.44,
+    "volume": 2298383
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-27",
+    "price": 151.99,
+    "volume": 2851700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-26",
+    "price": 150.15,
+    "volume": 3856937
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-23",
+    "price": 151.48,
+    "volume": 3503633
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-22",
+    "price": 150.34,
+    "volume": 2503830
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-21",
+    "price": 148.79,
+    "volume": 2307567
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-20",
+    "price": 149.89,
+    "volume": 3474440
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-16",
+    "price": 149.61,
+    "volume": 4319900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-15",
+    "price": 146.33,
+    "volume": 2807600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-14",
+    "price": 145.03,
+    "volume": 2986400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-13",
+    "price": 146.11,
+    "volume": 3061805
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-12",
+    "price": 149.4,
+    "volume": 3492607
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-09",
+    "price": 146.53,
+    "volume": 2792412
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-08",
+    "price": 147.4,
+    "volume": 2946900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-07",
+    "price": 146.73,
+    "volume": 3979600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-06",
+    "price": 144.43,
+    "volume": 2873927
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-05",
+    "price": 142.33,
+    "volume": 4697400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-02",
+    "price": 145.49,
+    "volume": 3776039
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-02-01",
+    "price": 144.42,
+    "volume": 3613900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-31",
+    "price": 139.08,
+    "volume": 5804407
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-30",
+    "price": 140.52,
+    "volume": 2879500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-29",
+    "price": 141.52,
+    "volume": 4879000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-26",
+    "price": 142.53,
+    "volume": 3014884
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-25",
+    "price": 142.18,
+    "volume": 2566508
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-24",
+    "price": 139.2,
+    "volume": 2845913
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-23",
+    "price": 140.88,
+    "volume": 2806826
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-22",
+    "price": 140.36,
+    "volume": 2778700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-19",
+    "price": 138.14,
+    "volume": 3592626
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-18",
+    "price": 137.4,
+    "volume": 4160700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-17",
+    "price": 138.74,
+    "volume": 3566339
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-16",
+    "price": 141.07,
+    "volume": 3482400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-12",
+    "price": 140.91,
+    "volume": 2236556
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-11",
+    "price": 142.02,
+    "volume": 3215302
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-10",
+    "price": 144.09,
+    "volume": 2777416
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-09",
+    "price": 143.77,
+    "volume": 3664400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-08",
+    "price": 141.73,
+    "volume": 3563300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-05",
+    "price": 140.75,
+    "volume": 2745300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-04",
+    "price": 140.25,
+    "volume": 3903017
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-03",
+    "price": 138.67,
+    "volume": 4662126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2024-01-02",
+    "price": 143.1,
+    "volume": 3601516
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-29",
+    "price": 142.42,
+    "volume": 2517434
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-28",
+    "price": 142.54,
+    "volume": 2146723
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-27",
+    "price": 142.38,
+    "volume": 2806617
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-26",
+    "price": 141.03,
+    "volume": 2237700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-22",
+    "price": 140.2,
+    "volume": 3223130
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-21",
+    "price": 139.37,
+    "volume": 3980200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-20",
+    "price": 136.9,
+    "volume": 3711734
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-19",
+    "price": 139.58,
+    "volume": 2834632
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-18",
+    "price": 137.72,
+    "volume": 3117000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-15",
+    "price": 138.37,
+    "volume": 5680232
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-14",
+    "price": 141.14,
+    "volume": 4636400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-13",
+    "price": 138.38,
+    "volume": 3531705
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-12",
+    "price": 135.66,
+    "volume": 3352141
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-11",
+    "price": 136.76,
+    "volume": 3571700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-08",
+    "price": 135.19,
+    "volume": 2880821
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-07",
+    "price": 135.19,
+    "volume": 3939241
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-06",
+    "price": 133.38,
+    "volume": 3894396
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-05",
+    "price": 132.88,
+    "volume": 2997807
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-04",
+    "price": 133.71,
+    "volume": 7625135
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-12-01",
+    "price": 134.78,
+    "volume": 4594800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-30",
+    "price": 133.81,
+    "volume": 5759516
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-29",
+    "price": 131.32,
+    "volume": 2918926
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-28",
+    "price": 131.67,
+    "volume": 3804900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-27",
+    "price": 131.33,
+    "volume": 3736700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-24",
+    "price": 131.46,
+    "volume": 1863112
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-22",
+    "price": 130.5,
+    "volume": 3589640
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-21",
+    "price": 130.8,
+    "volume": 4057923
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-20",
+    "price": 129.65,
+    "volume": 5838646
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-17",
+    "price": 129.89,
+    "volume": 5983144
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-16",
+    "price": 129.94,
+    "volume": 12033214
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-15",
+    "price": 130.46,
+    "volume": 32230800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-14",
+    "price": 110.79,
+    "volume": 7656100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-13",
+    "price": 107.3,
+    "volume": 4016019
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-10",
+    "price": 108.33,
+    "volume": 6239706
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-09",
+    "price": 106.79,
+    "volume": 5604600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-08",
+    "price": 109.85,
+    "volume": 4514024
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-07",
+    "price": 111.35,
+    "volume": 2859192
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-06",
+    "price": 111.05,
+    "volume": 3696200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-03",
+    "price": 112.85,
+    "volume": 4341125
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-02",
+    "price": 111.07,
+    "volume": 3817841
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-11-01",
+    "price": 109.54,
+    "volume": 3081500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-31",
+    "price": 110.79,
+    "volume": 5549400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-30",
+    "price": 108.67,
+    "volume": 3852700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-27",
+    "price": 107.23,
+    "volume": 3448200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-26",
+    "price": 110.87,
+    "volume": 3092443
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-25",
+    "price": 110.36,
+    "volume": 4123200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-24",
+    "price": 108.68,
+    "volume": 2518133
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-23",
+    "price": 107.42,
+    "volume": 3189800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-20",
+    "price": 108.83,
+    "volume": 4215700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-19",
+    "price": 108.36,
+    "volume": 4249535
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-18",
+    "price": 110.21,
+    "volume": 2940800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-17",
+    "price": 112.56,
+    "volume": 3387900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-16",
+    "price": 111.39,
+    "volume": 3872723
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-13",
+    "price": 111.98,
+    "volume": 4654301
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-12",
+    "price": 110.8,
+    "volume": 6497328
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-11",
+    "price": 108.99,
+    "volume": 3977400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-10",
+    "price": 109.63,
+    "volume": 6791800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-09",
+    "price": 105.76,
+    "volume": 4819926
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-06",
+    "price": 105.01,
+    "volume": 7556900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-05",
+    "price": 105.15,
+    "volume": 4749303
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-04",
+    "price": 106.62,
+    "volume": 5523100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-03",
+    "price": 107.16,
+    "volume": 5370300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-10-02",
+    "price": 106.69,
+    "volume": 6121320
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-29",
+    "price": 110.57,
+    "volume": 4738145
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-28",
+    "price": 109.56,
+    "volume": 4676519
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-27",
+    "price": 109.74,
+    "volume": 4498100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-26",
+    "price": 109.48,
+    "volume": 6022236
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-25",
+    "price": 112.26,
+    "volume": 5353300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-22",
+    "price": 112.6,
+    "volume": 6593700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-21",
+    "price": 117.32,
+    "volume": 4138784
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-20",
+    "price": 120.41,
+    "volume": 3264205
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-19",
+    "price": 120.17,
+    "volume": 4056940
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-18",
+    "price": 119.34,
+    "volume": 5415228
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-15",
+    "price": 123.05,
+    "volume": 4919837
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-14",
+    "price": 124.77,
+    "volume": 3760916
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-13",
+    "price": 122.93,
+    "volume": 2541536
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-12",
+    "price": 122.4,
+    "volume": 2930600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-11",
+    "price": 122.67,
+    "volume": 2613100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-08",
+    "price": 123.69,
+    "volume": 2923526
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-07",
+    "price": 124.46,
+    "volume": 3267388
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-06",
+    "price": 123.71,
+    "volume": 3562100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-05",
+    "price": 125.19,
+    "volume": 3427328
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-09-01",
+    "price": 125.52,
+    "volume": 2997100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-31",
+    "price": 126.55,
+    "volume": 4234600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-30",
+    "price": 126.95,
+    "volume": 3276700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-29",
+    "price": 126.16,
+    "volume": 5267418
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-28",
+    "price": 123.43,
+    "volume": 5116621
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-25",
+    "price": 121.79,
+    "volume": 7279729
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-24",
+    "price": 124.1,
+    "volume": 4308104
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-23",
+    "price": 123.21,
+    "volume": 4797546
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-22",
+    "price": 124.94,
+    "volume": 8792895
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-21",
+    "price": 127.79,
+    "volume": 5928622
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-18",
+    "price": 131.21,
+    "volume": 5755800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-17",
+    "price": 130.11,
+    "volume": 8659600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-16",
+    "price": 128.75,
+    "volume": 23754400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-15",
+    "price": 125.05,
+    "volume": 9416536
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-14",
+    "price": 129.42,
+    "volume": 4425115
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-11",
+    "price": 131.05,
+    "volume": 3804000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-10",
+    "price": 130.92,
+    "volume": 4375612
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-09",
+    "price": 130.6,
+    "volume": 2761200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-08",
+    "price": 130.98,
+    "volume": 4359129
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-07",
+    "price": 131.94,
+    "volume": 3036744
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-04",
+    "price": 132.53,
+    "volume": 3481500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-03",
+    "price": 132.73,
+    "volume": 3726350
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-02",
+    "price": 133.54,
+    "volume": 3565201
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-08-01",
+    "price": 132.99,
+    "volume": 4069343
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-31",
+    "price": 136.47,
+    "volume": 6056394
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-28",
+    "price": 135,
+    "volume": 2959879
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-27",
+    "price": 134.5,
+    "volume": 5538824
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-26",
+    "price": 134.47,
+    "volume": 5180126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-25",
+    "price": 133.6,
+    "volume": 3849400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-24",
+    "price": 135.41,
+    "volume": 2622600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-21",
+    "price": 134.08,
+    "volume": 4034220
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-20",
+    "price": 134.64,
+    "volume": 4174700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-19",
+    "price": 132.7,
+    "volume": 3229211
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-18",
+    "price": 130.81,
+    "volume": 3786428
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-17",
+    "price": 130.01,
+    "volume": 4733830
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-14",
+    "price": 130.92,
+    "volume": 4124300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-13",
+    "price": 132.82,
+    "volume": 3077400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-12",
+    "price": 132.91,
+    "volume": 3758325
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-11",
+    "price": 133.39,
+    "volume": 4094851
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-10",
+    "price": 131.74,
+    "volume": 3831341
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-07",
+    "price": 130.05,
+    "volume": 4256800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-06",
+    "price": 130.84,
+    "volume": 4884559
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-05",
+    "price": 132.55,
+    "volume": 5186919
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-07-03",
+    "price": 134.86,
+    "volume": 4134600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-30",
+    "price": 131.9,
+    "volume": 7316244
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-29",
+    "price": 132.91,
+    "volume": 6055214
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-28",
+    "price": 132.47,
+    "volume": 4601900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-27",
+    "price": 132.51,
+    "volume": 6047604
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-26",
+    "price": 134.5,
+    "volume": 4831100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-23",
+    "price": 131.83,
+    "volume": 6975500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-22",
+    "price": 132.39,
+    "volume": 4621820
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-21",
+    "price": 133.22,
+    "volume": 3845534
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-20",
+    "price": 132.72,
+    "volume": 5358565
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-16",
+    "price": 133.81,
+    "volume": 9903000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-15",
+    "price": 137.84,
+    "volume": 10063135
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-14",
+    "price": 133.23,
+    "volume": 14968700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-13",
+    "price": 128.72,
+    "volume": 6916318
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-12",
+    "price": 126.48,
+    "volume": 8265553
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-09",
+    "price": 126.99,
+    "volume": 9404114
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-08",
+    "price": 131.27,
+    "volume": 6169538
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-07",
+    "price": 131.75,
+    "volume": 5504444
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-06",
+    "price": 132.7,
+    "volume": 6065200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-05",
+    "price": 130.6,
+    "volume": 8338584
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-02",
+    "price": 133.22,
+    "volume": 7594003
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-06-01",
+    "price": 131.16,
+    "volume": 13678400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-31",
+    "price": 130.93,
+    "volume": 20234408
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-30",
+    "price": 133.84,
+    "volume": 10931900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-26",
+    "price": 138.93,
+    "volume": 8100414
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-25",
+    "price": 140.75,
+    "volume": 7409509
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-24",
+    "price": 143.1,
+    "volume": 6738339
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-23",
+    "price": 147.16,
+    "volume": 4374107
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-22",
+    "price": 151.91,
+    "volume": 3717029
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-19",
+    "price": 152.28,
+    "volume": 4456000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-18",
+    "price": 154.18,
+    "volume": 7881625
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-17",
+    "price": 160.96,
+    "volume": 8387700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-16",
+    "price": 156.91,
+    "volume": 5805908
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-15",
+    "price": 160.57,
+    "volume": 4055226
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-12",
+    "price": 157.99,
+    "volume": 3361673
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-11",
+    "price": 158.87,
+    "volume": 2832191
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-10",
+    "price": 157.73,
+    "volume": 2804995
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-09",
+    "price": 157.42,
+    "volume": 1886143
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-08",
+    "price": 156.5,
+    "volume": 1495283
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-05",
+    "price": 156.3,
+    "volume": 2187200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-04",
+    "price": 152.53,
+    "volume": 2653616
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-03",
+    "price": 154.57,
+    "volume": 2385734
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-02",
+    "price": 155.72,
+    "volume": 2277400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-05-01",
+    "price": 157.12,
+    "volume": 1964517
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-28",
+    "price": 157.75,
+    "volume": 3432900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-27",
+    "price": 158.15,
+    "volume": 3037900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-26",
+    "price": 155.45,
+    "volume": 3077400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-25",
+    "price": 157.61,
+    "volume": 2723300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-24",
+    "price": 163.94,
+    "volume": 2313130
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-21",
+    "price": 162.18,
+    "volume": 2743626
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-20",
+    "price": 160.28,
+    "volume": 2809925
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-19",
+    "price": 162.51,
+    "volume": 2183800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-18",
+    "price": 162.4,
+    "volume": 2195491
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-17",
+    "price": 162.7,
+    "volume": 2566526
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-14",
+    "price": 161,
+    "volume": 2370137
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-13",
+    "price": 163.27,
+    "volume": 2464836
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-12",
+    "price": 163.51,
+    "volume": 3900300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-11",
+    "price": 169.58,
+    "volume": 2155636
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-10",
+    "price": 169,
+    "volume": 2724418
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-06",
+    "price": 165.58,
+    "volume": 2552900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-05",
+    "price": 165.24,
+    "volume": 2762100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-04",
+    "price": 166.05,
+    "volume": 2350518
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-04-03",
+    "price": 166.06,
+    "volume": 2744400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-31",
+    "price": 165.63,
+    "volume": 3094100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-30",
+    "price": 160.27,
+    "volume": 2237569
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-29",
+    "price": 158.11,
+    "volume": 4219409
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-28",
+    "price": 159.77,
+    "volume": 2910671
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-27",
+    "price": 159.38,
+    "volume": 3078893
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-24",
+    "price": 156.22,
+    "volume": 2703923
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-23",
+    "price": 156.12,
+    "volume": 2791722
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-22",
+    "price": 157.47,
+    "volume": 2909900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-21",
+    "price": 162.71,
+    "volume": 2497200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-20",
+    "price": 163.24,
+    "volume": 2875852
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-17",
+    "price": 159.36,
+    "volume": 13175053
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-16",
+    "price": 163.05,
+    "volume": 2510867
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-15",
+    "price": 159.13,
+    "volume": 2633960
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-14",
+    "price": 158.37,
+    "volume": 2574200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-13",
+    "price": 157.92,
+    "volume": 2342674
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-10",
+    "price": 158.18,
+    "volume": 2754204
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-09",
+    "price": 160.64,
+    "volume": 1872402
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-08",
+    "price": 163.51,
+    "volume": 1752799
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-07",
+    "price": 162.82,
+    "volume": 2410866
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-06",
+    "price": 165.2,
+    "volume": 2220900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-03",
+    "price": 166,
+    "volume": 2318619
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-02",
+    "price": 165.94,
+    "volume": 2831809
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-03-01",
+    "price": 162.4,
+    "volume": 5835700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-28",
+    "price": 168.5,
+    "volume": 10669300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-27",
+    "price": 166.81,
+    "volume": 5245000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-24",
+    "price": 166.96,
+    "volume": 2888815
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-23",
+    "price": 165.5,
+    "volume": 2718678
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-22",
+    "price": 165.72,
+    "volume": 2941000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-21",
+    "price": 166.22,
+    "volume": 4133600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-17",
+    "price": 173.22,
+    "volume": 2678144
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-16",
+    "price": 174.54,
+    "volume": 2318700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-15",
+    "price": 176.02,
+    "volume": 2954628
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-14",
+    "price": 171.17,
+    "volume": 2418580
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-13",
+    "price": 173.32,
+    "volume": 2432640
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-10",
+    "price": 170.02,
+    "volume": 1841400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-09",
+    "price": 171.37,
+    "volume": 1656113
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-08",
+    "price": 171.79,
+    "volume": 2037227
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-07",
+    "price": 174.76,
+    "volume": 2256803
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-06",
+    "price": 173.84,
+    "volume": 2642923
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-03",
+    "price": 176.76,
+    "volume": 2941637
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-02",
+    "price": 181.02,
+    "volume": 4003809
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-02-01",
+    "price": 177.08,
+    "volume": 4022200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-31",
+    "price": 172.14,
+    "volume": 3716000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-30",
+    "price": 168.68,
+    "volume": 3453500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-27",
+    "price": 168.51,
+    "volume": 3850300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-26",
+    "price": 167.03,
+    "volume": 2079129
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-25",
+    "price": 164.21,
+    "volume": 2248397
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-24",
+    "price": 163.55,
+    "volume": 1902036
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-23",
+    "price": 164.63,
+    "volume": 2371420
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-20",
+    "price": 162.21,
+    "volume": 3122200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-19",
+    "price": 159.1,
+    "volume": 2881376
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-18",
+    "price": 160.83,
+    "volume": 2798100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-17",
+    "price": 162.1,
+    "volume": 3527944
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-13",
+    "price": 164.6,
+    "volume": 5161230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-12",
+    "price": 159.75,
+    "volume": 3222612
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-11",
+    "price": 158.97,
+    "volume": 3146800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-10",
+    "price": 155.97,
+    "volume": 2554900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-09",
+    "price": 156.35,
+    "volume": 3853813
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-06",
+    "price": 160.15,
+    "volume": 4944230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-05",
+    "price": 154.26,
+    "volume": 3266024
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-04",
+    "price": 152.72,
+    "volume": 4443300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2023-01-03",
+    "price": 151.73,
+    "volume": 3685201
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-30",
+    "price": 149.04,
+    "volume": 2391104
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-29",
+    "price": 148.37,
+    "volume": 2829021
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-28",
+    "price": 145.8,
+    "volume": 2623200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-27",
+    "price": 145.55,
+    "volume": 3112519
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-23",
+    "price": 143.15,
+    "volume": 2464800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-22",
+    "price": 141.35,
+    "volume": 3848504
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-21",
+    "price": 142.3,
+    "volume": 3510200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-20",
+    "price": 143.25,
+    "volume": 3175400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-19",
+    "price": 144.65,
+    "volume": 4186720
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-16",
+    "price": 146.45,
+    "volume": 8367000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-15",
+    "price": 147.6,
+    "volume": 5417043
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-14",
+    "price": 152.51,
+    "volume": 3749100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-13",
+    "price": 150.87,
+    "volume": 4178932
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-12",
+    "price": 150.03,
+    "volume": 4433845
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-09",
+    "price": 152.28,
+    "volume": 2905900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-08",
+    "price": 154.21,
+    "volume": 3107142
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-07",
+    "price": 153.76,
+    "volume": 3685200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-06",
+    "price": 155.05,
+    "volume": 4721823
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-05",
+    "price": 154.93,
+    "volume": 6233238
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-02",
+    "price": 164.16,
+    "volume": 3442958
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-12-01",
+    "price": 165.03,
+    "volume": 4989249
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-30",
+    "price": 167.07,
+    "volume": 11376700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-29",
+    "price": 166.37,
+    "volume": 5231700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-28",
+    "price": 165.37,
+    "volume": 4626781
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-25",
+    "price": 163.38,
+    "volume": 1883018
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-23",
+    "price": 163.41,
+    "volume": 4833500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-22",
+    "price": 157.86,
+    "volume": 6364100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-21",
+    "price": 158.02,
+    "volume": 5964702
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-18",
+    "price": 162.88,
+    "volume": 7280900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-17",
+    "price": 162.01,
+    "volume": 11300525
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-16",
+    "price": 155.47,
+    "volume": 36731500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-15",
+    "price": 178.98,
+    "volume": 8606029
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-14",
+    "price": 173.26,
+    "volume": 5753800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-11",
+    "price": 173.32,
+    "volume": 5828321
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-10",
+    "price": 164.38,
+    "volume": 4962937
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-09",
+    "price": 152.99,
+    "volume": 4018400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-08",
+    "price": 161.62,
+    "volume": 3284603
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-07",
+    "price": 159.87,
+    "volume": 2424145
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-04",
+    "price": 159.63,
+    "volume": 2653538
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-03",
+    "price": 159.8,
+    "volume": 3041600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-02",
+    "price": 160.2,
+    "volume": 3381107
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-11-01",
+    "price": 164.59,
+    "volume": 3051010
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-31",
+    "price": 164.25,
+    "volume": 3792677
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-28",
+    "price": 167.52,
+    "volume": 3066800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-27",
+    "price": 166.9,
+    "volume": 2957400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-26",
+    "price": 166.77,
+    "volume": 3456063
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-25",
+    "price": 165.8,
+    "volume": 4177912
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-24",
+    "price": 161.82,
+    "volume": 2974100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-21",
+    "price": 159.19,
+    "volume": 3508300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-20",
+    "price": 154.4,
+    "volume": 3079918
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-19",
+    "price": 155.39,
+    "volume": 2611500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-18",
+    "price": 157.23,
+    "volume": 5563441
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-17",
+    "price": 149.25,
+    "volume": 3177400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-14",
+    "price": 145.69,
+    "volume": 4766623
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-13",
+    "price": 154.12,
+    "volume": 3394052
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-12",
+    "price": 154.16,
+    "volume": 2265469
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-11",
+    "price": 154.5,
+    "volume": 2408279
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-10",
+    "price": 153.1,
+    "volume": 2055800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-07",
+    "price": 152.34,
+    "volume": 2771909
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-06",
+    "price": 155.75,
+    "volume": 2603400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-05",
+    "price": 156.41,
+    "volume": 2491715
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-04",
+    "price": 156.96,
+    "volume": 3028600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-10-03",
+    "price": 151.79,
+    "volume": 2847537
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-30",
+    "price": 148.39,
+    "volume": 4328301
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-29",
+    "price": 151.79,
+    "volume": 3170400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-28",
+    "price": 155.87,
+    "volume": 4254027
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-27",
+    "price": 148.47,
+    "volume": 2941400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-26",
+    "price": 148.71,
+    "volume": 3967836
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-23",
+    "price": 152.61,
+    "volume": 3796637
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-22",
+    "price": 152.96,
+    "volume": 3984700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-21",
+    "price": 159.03,
+    "volume": 2809512
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-20",
+    "price": 160.03,
+    "volume": 3019602
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-19",
+    "price": 164.76,
+    "volume": 2607200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-16",
+    "price": 164.09,
+    "volume": 4843717
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-15",
+    "price": 165.01,
+    "volume": 2909300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-14",
+    "price": 165.38,
+    "volume": 3618800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-13",
+    "price": 166.24,
+    "volume": 3585425
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-12",
+    "price": 173.85,
+    "volume": 3024600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-09",
+    "price": 173.65,
+    "volume": 3380159
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-08",
+    "price": 171.9,
+    "volume": 2817100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-07",
+    "price": 170.79,
+    "volume": 5206400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-06",
+    "price": 163.58,
+    "volume": 4530482
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-02",
+    "price": 164.6,
+    "volume": 3563226
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-09-01",
+    "price": 164.84,
+    "volume": 4021400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-31",
+    "price": 160.34,
+    "volume": 4901300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-30",
+    "price": 160.78,
+    "volume": 3249700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-29",
+    "price": 158.69,
+    "volume": 2531100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-26",
+    "price": 160.62,
+    "volume": 3607617
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-25",
+    "price": 167.5,
+    "volume": 3071400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-24",
+    "price": 163.13,
+    "volume": 3407100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-23",
+    "price": 161.97,
+    "volume": 3795109
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-22",
+    "price": 161.96,
+    "volume": 4630138
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-19",
+    "price": 167.04,
+    "volume": 5015800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-18",
+    "price": 173.05,
+    "volume": 4241300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-17",
+    "price": 175.34,
+    "volume": 13409000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-16",
+    "price": 180.19,
+    "volume": 9057600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-15",
+    "price": 173.39,
+    "volume": 3788600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-12",
+    "price": 172.48,
+    "volume": 2357300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-11",
+    "price": 169.6,
+    "volume": 4278800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-10",
+    "price": 169.67,
+    "volume": 4539900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-09",
+    "price": 165.12,
+    "volume": 2608636
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-08",
+    "price": 166.97,
+    "volume": 2808348
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-05",
+    "price": 166.13,
+    "volume": 2205400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-04",
+    "price": 166.56,
+    "volume": 3157724
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-03",
+    "price": 167.92,
+    "volume": 4057007
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-02",
+    "price": 163.48,
+    "volume": 3109400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-08-01",
+    "price": 165.55,
+    "volume": 4534700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-29",
+    "price": 163.38,
+    "volume": 5523000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-28",
+    "price": 159.42,
+    "volume": 3114002
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-27",
+    "price": 154.6,
+    "volume": 3609310
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-26",
+    "price": 151.81,
+    "volume": 4620000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-25",
+    "price": 157.49,
+    "volume": 2328000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-22",
+    "price": 157.74,
+    "volume": 2780036
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-21",
+    "price": 158.66,
+    "volume": 3105230
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-20",
+    "price": 156.5,
+    "volume": 3248100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-19",
+    "price": 153.36,
+    "volume": 3155900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-18",
+    "price": 149.36,
+    "volume": 4362700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-15",
+    "price": 146.67,
+    "volume": 3831500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-14",
+    "price": 146.29,
+    "volume": 2976000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-13",
+    "price": 145.44,
+    "volume": 2769010
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-12",
+    "price": 144.56,
+    "volume": 3132800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-11",
+    "price": 146.39,
+    "volume": 2051084
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-08",
+    "price": 147.99,
+    "volume": 2544945
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-07",
+    "price": 149.96,
+    "volume": 3959500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-06",
+    "price": 144.81,
+    "volume": 2828500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-05",
+    "price": 145.71,
+    "volume": 3716670
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-07-01",
+    "price": 142.38,
+    "volume": 3010205
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-30",
+    "price": 141.23,
+    "volume": 5899946
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-29",
+    "price": 141.9,
+    "volume": 4238900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-28",
+    "price": 144.52,
+    "volume": 4132664
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-27",
+    "price": 149.61,
+    "volume": 3607200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-24",
+    "price": 150.42,
+    "volume": 6993117
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-23",
+    "price": 146.81,
+    "volume": 5211100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-22",
+    "price": 140.81,
+    "volume": 4642442
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-21",
+    "price": 144.7,
+    "volume": 6555510
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-17",
+    "price": 139.3,
+    "volume": 10928149
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-16",
+    "price": 142.89,
+    "volume": 5630323
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-15",
+    "price": 147.44,
+    "volume": 6353121
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-14",
+    "price": 142.7,
+    "volume": 5200821
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-13",
+    "price": 144.81,
+    "volume": 5886000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-10",
+    "price": 149.67,
+    "volume": 5101202
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-09",
+    "price": 154.55,
+    "volume": 5747595
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-08",
+    "price": 156.7,
+    "volume": 6576000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-07",
+    "price": 155.98,
+    "volume": 33299700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-06",
+    "price": 159.67,
+    "volume": 3772318
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-03",
+    "price": 161.04,
+    "volume": 4187700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-02",
+    "price": 160.91,
+    "volume": 4366036
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-06-01",
+    "price": 156.52,
+    "volume": 4480934
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-31",
+    "price": 161.88,
+    "volume": 8942100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-27",
+    "price": 167.14,
+    "volume": 6315525
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-26",
+    "price": 163.2,
+    "volume": 7369736
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-25",
+    "price": 156.42,
+    "volume": 8107749
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-24",
+    "price": 149.95,
+    "volume": 10936600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-23",
+    "price": 153.9,
+    "volume": 7700126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-20",
+    "price": 155.36,
+    "volume": 12300200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-19",
+    "price": 153.43,
+    "volume": 23319000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-18",
+    "price": 161.61,
+    "volume": 50936800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-17",
+    "price": 215.28,
+    "volume": 6641635
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-16",
+    "price": 219.25,
+    "volume": 3345636
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-13",
+    "price": 219.73,
+    "volume": 3146700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-12",
+    "price": 217.27,
+    "volume": 3547401
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-11",
+    "price": 213.49,
+    "volume": 3193600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-10",
+    "price": 219.11,
+    "volume": 3748000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-09",
+    "price": 224.2,
+    "volume": 4672300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-06",
+    "price": 225.21,
+    "volume": 3683300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-05",
+    "price": 230.76,
+    "volume": 3466744
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-04",
+    "price": 237.43,
+    "volume": 3256536
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-03",
+    "price": 232.54,
+    "volume": 3027758
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-05-02",
+    "price": 229.78,
+    "volume": 3049119
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-29",
+    "price": 228.65,
+    "volume": 3220700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-28",
+    "price": 236.39,
+    "volume": 2318152
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-27",
+    "price": 230.97,
+    "volume": 2995300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-26",
+    "price": 236.5,
+    "volume": 2915500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-25",
+    "price": 241.66,
+    "volume": 3265100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-22",
+    "price": 241.68,
+    "volume": 3431300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-21",
+    "price": 248.17,
+    "volume": 3967712
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-20",
+    "price": 249.32,
+    "volume": 3735500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-19",
+    "price": 246.05,
+    "volume": 4715742
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-18",
+    "price": 239.39,
+    "volume": 3341838
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-14",
+    "price": 237.2,
+    "volume": 3909700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-13",
+    "price": 233.82,
+    "volume": 2451470
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-12",
+    "price": 231.34,
+    "volume": 3366606
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-11",
+    "price": 229.31,
+    "volume": 3172246
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-08",
+    "price": 233.34,
+    "volume": 6631200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-07",
+    "price": 228.19,
+    "volume": 7938100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-06",
+    "price": 215.94,
+    "volume": 3678500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-05",
+    "price": 214.79,
+    "volume": 2538562
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-04",
+    "price": 214.41,
+    "volume": 3167217
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-04-01",
+    "price": 210.54,
+    "volume": 3217100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-31",
+    "price": 212.22,
+    "volume": 4615500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-30",
+    "price": 221.96,
+    "volume": 2464900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-29",
+    "price": 222.93,
+    "volume": 3072217
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-28",
+    "price": 219.52,
+    "volume": 2212214
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-25",
+    "price": 218.61,
+    "volume": 2466209
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-24",
+    "price": 217.04,
+    "volume": 2240400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-23",
+    "price": 216.72,
+    "volume": 2993538
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-22",
+    "price": 222.77,
+    "volume": 2464000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-21",
+    "price": 223,
+    "volume": 3023528
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-18",
+    "price": 226.05,
+    "volume": 6544800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-17",
+    "price": 220.63,
+    "volume": 3655410
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-16",
+    "price": 215.59,
+    "volume": 3029800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-15",
+    "price": 215.35,
+    "volume": 2866862
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-14",
+    "price": 208.76,
+    "volume": 3168500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-11",
+    "price": 206.97,
+    "volume": 4042617
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-10",
+    "price": 214.78,
+    "volume": 3155300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-09",
+    "price": 216,
+    "volume": 3183200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-08",
+    "price": 208.81,
+    "volume": 4463244
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-07",
+    "price": 211.04,
+    "volume": 5743400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-04",
+    "price": 224.1,
+    "volume": 3997164
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-03",
+    "price": 223.84,
+    "volume": 4604600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-02",
+    "price": 224.9,
+    "volume": 6357700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-03-01",
+    "price": 219.43,
+    "volume": 15776100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-28",
+    "price": 199.77,
+    "volume": 6192228
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-25",
+    "price": 199.22,
+    "volume": 4098506
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-24",
+    "price": 191.55,
+    "volume": 3917719
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-23",
+    "price": 189.9,
+    "volume": 4471300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-22",
+    "price": 196.35,
+    "volume": 5621347
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-18",
+    "price": 204.39,
+    "volume": 3321740
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-17",
+    "price": 204,
+    "volume": 3865911
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-16",
+    "price": 207.81,
+    "volume": 3340600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-15",
+    "price": 207.18,
+    "volume": 4741026
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-14",
+    "price": 208.57,
+    "volume": 4066749
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-11",
+    "price": 211.56,
+    "volume": 2852400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-10",
+    "price": 213.84,
+    "volume": 3038137
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-09",
+    "price": 216.64,
+    "volume": 2562841
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-08",
+    "price": 212.95,
+    "volume": 2926650
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-07",
+    "price": 211.29,
+    "volume": 4402800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-04",
+    "price": 214.04,
+    "volume": 3754700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-03",
+    "price": 213.22,
+    "volume": 6357809
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-02",
+    "price": 217.61,
+    "volume": 4588500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-02-01",
+    "price": 219.23,
+    "volume": 4117401
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-31",
+    "price": 220.43,
+    "volume": 4151109
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-28",
+    "price": 217.67,
+    "volume": 2906200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-27",
+    "price": 212.18,
+    "volume": 4007061
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-26",
+    "price": 211.71,
+    "volume": 4207500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-25",
+    "price": 214.68,
+    "volume": 4929112
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-24",
+    "price": 220.58,
+    "volume": 5618875
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-21",
+    "price": 217.25,
+    "volume": 7859333
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-20",
+    "price": 221.72,
+    "volume": 4307922
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-19",
+    "price": 223.84,
+    "volume": 4091200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-18",
+    "price": 220.01,
+    "volume": 4652755
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-14",
+    "price": 221.4,
+    "volume": 5282627
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-13",
+    "price": 225.83,
+    "volume": 3459000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-12",
+    "price": 224.47,
+    "volume": 4233302
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-11",
+    "price": 227.55,
+    "volume": 3048900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-10",
+    "price": 227.42,
+    "volume": 4858182
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-07",
+    "price": 230.78,
+    "volume": 3052900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-06",
+    "price": 231.35,
+    "volume": 4193202
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-05",
+    "price": 228.86,
+    "volume": 3885800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-04",
+    "price": 234.17,
+    "volume": 3327600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2022-01-03",
+    "price": 231.95,
+    "volume": 3018369
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-31",
+    "price": 231.44,
+    "volume": 2485246
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-30",
+    "price": 231.91,
+    "volume": 4007400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-29",
+    "price": 227.92,
+    "volume": 3065826
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-28",
+    "price": 224.91,
+    "volume": 3202878
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-27",
+    "price": 224.1,
+    "volume": 4337599
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-23",
+    "price": 221.01,
+    "volume": 3345300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-22",
+    "price": 217.74,
+    "volume": 4182600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-21",
+    "price": 220.07,
+    "volume": 3975734
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-20",
+    "price": 219.19,
+    "volume": 5233240
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-17",
+    "price": 223.31,
+    "volume": 5838274
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-16",
+    "price": 224.78,
+    "volume": 7302100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-15",
+    "price": 236.65,
+    "volume": 3433544
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-14",
+    "price": 235.28,
+    "volume": 3364800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-13",
+    "price": 234.17,
+    "volume": 3783503
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-10",
+    "price": 238.18,
+    "volume": 2487235
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-09",
+    "price": 237.56,
+    "volume": 2762200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-08",
+    "price": 239.6,
+    "volume": 4929440
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-07",
+    "price": 245.63,
+    "volume": 3565900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-06",
+    "price": 242.97,
+    "volume": 3772600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-03",
+    "price": 247.57,
+    "volume": 4838700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-02",
+    "price": 245.5,
+    "volume": 3684005
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-12-01",
+    "price": 240.39,
+    "volume": 3852130
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-30",
+    "price": 243.84,
+    "volume": 7907944
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-29",
+    "price": 249.16,
+    "volume": 3027601
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-26",
+    "price": 246.57,
+    "volume": 3180900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-24",
+    "price": 248.76,
+    "volume": 3052000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-23",
+    "price": 249.18,
+    "volume": 4055037
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-22",
+    "price": 244.57,
+    "volume": 5571815
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-19",
+    "price": 250.7,
+    "volume": 3965907
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-18",
+    "price": 252.05,
+    "volume": 5788480
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-17",
+    "price": 253.8,
+    "volume": 11855900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-16",
+    "price": 266.39,
+    "volume": 4355800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-15",
+    "price": 264.33,
+    "volume": 4852433
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-12",
+    "price": 260.02,
+    "volume": 2497600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-11",
+    "price": 256.01,
+    "volume": 2199424
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-10",
+    "price": 254.05,
+    "volume": 2093100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-09",
+    "price": 255.16,
+    "volume": 2347070
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-08",
+    "price": 253.33,
+    "volume": 2523286
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-05",
+    "price": 254.27,
+    "volume": 4060300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-04",
+    "price": 260.44,
+    "volume": 3031306
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-03",
+    "price": 260.41,
+    "volume": 2397484
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-02",
+    "price": 260.26,
+    "volume": 2228014
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-11-01",
+    "price": 257.92,
+    "volume": 1718106
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-29",
+    "price": 259.62,
+    "volume": 2417825
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-28",
+    "price": 258.22,
+    "volume": 1735200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-27",
+    "price": 256.54,
+    "volume": 2269924
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-26",
+    "price": 258.73,
+    "volume": 2439708
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-25",
+    "price": 260.35,
+    "volume": 2488400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-22",
+    "price": 255.93,
+    "volume": 2205700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-21",
+    "price": 254.21,
+    "volume": 1758400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-20",
+    "price": 251.83,
+    "volume": 2209300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-19",
+    "price": 252.19,
+    "volume": 3204845
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-18",
+    "price": 253.65,
+    "volume": 4365800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-15",
+    "price": 245.71,
+    "volume": 3626900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-14",
+    "price": 242.09,
+    "volume": 4282736
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-13",
+    "price": 236.75,
+    "volume": 3990018
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-12",
+    "price": 230.24,
+    "volume": 2167414
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-11",
+    "price": 228.72,
+    "volume": 1998600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-08",
+    "price": 228.9,
+    "volume": 2004918
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-07",
+    "price": 229.82,
+    "volume": 2352256
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-06",
+    "price": 226.83,
+    "volume": 2789100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-05",
+    "price": 227.56,
+    "volume": 2407335
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-04",
+    "price": 225.89,
+    "volume": 3816400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-10-01",
+    "price": 228.42,
+    "volume": 3476482
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-30",
+    "price": 228.77,
+    "volume": 5428320
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-29",
+    "price": 235.85,
+    "volume": 2655500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-28",
+    "price": 233.44,
+    "volume": 3173938
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-27",
+    "price": 238.58,
+    "volume": 2588425
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-24",
+    "price": 241.44,
+    "volume": 1901416
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-23",
+    "price": 242.67,
+    "volume": 2038927
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-22",
+    "price": 241.77,
+    "volume": 2285917
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-21",
+    "price": 241.31,
+    "volume": 1960332
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-20",
+    "price": 242.14,
+    "volume": 3329100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-17",
+    "price": 246.67,
+    "volume": 3736553
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-16",
+    "price": 246.95,
+    "volume": 2171400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-15",
+    "price": 244.14,
+    "volume": 1953179
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-14",
+    "price": 242.24,
+    "volume": 1905800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-13",
+    "price": 243.1,
+    "volume": 2872013
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-10",
+    "price": 244.54,
+    "volume": 1945600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-09",
+    "price": 245.44,
+    "volume": 2474674
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-08",
+    "price": 246.11,
+    "volume": 2843325
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-07",
+    "price": 242.72,
+    "volume": 2727182
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-03",
+    "price": 244.31,
+    "volume": 3352126
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-02",
+    "price": 245.81,
+    "volume": 2525246
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-09-01",
+    "price": 246.37,
+    "volume": 2862700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-31",
+    "price": 246.98,
+    "volume": 3966041
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-30",
+    "price": 249.36,
+    "volume": 2093031
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-27",
+    "price": 249.18,
+    "volume": 2661100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-26",
+    "price": 248.96,
+    "volume": 2919934
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-25",
+    "price": 251.15,
+    "volume": 2438429
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-24",
+    "price": 250.65,
+    "volume": 2466617
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-23",
+    "price": 252.53,
+    "volume": 2952930
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-20",
+    "price": 253.4,
+    "volume": 4146100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-19",
+    "price": 245.41,
+    "volume": 5067647
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-18",
+    "price": 247.58,
+    "volume": 8908000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-17",
+    "price": 254.65,
+    "volume": 6620517
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-16",
+    "price": 263.15,
+    "volume": 3401621
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-13",
+    "price": 261.54,
+    "volume": 3070448
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-12",
+    "price": 261.88,
+    "volume": 2267266
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-11",
+    "price": 263.01,
+    "volume": 2939000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-10",
+    "price": 264.07,
+    "volume": 3369801
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-09",
+    "price": 262.41,
+    "volume": 2508800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-06",
+    "price": 260.09,
+    "volume": 2441900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-05",
+    "price": 261.4,
+    "volume": 2202900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-04",
+    "price": 260.53,
+    "volume": 2397200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-03",
+    "price": 262.2,
+    "volume": 2545022
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-08-02",
+    "price": 257.24,
+    "volume": 3174903
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-30",
+    "price": 261.05,
+    "volume": 2806602
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-29",
+    "price": 261.66,
+    "volume": 3055000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-28",
+    "price": 257.42,
+    "volume": 2810500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-27",
+    "price": 258.36,
+    "volume": 3036100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-26",
+    "price": 260.86,
+    "volume": 2338014
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-23",
+    "price": 261.03,
+    "volume": 2016914
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-22",
+    "price": 257.01,
+    "volume": 2472244
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-21",
+    "price": 256.05,
+    "volume": 2262712
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-20",
+    "price": 254.71,
+    "volume": 2805200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-19",
+    "price": 251.12,
+    "volume": 3187425
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-16",
+    "price": 251.15,
+    "volume": 3415900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-15",
+    "price": 252.93,
+    "volume": 2646210
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-14",
+    "price": 253.63,
+    "volume": 2578717
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-13",
+    "price": 251.75,
+    "volume": 2392946
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-12",
+    "price": 252.24,
+    "volume": 3056900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-09",
+    "price": 248.58,
+    "volume": 2702500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-08",
+    "price": 248.58,
+    "volume": 2292748
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-07",
+    "price": 247.55,
+    "volume": 2035967
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-06",
+    "price": 245.45,
+    "volume": 2305234
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-02",
+    "price": 246.58,
+    "volume": 2179175
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-07-01",
+    "price": 243.47,
+    "volume": 2125523
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-30",
+    "price": 241.74,
+    "volume": 2773214
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-29",
+    "price": 241.85,
+    "volume": 2089618
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-28",
+    "price": 241.26,
+    "volume": 2063002
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-25",
+    "price": 240.55,
+    "volume": 5987506
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-24",
+    "price": 239.84,
+    "volume": 2141945
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-23",
+    "price": 237.31,
+    "volume": 2246566
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-22",
+    "price": 237.21,
+    "volume": 2901430
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-21",
+    "price": 233.77,
+    "volume": 3049700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-18",
+    "price": 230.53,
+    "volume": 4481436
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-17",
+    "price": 231.22,
+    "volume": 2826600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-16",
+    "price": 231.26,
+    "volume": 2767610
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-15",
+    "price": 232.57,
+    "volume": 2518099
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-14",
+    "price": 233.07,
+    "volume": 2904357
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-11",
+    "price": 232.94,
+    "volume": 2510200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-10",
+    "price": 231.66,
+    "volume": 2579717
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-09",
+    "price": 231.94,
+    "volume": 3372900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-08",
+    "price": 235.1,
+    "volume": 3441700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-07",
+    "price": 230.89,
+    "volume": 2221783
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-04",
+    "price": 231.34,
+    "volume": 3085280
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-03",
+    "price": 229.18,
+    "volume": 3155400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-02",
+    "price": 228.38,
+    "volume": 3331509
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-06-01",
+    "price": 227.27,
+    "volume": 3426400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-28",
+    "price": 226.92,
+    "volume": 2632555
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-27",
+    "price": 227.37,
+    "volume": 6623131
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-26",
+    "price": 227.11,
+    "volume": 3186800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-25",
+    "price": 225.3,
+    "volume": 4103005
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-24",
+    "price": 225.41,
+    "volume": 3821000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-21",
+    "price": 225.09,
+    "volume": 5084800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-20",
+    "price": 221.79,
+    "volume": 7086307
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-19",
+    "price": 219.01,
+    "volume": 13378700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-18",
+    "price": 206.43,
+    "volume": 4794945
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-17",
+    "price": 210.02,
+    "volume": 2583703
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-14",
+    "price": 211.16,
+    "volume": 2650300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-13",
+    "price": 208.61,
+    "volume": 3134106
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-12",
+    "price": 202.96,
+    "volume": 3857300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-11",
+    "price": 209.24,
+    "volume": 3297292
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-10",
+    "price": 214.03,
+    "volume": 3092700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-07",
+    "price": 214.71,
+    "volume": 2298522
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-06",
+    "price": 213,
+    "volume": 2226000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-05",
+    "price": 212.41,
+    "volume": 2509000
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-04",
+    "price": 211.61,
+    "volume": 2203468
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-05-03",
+    "price": 211.28,
+    "volume": 2249700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-30",
+    "price": 207.26,
+    "volume": 1802061
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-29",
+    "price": 207.38,
+    "volume": 1884920
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-28",
+    "price": 204.46,
+    "volume": 1598814
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-27",
+    "price": 204.36,
+    "volume": 2260127
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-26",
+    "price": 203.63,
+    "volume": 2675700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-23",
+    "price": 206.01,
+    "volume": 2444854
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-22",
+    "price": 205.57,
+    "volume": 2499473
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-21",
+    "price": 206.77,
+    "volume": 2837188
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-20",
+    "price": 207.27,
+    "volume": 2089800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-19",
+    "price": 208.65,
+    "volume": 2924543
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-16",
+    "price": 208.55,
+    "volume": 4342573
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-15",
+    "price": 205.76,
+    "volume": 3370300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-14",
+    "price": 205.71,
+    "volume": 2171319
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-13",
+    "price": 204.94,
+    "volume": 2393412
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-12",
+    "price": 205.1,
+    "volume": 3191315
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-09",
+    "price": 205.36,
+    "volume": 2900500
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-08",
+    "price": 203.46,
+    "volume": 3032635
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-07",
+    "price": 204.45,
+    "volume": 2100400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-06",
+    "price": 205.43,
+    "volume": 2494900
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-05",
+    "price": 205.35,
+    "volume": 2833229
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-04-01",
+    "price": 200.72,
+    "volume": 2730249
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-31",
+    "price": 198.07,
+    "volume": 3556624
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-30",
+    "price": 199.65,
+    "volume": 2810804
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-29",
+    "price": 198.21,
+    "volume": 3231800
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-26",
+    "price": 200.95,
+    "volume": 6046100
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-25",
+    "price": 192.7,
+    "volume": 3444737
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-24",
+    "price": 188.28,
+    "volume": 2489700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-23",
+    "price": 188.92,
+    "volume": 2920433
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-22",
+    "price": 188.04,
+    "volume": 3952385
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-19",
+    "price": 187.55,
+    "volume": 7745200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-18",
+    "price": 179.61,
+    "volume": 2859316
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-17",
+    "price": 178.4,
+    "volume": 2929300
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-16",
+    "price": 180.21,
+    "volume": 3437320
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-15",
+    "price": 181.1,
+    "volume": 3454085
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-12",
+    "price": 180.01,
+    "volume": 2441940
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-11",
+    "price": 179.32,
+    "volume": 3045200
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-10",
+    "price": 178.58,
+    "volume": 3314829
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-09",
+    "price": 179.18,
+    "volume": 3752400
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-08",
+    "price": 176.87,
+    "volume": 4558600
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-05",
+    "price": 172.61,
+    "volume": 6008115
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-04",
+    "price": 169.82,
+    "volume": 7111700
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-03",
+    "price": 173.61,
+    "volume": 8285311
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-02",
+    "price": 173.49,
+    "volume": 22090539
+  },
+  {
+    "symbol": "TGT",
+    "date": "2021-03-01",
+    "price": 186.09,
+    "volume": 3683533
+  }
+]

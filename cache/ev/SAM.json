@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "SAM",
+    "date": "2025-12-27",
+    "stockPrice": 197.05,
+    "numberOfShares": 10623000,
+    "marketCapitalization": 2093262150,
+    "minusCashAndCashEquivalents": 223378000,
+    "addTotalDebt": 37873000,
+    "enterpriseValue": 1907757150
+  },
+  {
+    "symbol": "SAM",
+    "date": "2024-12-28",
+    "stockPrice": 301.11,
+    "numberOfShares": 11774000,
+    "marketCapitalization": 3545269140,
+    "minusCashAndCashEquivalents": 211819000,
+    "addTotalDebt": 38780000,
+    "enterpriseValue": 3372230140
+  },
+  {
+    "symbol": "SAM",
+    "date": "2023-12-31",
+    "stockPrice": 345.59,
+    "numberOfShares": 12243000,
+    "marketCapitalization": 4231058369,
+    "minusCashAndCashEquivalents": 298491000,
+    "addTotalDebt": 45274000,
+    "enterpriseValue": 3977841369
+  },
+  {
+    "symbol": "SAM",
+    "date": "2022-12-31",
+    "stockPrice": 329.52,
+    "numberOfShares": 12317000,
+    "marketCapitalization": 4058697840,
+    "minusCashAndCashEquivalents": 180560000,
+    "addTotalDebt": 54140000,
+    "enterpriseValue": 3932277840
+  },
+  {
+    "symbol": "SAM",
+    "date": "2021-12-31",
+    "stockPrice": 505.1,
+    "numberOfShares": 12280000,
+    "marketCapitalization": 6202628000,
+    "minusCashAndCashEquivalents": 26853000,
+    "addTotalDebt": 61483000,
+    "enterpriseValue": 6237258000
+  },
+  {
+    "symbol": "SAM",
+    "date": "2020-12-31",
+    "stockPrice": 994.29,
+    "numberOfShares": 12130074,
+    "marketCapitalization": 12060811277,
+    "minusCashAndCashEquivalents": 163282000,
+    "addTotalDebt": 71487000,
+    "enterpriseValue": 11969016277
+  },
+  {
+    "symbol": "SAM",
+    "date": "2019-12-31",
+    "stockPrice": 377.85,
+    "numberOfShares": 11886000,
+    "marketCapitalization": 4491125100,
+    "minusCashAndCashEquivalents": 36670000,
+    "addTotalDebt": 61150000,
+    "enterpriseValue": 4515605100
+  },
+  {
+    "symbol": "SAM",
+    "date": "2018-12-31",
+    "stockPrice": 240.84,
+    "numberOfShares": 11622000,
+    "marketCapitalization": 2799042480,
+    "minusCashAndCashEquivalents": 108399000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 2690643480
+  },
+  {
+    "symbol": "SAM",
+    "date": "2017-12-31",
+    "stockPrice": 191.1,
+    "numberOfShares": 12035000,
+    "marketCapitalization": 2299888500,
+    "minusCashAndCashEquivalents": 65637000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 2234251500
+  },
+  {
+    "symbol": "SAM",
+    "date": "2016-12-31",
+    "stockPrice": 169.85,
+    "numberOfShares": 12533000,
+    "marketCapitalization": 2128730050,
+    "minusCashAndCashEquivalents": 91035000,
+    "addTotalDebt": 471000,
+    "enterpriseValue": 2038166050
+  }
+]

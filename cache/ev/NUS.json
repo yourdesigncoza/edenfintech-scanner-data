@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "NUS",
+    "date": "2025-12-31",
+    "stockPrice": 9.62,
+    "numberOfShares": 49293000,
+    "marketCapitalization": 474198659,
+    "minusCashAndCashEquivalents": 238630000,
+    "addTotalDebt": 364253000,
+    "enterpriseValue": 599821659
+  },
+  {
+    "symbol": "NUS",
+    "date": "2024-12-31",
+    "stockPrice": 6.89,
+    "numberOfShares": 49662000,
+    "marketCapitalization": 342171180,
+    "minusCashAndCashEquivalents": 186883000,
+    "addTotalDebt": 478225000,
+    "enterpriseValue": 633513180
+  },
+  {
+    "symbol": "NUS",
+    "date": "2023-12-31",
+    "stockPrice": 19.42,
+    "numberOfShares": 49711000,
+    "marketCapitalization": 965387620,
+    "minusCashAndCashEquivalents": 256057000,
+    "addTotalDebt": 607330000,
+    "enterpriseValue": 1316660620
+  },
+  {
+    "symbol": "NUS",
+    "date": "2022-12-31",
+    "stockPrice": 42.16,
+    "numberOfShares": 50002000,
+    "marketCapitalization": 2108084319,
+    "minusCashAndCashEquivalents": 264725000,
+    "addTotalDebt": 520522000,
+    "enterpriseValue": 2363881319
+  },
+  {
+    "symbol": "NUS",
+    "date": "2021-12-31",
+    "stockPrice": 50.75,
+    "numberOfShares": 50193000,
+    "marketCapitalization": 2547294750,
+    "minusCashAndCashEquivalents": 339593000,
+    "addTotalDebt": 503785000,
+    "enterpriseValue": 2711486750
+  },
+  {
+    "symbol": "NUS",
+    "date": "2020-12-31",
+    "stockPrice": 54.63,
+    "numberOfShares": 52296000,
+    "marketCapitalization": 2856930480,
+    "minusCashAndCashEquivalents": 402683000,
+    "addTotalDebt": 500377000,
+    "enterpriseValue": 2954624480
+  },
+  {
+    "symbol": "NUS",
+    "date": "2019-12-31",
+    "stockPrice": 40.98,
+    "numberOfShares": 55518000,
+    "marketCapitalization": 2275127640,
+    "minusCashAndCashEquivalents": 335630000,
+    "addTotalDebt": 507011000,
+    "enterpriseValue": 2446508640
+  },
+  {
+    "symbol": "NUS",
+    "date": "2018-12-31",
+    "stockPrice": 61.33,
+    "numberOfShares": 55170000,
+    "marketCapitalization": 3383576100,
+    "minusCashAndCashEquivalents": 386911000,
+    "addTotalDebt": 430463000,
+    "enterpriseValue": 3427128100
+  },
+  {
+    "symbol": "NUS",
+    "date": "2017-12-31",
+    "stockPrice": 68.23,
+    "numberOfShares": 52806000,
+    "marketCapitalization": 3602953380,
+    "minusCashAndCashEquivalents": 426399000,
+    "addTotalDebt": 388630000,
+    "enterpriseValue": 3565184380
+  },
+  {
+    "symbol": "NUS",
+    "date": "2016-12-31",
+    "stockPrice": 47.78,
+    "numberOfShares": 55412000,
+    "marketCapitalization": 2647585360,
+    "minusCashAndCashEquivalents": 357246000,
+    "addTotalDebt": 416892000,
+    "enterpriseValue": 2707231360
+  }
+]

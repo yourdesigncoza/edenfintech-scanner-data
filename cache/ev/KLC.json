@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "KLC",
+    "date": "2024-12-31",
+    "stockPrice": 17.8,
+    "numberOfShares": 96309000,
+    "marketCapitalization": 1714300200,
+    "minusCashAndCashEquivalents": 62336000,
+    "addTotalDebt": 2392364000,
+    "enterpriseValue": 4044328200
+  },
+  {
+    "symbol": "KLC",
+    "date": "2023-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 156147000,
+    "addTotalDebt": 2692935000,
+    "enterpriseValue": 5525173905
+  },
+  {
+    "symbol": "KLC",
+    "date": "2022-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 105206000,
+    "addTotalDebt": 2858124000,
+    "enterpriseValue": 5741303905
+  },
+  {
+    "symbol": "KLC",
+    "date": "2021-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 177248000,
+    "addTotalDebt": 2886464000,
+    "enterpriseValue": 5697601905
+  },
+  {
+    "symbol": "KLC",
+    "date": "2020-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 53235000,
+    "addTotalDebt": 2849775000,
+    "enterpriseValue": 5784925905
+  },
+  {
+    "symbol": "KLC",
+    "date": "2019-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 40343000,
+    "addTotalDebt": 2749035000,
+    "enterpriseValue": 5697077905
+  },
+  {
+    "symbol": "KLC",
+    "date": "2018-12-31",
+    "stockPrice": 26.13,
+    "numberOfShares": 114366089,
+    "marketCapitalization": 2988385905,
+    "minusCashAndCashEquivalents": 0,
+    "addTotalDebt": 0,
+    "enterpriseValue": 2988385905
+  }
+]

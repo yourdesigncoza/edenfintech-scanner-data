@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "HLF",
+    "date": "2025-12-31",
+    "stockPrice": 12.89,
+    "numberOfShares": 102800000,
+    "marketCapitalization": 1325092000,
+    "minusCashAndCashEquivalents": 353100000,
+    "addTotalDebt": 2339500000,
+    "enterpriseValue": 3311492000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2024-12-31",
+    "stockPrice": 6.69,
+    "numberOfShares": 100600000,
+    "marketCapitalization": 673014000,
+    "minusCashAndCashEquivalents": 415300000,
+    "addTotalDebt": 2469300000,
+    "enterpriseValue": 2727014000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2023-12-31",
+    "stockPrice": 15.26,
+    "numberOfShares": 99000000,
+    "marketCapitalization": 1510740000,
+    "minusCashAndCashEquivalents": 575200000,
+    "addTotalDebt": 2769500000,
+    "enterpriseValue": 3705040000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2022-12-31",
+    "stockPrice": 14.88,
+    "numberOfShares": 98500000,
+    "marketCapitalization": 1465680000,
+    "minusCashAndCashEquivalents": 508000000,
+    "addTotalDebt": 2921800000,
+    "enterpriseValue": 3879480000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2021-12-31",
+    "stockPrice": 40.93,
+    "numberOfShares": 105900000,
+    "marketCapitalization": 4334487000,
+    "minusCashAndCashEquivalents": 601500000,
+    "addTotalDebt": 3006600000,
+    "enterpriseValue": 6739587000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2020-12-31",
+    "stockPrice": 48.05,
+    "numberOfShares": 131500000,
+    "marketCapitalization": 6318575000,
+    "minusCashAndCashEquivalents": 1045400000,
+    "addTotalDebt": 2670600000,
+    "enterpriseValue": 7943775000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2019-12-31",
+    "stockPrice": 47.67,
+    "numberOfShares": 137400000,
+    "marketCapitalization": 6549858000,
+    "minusCashAndCashEquivalents": 839400000,
+    "addTotalDebt": 2010300000,
+    "enterpriseValue": 7720758000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2018-12-31",
+    "stockPrice": 58.95,
+    "numberOfShares": 149500000,
+    "marketCapitalization": 8813025000,
+    "minusCashAndCashEquivalents": 1198900000,
+    "addTotalDebt": 2453800000,
+    "enterpriseValue": 10067925000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2017-12-31",
+    "stockPrice": 33.86,
+    "numberOfShares": 158500000,
+    "marketCapitalization": 5366810000,
+    "minusCashAndCashEquivalents": 1278800000,
+    "addTotalDebt": 2268100000,
+    "enterpriseValue": 6356110000
+  },
+  {
+    "symbol": "HLF",
+    "date": "2016-12-31",
+    "stockPrice": 24.07,
+    "numberOfShares": 166100000,
+    "marketCapitalization": 3998027000,
+    "minusCashAndCashEquivalents": 844000000,
+    "addTotalDebt": 1447900000,
+    "enterpriseValue": 4601927000
+  }
+]

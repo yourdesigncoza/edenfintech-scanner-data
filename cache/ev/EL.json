@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "EL",
+    "date": "2025-06-30",
+    "stockPrice": 80.8,
+    "numberOfShares": 360100000,
+    "marketCapitalization": 29096080000,
+    "minusCashAndCashEquivalents": 2921000000,
+    "addTotalDebt": 9439000000,
+    "enterpriseValue": 35614080000
+  },
+  {
+    "symbol": "EL",
+    "date": "2024-06-30",
+    "stockPrice": 105.38,
+    "numberOfShares": 359000000,
+    "marketCapitalization": 37831420000,
+    "minusCashAndCashEquivalents": 3395000000,
+    "addTotalDebt": 9826000000,
+    "enterpriseValue": 44262420000
+  },
+  {
+    "symbol": "EL",
+    "date": "2023-06-30",
+    "stockPrice": 196.38,
+    "numberOfShares": 357900000,
+    "marketCapitalization": 70284402000,
+    "minusCashAndCashEquivalents": 4029000000,
+    "addTotalDebt": 10169000000,
+    "enterpriseValue": 76424402000
+  },
+  {
+    "symbol": "EL",
+    "date": "2022-06-30",
+    "stockPrice": 254.67,
+    "numberOfShares": 360000000,
+    "marketCapitalization": 91681200000,
+    "minusCashAndCashEquivalents": 3957000000,
+    "addTotalDebt": 7645000000,
+    "enterpriseValue": 95369200000
+  },
+  {
+    "symbol": "EL",
+    "date": "2021-06-30",
+    "stockPrice": 318.08,
+    "numberOfShares": 362900000,
+    "marketCapitalization": 115431232000,
+    "minusCashAndCashEquivalents": 4958000000,
+    "addTotalDebt": 8099000000,
+    "enterpriseValue": 118572232000
+  },
+  {
+    "symbol": "EL",
+    "date": "2020-06-30",
+    "stockPrice": 188.68,
+    "numberOfShares": 360600000,
+    "marketCapitalization": 68038008000,
+    "minusCashAndCashEquivalents": 5022000000,
+    "addTotalDebt": 8789000000,
+    "enterpriseValue": 71805008000
+  },
+  {
+    "symbol": "EL",
+    "date": "2019-06-30",
+    "stockPrice": 182.23,
+    "numberOfShares": 363500000,
+    "marketCapitalization": 66240605000,
+    "minusCashAndCashEquivalents": 2987000000,
+    "addTotalDebt": 3412000000,
+    "enterpriseValue": 66665605000
+  },
+  {
+    "symbol": "EL",
+    "date": "2018-06-30",
+    "stockPrice": 142.69,
+    "numberOfShares": 368000000,
+    "marketCapitalization": 52509920000,
+    "minusCashAndCashEquivalents": 2181000000,
+    "addTotalDebt": 3544000000,
+    "enterpriseValue": 53872920000
+  },
+  {
+    "symbol": "EL",
+    "date": "2017-06-30",
+    "stockPrice": 95.98,
+    "numberOfShares": 367100000,
+    "marketCapitalization": 35234258000,
+    "minusCashAndCashEquivalents": 1136000000,
+    "addTotalDebt": 3572000000,
+    "enterpriseValue": 37670258000
+  },
+  {
+    "symbol": "EL",
+    "date": "2016-06-30",
+    "stockPrice": 91.02,
+    "numberOfShares": 370000000,
+    "marketCapitalization": 33677400000,
+    "minusCashAndCashEquivalents": 914100000,
+    "addTotalDebt": 2242000000,
+    "enterpriseValue": 35005300000
+  }
+]

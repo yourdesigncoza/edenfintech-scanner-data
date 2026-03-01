@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "BAX",
+    "date": "2025-12-31",
+    "stockPrice": 19.11,
+    "numberOfShares": 513000000,
+    "marketCapitalization": 9803430000,
+    "minusCashAndCashEquivalents": 1966000000,
+    "addTotalDebt": 10003000000,
+    "enterpriseValue": 17840430000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2024-12-31",
+    "stockPrice": 29.16,
+    "numberOfShares": 510000000,
+    "marketCapitalization": 14871600000,
+    "minusCashAndCashEquivalents": 1764000000,
+    "addTotalDebt": 13449000000,
+    "enterpriseValue": 26556600000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2023-12-31",
+    "stockPrice": 38.66,
+    "numberOfShares": 506000000,
+    "marketCapitalization": 19561960000,
+    "minusCashAndCashEquivalents": 3078000000,
+    "addTotalDebt": 14113000000,
+    "enterpriseValue": 30596960000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2022-12-31",
+    "stockPrice": 50.97,
+    "numberOfShares": 504000000,
+    "marketCapitalization": 25688880000,
+    "minusCashAndCashEquivalents": 1718000000,
+    "addTotalDebt": 17203000000,
+    "enterpriseValue": 41173880000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2021-12-31",
+    "stockPrice": 85.84,
+    "numberOfShares": 502000000,
+    "marketCapitalization": 43091680000,
+    "minusCashAndCashEquivalents": 2951000000,
+    "addTotalDebt": 18310000000,
+    "enterpriseValue": 58450680000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2020-12-31",
+    "stockPrice": 80.24,
+    "numberOfShares": 509000000,
+    "marketCapitalization": 40842160000,
+    "minusCashAndCashEquivalents": 3730000000,
+    "addTotalDebt": 6804000000,
+    "enterpriseValue": 43916160000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2019-12-31",
+    "stockPrice": 83.62,
+    "numberOfShares": 509000000,
+    "marketCapitalization": 42562580000,
+    "minusCashAndCashEquivalents": 3335000000,
+    "addTotalDebt": 5961000000,
+    "enterpriseValue": 45188580000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2018-12-31",
+    "stockPrice": 65.82,
+    "numberOfShares": 534000000,
+    "marketCapitalization": 35147880000,
+    "minusCashAndCashEquivalents": 1838000000,
+    "addTotalDebt": 3485000000,
+    "enterpriseValue": 36794880000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2017-12-31",
+    "stockPrice": 64.64,
+    "numberOfShares": 543000000,
+    "marketCapitalization": 35099520000,
+    "minusCashAndCashEquivalents": 3394000000,
+    "addTotalDebt": 3512000000,
+    "enterpriseValue": 35217520000
+  },
+  {
+    "symbol": "BAX",
+    "date": "2016-12-31",
+    "stockPrice": 44.34,
+    "numberOfShares": 546000000,
+    "marketCapitalization": 24209640000,
+    "minusCashAndCashEquivalents": 2801000000,
+    "addTotalDebt": 2782000000,
+    "enterpriseValue": 24190640000
+  }
+]

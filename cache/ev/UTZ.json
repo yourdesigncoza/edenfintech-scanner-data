@@ -1,0 +1,82 @@
+[
+  {
+    "symbol": "UTZ",
+    "date": "2025-12-28",
+    "stockPrice": 10.43,
+    "numberOfShares": 86577082,
+    "marketCapitalization": 902998965,
+    "minusCashAndCashEquivalents": 120400000,
+    "addTotalDebt": 1167300000,
+    "enterpriseValue": 1949898965
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2024-12-29",
+    "stockPrice": 15.46,
+    "numberOfShares": 82103000,
+    "marketCapitalization": 1269312380,
+    "minusCashAndCashEquivalents": 56138000,
+    "addTotalDebt": 940819000,
+    "enterpriseValue": 2153993380
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2023-12-31",
+    "stockPrice": 16.24,
+    "numberOfShares": 81081000,
+    "marketCapitalization": 1316755439,
+    "minusCashAndCashEquivalents": 52023000,
+    "addTotalDebt": 985340000,
+    "enterpriseValue": 2250072439
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2022-12-31",
+    "stockPrice": 15.86,
+    "numberOfShares": 80093000,
+    "marketCapitalization": 1270274980,
+    "minusCashAndCashEquivalents": 72930000,
+    "addTotalDebt": 992455000,
+    "enterpriseValue": 2189799980
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2021-12-31",
+    "stockPrice": 15.95,
+    "numberOfShares": 76678000,
+    "marketCapitalization": 1223014100,
+    "minusCashAndCashEquivalents": 41898000,
+    "addTotalDebt": 909006000,
+    "enterpriseValue": 2090122100
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2020-12-31",
+    "stockPrice": 22.06,
+    "numberOfShares": 71095000,
+    "marketCapitalization": 1568355700,
+    "minusCashAndCashEquivalents": 46831000,
+    "addTotalDebt": 812051000,
+    "enterpriseValue": 2333575700
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2019-12-31",
+    "stockPrice": 10.28,
+    "numberOfShares": 55875000,
+    "marketCapitalization": 574395000,
+    "minusCashAndCashEquivalents": 15053000,
+    "addTotalDebt": 679909000,
+    "enterpriseValue": 1239251000
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2018-12-31",
+    "stockPrice": 9.65,
+    "numberOfShares": 55875000,
+    "marketCapitalization": 539193750,
+    "minusCashAndCashEquivalents": 944890,
+    "addTotalDebt": 0,
+    "enterpriseValue": 538248860
+  }
+]

@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "DGX",
+    "date": "2026-02-27",
+    "price": 211.91,
+    "volume": 1058749
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-26",
+    "price": 211.1,
+    "volume": 783746
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-25",
+    "price": 207.8,
+    "volume": 798327
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-24",
+    "price": 209.54,
+    "volume": 882102
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-23",
+    "price": 207.43,
+    "volume": 783100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-20",
+    "price": 202.41,
+    "volume": 642091
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-19",
+    "price": 202.44,
+    "volume": 815555
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-18",
+    "price": 204.39,
+    "volume": 871747
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-17",
+    "price": 205.49,
+    "volume": 971250
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-13",
+    "price": 206.87,
+    "volume": 1354600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-12",
+    "price": 206.86,
+    "volume": 1671555
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-11",
+    "price": 209.32,
+    "volume": 1431227
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-10",
+    "price": 205.35,
+    "volume": 2307900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-09",
+    "price": 191.25,
+    "volume": 1925583
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-06",
+    "price": 190.71,
+    "volume": 1099523
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-05",
+    "price": 192.3,
+    "volume": 1635791
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-04",
+    "price": 189.23,
+    "volume": 1337516
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-03",
+    "price": 185.17,
+    "volume": 807907
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-02-02",
+    "price": 185,
+    "volume": 1003800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-30",
+    "price": 187.03,
+    "volume": 1164100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-29",
+    "price": 182.35,
+    "volume": 635700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-28",
+    "price": 182.74,
+    "volume": 838900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-27",
+    "price": 184.24,
+    "volume": 667916
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-26",
+    "price": 182.53,
+    "volume": 681900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-23",
+    "price": 181.02,
+    "volume": 848900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-22",
+    "price": 182.16,
+    "volume": 1754222
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-21",
+    "price": 184.65,
+    "volume": 1140357
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-20",
+    "price": 188.95,
+    "volume": 1482016
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-16",
+    "price": 189.49,
+    "volume": 1132571
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-15",
+    "price": 190.26,
+    "volume": 1245699
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-14",
+    "price": 186.77,
+    "volume": 1498946
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-13",
+    "price": 179.96,
+    "volume": 1069600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-12",
+    "price": 175.94,
+    "volume": 695248
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-09",
+    "price": 174.44,
+    "volume": 942400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-08",
+    "price": 177.74,
+    "volume": 870100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-07",
+    "price": 178.14,
+    "volume": 767300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-06",
+    "price": 180.46,
+    "volume": 1165444
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-05",
+    "price": 173.49,
+    "volume": 748829
+  },
+  {
+    "symbol": "DGX",
+    "date": "2026-01-02",
+    "price": 173.79,
+    "volume": 683200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-31",
+    "price": 173.53,
+    "volume": 645305
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-30",
+    "price": 175.49,
+    "volume": 732816
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-29",
+    "price": 175.52,
+    "volume": 632023
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-26",
+    "price": 175.94,
+    "volume": 402700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-24",
+    "price": 175.92,
+    "volume": 296509
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-23",
+    "price": 175.08,
+    "volume": 652768
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-22",
+    "price": 176.34,
+    "volume": 704300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-19",
+    "price": 176.06,
+    "volume": 1580900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-18",
+    "price": 176.15,
+    "volume": 973822
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-17",
+    "price": 179.1,
+    "volume": 1652324
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-16",
+    "price": 178.66,
+    "volume": 1338939
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-15",
+    "price": 184.11,
+    "volume": 951930
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-12",
+    "price": 182.56,
+    "volume": 1139000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-11",
+    "price": 181.57,
+    "volume": 685602
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-10",
+    "price": 179.51,
+    "volume": 1071131
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-09",
+    "price": 179.62,
+    "volume": 846500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-08",
+    "price": 181.82,
+    "volume": 980700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-05",
+    "price": 182.51,
+    "volume": 738200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-04",
+    "price": 184.18,
+    "volume": 1044900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-03",
+    "price": 182.61,
+    "volume": 1057340
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-02",
+    "price": 182.55,
+    "volume": 1177547
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-12-01",
+    "price": 183.77,
+    "volume": 1175803
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-28",
+    "price": 189.18,
+    "volume": 379700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-26",
+    "price": 189.69,
+    "volume": 869621
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-25",
+    "price": 192.35,
+    "volume": 1207322
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-24",
+    "price": 190.58,
+    "volume": 2285300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-21",
+    "price": 191.25,
+    "volume": 1769800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-20",
+    "price": 187.61,
+    "volume": 1104444
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-19",
+    "price": 185.96,
+    "volume": 874623
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-18",
+    "price": 185.32,
+    "volume": 1368410
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-17",
+    "price": 186.19,
+    "volume": 1086531
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-14",
+    "price": 186.95,
+    "volume": 923900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-13",
+    "price": 187.58,
+    "volume": 1412000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-12",
+    "price": 186.85,
+    "volume": 1076600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-11",
+    "price": 188.85,
+    "volume": 1293710
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-10",
+    "price": 184.31,
+    "volume": 1592600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-07",
+    "price": 179.5,
+    "volume": 1020700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-06",
+    "price": 176.51,
+    "volume": 830200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-05",
+    "price": 178.26,
+    "volume": 784900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-04",
+    "price": 178.03,
+    "volume": 1059509
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-11-03",
+    "price": 178.84,
+    "volume": 1106900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-31",
+    "price": 175.95,
+    "volume": 966249
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-30",
+    "price": 175.75,
+    "volume": 1427075
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-29",
+    "price": 174.78,
+    "volume": 1014840
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-28",
+    "price": 178.28,
+    "volume": 1434053
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-27",
+    "price": 180.26,
+    "volume": 900956
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-24",
+    "price": 182.18,
+    "volume": 867100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-23",
+    "price": 183.23,
+    "volume": 1230913
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-22",
+    "price": 181.17,
+    "volume": 1583501
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-21",
+    "price": 184.64,
+    "volume": 2889900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-20",
+    "price": 190.41,
+    "volume": 1491100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-17",
+    "price": 189.51,
+    "volume": 983924
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-16",
+    "price": 186.82,
+    "volume": 1056600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-15",
+    "price": 187.35,
+    "volume": 1071939
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-14",
+    "price": 185.39,
+    "volume": 718536
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-13",
+    "price": 182.78,
+    "volume": 809300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-10",
+    "price": 184.07,
+    "volume": 737071
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-09",
+    "price": 181.44,
+    "volume": 538700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-08",
+    "price": 180.89,
+    "volume": 745336
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-07",
+    "price": 181.89,
+    "volume": 1110648
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-06",
+    "price": 178.43,
+    "volume": 844000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-03",
+    "price": 179.33,
+    "volume": 1395240
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-02",
+    "price": 180.96,
+    "volume": 1029737
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-10-01",
+    "price": 182.07,
+    "volume": 1782108
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-30",
+    "price": 190.58,
+    "volume": 780511
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-29",
+    "price": 188.84,
+    "volume": 528005
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-26",
+    "price": 188.99,
+    "volume": 550529
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-25",
+    "price": 185.39,
+    "volume": 657800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-24",
+    "price": 186.82,
+    "volume": 748102
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-23",
+    "price": 186.97,
+    "volume": 775000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-22",
+    "price": 184.69,
+    "volume": 976000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-19",
+    "price": 183.6,
+    "volume": 1435600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-18",
+    "price": 183.33,
+    "volume": 667853
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-17",
+    "price": 182.25,
+    "volume": 662900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-16",
+    "price": 180.16,
+    "volume": 549537
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-15",
+    "price": 180.62,
+    "volume": 642200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-12",
+    "price": 182.91,
+    "volume": 454100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-11",
+    "price": 183.46,
+    "volume": 598548
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-10",
+    "price": 180.14,
+    "volume": 652123
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-09",
+    "price": 182.68,
+    "volume": 435500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-08",
+    "price": 182.53,
+    "volume": 438500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-05",
+    "price": 183.49,
+    "volume": 556225
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-04",
+    "price": 180.11,
+    "volume": 585707
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-03",
+    "price": 179.51,
+    "volume": 689500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-09-02",
+    "price": 178.7,
+    "volume": 1109253
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-29",
+    "price": 181.64,
+    "volume": 731500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-28",
+    "price": 179.2,
+    "volume": 560041
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-27",
+    "price": 179.76,
+    "volume": 597100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-26",
+    "price": 180.36,
+    "volume": 1044445
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-25",
+    "price": 178.66,
+    "volume": 753400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-22",
+    "price": 180.23,
+    "volume": 947800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-21",
+    "price": 183.72,
+    "volume": 1074619
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-20",
+    "price": 184.4,
+    "volume": 957864
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-19",
+    "price": 182.83,
+    "volume": 784700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-18",
+    "price": 178.95,
+    "volume": 808500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-15",
+    "price": 179.77,
+    "volume": 810247
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-14",
+    "price": 178.44,
+    "volume": 679545
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-13",
+    "price": 179.04,
+    "volume": 928500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-12",
+    "price": 178.68,
+    "volume": 763292
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-11",
+    "price": 178.36,
+    "volume": 653200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-08",
+    "price": 176.96,
+    "volume": 616300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-07",
+    "price": 174.27,
+    "volume": 898400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-06",
+    "price": 173,
+    "volume": 994300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-05",
+    "price": 173.27,
+    "volume": 744236
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-04",
+    "price": 172.44,
+    "volume": 788423
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-08-01",
+    "price": 170.85,
+    "volume": 1421100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-31",
+    "price": 167.41,
+    "volume": 941447
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-30",
+    "price": 168.73,
+    "volume": 1094038
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-29",
+    "price": 167.93,
+    "volume": 810700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-28",
+    "price": 167.85,
+    "volume": 1086616
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-25",
+    "price": 168.55,
+    "volume": 1877511
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-24",
+    "price": 171.9,
+    "volume": 2114216
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-23",
+    "price": 170.48,
+    "volume": 3086540
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-22",
+    "price": 178.24,
+    "volume": 2697900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-21",
+    "price": 166.45,
+    "volume": 1999944
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-18",
+    "price": 166.91,
+    "volume": 1557300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-17",
+    "price": 168.18,
+    "volume": 1358700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-16",
+    "price": 167.03,
+    "volume": 1148483
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-15",
+    "price": 166.42,
+    "volume": 1177700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-14",
+    "price": 168.37,
+    "volume": 1274738
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-11",
+    "price": 168.09,
+    "volume": 1335610
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-10",
+    "price": 171.45,
+    "volume": 914100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-09",
+    "price": 173.62,
+    "volume": 871070
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-08",
+    "price": 172.5,
+    "volume": 1080500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-07",
+    "price": 173.97,
+    "volume": 839409
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-03",
+    "price": 176.92,
+    "volume": 436517
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-02",
+    "price": 176.6,
+    "volume": 895745
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-07-01",
+    "price": 179.33,
+    "volume": 850360
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-30",
+    "price": 179.63,
+    "volume": 819342
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-27",
+    "price": 177.83,
+    "volume": 1205900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-26",
+    "price": 177.06,
+    "volume": 1040223
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-25",
+    "price": 178.65,
+    "volume": 747546
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-24",
+    "price": 179.9,
+    "volume": 713600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-23",
+    "price": 179.72,
+    "volume": 1201926
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-20",
+    "price": 179.43,
+    "volume": 1016742
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-18",
+    "price": 179.78,
+    "volume": 618901
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-17",
+    "price": 178.95,
+    "volume": 871900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-16",
+    "price": 182.07,
+    "volume": 989119
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-13",
+    "price": 180.21,
+    "volume": 1028500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-12",
+    "price": 179.04,
+    "volume": 743200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-11",
+    "price": 176.98,
+    "volume": 583200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-10",
+    "price": 177.44,
+    "volume": 763100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-09",
+    "price": 175.9,
+    "volume": 496200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-06",
+    "price": 174.34,
+    "volume": 434248
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-05",
+    "price": 173.65,
+    "volume": 602800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-04",
+    "price": 173.81,
+    "volume": 743000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-03",
+    "price": 173.59,
+    "volume": 769335
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-06-02",
+    "price": 174.4,
+    "volume": 876217
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-30",
+    "price": 173.34,
+    "volume": 1612700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-29",
+    "price": 172,
+    "volume": 783240
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-28",
+    "price": 171.38,
+    "volume": 746700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-27",
+    "price": 173.68,
+    "volume": 1048425
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-23",
+    "price": 171.23,
+    "volume": 1025600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-22",
+    "price": 169.62,
+    "volume": 1036334
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-21",
+    "price": 170.48,
+    "volume": 2124659
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-20",
+    "price": 178.24,
+    "volume": 994517
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-19",
+    "price": 178.12,
+    "volume": 773000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-16",
+    "price": 177.97,
+    "volume": 2134123
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-15",
+    "price": 176.41,
+    "volume": 1616001
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-14",
+    "price": 172.48,
+    "volume": 1333815
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-13",
+    "price": 174.49,
+    "volume": 1169816
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-12",
+    "price": 175.9,
+    "volume": 1334200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-09",
+    "price": 176.96,
+    "volume": 1310000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-08",
+    "price": 175.9,
+    "volume": 1504700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-07",
+    "price": 176.57,
+    "volume": 1103700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-06",
+    "price": 176.11,
+    "volume": 869807
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-05",
+    "price": 177.57,
+    "volume": 834680
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-02",
+    "price": 177.95,
+    "volume": 881700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-05-01",
+    "price": 177.32,
+    "volume": 857300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-30",
+    "price": 178.22,
+    "volume": 1622100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-29",
+    "price": 178.5,
+    "volume": 1307245
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-28",
+    "price": 176.68,
+    "volume": 1133000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-25",
+    "price": 173.76,
+    "volume": 1033427
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-24",
+    "price": 175.87,
+    "volume": 1569200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-23",
+    "price": 173.57,
+    "volume": 1854026
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-22",
+    "price": 172.84,
+    "volume": 2424234
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-21",
+    "price": 161.86,
+    "volume": 1401200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-17",
+    "price": 163.8,
+    "volume": 1491375
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-16",
+    "price": 164.47,
+    "volume": 1252717
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-15",
+    "price": 167.23,
+    "volume": 1139600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-14",
+    "price": 168,
+    "volume": 1723232
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-11",
+    "price": 163.99,
+    "volume": 2218400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-10",
+    "price": 163.85,
+    "volume": 2073300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-09",
+    "price": 164.06,
+    "volume": 2178941
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-08",
+    "price": 159.8,
+    "volume": 1971490
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-07",
+    "price": 164.31,
+    "volume": 2301319
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-04",
+    "price": 164.18,
+    "volume": 2505263
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-03",
+    "price": 170.63,
+    "volume": 1828614
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-02",
+    "price": 167.96,
+    "volume": 940689
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-04-01",
+    "price": 169.28,
+    "volume": 1035855
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-31",
+    "price": 169.2,
+    "volume": 1591200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-28",
+    "price": 167.33,
+    "volume": 1140845
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-27",
+    "price": 166,
+    "volume": 871934
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-26",
+    "price": 166.62,
+    "volume": 573849
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-25",
+    "price": 165.66,
+    "volume": 769212
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-24",
+    "price": 167.33,
+    "volume": 670800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-21",
+    "price": 167.11,
+    "volume": 1437900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-20",
+    "price": 166.46,
+    "volume": 1106631
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-19",
+    "price": 168.01,
+    "volume": 1596600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-18",
+    "price": 172.45,
+    "volume": 1360000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-17",
+    "price": 173.48,
+    "volume": 1072600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-14",
+    "price": 170.16,
+    "volume": 1276600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-13",
+    "price": 168.82,
+    "volume": 1447810
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-12",
+    "price": 166.42,
+    "volume": 1527734
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-11",
+    "price": 168.15,
+    "volume": 1436631
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-10",
+    "price": 173.12,
+    "volume": 1396829
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-07",
+    "price": 175.56,
+    "volume": 1092100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-06",
+    "price": 171.67,
+    "volume": 944828
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-05",
+    "price": 172.01,
+    "volume": 1534110
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-04",
+    "price": 175.01,
+    "volume": 1420835
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-03-03",
+    "price": 176.95,
+    "volume": 1325969
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-28",
+    "price": 172.9,
+    "volume": 1197925
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-27",
+    "price": 171.55,
+    "volume": 1091408
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-26",
+    "price": 173.46,
+    "volume": 995501
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-25",
+    "price": 175.41,
+    "volume": 1676500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-24",
+    "price": 174.06,
+    "volume": 1008572
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-21",
+    "price": 172.24,
+    "volume": 727400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-20",
+    "price": 172.14,
+    "volume": 1147201
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-19",
+    "price": 171.75,
+    "volume": 1448352
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-18",
+    "price": 169.65,
+    "volume": 1043406
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-14",
+    "price": 168.77,
+    "volume": 1327130
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-13",
+    "price": 168.72,
+    "volume": 1075122
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-12",
+    "price": 164.35,
+    "volume": 1417600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-11",
+    "price": 166.93,
+    "volume": 1088208
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-10",
+    "price": 165.19,
+    "volume": 1164540
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-07",
+    "price": 162.64,
+    "volume": 499500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-06",
+    "price": 162.64,
+    "volume": 915238
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-05",
+    "price": 164.87,
+    "volume": 628023
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-04",
+    "price": 163.36,
+    "volume": 889800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-02-03",
+    "price": 162.47,
+    "volume": 808621
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-31",
+    "price": 163.1,
+    "volume": 1575211
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-30",
+    "price": 164.17,
+    "volume": 2602012
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-29",
+    "price": 155.44,
+    "volume": 1725916
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-28",
+    "price": 157.13,
+    "volume": 1751549
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-27",
+    "price": 159.97,
+    "volume": 1468650
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-24",
+    "price": 155.28,
+    "volume": 1219892
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-23",
+    "price": 151.85,
+    "volume": 711201
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-22",
+    "price": 151.51,
+    "volume": 666113
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-21",
+    "price": 152.65,
+    "volume": 1126824
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-17",
+    "price": 151.2,
+    "volume": 760038
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-16",
+    "price": 151.66,
+    "volume": 983425
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-15",
+    "price": 150.33,
+    "volume": 815438
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-14",
+    "price": 152.98,
+    "volume": 622941
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-13",
+    "price": 154.02,
+    "volume": 870749
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-10",
+    "price": 151.79,
+    "volume": 936000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-08",
+    "price": 154.03,
+    "volume": 630100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-07",
+    "price": 153.64,
+    "volume": 609785
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-06",
+    "price": 152.27,
+    "volume": 779800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-03",
+    "price": 151.92,
+    "volume": 766200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2025-01-02",
+    "price": 150.96,
+    "volume": 420229
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-31",
+    "price": 150.86,
+    "volume": 463500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-30",
+    "price": 150.97,
+    "volume": 480417
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-27",
+    "price": 152.63,
+    "volume": 481000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-26",
+    "price": 153.02,
+    "volume": 443461
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-24",
+    "price": 153.42,
+    "volume": 213247
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-23",
+    "price": 152.94,
+    "volume": 577073
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-20",
+    "price": 153.1,
+    "volume": 1400131
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-19",
+    "price": 151.52,
+    "volume": 1097349
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-18",
+    "price": 151.25,
+    "volume": 972500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-17",
+    "price": 155.49,
+    "volume": 1115700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-16",
+    "price": 152.65,
+    "volume": 704216
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-13",
+    "price": 155,
+    "volume": 849835
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-12",
+    "price": 156.07,
+    "volume": 905229
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-11",
+    "price": 155.69,
+    "volume": 914753
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-10",
+    "price": 158.46,
+    "volume": 1017400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-09",
+    "price": 158.2,
+    "volume": 839600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-06",
+    "price": 157.35,
+    "volume": 951400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-05",
+    "price": 158.52,
+    "volume": 757005
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-04",
+    "price": 160.24,
+    "volume": 508440
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-03",
+    "price": 161.94,
+    "volume": 673140
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-12-02",
+    "price": 161.51,
+    "volume": 788348
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-29",
+    "price": 162.66,
+    "volume": 427500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-27",
+    "price": 163.32,
+    "volume": 672000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-26",
+    "price": 162.27,
+    "volume": 756013
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-25",
+    "price": 162.44,
+    "volume": 1500710
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-22",
+    "price": 163.59,
+    "volume": 596459
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-21",
+    "price": 163.89,
+    "volume": 651540
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-20",
+    "price": 161.32,
+    "volume": 763800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-19",
+    "price": 161.16,
+    "volume": 761846
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-18",
+    "price": 162.11,
+    "volume": 897125
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-15",
+    "price": 160.44,
+    "volume": 2725900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-14",
+    "price": 156.84,
+    "volume": 946400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-13",
+    "price": 160.55,
+    "volume": 796440
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-12",
+    "price": 161.7,
+    "volume": 994787
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-11",
+    "price": 160.17,
+    "volume": 776830
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-08",
+    "price": 159.37,
+    "volume": 944008
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-07",
+    "price": 156.2,
+    "volume": 525119
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-06",
+    "price": 155.18,
+    "volume": 804100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-05",
+    "price": 154.1,
+    "volume": 612032
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-04",
+    "price": 154.33,
+    "volume": 554900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-11-01",
+    "price": 155.29,
+    "volume": 1094700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-31",
+    "price": 154.83,
+    "volume": 874205
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-30",
+    "price": 155.93,
+    "volume": 661000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-29",
+    "price": 155.96,
+    "volume": 699815
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-28",
+    "price": 155.92,
+    "volume": 508188
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-25",
+    "price": 155.04,
+    "volume": 814738
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-24",
+    "price": 157.99,
+    "volume": 1233262
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-23",
+    "price": 157.12,
+    "volume": 1445330
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-22",
+    "price": 157.47,
+    "volume": 2044057
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-21",
+    "price": 147.37,
+    "volume": 1435700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-18",
+    "price": 149.65,
+    "volume": 631429
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-17",
+    "price": 148.96,
+    "volume": 582137
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-16",
+    "price": 148.93,
+    "volume": 524441
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-15",
+    "price": 149.35,
+    "volume": 861500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-14",
+    "price": 149,
+    "volume": 678835
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-11",
+    "price": 148.67,
+    "volume": 480149
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-10",
+    "price": 147.81,
+    "volume": 426045
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-09",
+    "price": 149.01,
+    "volume": 539300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-08",
+    "price": 148.78,
+    "volume": 748129
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-07",
+    "price": 146.9,
+    "volume": 640210
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-04",
+    "price": 150.79,
+    "volume": 500806
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-03",
+    "price": 152.13,
+    "volume": 558900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-02",
+    "price": 154.86,
+    "volume": 577800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-10-01",
+    "price": 153.95,
+    "volume": 500200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-30",
+    "price": 155.25,
+    "volume": 934700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-27",
+    "price": 154.8,
+    "volume": 712319
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-26",
+    "price": 154.42,
+    "volume": 647800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-25",
+    "price": 152.49,
+    "volume": 697500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-24",
+    "price": 153.08,
+    "volume": 788005
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-23",
+    "price": 153.98,
+    "volume": 678400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-20",
+    "price": 152.99,
+    "volume": 1456300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-19",
+    "price": 155.12,
+    "volume": 519544
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-18",
+    "price": 155.48,
+    "volume": 440200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-17",
+    "price": 155.38,
+    "volume": 476200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-16",
+    "price": 156.36,
+    "volume": 618500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-13",
+    "price": 154.38,
+    "volume": 570725
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-12",
+    "price": 154.76,
+    "volume": 762506
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-11",
+    "price": 153.56,
+    "volume": 958100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-10",
+    "price": 152.86,
+    "volume": 656119
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-09",
+    "price": 154.29,
+    "volume": 912132
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-06",
+    "price": 152.93,
+    "volume": 827500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-05",
+    "price": 154.23,
+    "volume": 756110
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-04",
+    "price": 155.39,
+    "volume": 606149
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-09-03",
+    "price": 156.97,
+    "volume": 745946
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-30",
+    "price": 156.97,
+    "volume": 883728
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-29",
+    "price": 156.23,
+    "volume": 698709
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-28",
+    "price": 154.88,
+    "volume": 570000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-27",
+    "price": 153.6,
+    "volume": 494545
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-26",
+    "price": 153.9,
+    "volume": 425400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-23",
+    "price": 153.56,
+    "volume": 472341
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-22",
+    "price": 152.84,
+    "volume": 477600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-21",
+    "price": 152.97,
+    "volume": 625068
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-20",
+    "price": 150.91,
+    "volume": 432235
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-19",
+    "price": 151.12,
+    "volume": 688336
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-16",
+    "price": 151.38,
+    "volume": 717100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-15",
+    "price": 149.69,
+    "volume": 685200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-14",
+    "price": 149.85,
+    "volume": 510400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-13",
+    "price": 150.77,
+    "volume": 728400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-12",
+    "price": 150.42,
+    "volume": 693000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-09",
+    "price": 149.31,
+    "volume": 675600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-08",
+    "price": 150.06,
+    "volume": 800000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-07",
+    "price": 146.13,
+    "volume": 1090306
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-06",
+    "price": 146.89,
+    "volume": 822600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-05",
+    "price": 145.79,
+    "volume": 1261944
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-02",
+    "price": 150.08,
+    "volume": 1024026
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-08-01",
+    "price": 147.67,
+    "volume": 1120800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-31",
+    "price": 142.3,
+    "volume": 1276200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-30",
+    "price": 142.89,
+    "volume": 937233
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-29",
+    "price": 142.14,
+    "volume": 1532247
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-26",
+    "price": 145.59,
+    "volume": 1282600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-25",
+    "price": 144.25,
+    "volume": 1127724
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-24",
+    "price": 143.91,
+    "volume": 1060800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-23",
+    "price": 140.96,
+    "volume": 1893400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-22",
+    "price": 147.35,
+    "volume": 1334433
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-19",
+    "price": 146.01,
+    "volume": 907000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-18",
+    "price": 146.84,
+    "volume": 765700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-17",
+    "price": 148.48,
+    "volume": 769800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-16",
+    "price": 148.6,
+    "volume": 1008600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-15",
+    "price": 144.59,
+    "volume": 1277100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-12",
+    "price": 144.11,
+    "volume": 581900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-11",
+    "price": 143.5,
+    "volume": 951600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-10",
+    "price": 140.45,
+    "volume": 723000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-09",
+    "price": 138.36,
+    "volume": 932202
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-08",
+    "price": 138.92,
+    "volume": 642500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-05",
+    "price": 140.45,
+    "volume": 1017722
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-03",
+    "price": 140.9,
+    "volume": 808400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-02",
+    "price": 136.64,
+    "volume": 1048547
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-07-01",
+    "price": 137.09,
+    "volume": 788700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-28",
+    "price": 136.88,
+    "volume": 1284700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-27",
+    "price": 137.34,
+    "volume": 936200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-26",
+    "price": 138.6,
+    "volume": 710900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-25",
+    "price": 138.3,
+    "volume": 734400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-24",
+    "price": 140.23,
+    "volume": 599412
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-21",
+    "price": 138.96,
+    "volume": 908537
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-20",
+    "price": 138.2,
+    "volume": 758500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-18",
+    "price": 137.3,
+    "volume": 759700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-17",
+    "price": 137.02,
+    "volume": 815813
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-14",
+    "price": 137.85,
+    "volume": 718644
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-13",
+    "price": 138.53,
+    "volume": 668000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-12",
+    "price": 138.83,
+    "volume": 831200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-11",
+    "price": 140.76,
+    "volume": 544000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-10",
+    "price": 141.47,
+    "volume": 589500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-07",
+    "price": 142.34,
+    "volume": 366223
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-06",
+    "price": 142.64,
+    "volume": 618418
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-05",
+    "price": 142.69,
+    "volume": 837500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-04",
+    "price": 141.57,
+    "volume": 818800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-06-03",
+    "price": 141.11,
+    "volume": 634334
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-31",
+    "price": 141.97,
+    "volume": 2238021
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-30",
+    "price": 139.33,
+    "volume": 838600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-29",
+    "price": 138.19,
+    "volume": 986800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-28",
+    "price": 138.91,
+    "volume": 886300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-24",
+    "price": 141.28,
+    "volume": 647500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-23",
+    "price": 140.04,
+    "volume": 1147100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-22",
+    "price": 141.86,
+    "volume": 805700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-21",
+    "price": 143.34,
+    "volume": 561800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-20",
+    "price": 144.17,
+    "volume": 1078800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-17",
+    "price": 144.34,
+    "volume": 1422833
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-16",
+    "price": 142.43,
+    "volume": 995900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-15",
+    "price": 140.78,
+    "volume": 757612
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-14",
+    "price": 139.16,
+    "volume": 741100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-13",
+    "price": 140.78,
+    "volume": 1116214
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-10",
+    "price": 138.42,
+    "volume": 569600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-09",
+    "price": 138.16,
+    "volume": 588300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-08",
+    "price": 136.14,
+    "volume": 612400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-07",
+    "price": 136.94,
+    "volume": 637800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-06",
+    "price": 135.64,
+    "volume": 750600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-03",
+    "price": 137.38,
+    "volume": 640502
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-02",
+    "price": 136.34,
+    "volume": 695200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-05-01",
+    "price": 137.55,
+    "volume": 676634
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-30",
+    "price": 138.18,
+    "volume": 1067500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-29",
+    "price": 139.5,
+    "volume": 2790173
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-26",
+    "price": 134.26,
+    "volume": 601735
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-25",
+    "price": 135.42,
+    "volume": 1016098
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-24",
+    "price": 137.55,
+    "volume": 1566638
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-23",
+    "price": 136.7,
+    "volume": 2088321
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-22",
+    "price": 130.09,
+    "volume": 1694300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-19",
+    "price": 128.44,
+    "volume": 1557641
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-18",
+    "price": 125.91,
+    "volume": 873700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-17",
+    "price": 126.98,
+    "volume": 886800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-16",
+    "price": 127.42,
+    "volume": 692300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-15",
+    "price": 128.64,
+    "volume": 698800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-12",
+    "price": 128.53,
+    "volume": 720200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-11",
+    "price": 130.02,
+    "volume": 754222
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-10",
+    "price": 131.62,
+    "volume": 787400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-09",
+    "price": 132.75,
+    "volume": 800073
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-08",
+    "price": 130.04,
+    "volume": 595109
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-05",
+    "price": 130.63,
+    "volume": 691500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-04",
+    "price": 131.5,
+    "volume": 847800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-03",
+    "price": 132.39,
+    "volume": 1067100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-02",
+    "price": 132.29,
+    "volume": 1404317
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-04-01",
+    "price": 134.77,
+    "volume": 2109037
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-28",
+    "price": 133.11,
+    "volume": 888001
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-27",
+    "price": 131.06,
+    "volume": 753019
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-26",
+    "price": 128.87,
+    "volume": 666200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-25",
+    "price": 129.28,
+    "volume": 584237
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-22",
+    "price": 129.3,
+    "volume": 708135
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-21",
+    "price": 128.83,
+    "volume": 639800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-20",
+    "price": 127.72,
+    "volume": 586642
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-19",
+    "price": 129.06,
+    "volume": 902800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-18",
+    "price": 128.14,
+    "volume": 838241
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-15",
+    "price": 128.28,
+    "volume": 1954928
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-14",
+    "price": 127.12,
+    "volume": 1018900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-13",
+    "price": 129.41,
+    "volume": 849400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-12",
+    "price": 129.74,
+    "volume": 909214
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-11",
+    "price": 129.43,
+    "volume": 825462
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-08",
+    "price": 127.24,
+    "volume": 811804
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-07",
+    "price": 127.39,
+    "volume": 819221
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-06",
+    "price": 126.92,
+    "volume": 1006206
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-05",
+    "price": 124.51,
+    "volume": 1068000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-04",
+    "price": 125.31,
+    "volume": 913698
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-03-01",
+    "price": 124.68,
+    "volume": 1034122
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-29",
+    "price": 124.89,
+    "volume": 1590487
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-28",
+    "price": 125.66,
+    "volume": 583700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-27",
+    "price": 126.43,
+    "volume": 631720
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-26",
+    "price": 126.2,
+    "volume": 956000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-23",
+    "price": 127.08,
+    "volume": 787400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-22",
+    "price": 125.34,
+    "volume": 873800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-21",
+    "price": 126.73,
+    "volume": 1488776
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-20",
+    "price": 123.8,
+    "volume": 1124842
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-16",
+    "price": 124,
+    "volume": 1397279
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-15",
+    "price": 125.73,
+    "volume": 1231785
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-14",
+    "price": 127.72,
+    "volume": 801100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-13",
+    "price": 127.86,
+    "volume": 791500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-12",
+    "price": 130.01,
+    "volume": 1011298
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-09",
+    "price": 126.74,
+    "volume": 621300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-08",
+    "price": 126.54,
+    "volume": 1003400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-07",
+    "price": 127.42,
+    "volume": 1194700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-06",
+    "price": 126.26,
+    "volume": 1942731
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-05",
+    "price": 123.78,
+    "volume": 1380200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-02",
+    "price": 125,
+    "volume": 1276803
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-02-01",
+    "price": 127.17,
+    "volume": 2505744
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-31",
+    "price": 128.43,
+    "volume": 1712932
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-30",
+    "price": 128.83,
+    "volume": 896441
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-29",
+    "price": 129.34,
+    "volume": 911204
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-26",
+    "price": 130.44,
+    "volume": 966000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-25",
+    "price": 130.15,
+    "volume": 1853625
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-24",
+    "price": 127.76,
+    "volume": 1707306
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-23",
+    "price": 129.78,
+    "volume": 1194525
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-22",
+    "price": 130.71,
+    "volume": 986250
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-19",
+    "price": 132.57,
+    "volume": 945200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-18",
+    "price": 134.23,
+    "volume": 710002
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-17",
+    "price": 133.72,
+    "volume": 794401
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-16",
+    "price": 133.85,
+    "volume": 887084
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-12",
+    "price": 135.3,
+    "volume": 1008700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-11",
+    "price": 135.77,
+    "volume": 1145836
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-10",
+    "price": 137.1,
+    "volume": 2141306
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-09",
+    "price": 142.11,
+    "volume": 668700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-08",
+    "price": 141.6,
+    "volume": 852005
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-05",
+    "price": 141.98,
+    "volume": 930600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-04",
+    "price": 140.56,
+    "volume": 880900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-03",
+    "price": 139.68,
+    "volume": 1039700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2024-01-02",
+    "price": 140.82,
+    "volume": 1045400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-29",
+    "price": 137.88,
+    "volume": 416066
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-28",
+    "price": 137.66,
+    "volume": 434813
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-27",
+    "price": 137.58,
+    "volume": 648600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-26",
+    "price": 136.76,
+    "volume": 467100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-22",
+    "price": 136.74,
+    "volume": 408110
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-21",
+    "price": 136.04,
+    "volume": 668402
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-20",
+    "price": 134.77,
+    "volume": 717914
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-19",
+    "price": 136.45,
+    "volume": 898703
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-18",
+    "price": 135.82,
+    "volume": 684716
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-15",
+    "price": 135.03,
+    "volume": 1806923
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-14",
+    "price": 137.26,
+    "volume": 2076233
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-13",
+    "price": 141.12,
+    "volume": 1077941
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-12",
+    "price": 139.41,
+    "volume": 986257
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-11",
+    "price": 136.94,
+    "volume": 786900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-08",
+    "price": 135.91,
+    "volume": 719326
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-07",
+    "price": 135.22,
+    "volume": 883000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-06",
+    "price": 134.92,
+    "volume": 787718
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-05",
+    "price": 134.89,
+    "volume": 750800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-04",
+    "price": 137.49,
+    "volume": 871010
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-12-01",
+    "price": 136.17,
+    "volume": 1151400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-30",
+    "price": 137.23,
+    "volume": 1291716
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-29",
+    "price": 135.27,
+    "volume": 583215
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-28",
+    "price": 135.72,
+    "volume": 804129
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-27",
+    "price": 135.31,
+    "volume": 829922
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-24",
+    "price": 135.54,
+    "volume": 379400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-22",
+    "price": 135.75,
+    "volume": 658104
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-21",
+    "price": 134.32,
+    "volume": 1080500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-20",
+    "price": 134.85,
+    "volume": 785900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-17",
+    "price": 134.89,
+    "volume": 849600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-16",
+    "price": 134.93,
+    "volume": 1202821
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-15",
+    "price": 135.45,
+    "volume": 1457000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-14",
+    "price": 133.78,
+    "volume": 1005406
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-13",
+    "price": 132.35,
+    "volume": 672546
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-10",
+    "price": 132.82,
+    "volume": 591441
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-09",
+    "price": 131.64,
+    "volume": 771361
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-08",
+    "price": 133.47,
+    "volume": 727010
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-07",
+    "price": 132.88,
+    "volume": 637237
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-06",
+    "price": 133.89,
+    "volume": 871600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-03",
+    "price": 133.91,
+    "volume": 866800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-02",
+    "price": 131.33,
+    "volume": 996500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-11-01",
+    "price": 132.53,
+    "volume": 1202266
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-31",
+    "price": 130.1,
+    "volume": 969500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-30",
+    "price": 129.41,
+    "volume": 1313347
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-27",
+    "price": 127.68,
+    "volume": 1095763
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-26",
+    "price": 131.26,
+    "volume": 2461600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-25",
+    "price": 125.47,
+    "volume": 1633200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-24",
+    "price": 123.58,
+    "volume": 1518346
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-23",
+    "price": 121.45,
+    "volume": 1940338
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-20",
+    "price": 123.73,
+    "volume": 1287435
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-19",
+    "price": 122.83,
+    "volume": 845846
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-18",
+    "price": 122.79,
+    "volume": 904528
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-17",
+    "price": 123.29,
+    "volume": 632000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-16",
+    "price": 122.81,
+    "volume": 691326
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-13",
+    "price": 122.5,
+    "volume": 917727
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-12",
+    "price": 120.62,
+    "volume": 813866
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-11",
+    "price": 122.73,
+    "volume": 519534
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-10",
+    "price": 123.77,
+    "volume": 813900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-09",
+    "price": 124.83,
+    "volume": 555900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-06",
+    "price": 124.27,
+    "volume": 827828
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-05",
+    "price": 122.99,
+    "volume": 1180100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-04",
+    "price": 122.58,
+    "volume": 976700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-03",
+    "price": 121.03,
+    "volume": 706200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-10-02",
+    "price": 120.91,
+    "volume": 631221
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-29",
+    "price": 121.86,
+    "volume": 803717
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-28",
+    "price": 123.35,
+    "volume": 612400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-27",
+    "price": 123.4,
+    "volume": 750700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-26",
+    "price": 124.58,
+    "volume": 690604
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-25",
+    "price": 124.3,
+    "volume": 658208
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-22",
+    "price": 123.48,
+    "volume": 770631
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-21",
+    "price": 123.52,
+    "volume": 1006231
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-20",
+    "price": 125.01,
+    "volume": 1113600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-19",
+    "price": 125.57,
+    "volume": 793639
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-18",
+    "price": 125.79,
+    "volume": 823100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-15",
+    "price": 126.22,
+    "volume": 1071700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-14",
+    "price": 127.35,
+    "volume": 736718
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-13",
+    "price": 128.13,
+    "volume": 600825
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-12",
+    "price": 127.23,
+    "volume": 578725
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-11",
+    "price": 126.71,
+    "volume": 521753
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-08",
+    "price": 127.02,
+    "volume": 822000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-07",
+    "price": 127.11,
+    "volume": 897700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-06",
+    "price": 127.14,
+    "volume": 725102
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-05",
+    "price": 127.24,
+    "volume": 870100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-09-01",
+    "price": 130.52,
+    "volume": 695400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-31",
+    "price": 131.5,
+    "volume": 1204844
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-30",
+    "price": 134.68,
+    "volume": 791100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-29",
+    "price": 132.4,
+    "volume": 598634
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-28",
+    "price": 132.44,
+    "volume": 527900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-25",
+    "price": 132.39,
+    "volume": 420239
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-24",
+    "price": 133.22,
+    "volume": 546000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-23",
+    "price": 133.42,
+    "volume": 607300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-22",
+    "price": 132.38,
+    "volume": 1110129
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-21",
+    "price": 132.89,
+    "volume": 824713
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-18",
+    "price": 133.5,
+    "volume": 817843
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-17",
+    "price": 132.24,
+    "volume": 701050
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-16",
+    "price": 132.36,
+    "volume": 571633
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-15",
+    "price": 133.53,
+    "volume": 597027
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-14",
+    "price": 135.16,
+    "volume": 443700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-11",
+    "price": 135.01,
+    "volume": 665249
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-10",
+    "price": 134.12,
+    "volume": 656300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-09",
+    "price": 135.34,
+    "volume": 409800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-08",
+    "price": 134.92,
+    "volume": 486100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-07",
+    "price": 136.61,
+    "volume": 583565
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-04",
+    "price": 135.65,
+    "volume": 732219
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-03",
+    "price": 136.69,
+    "volume": 715412
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-02",
+    "price": 134.76,
+    "volume": 914320
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-08-01",
+    "price": 134.6,
+    "volume": 1124900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-31",
+    "price": 135.21,
+    "volume": 960841
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-28",
+    "price": 134.49,
+    "volume": 687000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-27",
+    "price": 134.36,
+    "volume": 1067037
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-26",
+    "price": 136.24,
+    "volume": 2181419
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-25",
+    "price": 144.92,
+    "volume": 1174307
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-24",
+    "price": 144.02,
+    "volume": 895020
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-21",
+    "price": 144.37,
+    "volume": 770615
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-20",
+    "price": 143.6,
+    "volume": 849543
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-19",
+    "price": 143.1,
+    "volume": 784243
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-18",
+    "price": 140.36,
+    "volume": 578439
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-17",
+    "price": 139.91,
+    "volume": 663519
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-14",
+    "price": 140.44,
+    "volume": 625030
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-13",
+    "price": 140.78,
+    "volume": 432820
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-12",
+    "price": 140.95,
+    "volume": 684900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-11",
+    "price": 140.29,
+    "volume": 643440
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-10",
+    "price": 139.76,
+    "volume": 853100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-07",
+    "price": 139,
+    "volume": 834111
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-06",
+    "price": 139.47,
+    "volume": 879196
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-05",
+    "price": 138.2,
+    "volume": 871200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-07-03",
+    "price": 139.15,
+    "volume": 477905
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-30",
+    "price": 140.56,
+    "volume": 1114031
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-29",
+    "price": 141.14,
+    "volume": 763400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-28",
+    "price": 141.92,
+    "volume": 624616
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-27",
+    "price": 142.56,
+    "volume": 579400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-26",
+    "price": 141.39,
+    "volume": 821002
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-23",
+    "price": 141.49,
+    "volume": 2051548
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-22",
+    "price": 138.79,
+    "volume": 663500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-21",
+    "price": 138.66,
+    "volume": 592400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-20",
+    "price": 138.04,
+    "volume": 782000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-16",
+    "price": 138.6,
+    "volume": 2673568
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-15",
+    "price": 137.2,
+    "volume": 835000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-14",
+    "price": 136.25,
+    "volume": 785500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-13",
+    "price": 136.71,
+    "volume": 732502
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-12",
+    "price": 135.74,
+    "volume": 735224
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-09",
+    "price": 134.55,
+    "volume": 665100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-08",
+    "price": 135.67,
+    "volume": 696200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-07",
+    "price": 134.9,
+    "volume": 910500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-06",
+    "price": 133.15,
+    "volume": 742623
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-05",
+    "price": 134.22,
+    "volume": 973755
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-02",
+    "price": 135.56,
+    "volume": 956400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-06-01",
+    "price": 134.05,
+    "volume": 1438803
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-31",
+    "price": 132.65,
+    "volume": 1714700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-30",
+    "price": 133.88,
+    "volume": 1325919
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-26",
+    "price": 133.77,
+    "volume": 1058460
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-25",
+    "price": 132.69,
+    "volume": 1417041
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-24",
+    "price": 132.04,
+    "volume": 776264
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-23",
+    "price": 131.09,
+    "volume": 592700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-22",
+    "price": 131.62,
+    "volume": 544316
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-19",
+    "price": 131.49,
+    "volume": 708400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-18",
+    "price": 130.92,
+    "volume": 1098602
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-17",
+    "price": 132.15,
+    "volume": 831900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-16",
+    "price": 130.56,
+    "volume": 689319
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-15",
+    "price": 132.4,
+    "volume": 745255
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-12",
+    "price": 130.73,
+    "volume": 1016826
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-11",
+    "price": 130.88,
+    "volume": 1024623
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-10",
+    "price": 132.43,
+    "volume": 724614
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-09",
+    "price": 133.65,
+    "volume": 892700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-08",
+    "price": 134.73,
+    "volume": 890600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-05",
+    "price": 136.51,
+    "volume": 1059300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-04",
+    "price": 135.41,
+    "volume": 594624
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-03",
+    "price": 136.57,
+    "volume": 852500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-02",
+    "price": 138.11,
+    "volume": 1189832
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-05-01",
+    "price": 139.48,
+    "volume": 903023
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-28",
+    "price": 138.81,
+    "volume": 1355000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-27",
+    "price": 141.01,
+    "volume": 2750384
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-26",
+    "price": 146.84,
+    "volume": 1769824
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-25",
+    "price": 146.5,
+    "volume": 1634500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-24",
+    "price": 146.55,
+    "volume": 958900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-21",
+    "price": 145.18,
+    "volume": 1178524
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-20",
+    "price": 143.85,
+    "volume": 937300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-19",
+    "price": 143.55,
+    "volume": 1135900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-18",
+    "price": 142.1,
+    "volume": 496800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-17",
+    "price": 143.09,
+    "volume": 562615
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-14",
+    "price": 142.34,
+    "volume": 703900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-13",
+    "price": 142.67,
+    "volume": 688638
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-12",
+    "price": 142.47,
+    "volume": 711526
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-11",
+    "price": 143.88,
+    "volume": 902509
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-10",
+    "price": 143.38,
+    "volume": 947900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-06",
+    "price": 142.88,
+    "volume": 886206
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-05",
+    "price": 143.31,
+    "volume": 1159109
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-04",
+    "price": 141.2,
+    "volume": 970287
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-04-03",
+    "price": 142.67,
+    "volume": 914159
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-31",
+    "price": 141.48,
+    "volume": 919140
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-30",
+    "price": 139.29,
+    "volume": 536200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-29",
+    "price": 138.48,
+    "volume": 746149
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-28",
+    "price": 138.79,
+    "volume": 640734
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-27",
+    "price": 139.43,
+    "volume": 1220600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-24",
+    "price": 140.06,
+    "volume": 1674500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-23",
+    "price": 135.39,
+    "volume": 2430839
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-22",
+    "price": 134.32,
+    "volume": 1503257
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-21",
+    "price": 135.91,
+    "volume": 1673300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-20",
+    "price": 132.91,
+    "volume": 1236100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-17",
+    "price": 131.53,
+    "volume": 2257027
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-16",
+    "price": 134,
+    "volume": 1029031
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-15",
+    "price": 132.85,
+    "volume": 1227437
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-14",
+    "price": 133.9,
+    "volume": 1028545
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-13",
+    "price": 133.06,
+    "volume": 1119919
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-10",
+    "price": 134.31,
+    "volume": 1173933
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-09",
+    "price": 134.89,
+    "volume": 1011900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-08",
+    "price": 136.73,
+    "volume": 786100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-07",
+    "price": 137.72,
+    "volume": 928315
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-06",
+    "price": 140.33,
+    "volume": 1226100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-03",
+    "price": 140.8,
+    "volume": 1278019
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-02",
+    "price": 139.71,
+    "volume": 3140900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-03-01",
+    "price": 139,
+    "volume": 1545400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-28",
+    "price": 138.36,
+    "volume": 1881500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-27",
+    "price": 138.66,
+    "volume": 1166200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-24",
+    "price": 139.99,
+    "volume": 714500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-23",
+    "price": 142.44,
+    "volume": 729323
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-22",
+    "price": 143.78,
+    "volume": 1260048
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-21",
+    "price": 143.58,
+    "volume": 791148
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-17",
+    "price": 148.22,
+    "volume": 940200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-16",
+    "price": 146.66,
+    "volume": 783200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-15",
+    "price": 146.62,
+    "volume": 920830
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-14",
+    "price": 144.59,
+    "volume": 851940
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-13",
+    "price": 146.27,
+    "volume": 721211
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-10",
+    "price": 144.8,
+    "volume": 922330
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-09",
+    "price": 146.02,
+    "volume": 1111800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-08",
+    "price": 146.28,
+    "volume": 895700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-07",
+    "price": 145.92,
+    "volume": 928437
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-06",
+    "price": 145.39,
+    "volume": 2301546
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-03",
+    "price": 142.81,
+    "volume": 1316045
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-02",
+    "price": 145.47,
+    "volume": 3043014
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-02-01",
+    "price": 148.64,
+    "volume": 1520052
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-31",
+    "price": 148.48,
+    "volume": 1136008
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-30",
+    "price": 145.76,
+    "volume": 719609
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-27",
+    "price": 145.63,
+    "volume": 1025201
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-26",
+    "price": 146.97,
+    "volume": 758714
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-25",
+    "price": 144.91,
+    "volume": 526695
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-24",
+    "price": 143.9,
+    "volume": 841250
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-23",
+    "price": 147.01,
+    "volume": 1009394
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-20",
+    "price": 145.43,
+    "volume": 948400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-19",
+    "price": 145.3,
+    "volume": 974700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-18",
+    "price": 145.1,
+    "volume": 937100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-17",
+    "price": 147.55,
+    "volume": 1304100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-13",
+    "price": 147.94,
+    "volume": 1312215
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-12",
+    "price": 148.12,
+    "volume": 1797646
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-11",
+    "price": 152.84,
+    "volume": 1649800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-10",
+    "price": 152.54,
+    "volume": 1004948
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-09",
+    "price": 152.93,
+    "volume": 1223220
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-06",
+    "price": 155.64,
+    "volume": 768106
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-05",
+    "price": 154.5,
+    "volume": 1059700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-04",
+    "price": 154.58,
+    "volume": 796000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2023-01-03",
+    "price": 155.77,
+    "volume": 841323
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-30",
+    "price": 156.44,
+    "volume": 719005
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-29",
+    "price": 156.79,
+    "volume": 761104
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-28",
+    "price": 156.51,
+    "volume": 630220
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-27",
+    "price": 157.28,
+    "volume": 740452
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-23",
+    "price": 156.31,
+    "volume": 947590
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-22",
+    "price": 155.63,
+    "volume": 1071526
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-21",
+    "price": 155.3,
+    "volume": 1086600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-20",
+    "price": 150.2,
+    "volume": 1278055
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-19",
+    "price": 151.45,
+    "volume": 1222729
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-16",
+    "price": 149.24,
+    "volume": 2354200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-15",
+    "price": 149.22,
+    "volume": 1306745
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-14",
+    "price": 151.11,
+    "volume": 1171317
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-13",
+    "price": 149.75,
+    "volume": 866400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-12",
+    "price": 149,
+    "volume": 721700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-09",
+    "price": 148.85,
+    "volume": 733302
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-08",
+    "price": 150.5,
+    "volume": 660815
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-07",
+    "price": 149,
+    "volume": 1079641
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-06",
+    "price": 148.97,
+    "volume": 1154300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-05",
+    "price": 148.92,
+    "volume": 1248120
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-02",
+    "price": 150.46,
+    "volume": 1423220
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-12-01",
+    "price": 152.61,
+    "volume": 858602
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-30",
+    "price": 151.83,
+    "volume": 2063509
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-29",
+    "price": 149.01,
+    "volume": 648136
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-28",
+    "price": 149.07,
+    "volume": 1104650
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-25",
+    "price": 149.06,
+    "volume": 459112
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-23",
+    "price": 148.46,
+    "volume": 795824
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-22",
+    "price": 146.7,
+    "volume": 829300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-21",
+    "price": 146.5,
+    "volume": 1054682
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-18",
+    "price": 146.42,
+    "volume": 1225830
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-17",
+    "price": 145.96,
+    "volume": 1565635
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-16",
+    "price": 149.27,
+    "volume": 1153904
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-15",
+    "price": 147.94,
+    "volume": 1144609
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-14",
+    "price": 150.38,
+    "volume": 1026400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-11",
+    "price": 151.03,
+    "volume": 1589300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-10",
+    "price": 152.48,
+    "volume": 1668100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-09",
+    "price": 145.42,
+    "volume": 1125930
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-08",
+    "price": 145.83,
+    "volume": 879700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-07",
+    "price": 146.14,
+    "volume": 1051600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-04",
+    "price": 143.62,
+    "volume": 1066100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-03",
+    "price": 142.98,
+    "volume": 1076505
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-02",
+    "price": 140.48,
+    "volume": 1570722
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-11-01",
+    "price": 142.78,
+    "volume": 1152500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-31",
+    "price": 143.65,
+    "volume": 1088700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-28",
+    "price": 144.59,
+    "volume": 1082804
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-27",
+    "price": 142.65,
+    "volume": 1243900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-26",
+    "price": 143.51,
+    "volume": 1337610
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-25",
+    "price": 144.05,
+    "volume": 1867810
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-24",
+    "price": 138.96,
+    "volume": 1121500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-21",
+    "price": 136.75,
+    "volume": 1486447
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-20",
+    "price": 134.66,
+    "volume": 2360000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-19",
+    "price": 126.66,
+    "volume": 1460888
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-18",
+    "price": 129.58,
+    "volume": 1164800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-17",
+    "price": 127.93,
+    "volume": 1180800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-14",
+    "price": 126.11,
+    "volume": 782618
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-13",
+    "price": 125.71,
+    "volume": 932748
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-12",
+    "price": 124.39,
+    "volume": 837700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-11",
+    "price": 124.36,
+    "volume": 961900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-10",
+    "price": 124.02,
+    "volume": 676852
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-07",
+    "price": 123.31,
+    "volume": 692900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-06",
+    "price": 126.06,
+    "volume": 797201
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-05",
+    "price": 127.76,
+    "volume": 540000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-04",
+    "price": 128.1,
+    "volume": 918300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-10-03",
+    "price": 125.44,
+    "volume": 854500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-30",
+    "price": 122.69,
+    "volume": 1129826
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-29",
+    "price": 124.62,
+    "volume": 1005200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-28",
+    "price": 125.17,
+    "volume": 1002800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-27",
+    "price": 122.31,
+    "volume": 993721
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-26",
+    "price": 123.2,
+    "volume": 1014520
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-23",
+    "price": 122.35,
+    "volume": 1027100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-22",
+    "price": 122.84,
+    "volume": 1036225
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-21",
+    "price": 121.77,
+    "volume": 732000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-20",
+    "price": 124.34,
+    "volume": 1260102
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-19",
+    "price": 125.59,
+    "volume": 864400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-16",
+    "price": 124.73,
+    "volume": 1240430
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-15",
+    "price": 124.28,
+    "volume": 1067615
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-14",
+    "price": 123.99,
+    "volume": 896045
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-13",
+    "price": 125.92,
+    "volume": 873847
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-12",
+    "price": 131.65,
+    "volume": 742821
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-09",
+    "price": 130,
+    "volume": 882003
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-08",
+    "price": 130.2,
+    "volume": 1062300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-07",
+    "price": 127.45,
+    "volume": 786317
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-06",
+    "price": 125.37,
+    "volume": 700200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-02",
+    "price": 125.13,
+    "volume": 651323
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-09-01",
+    "price": 126.12,
+    "volume": 748847
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-31",
+    "price": 125.31,
+    "volume": 1116416
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-30",
+    "price": 126.28,
+    "volume": 569604
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-29",
+    "price": 126.63,
+    "volume": 564646
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-26",
+    "price": 127.1,
+    "volume": 775607
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-25",
+    "price": 130.6,
+    "volume": 769949
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-24",
+    "price": 128.74,
+    "volume": 936800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-23",
+    "price": 130.05,
+    "volume": 905900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-22",
+    "price": 131.99,
+    "volume": 934312
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-19",
+    "price": 135.48,
+    "volume": 1814800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-18",
+    "price": 135.96,
+    "volume": 782603
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-17",
+    "price": 137.84,
+    "volume": 715300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-16",
+    "price": 140.53,
+    "volume": 607929
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-15",
+    "price": 141.1,
+    "volume": 590200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-12",
+    "price": 140.55,
+    "volume": 648449
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-11",
+    "price": 140.57,
+    "volume": 707948
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-10",
+    "price": 140.98,
+    "volume": 735843
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-09",
+    "price": 139.21,
+    "volume": 588304
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-08",
+    "price": 140.02,
+    "volume": 519600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-05",
+    "price": 139.38,
+    "volume": 580000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-04",
+    "price": 138.04,
+    "volume": 711103
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-03",
+    "price": 137.93,
+    "volume": 684316
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-02",
+    "price": 136.7,
+    "volume": 881200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-08-01",
+    "price": 136.67,
+    "volume": 888200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-29",
+    "price": 136.57,
+    "volume": 987600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-28",
+    "price": 135.18,
+    "volume": 754500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-27",
+    "price": 134.3,
+    "volume": 717500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-26",
+    "price": 133.2,
+    "volume": 947513
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-25",
+    "price": 131.05,
+    "volume": 867493
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-22",
+    "price": 131.03,
+    "volume": 978849
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-21",
+    "price": 134.63,
+    "volume": 1676400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-20",
+    "price": 134.84,
+    "volume": 1066738
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-19",
+    "price": 136.66,
+    "volume": 714700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-18",
+    "price": 133.65,
+    "volume": 834900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-15",
+    "price": 135.86,
+    "volume": 620952
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-14",
+    "price": 133.23,
+    "volume": 791225
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-13",
+    "price": 133.09,
+    "volume": 591347
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-12",
+    "price": 134.09,
+    "volume": 723908
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-11",
+    "price": 135.97,
+    "volume": 724936
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-08",
+    "price": 135.74,
+    "volume": 766500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-07",
+    "price": 135.76,
+    "volume": 707700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-06",
+    "price": 135.94,
+    "volume": 769100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-05",
+    "price": 133.58,
+    "volume": 746140
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-07-01",
+    "price": 136.68,
+    "volume": 798200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-30",
+    "price": 132.98,
+    "volume": 1245435
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-29",
+    "price": 137.61,
+    "volume": 577640
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-28",
+    "price": 136.46,
+    "volume": 516100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-27",
+    "price": 138.56,
+    "volume": 705426
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-24",
+    "price": 140.31,
+    "volume": 995100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-23",
+    "price": 137.42,
+    "volume": 915300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-22",
+    "price": 134.34,
+    "volume": 850100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-21",
+    "price": 131.93,
+    "volume": 859537
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-17",
+    "price": 130.64,
+    "volume": 1764500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-16",
+    "price": 127.98,
+    "volume": 907322
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-15",
+    "price": 128.78,
+    "volume": 931732
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-14",
+    "price": 127.07,
+    "volume": 858200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-13",
+    "price": 127.79,
+    "volume": 865200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-10",
+    "price": 131.25,
+    "volume": 949742
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-09",
+    "price": 134.89,
+    "volume": 1105100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-08",
+    "price": 135.55,
+    "volume": 589500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-07",
+    "price": 137.77,
+    "volume": 543023
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-06",
+    "price": 135.84,
+    "volume": 511200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-03",
+    "price": 136.2,
+    "volume": 526000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-02",
+    "price": 138.65,
+    "volume": 713614
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-06-01",
+    "price": 138.62,
+    "volume": 738011
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-31",
+    "price": 141.02,
+    "volume": 2552743
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-27",
+    "price": 145.39,
+    "volume": 892336
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-26",
+    "price": 141.65,
+    "volume": 1181613
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-25",
+    "price": 141.03,
+    "volume": 841110
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-24",
+    "price": 140.09,
+    "volume": 1449467
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-23",
+    "price": 139.54,
+    "volume": 1157400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-20",
+    "price": 141.03,
+    "volume": 1710400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-19",
+    "price": 140.07,
+    "volume": 1504900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-18",
+    "price": 139.2,
+    "volume": 1057600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-17",
+    "price": 140.52,
+    "volume": 1228000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-16",
+    "price": 135.39,
+    "volume": 963900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-13",
+    "price": 136.39,
+    "volume": 812900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-12",
+    "price": 136.09,
+    "volume": 982037
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-11",
+    "price": 132.86,
+    "volume": 631245
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-10",
+    "price": 134.09,
+    "volume": 880400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-09",
+    "price": 136.21,
+    "volume": 1086028
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-06",
+    "price": 136.3,
+    "volume": 707608
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-05",
+    "price": 136.18,
+    "volume": 705611
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-04",
+    "price": 139.04,
+    "volume": 872692
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-03",
+    "price": 133.78,
+    "volume": 772574
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-05-02",
+    "price": 132.42,
+    "volume": 983449
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-29",
+    "price": 133.84,
+    "volume": 884160
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-28",
+    "price": 135.83,
+    "volume": 1192485
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-27",
+    "price": 137.48,
+    "volume": 1416900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-26",
+    "price": 134.73,
+    "volume": 1177750
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-25",
+    "price": 136.62,
+    "volume": 820731
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-22",
+    "price": 137.19,
+    "volume": 1183404
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-21",
+    "price": 141.64,
+    "volume": 2299800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-20",
+    "price": 138.45,
+    "volume": 1157733
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-19",
+    "price": 135.88,
+    "volume": 1056100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-18",
+    "price": 133.24,
+    "volume": 1113657
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-14",
+    "price": 135.92,
+    "volume": 667044
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-13",
+    "price": 137.05,
+    "volume": 895349
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-12",
+    "price": 137.27,
+    "volume": 865300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-11",
+    "price": 137.39,
+    "volume": 772300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-08",
+    "price": 140,
+    "volume": 1205313
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-07",
+    "price": 137.93,
+    "volume": 1230333
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-06",
+    "price": 134.43,
+    "volume": 1177547
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-05",
+    "price": 133.67,
+    "volume": 1451471
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-04",
+    "price": 134.54,
+    "volume": 1475600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-04-01",
+    "price": 136.33,
+    "volume": 1586213
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-31",
+    "price": 136.86,
+    "volume": 1175140
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-30",
+    "price": 138.96,
+    "volume": 1022517
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-29",
+    "price": 141.39,
+    "volume": 1489457
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-28",
+    "price": 144.9,
+    "volume": 702374
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-25",
+    "price": 144.08,
+    "volume": 684142
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-24",
+    "price": 141.99,
+    "volume": 1158107
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-23",
+    "price": 142.36,
+    "volume": 1687810
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-22",
+    "price": 143.78,
+    "volume": 1605800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-21",
+    "price": 143.85,
+    "volume": 1398443
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-18",
+    "price": 145.06,
+    "volume": 1849722
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-17",
+    "price": 145.16,
+    "volume": 1378600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-16",
+    "price": 143.29,
+    "volume": 1200900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-15",
+    "price": 141.65,
+    "volume": 1272300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-14",
+    "price": 138.11,
+    "volume": 1260100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-11",
+    "price": 136.34,
+    "volume": 1438100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-10",
+    "price": 135.97,
+    "volume": 694328
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-09",
+    "price": 135.58,
+    "volume": 884600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-08",
+    "price": 134.3,
+    "volume": 1233500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-07",
+    "price": 136.1,
+    "volume": 1123424
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-04",
+    "price": 137.65,
+    "volume": 951021
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-03",
+    "price": 135.79,
+    "volume": 992100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-02",
+    "price": 134.76,
+    "volume": 1412139
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-03-01",
+    "price": 131.92,
+    "volume": 996240
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-28",
+    "price": 131.27,
+    "volume": 1147931
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-25",
+    "price": 132.18,
+    "volume": 1032900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-24",
+    "price": 129.51,
+    "volume": 1206400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-23",
+    "price": 129.09,
+    "volume": 1354200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-22",
+    "price": 130.55,
+    "volume": 1098900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-18",
+    "price": 131.38,
+    "volume": 2243500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-17",
+    "price": 129.12,
+    "volume": 2109700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-16",
+    "price": 131.72,
+    "volume": 1105031
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-15",
+    "price": 131.11,
+    "volume": 1280125
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-14",
+    "price": 130.29,
+    "volume": 1220411
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-11",
+    "price": 132.37,
+    "volume": 1087319
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-10",
+    "price": 133.71,
+    "volume": 1306004
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-09",
+    "price": 136.79,
+    "volume": 959072
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-08",
+    "price": 134.52,
+    "volume": 1009400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-07",
+    "price": 132.21,
+    "volume": 1248400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-04",
+    "price": 134.05,
+    "volume": 1243118
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-03",
+    "price": 136.31,
+    "volume": 2320000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-02",
+    "price": 135.91,
+    "volume": 2606605
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-02-01",
+    "price": 135.24,
+    "volume": 1276544
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-31",
+    "price": 135.02,
+    "volume": 1485500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-28",
+    "price": 134.85,
+    "volume": 1884701
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-27",
+    "price": 135.08,
+    "volume": 1125246
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-26",
+    "price": 135.4,
+    "volume": 1532100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-25",
+    "price": 137.18,
+    "volume": 1023326
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-24",
+    "price": 138.3,
+    "volume": 1422248
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-21",
+    "price": 137.72,
+    "volume": 1156617
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-20",
+    "price": 137.17,
+    "volume": 1687135
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-19",
+    "price": 138.98,
+    "volume": 904526
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-18",
+    "price": 138.83,
+    "volume": 1365242
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-14",
+    "price": 142.3,
+    "volume": 1324563
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-13",
+    "price": 145.01,
+    "volume": 1433190
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-12",
+    "price": 147.14,
+    "volume": 2598341
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-11",
+    "price": 157.88,
+    "volume": 776716
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-10",
+    "price": 159.6,
+    "volume": 860151
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-07",
+    "price": 155.87,
+    "volume": 729800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-06",
+    "price": 158.34,
+    "volume": 945400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-05",
+    "price": 157.32,
+    "volume": 1193936
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-04",
+    "price": 158.2,
+    "volume": 1945788
+  },
+  {
+    "symbol": "DGX",
+    "date": "2022-01-03",
+    "price": 164.35,
+    "volume": 1232836
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-31",
+    "price": 173.01,
+    "volume": 796868
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-30",
+    "price": 171.34,
+    "volume": 560654
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-29",
+    "price": 170.11,
+    "volume": 627208
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-28",
+    "price": 169.34,
+    "volume": 528400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-27",
+    "price": 169.35,
+    "volume": 406900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-23",
+    "price": 167.05,
+    "volume": 758500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-22",
+    "price": 167.77,
+    "volume": 1260524
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-21",
+    "price": 167.1,
+    "volume": 1369427
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-20",
+    "price": 171.49,
+    "volume": 1159503
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-17",
+    "price": 171.2,
+    "volume": 2074000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-16",
+    "price": 171.89,
+    "volume": 1255543
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-15",
+    "price": 168.41,
+    "volume": 1591267
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-14",
+    "price": 164.43,
+    "volume": 1163406
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-13",
+    "price": 163.26,
+    "volume": 1223500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-10",
+    "price": 160.06,
+    "volume": 968389
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-09",
+    "price": 157.72,
+    "volume": 893811
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-08",
+    "price": 160.15,
+    "volume": 880721
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-07",
+    "price": 160.14,
+    "volume": 774524
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-06",
+    "price": 157.64,
+    "volume": 1222500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-03",
+    "price": 157.06,
+    "volume": 1415305
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-02",
+    "price": 154.32,
+    "volume": 1641491
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-12-01",
+    "price": 151.24,
+    "volume": 1458648
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-30",
+    "price": 148.68,
+    "volume": 3358781
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-29",
+    "price": 156.7,
+    "volume": 1188600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-26",
+    "price": 154.95,
+    "volume": 1209629
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-24",
+    "price": 149.52,
+    "volume": 720400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-23",
+    "price": 151.04,
+    "volume": 539300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-22",
+    "price": 150.74,
+    "volume": 1074436
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-19",
+    "price": 148.44,
+    "volume": 1916000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-18",
+    "price": 147.82,
+    "volume": 905116
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-17",
+    "price": 147.83,
+    "volume": 735500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-16",
+    "price": 148,
+    "volume": 1093128
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-15",
+    "price": 146.6,
+    "volume": 1232400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-12",
+    "price": 150,
+    "volume": 1073500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-11",
+    "price": 148.24,
+    "volume": 1237317
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-10",
+    "price": 144.78,
+    "volume": 963100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-09",
+    "price": 142.03,
+    "volume": 1432200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-08",
+    "price": 142.22,
+    "volume": 1461338
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-05",
+    "price": 140.55,
+    "volume": 1570326
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-04",
+    "price": 143.81,
+    "volume": 1079948
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-03",
+    "price": 145.03,
+    "volume": 1309200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-02",
+    "price": 144.23,
+    "volume": 1322073
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-11-01",
+    "price": 147.31,
+    "volume": 1128541
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-29",
+    "price": 146.78,
+    "volume": 920922
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-28",
+    "price": 145.83,
+    "volume": 759044
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-27",
+    "price": 143.94,
+    "volume": 1025600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-26",
+    "price": 145.5,
+    "volume": 867400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-25",
+    "price": 145.01,
+    "volume": 1321140
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-22",
+    "price": 146.49,
+    "volume": 1252600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-21",
+    "price": 145.36,
+    "volume": 2854600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-20",
+    "price": 146.85,
+    "volume": 1293636
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-19",
+    "price": 145.71,
+    "volume": 1359700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-18",
+    "price": 143.72,
+    "volume": 1095070
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-15",
+    "price": 142.5,
+    "volume": 3432229
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-14",
+    "price": 142.41,
+    "volume": 1785600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-13",
+    "price": 140.95,
+    "volume": 1425800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-12",
+    "price": 140.48,
+    "volume": 1204546
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-11",
+    "price": 140.36,
+    "volume": 1250200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-08",
+    "price": 141.93,
+    "volume": 832302
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-07",
+    "price": 143.5,
+    "volume": 1217440
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-06",
+    "price": 142.33,
+    "volume": 1777927
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-05",
+    "price": 141.17,
+    "volume": 1220849
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-04",
+    "price": 141.24,
+    "volume": 1319318
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-10-01",
+    "price": 143.3,
+    "volume": 1357500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-30",
+    "price": 145.31,
+    "volume": 953930
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-29",
+    "price": 147.68,
+    "volume": 1014300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-28",
+    "price": 146.05,
+    "volume": 1902217
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-27",
+    "price": 149.88,
+    "volume": 1083500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-24",
+    "price": 153.09,
+    "volume": 658604
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-23",
+    "price": 153.52,
+    "volume": 892000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-22",
+    "price": 152.71,
+    "volume": 1334600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-21",
+    "price": 154.34,
+    "volume": 999331
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-20",
+    "price": 154.22,
+    "volume": 1406222
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-17",
+    "price": 154.77,
+    "volume": 4055802
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-16",
+    "price": 155.01,
+    "volume": 861602
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-15",
+    "price": 155.79,
+    "volume": 1278800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-14",
+    "price": 154.81,
+    "volume": 1471000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-13",
+    "price": 153.9,
+    "volume": 1255700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-10",
+    "price": 154.94,
+    "volume": 1730400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-09",
+    "price": 157.35,
+    "volume": 1455139
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-08",
+    "price": 158,
+    "volume": 1110700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-07",
+    "price": 155.54,
+    "volume": 990900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-03",
+    "price": 155.84,
+    "volume": 844149
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-02",
+    "price": 155.01,
+    "volume": 1094400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-09-01",
+    "price": 153.54,
+    "volume": 706700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-31",
+    "price": 152.83,
+    "volume": 1687600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-30",
+    "price": 150.77,
+    "volume": 751500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-27",
+    "price": 149.14,
+    "volume": 870300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-26",
+    "price": 149.59,
+    "volume": 844100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-25",
+    "price": 149.71,
+    "volume": 712100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-24",
+    "price": 149.53,
+    "volume": 785144
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-23",
+    "price": 150.53,
+    "volume": 1246400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-20",
+    "price": 152,
+    "volume": 776321
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-19",
+    "price": 151.6,
+    "volume": 923078
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-18",
+    "price": 149.13,
+    "volume": 811417
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-17",
+    "price": 152.28,
+    "volume": 1087551
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-16",
+    "price": 151.35,
+    "volume": 1821100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-13",
+    "price": 148.22,
+    "volume": 945100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-12",
+    "price": 148.07,
+    "volume": 1624600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-11",
+    "price": 148.55,
+    "volume": 947038
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-10",
+    "price": 148.57,
+    "volume": 954500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-09",
+    "price": 147.9,
+    "volume": 826500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-06",
+    "price": 146.6,
+    "volume": 1376200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-05",
+    "price": 147.3,
+    "volume": 1260400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-04",
+    "price": 146.71,
+    "volume": 1270513
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-03",
+    "price": 145.36,
+    "volume": 1112110
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-08-02",
+    "price": 143.04,
+    "volume": 852400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-30",
+    "price": 141.8,
+    "volume": 1005700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-29",
+    "price": 141.24,
+    "volume": 872515
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-28",
+    "price": 139.97,
+    "volume": 887561
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-27",
+    "price": 139.96,
+    "volume": 1153921
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-26",
+    "price": 138.38,
+    "volume": 789700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-23",
+    "price": 139.43,
+    "volume": 951200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-22",
+    "price": 137.97,
+    "volume": 1572647
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-21",
+    "price": 135.78,
+    "volume": 1257446
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-20",
+    "price": 136.27,
+    "volume": 1335945
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-19",
+    "price": 136.25,
+    "volume": 1849400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-16",
+    "price": 134.52,
+    "volume": 1220900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-15",
+    "price": 134.07,
+    "volume": 1118300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-14",
+    "price": 134.61,
+    "volume": 858425
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-13",
+    "price": 135.04,
+    "volume": 690200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-12",
+    "price": 135.63,
+    "volume": 853600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-09",
+    "price": 135.04,
+    "volume": 699500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-08",
+    "price": 133.87,
+    "volume": 800900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-07",
+    "price": 134.63,
+    "volume": 765929
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-06",
+    "price": 133.46,
+    "volume": 935141
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-02",
+    "price": 133.32,
+    "volume": 914048
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-07-01",
+    "price": 132.95,
+    "volume": 879300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-30",
+    "price": 131.97,
+    "volume": 877500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-29",
+    "price": 132.98,
+    "volume": 840740
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-28",
+    "price": 131.66,
+    "volume": 794626
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-25",
+    "price": 129.63,
+    "volume": 1066736
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-24",
+    "price": 129.19,
+    "volume": 679612
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-23",
+    "price": 129.16,
+    "volume": 754615
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-22",
+    "price": 130.24,
+    "volume": 1096900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-21",
+    "price": 129.43,
+    "volume": 1116600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-18",
+    "price": 127.5,
+    "volume": 2041631
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-17",
+    "price": 128.09,
+    "volume": 1284930
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-16",
+    "price": 127.46,
+    "volume": 1240200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-15",
+    "price": 128.17,
+    "volume": 794347
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-14",
+    "price": 128.04,
+    "volume": 842100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-11",
+    "price": 127.29,
+    "volume": 822854
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-10",
+    "price": 128.18,
+    "volume": 1011600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-09",
+    "price": 127.5,
+    "volume": 825215
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-08",
+    "price": 127.52,
+    "volume": 943700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-07",
+    "price": 128.93,
+    "volume": 1273602
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-04",
+    "price": 128.88,
+    "volume": 1092122
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-03",
+    "price": 128.14,
+    "volume": 1221876
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-02",
+    "price": 127.53,
+    "volume": 1220500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-06-01",
+    "price": 127.27,
+    "volume": 1556001
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-28",
+    "price": 131.67,
+    "volume": 871600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-27",
+    "price": 132.56,
+    "volume": 1513734
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-26",
+    "price": 132.65,
+    "volume": 1330079
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-25",
+    "price": 130.85,
+    "volume": 928049
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-24",
+    "price": 130.47,
+    "volume": 735793
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-21",
+    "price": 131.33,
+    "volume": 710600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-20",
+    "price": 131.45,
+    "volume": 1093700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-19",
+    "price": 130.69,
+    "volume": 1611000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-18",
+    "price": 130.99,
+    "volume": 1692300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-17",
+    "price": 132.01,
+    "volume": 2284402
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-14",
+    "price": 135.42,
+    "volume": 1262927
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-13",
+    "price": 137.47,
+    "volume": 1138200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-12",
+    "price": 136.01,
+    "volume": 1290318
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-11",
+    "price": 137.85,
+    "volume": 1176627
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-10",
+    "price": 141.48,
+    "volume": 1247100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-07",
+    "price": 138.95,
+    "volume": 1264901
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-06",
+    "price": 138.39,
+    "volume": 1315400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-05",
+    "price": 136.57,
+    "volume": 1948600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-04",
+    "price": 136.39,
+    "volume": 1498736
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-05-03",
+    "price": 132.71,
+    "volume": 1267800
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-30",
+    "price": 131.88,
+    "volume": 1239340
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-29",
+    "price": 131.46,
+    "volume": 926600
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-28",
+    "price": 131.68,
+    "volume": 1359300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-27",
+    "price": 132.3,
+    "volume": 1257000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-26",
+    "price": 132.27,
+    "volume": 855439
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-23",
+    "price": 131.21,
+    "volume": 1586100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-22",
+    "price": 133.69,
+    "volume": 2129449
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-21",
+    "price": 130.02,
+    "volume": 1166869
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-20",
+    "price": 129.37,
+    "volume": 1032300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-19",
+    "price": 131.09,
+    "volume": 876056
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-16",
+    "price": 130.11,
+    "volume": 1460000
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-15",
+    "price": 129.15,
+    "volume": 1015428
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-14",
+    "price": 127.34,
+    "volume": 1281774
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-13",
+    "price": 128.39,
+    "volume": 994518
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-12",
+    "price": 128.86,
+    "volume": 1086651
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-09",
+    "price": 126.69,
+    "volume": 1062163
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-08",
+    "price": 126.66,
+    "volume": 959900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-07",
+    "price": 127.74,
+    "volume": 700941
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-06",
+    "price": 128.31,
+    "volume": 831500
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-05",
+    "price": 130.13,
+    "volume": 1078525
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-04-01",
+    "price": 129.44,
+    "volume": 1048521
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-31",
+    "price": 128.34,
+    "volume": 928723
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-30",
+    "price": 128.49,
+    "volume": 782700
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-29",
+    "price": 128.04,
+    "volume": 1720310
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-26",
+    "price": 129.24,
+    "volume": 721300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-25",
+    "price": 127.15,
+    "volume": 1253300
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-24",
+    "price": 126.89,
+    "volume": 1045977
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-23",
+    "price": 125.21,
+    "volume": 981401
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-22",
+    "price": 125.91,
+    "volume": 930524
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-19",
+    "price": 125.28,
+    "volume": 1687200
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-18",
+    "price": 124.26,
+    "volume": 1142542
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-17",
+    "price": 123.12,
+    "volume": 1098244
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-16",
+    "price": 122.68,
+    "volume": 840504
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-15",
+    "price": 123.36,
+    "volume": 878684
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-12",
+    "price": 121.87,
+    "volume": 902882
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-11",
+    "price": 121.86,
+    "volume": 1605254
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-10",
+    "price": 116.87,
+    "volume": 1707712
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-09",
+    "price": 119.88,
+    "volume": 1465400
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-08",
+    "price": 121.09,
+    "volume": 1194603
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-05",
+    "price": 117.96,
+    "volume": 1533548
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-04",
+    "price": 117.28,
+    "volume": 1987100
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-03",
+    "price": 116.88,
+    "volume": 1199900
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-02",
+    "price": 118.56,
+    "volume": 1240384
+  },
+  {
+    "symbol": "DGX",
+    "date": "2021-03-01",
+    "price": 116.57,
+    "volume": 1481300
+  }
+]

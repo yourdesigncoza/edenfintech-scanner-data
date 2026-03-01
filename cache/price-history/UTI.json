@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "UTI",
+    "date": "2026-02-27",
+    "price": 36.2,
+    "volume": 1683378
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-26",
+    "price": 34.4,
+    "volume": 682829
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-25",
+    "price": 34.88,
+    "volume": 747873
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-24",
+    "price": 34.69,
+    "volume": 1480920
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-23",
+    "price": 32.16,
+    "volume": 1011800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-20",
+    "price": 30.57,
+    "volume": 889147
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-19",
+    "price": 31.72,
+    "volume": 1297008
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-18",
+    "price": 31.2,
+    "volume": 1088413
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-17",
+    "price": 31.06,
+    "volume": 1716060
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-13",
+    "price": 30.35,
+    "volume": 1340723
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-12",
+    "price": 28.39,
+    "volume": 1172309
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-11",
+    "price": 27.15,
+    "volume": 898302
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-10",
+    "price": 27.08,
+    "volume": 663600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-09",
+    "price": 26.3,
+    "volume": 621143
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-06",
+    "price": 25.52,
+    "volume": 765200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-05",
+    "price": 24.75,
+    "volume": 1830869
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-04",
+    "price": 27.86,
+    "volume": 640600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-03",
+    "price": 28.51,
+    "volume": 669703
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-02-02",
+    "price": 28.99,
+    "volume": 414400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-30",
+    "price": 27.83,
+    "volume": 539908
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-29",
+    "price": 28.04,
+    "volume": 746900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-28",
+    "price": 27.61,
+    "volume": 388000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-27",
+    "price": 27.7,
+    "volume": 395400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-26",
+    "price": 27.92,
+    "volume": 374516
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-23",
+    "price": 28.34,
+    "volume": 447700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-22",
+    "price": 28.91,
+    "volume": 719301
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-21",
+    "price": 28.15,
+    "volume": 747300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-20",
+    "price": 27.19,
+    "volume": 621302
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-16",
+    "price": 27.49,
+    "volume": 562405
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-15",
+    "price": 27.77,
+    "volume": 475469
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-14",
+    "price": 26.59,
+    "volume": 666010
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-13",
+    "price": 26.52,
+    "volume": 483713
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-12",
+    "price": 27.66,
+    "volume": 560153
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-09",
+    "price": 27.5,
+    "volume": 470300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-08",
+    "price": 27.98,
+    "volume": 499533
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-07",
+    "price": 27.33,
+    "volume": 387500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-06",
+    "price": 27.46,
+    "volume": 538533
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-05",
+    "price": 27.44,
+    "volume": 1021338
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-01-02",
+    "price": 24.84,
+    "volume": 828703
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-31",
+    "price": 26.13,
+    "volume": 422200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-30",
+    "price": 26.62,
+    "volume": 626500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-29",
+    "price": 27.16,
+    "volume": 472244
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-26",
+    "price": 27.3,
+    "volume": 477400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-24",
+    "price": 27.26,
+    "volume": 191800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-23",
+    "price": 27.1,
+    "volume": 548600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-22",
+    "price": 26.81,
+    "volume": 533235
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-19",
+    "price": 26.29,
+    "volume": 907945
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-18",
+    "price": 26.56,
+    "volume": 688000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-17",
+    "price": 26.33,
+    "volume": 871900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-16",
+    "price": 25.91,
+    "volume": 1022600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-15",
+    "price": 26.06,
+    "volume": 1046702
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-12",
+    "price": 24.84,
+    "volume": 820318
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-11",
+    "price": 24.99,
+    "volume": 717300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-10",
+    "price": 24.7,
+    "volume": 759627
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-09",
+    "price": 24.46,
+    "volume": 731800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-08",
+    "price": 24.55,
+    "volume": 1178700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-05",
+    "price": 25.5,
+    "volume": 1525838
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-04",
+    "price": 26.08,
+    "volume": 1145416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-03",
+    "price": 25.01,
+    "volume": 1112414
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-02",
+    "price": 24.49,
+    "volume": 1316735
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-12-01",
+    "price": 23.9,
+    "volume": 1215900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-28",
+    "price": 23.02,
+    "volume": 314100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-26",
+    "price": 23.12,
+    "volume": 743100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-25",
+    "price": 22.91,
+    "volume": 1189581
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-24",
+    "price": 21.77,
+    "volume": 1607915
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-21",
+    "price": 22.66,
+    "volume": 1615500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-20",
+    "price": 23.46,
+    "volume": 2627741
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-19",
+    "price": 29.49,
+    "volume": 486140
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-18",
+    "price": 28.95,
+    "volume": 365623
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-17",
+    "price": 28.32,
+    "volume": 527095
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-14",
+    "price": 29.45,
+    "volume": 370300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-13",
+    "price": 29.38,
+    "volume": 426149
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-12",
+    "price": 29.97,
+    "volume": 439525
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-11",
+    "price": 29.79,
+    "volume": 409100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-10",
+    "price": 29.65,
+    "volume": 686100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-07",
+    "price": 28.31,
+    "volume": 439133
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-06",
+    "price": 28.21,
+    "volume": 536660
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-05",
+    "price": 28.11,
+    "volume": 540109
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-04",
+    "price": 28.15,
+    "volume": 483822
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-11-03",
+    "price": 28.47,
+    "volume": 972125
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-31",
+    "price": 29.72,
+    "volume": 871679
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-30",
+    "price": 32.8,
+    "volume": 414971
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-29",
+    "price": 32.62,
+    "volume": 643419
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-28",
+    "price": 34.09,
+    "volume": 340089
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-27",
+    "price": 34.02,
+    "volume": 425137
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-24",
+    "price": 34.49,
+    "volume": 658309
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-23",
+    "price": 33.95,
+    "volume": 818822
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-22",
+    "price": 32.8,
+    "volume": 792787
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-21",
+    "price": 32.98,
+    "volume": 795749
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-20",
+    "price": 31.45,
+    "volume": 487610
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-17",
+    "price": 30.75,
+    "volume": 768957
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-16",
+    "price": 30.53,
+    "volume": 792300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-15",
+    "price": 31.9,
+    "volume": 553100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-14",
+    "price": 31.64,
+    "volume": 472800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-13",
+    "price": 30.35,
+    "volume": 355801
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-10",
+    "price": 29.88,
+    "volume": 374662
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-09",
+    "price": 30.29,
+    "volume": 438200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-08",
+    "price": 30.47,
+    "volume": 379000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-07",
+    "price": 30,
+    "volume": 1014044
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-06",
+    "price": 31.81,
+    "volume": 831414
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-03",
+    "price": 31.28,
+    "volume": 682533
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-02",
+    "price": 31.46,
+    "volume": 671928
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-10-01",
+    "price": 31.66,
+    "volume": 653500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-30",
+    "price": 32.55,
+    "volume": 888918
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-29",
+    "price": 32.79,
+    "volume": 1088500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-26",
+    "price": 31.85,
+    "volume": 721968
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-25",
+    "price": 30.7,
+    "volume": 1440500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-24",
+    "price": 30.61,
+    "volume": 1371640
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-23",
+    "price": 29,
+    "volume": 502422
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-22",
+    "price": 29.1,
+    "volume": 525110
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-19",
+    "price": 28.29,
+    "volume": 1287600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-18",
+    "price": 28.58,
+    "volume": 842920
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-17",
+    "price": 27.66,
+    "volume": 595100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-16",
+    "price": 27.57,
+    "volume": 556124
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-15",
+    "price": 27.28,
+    "volume": 828900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-12",
+    "price": 27.19,
+    "volume": 976749
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-11",
+    "price": 28.35,
+    "volume": 402231
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-10",
+    "price": 27.15,
+    "volume": 517004
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-09",
+    "price": 27.83,
+    "volume": 383200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-08",
+    "price": 27.51,
+    "volume": 474270
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-05",
+    "price": 26.93,
+    "volume": 445646
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-04",
+    "price": 27.3,
+    "volume": 678112
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-03",
+    "price": 27.5,
+    "volume": 583200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-09-02",
+    "price": 27.1,
+    "volume": 696449
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-29",
+    "price": 26.59,
+    "volume": 551922
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-28",
+    "price": 26.89,
+    "volume": 665615
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-27",
+    "price": 27.09,
+    "volume": 565100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-26",
+    "price": 26.53,
+    "volume": 667800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-25",
+    "price": 26.5,
+    "volume": 560507
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-22",
+    "price": 26.82,
+    "volume": 692344
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-21",
+    "price": 26.75,
+    "volume": 513397
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-20",
+    "price": 26.07,
+    "volume": 545520
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-19",
+    "price": 26.26,
+    "volume": 734700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-18",
+    "price": 26.56,
+    "volume": 1218763
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-15",
+    "price": 26.03,
+    "volume": 1387500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-14",
+    "price": 25.5,
+    "volume": 845200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-13",
+    "price": 25.77,
+    "volume": 1227623
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-12",
+    "price": 26.54,
+    "volume": 1375403
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-11",
+    "price": 25.76,
+    "volume": 1022217
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-08",
+    "price": 26.86,
+    "volume": 1762008
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-07",
+    "price": 27.13,
+    "volume": 3033516
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-06",
+    "price": 33.42,
+    "volume": 785085
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-05",
+    "price": 31.95,
+    "volume": 930900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-04",
+    "price": 31.32,
+    "volume": 452720
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-08-01",
+    "price": 32.07,
+    "volume": 564623
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-31",
+    "price": 32.22,
+    "volume": 624952
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-30",
+    "price": 31.85,
+    "volume": 579200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-29",
+    "price": 31.57,
+    "volume": 421039
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-28",
+    "price": 31.14,
+    "volume": 442726
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-25",
+    "price": 31.54,
+    "volume": 726100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-24",
+    "price": 31.53,
+    "volume": 499700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-23",
+    "price": 31.53,
+    "volume": 582503
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-22",
+    "price": 31.17,
+    "volume": 556505
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-21",
+    "price": 32.06,
+    "volume": 404800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-18",
+    "price": 32.52,
+    "volume": 561022
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-17",
+    "price": 32.53,
+    "volume": 628651
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-16",
+    "price": 31.86,
+    "volume": 447117
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-15",
+    "price": 31.93,
+    "volume": 345300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-14",
+    "price": 31.78,
+    "volume": 322038
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-11",
+    "price": 31.26,
+    "volume": 329007
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-10",
+    "price": 31.45,
+    "volume": 569424
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-09",
+    "price": 31.8,
+    "volume": 613200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-08",
+    "price": 31.46,
+    "volume": 582700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-07",
+    "price": 31.86,
+    "volume": 679700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-03",
+    "price": 32.3,
+    "volume": 408134
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-02",
+    "price": 31.6,
+    "volume": 1596140
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-07-01",
+    "price": 32.62,
+    "volume": 853800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-30",
+    "price": 33.89,
+    "volume": 565028
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-27",
+    "price": 34.52,
+    "volume": 1446200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-26",
+    "price": 33.38,
+    "volume": 558340
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-25",
+    "price": 33.09,
+    "volume": 491713
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-24",
+    "price": 34.25,
+    "volume": 481762
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-23",
+    "price": 34.76,
+    "volume": 884236
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-20",
+    "price": 33.32,
+    "volume": 641244
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-18",
+    "price": 33.17,
+    "volume": 347834
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-17",
+    "price": 33.27,
+    "volume": 535212
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-16",
+    "price": 33.64,
+    "volume": 700700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-13",
+    "price": 33.58,
+    "volume": 640818
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-12",
+    "price": 33.01,
+    "volume": 546350
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-11",
+    "price": 32.64,
+    "volume": 520410
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-10",
+    "price": 32.54,
+    "volume": 804665
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-09",
+    "price": 33.24,
+    "volume": 1343500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-06",
+    "price": 35.36,
+    "volume": 459247
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-05",
+    "price": 35.02,
+    "volume": 470234
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-04",
+    "price": 35.63,
+    "volume": 563213
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-03",
+    "price": 35.4,
+    "volume": 721700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-06-02",
+    "price": 35.9,
+    "volume": 778023
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-30",
+    "price": 35.53,
+    "volume": 697231
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-29",
+    "price": 35.3,
+    "volume": 439345
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-28",
+    "price": 35.75,
+    "volume": 648728
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-27",
+    "price": 35.76,
+    "volume": 1111300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-23",
+    "price": 34.99,
+    "volume": 827600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-22",
+    "price": 34.29,
+    "volume": 1111244
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-21",
+    "price": 35.32,
+    "volume": 1169585
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-20",
+    "price": 35.39,
+    "volume": 1619540
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-19",
+    "price": 34.8,
+    "volume": 756700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-16",
+    "price": 34.62,
+    "volume": 1135732
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-15",
+    "price": 33.73,
+    "volume": 1283901
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-14",
+    "price": 33.1,
+    "volume": 1382100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-13",
+    "price": 31.67,
+    "volume": 3906805
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-12",
+    "price": 34.14,
+    "volume": 1046800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-09",
+    "price": 34.33,
+    "volume": 1336915
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-08",
+    "price": 32.77,
+    "volume": 1646822
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-07",
+    "price": 29.62,
+    "volume": 869024
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-06",
+    "price": 29.41,
+    "volume": 410700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-05",
+    "price": 29.5,
+    "volume": 471865
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-02",
+    "price": 29.49,
+    "volume": 755544
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-05-01",
+    "price": 28.57,
+    "volume": 422818
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-30",
+    "price": 28.06,
+    "volume": 583417
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-29",
+    "price": 28.22,
+    "volume": 332100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-28",
+    "price": 27.92,
+    "volume": 411000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-25",
+    "price": 27.99,
+    "volume": 490626
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-24",
+    "price": 27.84,
+    "volume": 429231
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-23",
+    "price": 27.96,
+    "volume": 564400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-22",
+    "price": 26.99,
+    "volume": 584526
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-21",
+    "price": 25.53,
+    "volume": 423320
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-17",
+    "price": 27.34,
+    "volume": 687410
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-16",
+    "price": 27.74,
+    "volume": 430202
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-15",
+    "price": 28.11,
+    "volume": 372816
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-14",
+    "price": 27.41,
+    "volume": 495300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-11",
+    "price": 26.78,
+    "volume": 553701
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-10",
+    "price": 26.92,
+    "volume": 1043311
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-09",
+    "price": 27.53,
+    "volume": 1263626
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-08",
+    "price": 26.08,
+    "volume": 1004214
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-07",
+    "price": 25.6,
+    "volume": 1286603
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-04",
+    "price": 25.25,
+    "volume": 764500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-03",
+    "price": 26.09,
+    "volume": 708100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-02",
+    "price": 26.85,
+    "volume": 753344
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-04-01",
+    "price": 25.97,
+    "volume": 615900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-31",
+    "price": 25.68,
+    "volume": 1166800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-28",
+    "price": 25.36,
+    "volume": 1216314
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-27",
+    "price": 26.5,
+    "volume": 1609733
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-26",
+    "price": 26.53,
+    "volume": 642138
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-25",
+    "price": 27.33,
+    "volume": 365900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-24",
+    "price": 27.32,
+    "volume": 784529
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-21",
+    "price": 26.47,
+    "volume": 1674400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-20",
+    "price": 27.79,
+    "volume": 624200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-19",
+    "price": 27.98,
+    "volume": 645417
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-18",
+    "price": 26.32,
+    "volume": 576049
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-17",
+    "price": 27.06,
+    "volume": 554820
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-14",
+    "price": 26.89,
+    "volume": 733555
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-13",
+    "price": 25.78,
+    "volume": 622231
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-12",
+    "price": 26.91,
+    "volume": 720760
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-11",
+    "price": 26.77,
+    "volume": 755417
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-10",
+    "price": 25.58,
+    "volume": 1112900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-07",
+    "price": 26.2,
+    "volume": 1190623
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-06",
+    "price": 26.29,
+    "volume": 974289
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-05",
+    "price": 27.59,
+    "volume": 821112
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-04",
+    "price": 27.07,
+    "volume": 816600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-03-03",
+    "price": 27.08,
+    "volume": 660490
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-28",
+    "price": 28.24,
+    "volume": 661849
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-27",
+    "price": 27.79,
+    "volume": 1271100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-26",
+    "price": 28.64,
+    "volume": 995316
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-25",
+    "price": 27.15,
+    "volume": 628600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-24",
+    "price": 27.02,
+    "volume": 554900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-21",
+    "price": 26.5,
+    "volume": 812600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-20",
+    "price": 28.84,
+    "volume": 620213
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-19",
+    "price": 29.13,
+    "volume": 593500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-18",
+    "price": 28.39,
+    "volume": 479532
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-14",
+    "price": 28.39,
+    "volume": 895800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-13",
+    "price": 27.2,
+    "volume": 455950
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-12",
+    "price": 27.41,
+    "volume": 516715
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-11",
+    "price": 27.93,
+    "volume": 1122000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-10",
+    "price": 29.11,
+    "volume": 833382
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-07",
+    "price": 29.65,
+    "volume": 916946
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-06",
+    "price": 29.53,
+    "volume": 1654602
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-05",
+    "price": 28.39,
+    "volume": 1122100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-04",
+    "price": 28.95,
+    "volume": 847794
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-02-03",
+    "price": 27.32,
+    "volume": 445008
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-31",
+    "price": 27.43,
+    "volume": 627775
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-30",
+    "price": 27.74,
+    "volume": 829746
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-29",
+    "price": 26.3,
+    "volume": 341445
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-28",
+    "price": 26.21,
+    "volume": 470700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-27",
+    "price": 25.75,
+    "volume": 633790
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-24",
+    "price": 26.46,
+    "volume": 449273
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-23",
+    "price": 26.75,
+    "volume": 694494
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-22",
+    "price": 26.53,
+    "volume": 324644
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-21",
+    "price": 26.37,
+    "volume": 663000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-17",
+    "price": 26.58,
+    "volume": 691040
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-16",
+    "price": 26,
+    "volume": 631500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-15",
+    "price": 25.95,
+    "volume": 652526
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-14",
+    "price": 25.82,
+    "volume": 352426
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-13",
+    "price": 25.26,
+    "volume": 405137
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-10",
+    "price": 24.77,
+    "volume": 408311
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-08",
+    "price": 25.26,
+    "volume": 299359
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-07",
+    "price": 25.73,
+    "volume": 292064
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-06",
+    "price": 25.77,
+    "volume": 367513
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-03",
+    "price": 26.2,
+    "volume": 523752
+  },
+  {
+    "symbol": "UTI",
+    "date": "2025-01-02",
+    "price": 25.41,
+    "volume": 384003
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-31",
+    "price": 25.71,
+    "volume": 476125
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-30",
+    "price": 25.87,
+    "volume": 377900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-27",
+    "price": 25.96,
+    "volume": 423203
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-26",
+    "price": 26.53,
+    "volume": 279800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-24",
+    "price": 26.29,
+    "volume": 212900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-23",
+    "price": 25.44,
+    "volume": 329600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-20",
+    "price": 25.29,
+    "volume": 583504
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-19",
+    "price": 25.42,
+    "volume": 380245
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-18",
+    "price": 24.81,
+    "volume": 566085
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-17",
+    "price": 26.21,
+    "volume": 360870
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-16",
+    "price": 26.5,
+    "volume": 537043
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-13",
+    "price": 25.77,
+    "volume": 458100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-12",
+    "price": 26.05,
+    "volume": 310700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-11",
+    "price": 26.1,
+    "volume": 429859
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-10",
+    "price": 26.12,
+    "volume": 404200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-09",
+    "price": 25.65,
+    "volume": 383638
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-06",
+    "price": 25.62,
+    "volume": 477930
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-05",
+    "price": 25.44,
+    "volume": 730649
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-04",
+    "price": 24.82,
+    "volume": 795034
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-03",
+    "price": 24.17,
+    "volume": 2123343
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-12-02",
+    "price": 26.44,
+    "volume": 721417
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-29",
+    "price": 25.87,
+    "volume": 251630
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-27",
+    "price": 26.04,
+    "volume": 268700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-26",
+    "price": 25.95,
+    "volume": 572022
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-25",
+    "price": 25.94,
+    "volume": 938382
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-22",
+    "price": 25.38,
+    "volume": 1384800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-21",
+    "price": 23.61,
+    "volume": 1765908
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-20",
+    "price": 19.89,
+    "volume": 675362
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-19",
+    "price": 19.94,
+    "volume": 189643
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-18",
+    "price": 19.68,
+    "volume": 263400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-15",
+    "price": 19.61,
+    "volume": 232561
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-14",
+    "price": 19.54,
+    "volume": 206440
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-13",
+    "price": 20.33,
+    "volume": 239200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-12",
+    "price": 20.14,
+    "volume": 220100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-11",
+    "price": 20.62,
+    "volume": 317000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-08",
+    "price": 20.3,
+    "volume": 461573
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-07",
+    "price": 19.41,
+    "volume": 412519
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-06",
+    "price": 19.03,
+    "volume": 864637
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-05",
+    "price": 17.12,
+    "volume": 445706
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-04",
+    "price": 16.57,
+    "volume": 224913
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-11-01",
+    "price": 16.55,
+    "volume": 187200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-31",
+    "price": 16.64,
+    "volume": 212600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-30",
+    "price": 17.18,
+    "volume": 331931
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-29",
+    "price": 17.05,
+    "volume": 311012
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-28",
+    "price": 16.79,
+    "volume": 298233
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-25",
+    "price": 16.64,
+    "volume": 355238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-24",
+    "price": 16.41,
+    "volume": 192036
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-23",
+    "price": 16.09,
+    "volume": 228100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-22",
+    "price": 15.94,
+    "volume": 162934
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-21",
+    "price": 15.93,
+    "volume": 197644
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-18",
+    "price": 16.25,
+    "volume": 221832
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-17",
+    "price": 16.41,
+    "volume": 241500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-16",
+    "price": 16.58,
+    "volume": 255201
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-15",
+    "price": 16.06,
+    "volume": 351944
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-14",
+    "price": 16.28,
+    "volume": 282200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-11",
+    "price": 15.87,
+    "volume": 167309
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-10",
+    "price": 15.47,
+    "volume": 327200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-09",
+    "price": 15.47,
+    "volume": 367300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-08",
+    "price": 15.57,
+    "volume": 429800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-07",
+    "price": 15.2,
+    "volume": 307300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-04",
+    "price": 15.41,
+    "volume": 481900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-03",
+    "price": 15.41,
+    "volume": 321400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-02",
+    "price": 15.7,
+    "volume": 283233
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-10-01",
+    "price": 15.75,
+    "volume": 326400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-30",
+    "price": 16.26,
+    "volume": 252700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-27",
+    "price": 16.16,
+    "volume": 283600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-26",
+    "price": 16.05,
+    "volume": 425300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-25",
+    "price": 16.13,
+    "volume": 194739
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-24",
+    "price": 16.43,
+    "volume": 258103
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-23",
+    "price": 16.31,
+    "volume": 484817
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-20",
+    "price": 16.46,
+    "volume": 1180236
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-19",
+    "price": 16.91,
+    "volume": 443000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-18",
+    "price": 16.64,
+    "volume": 363541
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-17",
+    "price": 16.64,
+    "volume": 243300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-16",
+    "price": 16.73,
+    "volume": 328729
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-13",
+    "price": 16.76,
+    "volume": 246147
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-12",
+    "price": 16.54,
+    "volume": 190929
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-11",
+    "price": 16.2,
+    "volume": 352700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-10",
+    "price": 16.41,
+    "volume": 249000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-09",
+    "price": 16.56,
+    "volume": 434400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-06",
+    "price": 15.83,
+    "volume": 449502
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-05",
+    "price": 16.54,
+    "volume": 211111
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-04",
+    "price": 16.84,
+    "volume": 178226
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-09-03",
+    "price": 16.77,
+    "volume": 262811
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-30",
+    "price": 17.45,
+    "volume": 255828
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-29",
+    "price": 17.33,
+    "volume": 239825
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-28",
+    "price": 17.33,
+    "volume": 184048
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-27",
+    "price": 17.21,
+    "volume": 211300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-26",
+    "price": 16.84,
+    "volume": 357100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-23",
+    "price": 17.33,
+    "volume": 307600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-22",
+    "price": 17.38,
+    "volume": 221300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-21",
+    "price": 17.43,
+    "volume": 271421
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-20",
+    "price": 16.71,
+    "volume": 390700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-19",
+    "price": 16.69,
+    "volume": 328800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-16",
+    "price": 17.45,
+    "volume": 247400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-15",
+    "price": 17.38,
+    "volume": 293933
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-14",
+    "price": 17.17,
+    "volume": 286678
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-13",
+    "price": 16.84,
+    "volume": 403744
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-12",
+    "price": 16.69,
+    "volume": 504914
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-09",
+    "price": 17.06,
+    "volume": 506500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-08",
+    "price": 17.18,
+    "volume": 966800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-07",
+    "price": 16.92,
+    "volume": 656300
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-06",
+    "price": 17.5,
+    "volume": 563240
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-05",
+    "price": 17.25,
+    "volume": 678116
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-02",
+    "price": 17.84,
+    "volume": 525641
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-08-01",
+    "price": 18.33,
+    "volume": 454200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-31",
+    "price": 18.94,
+    "volume": 359500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-30",
+    "price": 19.35,
+    "volume": 320904
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-29",
+    "price": 19.14,
+    "volume": 379600
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-26",
+    "price": 19.43,
+    "volume": 479934
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-25",
+    "price": 18.69,
+    "volume": 625606
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-24",
+    "price": 18.85,
+    "volume": 444551
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-23",
+    "price": 18.95,
+    "volume": 525500
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-22",
+    "price": 18.9,
+    "volume": 807910
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-19",
+    "price": 18.25,
+    "volume": 438591
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-18",
+    "price": 18.31,
+    "volume": 521097
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-17",
+    "price": 18.15,
+    "volume": 568671
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-16",
+    "price": 18.05,
+    "volume": 1413689
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-15",
+    "price": 16.95,
+    "volume": 719257
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-12",
+    "price": 16.43,
+    "volume": 586352
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-11",
+    "price": 16.34,
+    "volume": 297766
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-10",
+    "price": 15.91,
+    "volume": 316509
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-09",
+    "price": 15.88,
+    "volume": 475082
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-08",
+    "price": 16.63,
+    "volume": 889736
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-05",
+    "price": 16.4,
+    "volume": 363521
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-03",
+    "price": 16.46,
+    "volume": 337301
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-02",
+    "price": 16.38,
+    "volume": 822693
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-07-01",
+    "price": 16.07,
+    "volume": 834885
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-28",
+    "price": 15.73,
+    "volume": 1869404
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-27",
+    "price": 15,
+    "volume": 396087
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-26",
+    "price": 14.86,
+    "volume": 485756
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-25",
+    "price": 14.56,
+    "volume": 392983
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-24",
+    "price": 14.03,
+    "volume": 367710
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-21",
+    "price": 14.15,
+    "volume": 648539
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-20",
+    "price": 13.9,
+    "volume": 350831
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-18",
+    "price": 13.89,
+    "volume": 357339
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-17",
+    "price": 13.87,
+    "volume": 379015
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-14",
+    "price": 13.84,
+    "volume": 330930
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-13",
+    "price": 14.17,
+    "volume": 425136
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-12",
+    "price": 14.39,
+    "volume": 451222
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-11",
+    "price": 14.42,
+    "volume": 394387
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-10",
+    "price": 14.35,
+    "volume": 545441
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-07",
+    "price": 14.41,
+    "volume": 459282
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-06",
+    "price": 14.77,
+    "volume": 469941
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-05",
+    "price": 15.32,
+    "volume": 634936
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-04",
+    "price": 15.25,
+    "volume": 540764
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-06-03",
+    "price": 15.37,
+    "volume": 1030931
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-31",
+    "price": 15.81,
+    "volume": 1742310
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-30",
+    "price": 16.05,
+    "volume": 1021975
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-29",
+    "price": 16.26,
+    "volume": 725006
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-28",
+    "price": 16.35,
+    "volume": 650211
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-24",
+    "price": 15.35,
+    "volume": 256446
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-23",
+    "price": 14.98,
+    "volume": 421826
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-22",
+    "price": 14.65,
+    "volume": 620130
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-21",
+    "price": 14.35,
+    "volume": 683842
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-20",
+    "price": 14.62,
+    "volume": 767401
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-17",
+    "price": 14.98,
+    "volume": 356924
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-16",
+    "price": 15.26,
+    "volume": 461513
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-15",
+    "price": 15.42,
+    "volume": 475381
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-14",
+    "price": 14.93,
+    "volume": 386972
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-13",
+    "price": 14.99,
+    "volume": 699636
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-10",
+    "price": 15.02,
+    "volume": 695568
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-09",
+    "price": 15.19,
+    "volume": 1688463
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-08",
+    "price": 16.69,
+    "volume": 509895
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-07",
+    "price": 16.63,
+    "volume": 526661
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-06",
+    "price": 16.52,
+    "volume": 795583
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-03",
+    "price": 15.61,
+    "volume": 1280545
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-02",
+    "price": 15.41,
+    "volume": 1224116
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-05-01",
+    "price": 15.29,
+    "volume": 363256
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-30",
+    "price": 15.22,
+    "volume": 743869
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-29",
+    "price": 15.51,
+    "volume": 401983
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-26",
+    "price": 15.2,
+    "volume": 221095
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-25",
+    "price": 14.89,
+    "volume": 265412
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-24",
+    "price": 14.62,
+    "volume": 345238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-23",
+    "price": 14.52,
+    "volume": 213397
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-22",
+    "price": 14.54,
+    "volume": 270783
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-19",
+    "price": 14.58,
+    "volume": 372825
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-18",
+    "price": 14.23,
+    "volume": 293553
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-17",
+    "price": 14.27,
+    "volume": 221804
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-16",
+    "price": 14.48,
+    "volume": 296811
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-15",
+    "price": 14.63,
+    "volume": 328005
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-12",
+    "price": 14.96,
+    "volume": 378721
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-11",
+    "price": 15.26,
+    "volume": 321086
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-10",
+    "price": 15.21,
+    "volume": 412767
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-09",
+    "price": 15.3,
+    "volume": 280046
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-08",
+    "price": 15.48,
+    "volume": 785777
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-05",
+    "price": 14.78,
+    "volume": 306032
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-04",
+    "price": 14.67,
+    "volume": 378795
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-03",
+    "price": 14.8,
+    "volume": 349617
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-02",
+    "price": 14.75,
+    "volume": 585425
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-04-01",
+    "price": 14.63,
+    "volume": 816051
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-28",
+    "price": 15.94,
+    "volume": 1137264
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-27",
+    "price": 15.18,
+    "volume": 307396
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-26",
+    "price": 14.87,
+    "volume": 652397
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-25",
+    "price": 15.02,
+    "volume": 320271
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-22",
+    "price": 15.1,
+    "volume": 278085
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-21",
+    "price": 15.04,
+    "volume": 490906
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-20",
+    "price": 14.87,
+    "volume": 298033
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-19",
+    "price": 14.7,
+    "volume": 553459
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-18",
+    "price": 14.53,
+    "volume": 687963
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-15",
+    "price": 14.52,
+    "volume": 1835026
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-14",
+    "price": 14.59,
+    "volume": 528299
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-13",
+    "price": 15.06,
+    "volume": 533158
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-12",
+    "price": 15.17,
+    "volume": 485451
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-11",
+    "price": 14.82,
+    "volume": 431472
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-08",
+    "price": 14.52,
+    "volume": 575217
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-07",
+    "price": 14.91,
+    "volume": 511757
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-06",
+    "price": 15.13,
+    "volume": 474770
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-05",
+    "price": 15.18,
+    "volume": 385552
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-04",
+    "price": 15.13,
+    "volume": 792109
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-03-01",
+    "price": 15.03,
+    "volume": 422208
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-29",
+    "price": 15.04,
+    "volume": 325414
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-28",
+    "price": 14.73,
+    "volume": 470552
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-27",
+    "price": 15.03,
+    "volume": 364802
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-26",
+    "price": 15.24,
+    "volume": 518184
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-23",
+    "price": 15.11,
+    "volume": 586364
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-22",
+    "price": 15,
+    "volume": 756181
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-21",
+    "price": 14.5,
+    "volume": 710371
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-20",
+    "price": 14.83,
+    "volume": 702806
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-16",
+    "price": 14.66,
+    "volume": 1068178
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-15",
+    "price": 14.86,
+    "volume": 3027633
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-14",
+    "price": 16.01,
+    "volume": 497073
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-13",
+    "price": 15.68,
+    "volume": 672989
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-12",
+    "price": 15.94,
+    "volume": 811577
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-09",
+    "price": 15.8,
+    "volume": 891967
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-08",
+    "price": 16.2,
+    "volume": 2903726
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-07",
+    "price": 14.7,
+    "volume": 557237
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-06",
+    "price": 14.73,
+    "volume": 1137110
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-05",
+    "price": 14.85,
+    "volume": 2449811
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-02",
+    "price": 14.4,
+    "volume": 404704
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-02-01",
+    "price": 14.45,
+    "volume": 402953
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-31",
+    "price": 14.12,
+    "volume": 319771
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-30",
+    "price": 14.39,
+    "volume": 475644
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-29",
+    "price": 14.61,
+    "volume": 720792
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-26",
+    "price": 15.19,
+    "volume": 900183
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-25",
+    "price": 14.7,
+    "volume": 470570
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-24",
+    "price": 14.27,
+    "volume": 222967
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-23",
+    "price": 14.39,
+    "volume": 439344
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-22",
+    "price": 14.13,
+    "volume": 651326
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-19",
+    "price": 13.95,
+    "volume": 649033
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-18",
+    "price": 13.9,
+    "volume": 765707
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-17",
+    "price": 13.75,
+    "volume": 787955
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-16",
+    "price": 13.16,
+    "volume": 674911
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-12",
+    "price": 13.05,
+    "volume": 482187
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-11",
+    "price": 12.53,
+    "volume": 154656
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-10",
+    "price": 12.55,
+    "volume": 428368
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-09",
+    "price": 12.61,
+    "volume": 250453
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-08",
+    "price": 12.51,
+    "volume": 297093
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-05",
+    "price": 12.86,
+    "volume": 361507
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-04",
+    "price": 12.85,
+    "volume": 366375
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-03",
+    "price": 12.6,
+    "volume": 321522
+  },
+  {
+    "symbol": "UTI",
+    "date": "2024-01-02",
+    "price": 12.51,
+    "volume": 469950
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-29",
+    "price": 12.52,
+    "volume": 483755
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-28",
+    "price": 12.6,
+    "volume": 284715
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-27",
+    "price": 13,
+    "volume": 361667
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-26",
+    "price": 13.01,
+    "volume": 368122
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-22",
+    "price": 11.93,
+    "volume": 343604
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-21",
+    "price": 11.59,
+    "volume": 218830
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-20",
+    "price": 11.27,
+    "volume": 195561
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-19",
+    "price": 11.02,
+    "volume": 444769
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-18",
+    "price": 10.72,
+    "volume": 351546
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-15",
+    "price": 11.02,
+    "volume": 500383
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-14",
+    "price": 10.94,
+    "volume": 470537
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-13",
+    "price": 10.94,
+    "volume": 566816
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-12",
+    "price": 11.72,
+    "volume": 173802
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-11",
+    "price": 11.71,
+    "volume": 195567
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-08",
+    "price": 11.88,
+    "volume": 137882
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-07",
+    "price": 11.88,
+    "volume": 136312
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-06",
+    "price": 11.9,
+    "volume": 125681
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-05",
+    "price": 11.95,
+    "volume": 207179
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-04",
+    "price": 11.96,
+    "volume": 243362
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-12-01",
+    "price": 11.94,
+    "volume": 395348
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-30",
+    "price": 11.67,
+    "volume": 141149
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-29",
+    "price": 11.87,
+    "volume": 148759
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-28",
+    "price": 11.62,
+    "volume": 90949
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-27",
+    "price": 11.78,
+    "volume": 123303
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-24",
+    "price": 11.51,
+    "volume": 221836
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-22",
+    "price": 11.73,
+    "volume": 169125
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-21",
+    "price": 11.49,
+    "volume": 219982
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-20",
+    "price": 11.22,
+    "volume": 359905
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-17",
+    "price": 11.45,
+    "volume": 338269
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-16",
+    "price": 11.25,
+    "volume": 747511
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-15",
+    "price": 9.69,
+    "volume": 149869
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-14",
+    "price": 9.89,
+    "volume": 187564
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-13",
+    "price": 9.39,
+    "volume": 43625
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-10",
+    "price": 9.55,
+    "volume": 107741
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-09",
+    "price": 9.36,
+    "volume": 103890
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-08",
+    "price": 9.35,
+    "volume": 51155
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-07",
+    "price": 9.35,
+    "volume": 63870
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-06",
+    "price": 9.32,
+    "volume": 52884
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-03",
+    "price": 9.08,
+    "volume": 91653
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-02",
+    "price": 9.39,
+    "volume": 163265
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-11-01",
+    "price": 9,
+    "volume": 105680
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-31",
+    "price": 8.73,
+    "volume": 49593
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-30",
+    "price": 8.61,
+    "volume": 86015
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-27",
+    "price": 8.41,
+    "volume": 57944
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-26",
+    "price": 8.41,
+    "volume": 44593
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-25",
+    "price": 8.4,
+    "volume": 137554
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-24",
+    "price": 8.17,
+    "volume": 33336
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-23",
+    "price": 8.02,
+    "volume": 37440
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-20",
+    "price": 7.98,
+    "volume": 72517
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-19",
+    "price": 8.12,
+    "volume": 126887
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-18",
+    "price": 8.29,
+    "volume": 63299
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-17",
+    "price": 8.41,
+    "volume": 98747
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-16",
+    "price": 8.45,
+    "volume": 53281
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-13",
+    "price": 8.38,
+    "volume": 44886
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-12",
+    "price": 8.64,
+    "volume": 80839
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-11",
+    "price": 8.45,
+    "volume": 105385
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-10",
+    "price": 8.44,
+    "volume": 48002
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-09",
+    "price": 8.37,
+    "volume": 44012
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-06",
+    "price": 8.47,
+    "volume": 45044
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-05",
+    "price": 8.4,
+    "volume": 83906
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-04",
+    "price": 8.51,
+    "volume": 135634
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-03",
+    "price": 8.44,
+    "volume": 74247
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-10-02",
+    "price": 8.38,
+    "volume": 61179
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-29",
+    "price": 8.38,
+    "volume": 64762
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-28",
+    "price": 8.75,
+    "volume": 88659
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-27",
+    "price": 8.65,
+    "volume": 198428
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-26",
+    "price": 8.52,
+    "volume": 61549
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-25",
+    "price": 8.56,
+    "volume": 74258
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-22",
+    "price": 8.35,
+    "volume": 75897
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-21",
+    "price": 8.44,
+    "volume": 88056
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-20",
+    "price": 8.5,
+    "volume": 84562
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-19",
+    "price": 8.43,
+    "volume": 57269
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-18",
+    "price": 8.39,
+    "volume": 57935
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-15",
+    "price": 8.47,
+    "volume": 332119
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-14",
+    "price": 8.45,
+    "volume": 62068
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-13",
+    "price": 8.45,
+    "volume": 90519
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-12",
+    "price": 8.56,
+    "volume": 235191
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-11",
+    "price": 8.61,
+    "volume": 104051
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-08",
+    "price": 8.44,
+    "volume": 228605
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-07",
+    "price": 8.06,
+    "volume": 284307
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-06",
+    "price": 7.9,
+    "volume": 80853
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-05",
+    "price": 7.72,
+    "volume": 80497
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-09-01",
+    "price": 8.04,
+    "volume": 68846
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-31",
+    "price": 7.97,
+    "volume": 49493
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-30",
+    "price": 7.96,
+    "volume": 61660
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-29",
+    "price": 7.96,
+    "volume": 42817
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-28",
+    "price": 8.07,
+    "volume": 94136
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-25",
+    "price": 7.89,
+    "volume": 90168
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-24",
+    "price": 8.11,
+    "volume": 62879
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-23",
+    "price": 8.09,
+    "volume": 72279
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-22",
+    "price": 8,
+    "volume": 97249
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-21",
+    "price": 7.85,
+    "volume": 68216
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-18",
+    "price": 7.94,
+    "volume": 208207
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-17",
+    "price": 8.29,
+    "volume": 61522
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-16",
+    "price": 8.43,
+    "volume": 43643
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-15",
+    "price": 8.36,
+    "volume": 50028
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-14",
+    "price": 8.4,
+    "volume": 71735
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-11",
+    "price": 8.45,
+    "volume": 448386
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-10",
+    "price": 8.16,
+    "volume": 91157
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-09",
+    "price": 7.94,
+    "volume": 175908
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-08",
+    "price": 8.02,
+    "volume": 87416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-07",
+    "price": 7.83,
+    "volume": 73105
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-04",
+    "price": 7.38,
+    "volume": 127613
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-03",
+    "price": 7.33,
+    "volume": 59349
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-02",
+    "price": 7.18,
+    "volume": 40266
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-08-01",
+    "price": 7.24,
+    "volume": 45152
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-31",
+    "price": 7.28,
+    "volume": 49425
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-28",
+    "price": 7.12,
+    "volume": 154649
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-27",
+    "price": 7.18,
+    "volume": 63433
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-26",
+    "price": 7.28,
+    "volume": 58273
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-25",
+    "price": 7.19,
+    "volume": 32707
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-24",
+    "price": 7.21,
+    "volume": 42704
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-21",
+    "price": 7.16,
+    "volume": 97031
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-20",
+    "price": 7.22,
+    "volume": 56204
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-19",
+    "price": 7.17,
+    "volume": 42752
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-18",
+    "price": 6.97,
+    "volume": 37046
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-17",
+    "price": 6.89,
+    "volume": 66438
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-14",
+    "price": 6.89,
+    "volume": 38602
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-13",
+    "price": 6.83,
+    "volume": 29537
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-12",
+    "price": 6.84,
+    "volume": 39808
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-11",
+    "price": 6.82,
+    "volume": 26793
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-10",
+    "price": 6.82,
+    "volume": 43179
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-07",
+    "price": 6.89,
+    "volume": 270297
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-06",
+    "price": 6.51,
+    "volume": 81735
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-05",
+    "price": 6.72,
+    "volume": 77958
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-07-03",
+    "price": 7.01,
+    "volume": 61357
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-30",
+    "price": 6.91,
+    "volume": 88630
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-29",
+    "price": 6.98,
+    "volume": 67024
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-28",
+    "price": 6.59,
+    "volume": 76783
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-27",
+    "price": 6.61,
+    "volume": 109787
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-26",
+    "price": 6.6,
+    "volume": 100144
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-23",
+    "price": 6.75,
+    "volume": 1256020
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-22",
+    "price": 6.6,
+    "volume": 54630
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-21",
+    "price": 6.52,
+    "volume": 56470
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-20",
+    "price": 6.54,
+    "volume": 54066
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-16",
+    "price": 6.42,
+    "volume": 157922
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-15",
+    "price": 6.66,
+    "volume": 59804
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-14",
+    "price": 6.59,
+    "volume": 75244
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-13",
+    "price": 6.94,
+    "volume": 83348
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-12",
+    "price": 6.75,
+    "volume": 50430
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-09",
+    "price": 6.81,
+    "volume": 48223
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-08",
+    "price": 6.89,
+    "volume": 76392
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-07",
+    "price": 6.84,
+    "volume": 92798
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-06",
+    "price": 6.7,
+    "volume": 81585
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-05",
+    "price": 6.47,
+    "volume": 72612
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-02",
+    "price": 6.54,
+    "volume": 85833
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-06-01",
+    "price": 6.24,
+    "volume": 98482
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-31",
+    "price": 6.43,
+    "volume": 94478
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-30",
+    "price": 6.5,
+    "volume": 53366
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-26",
+    "price": 6.43,
+    "volume": 59905
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-25",
+    "price": 6.32,
+    "volume": 42664
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-24",
+    "price": 6.52,
+    "volume": 57057
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-23",
+    "price": 6.64,
+    "volume": 121562
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-22",
+    "price": 6.55,
+    "volume": 64318
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-19",
+    "price": 6.38,
+    "volume": 95254
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-18",
+    "price": 6.44,
+    "volume": 108257
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-17",
+    "price": 6.36,
+    "volume": 75944
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-16",
+    "price": 6.11,
+    "volume": 80404
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-15",
+    "price": 6.14,
+    "volume": 127332
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-12",
+    "price": 5.84,
+    "volume": 70269
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-11",
+    "price": 5.76,
+    "volume": 85581
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-10",
+    "price": 5.93,
+    "volume": 155915
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-09",
+    "price": 6.13,
+    "volume": 51227
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-08",
+    "price": 6.12,
+    "volume": 136126
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-05",
+    "price": 6.17,
+    "volume": 76710
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-04",
+    "price": 6.18,
+    "volume": 95385
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-03",
+    "price": 6.44,
+    "volume": 110483
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-02",
+    "price": 6.87,
+    "volume": 95376
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-05-01",
+    "price": 7.14,
+    "volume": 74651
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-28",
+    "price": 7.06,
+    "volume": 91907
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-27",
+    "price": 6.96,
+    "volume": 60942
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-26",
+    "price": 6.99,
+    "volume": 76679
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-25",
+    "price": 6.96,
+    "volume": 46186
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-24",
+    "price": 7.01,
+    "volume": 51426
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-21",
+    "price": 6.9,
+    "volume": 79840
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-20",
+    "price": 7.14,
+    "volume": 102084
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-19",
+    "price": 7.2,
+    "volume": 99961
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-18",
+    "price": 7.29,
+    "volume": 79958
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-17",
+    "price": 7.29,
+    "volume": 70937
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-14",
+    "price": 7.41,
+    "volume": 109970
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-13",
+    "price": 7.79,
+    "volume": 95015
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-12",
+    "price": 7.7,
+    "volume": 67095
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-11",
+    "price": 7.61,
+    "volume": 98521
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-10",
+    "price": 7.43,
+    "volume": 74889
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-06",
+    "price": 7.2,
+    "volume": 90776
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-05",
+    "price": 7.34,
+    "volume": 85557
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-04",
+    "price": 7.43,
+    "volume": 82445
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-04-03",
+    "price": 7.45,
+    "volume": 105322
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-31",
+    "price": 7.38,
+    "volume": 196990
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-30",
+    "price": 7.05,
+    "volume": 198234
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-29",
+    "price": 6.87,
+    "volume": 92257
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-28",
+    "price": 6.76,
+    "volume": 105416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-27",
+    "price": 6.78,
+    "volume": 94770
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-24",
+    "price": 6.67,
+    "volume": 142941
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-23",
+    "price": 6.35,
+    "volume": 345844
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-22",
+    "price": 6.44,
+    "volume": 331503
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-21",
+    "price": 6.6,
+    "volume": 646683
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-20",
+    "price": 6.35,
+    "volume": 219299
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-17",
+    "price": 6.56,
+    "volume": 371674
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-16",
+    "price": 7.07,
+    "volume": 85871
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-15",
+    "price": 6.85,
+    "volume": 196984
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-14",
+    "price": 7.08,
+    "volume": 104220
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-13",
+    "price": 6.75,
+    "volume": 115368
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-10",
+    "price": 6.76,
+    "volume": 104197
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-09",
+    "price": 7.21,
+    "volume": 70104
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-08",
+    "price": 7.47,
+    "volume": 73384
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-07",
+    "price": 7.39,
+    "volume": 58493
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-06",
+    "price": 7.11,
+    "volume": 208727
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-03",
+    "price": 7.37,
+    "volume": 137955
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-02",
+    "price": 7.38,
+    "volume": 57729
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-03-01",
+    "price": 7.32,
+    "volume": 127916
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-28",
+    "price": 7.26,
+    "volume": 87152
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-27",
+    "price": 7.32,
+    "volume": 56734
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-24",
+    "price": 7.39,
+    "volume": 82519
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-23",
+    "price": 7.66,
+    "volume": 187022
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-22",
+    "price": 7.58,
+    "volume": 146065
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-21",
+    "price": 7.59,
+    "volume": 78468
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-17",
+    "price": 7.68,
+    "volume": 135528
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-16",
+    "price": 7.54,
+    "volume": 118977
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-15",
+    "price": 7.53,
+    "volume": 79889
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-14",
+    "price": 7.57,
+    "volume": 93203
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-13",
+    "price": 7.6,
+    "volume": 109136
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-10",
+    "price": 7.42,
+    "volume": 119315
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-09",
+    "price": 7.18,
+    "volume": 124029
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-08",
+    "price": 7.02,
+    "volume": 83814
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-07",
+    "price": 7.35,
+    "volume": 124976
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-06",
+    "price": 7.53,
+    "volume": 64229
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-03",
+    "price": 7.68,
+    "volume": 85144
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-02",
+    "price": 7.65,
+    "volume": 91287
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-02-01",
+    "price": 7.58,
+    "volume": 98520
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-31",
+    "price": 7.58,
+    "volume": 63753
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-30",
+    "price": 7.43,
+    "volume": 111591
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-27",
+    "price": 7.55,
+    "volume": 309592
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-26",
+    "price": 7.26,
+    "volume": 63406
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-25",
+    "price": 7.21,
+    "volume": 44638
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-24",
+    "price": 7.21,
+    "volume": 45963
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-23",
+    "price": 7.23,
+    "volume": 77814
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-20",
+    "price": 7.19,
+    "volume": 146804
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-19",
+    "price": 7.13,
+    "volume": 73978
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-18",
+    "price": 7,
+    "volume": 63729
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-17",
+    "price": 7.05,
+    "volume": 71259
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-13",
+    "price": 7.02,
+    "volume": 69950
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-12",
+    "price": 6.88,
+    "volume": 66449
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-11",
+    "price": 6.83,
+    "volume": 113574
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-10",
+    "price": 6.79,
+    "volume": 110134
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-09",
+    "price": 6.67,
+    "volume": 65098
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-06",
+    "price": 6.71,
+    "volume": 118185
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-05",
+    "price": 6.59,
+    "volume": 66928
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-04",
+    "price": 6.56,
+    "volume": 67842
+  },
+  {
+    "symbol": "UTI",
+    "date": "2023-01-03",
+    "price": 6.52,
+    "volume": 119649
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-30",
+    "price": 6.72,
+    "volume": 205567
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-29",
+    "price": 6.75,
+    "volume": 142789
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-28",
+    "price": 6.23,
+    "volume": 68474
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-27",
+    "price": 6.24,
+    "volume": 110916
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-23",
+    "price": 6.15,
+    "volume": 68377
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-22",
+    "price": 6.25,
+    "volume": 82768
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-21",
+    "price": 6.35,
+    "volume": 85072
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-20",
+    "price": 6.22,
+    "volume": 118805
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-19",
+    "price": 6.3,
+    "volume": 237857
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-16",
+    "price": 6.51,
+    "volume": 247234
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-15",
+    "price": 6.27,
+    "volume": 153048
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-14",
+    "price": 6.29,
+    "volume": 228835
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-13",
+    "price": 6.01,
+    "volume": 321715
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-12",
+    "price": 5.9,
+    "volume": 371800
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-09",
+    "price": 7.15,
+    "volume": 82280
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-08",
+    "price": 7.19,
+    "volume": 55496
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-07",
+    "price": 7.21,
+    "volume": 61603
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-06",
+    "price": 7.27,
+    "volume": 174426
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-05",
+    "price": 7.3,
+    "volume": 84221
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-02",
+    "price": 7.32,
+    "volume": 107310
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-12-01",
+    "price": 7.27,
+    "volume": 83218
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-30",
+    "price": 7.24,
+    "volume": 75738
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-29",
+    "price": 7.13,
+    "volume": 76474
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-28",
+    "price": 7.06,
+    "volume": 137525
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-25",
+    "price": 7.28,
+    "volume": 135455
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-23",
+    "price": 7.13,
+    "volume": 67768
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-22",
+    "price": 7.11,
+    "volume": 122284
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-21",
+    "price": 7.35,
+    "volume": 102008
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-18",
+    "price": 7.42,
+    "volume": 87836
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-17",
+    "price": 7.44,
+    "volume": 99884
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-16",
+    "price": 7.29,
+    "volume": 65945
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-15",
+    "price": 7.48,
+    "volume": 71309
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-14",
+    "price": 7.36,
+    "volume": 103970
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-11",
+    "price": 7.42,
+    "volume": 117307
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-10",
+    "price": 7.51,
+    "volume": 136540
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-09",
+    "price": 7.18,
+    "volume": 97823
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-08",
+    "price": 7.14,
+    "volume": 68921
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-07",
+    "price": 7.1,
+    "volume": 139127
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-04",
+    "price": 6.86,
+    "volume": 84461
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-03",
+    "price": 6.85,
+    "volume": 220716
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-02",
+    "price": 6.86,
+    "volume": 186970
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-11-01",
+    "price": 7.01,
+    "volume": 167997
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-31",
+    "price": 6.9,
+    "volume": 242671
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-28",
+    "price": 6.9,
+    "volume": 144997
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-27",
+    "price": 6.71,
+    "volume": 124025
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-26",
+    "price": 6.73,
+    "volume": 110064
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-25",
+    "price": 6.64,
+    "volume": 164758
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-24",
+    "price": 6.24,
+    "volume": 77589
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-21",
+    "price": 6.01,
+    "volume": 93947
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-20",
+    "price": 5.85,
+    "volume": 46869
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-19",
+    "price": 5.76,
+    "volume": 84416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-18",
+    "price": 5.87,
+    "volume": 149785
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-17",
+    "price": 5.8,
+    "volume": 129211
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-14",
+    "price": 5.78,
+    "volume": 230504
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-13",
+    "price": 5.72,
+    "volume": 126217
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-12",
+    "price": 5.5,
+    "volume": 89361
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-11",
+    "price": 5.58,
+    "volume": 105403
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-10",
+    "price": 5.57,
+    "volume": 84758
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-07",
+    "price": 5.6,
+    "volume": 99094
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-06",
+    "price": 5.78,
+    "volume": 193282
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-05",
+    "price": 5.74,
+    "volume": 98751
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-04",
+    "price": 5.69,
+    "volume": 273597
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-10-03",
+    "price": 5.55,
+    "volume": 136208
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-30",
+    "price": 5.44,
+    "volume": 215182
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-29",
+    "price": 5.49,
+    "volume": 162460
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-28",
+    "price": 5.64,
+    "volume": 146668
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-27",
+    "price": 5.39,
+    "volume": 177862
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-26",
+    "price": 5.35,
+    "volume": 312873
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-23",
+    "price": 5.59,
+    "volume": 361995
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-22",
+    "price": 5.67,
+    "volume": 114072
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-21",
+    "price": 6.16,
+    "volume": 206176
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-20",
+    "price": 6.34,
+    "volume": 229063
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-19",
+    "price": 6.42,
+    "volume": 144101
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-16",
+    "price": 6.44,
+    "volume": 494720
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-15",
+    "price": 6.5,
+    "volume": 146442
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-14",
+    "price": 6.57,
+    "volume": 213707
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-13",
+    "price": 6.54,
+    "volume": 209767
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-12",
+    "price": 6.86,
+    "volume": 144695
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-09",
+    "price": 6.94,
+    "volume": 136368
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-08",
+    "price": 6.78,
+    "volume": 211577
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-07",
+    "price": 6.89,
+    "volume": 294393
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-06",
+    "price": 6.82,
+    "volume": 183008
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-02",
+    "price": 6.76,
+    "volume": 134416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-09-01",
+    "price": 6.76,
+    "volume": 255852
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-31",
+    "price": 6.86,
+    "volume": 105458
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-30",
+    "price": 6.87,
+    "volume": 284937
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-29",
+    "price": 6.85,
+    "volume": 396355
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-26",
+    "price": 6.84,
+    "volume": 168431
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-25",
+    "price": 7.08,
+    "volume": 156168
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-24",
+    "price": 6.99,
+    "volume": 190905
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-23",
+    "price": 6.98,
+    "volume": 138282
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-22",
+    "price": 7.16,
+    "volume": 148711
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-19",
+    "price": 7.32,
+    "volume": 215499
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-18",
+    "price": 7.15,
+    "volume": 232416
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-17",
+    "price": 7.01,
+    "volume": 220626
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-16",
+    "price": 7.09,
+    "volume": 304718
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-15",
+    "price": 7.01,
+    "volume": 302999
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-12",
+    "price": 6.83,
+    "volume": 405973
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-11",
+    "price": 6.72,
+    "volume": 402502
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-10",
+    "price": 6.8,
+    "volume": 265039
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-09",
+    "price": 6.69,
+    "volume": 333385
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-08",
+    "price": 6.9,
+    "volume": 374809
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-05",
+    "price": 6.92,
+    "volume": 526033
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-04",
+    "price": 7.16,
+    "volume": 1305324
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-03",
+    "price": 8.3,
+    "volume": 134667
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-02",
+    "price": 8.16,
+    "volume": 179214
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-08-01",
+    "price": 8.13,
+    "volume": 197824
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-29",
+    "price": 8.04,
+    "volume": 253268
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-28",
+    "price": 7.95,
+    "volume": 310037
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-27",
+    "price": 7.85,
+    "volume": 144040
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-26",
+    "price": 7.62,
+    "volume": 89090
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-25",
+    "price": 7.69,
+    "volume": 133753
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-22",
+    "price": 7.74,
+    "volume": 141308
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-21",
+    "price": 7.76,
+    "volume": 248777
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-20",
+    "price": 7.55,
+    "volume": 261238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-19",
+    "price": 7.72,
+    "volume": 138734
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-18",
+    "price": 7.53,
+    "volume": 322302
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-15",
+    "price": 7.76,
+    "volume": 228561
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-14",
+    "price": 7.45,
+    "volume": 131929
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-13",
+    "price": 7.87,
+    "volume": 179621
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-12",
+    "price": 7.75,
+    "volume": 290066
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-11",
+    "price": 7.34,
+    "volume": 194474
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-08",
+    "price": 7.41,
+    "volume": 205670
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-07",
+    "price": 7.36,
+    "volume": 336130
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-06",
+    "price": 7.42,
+    "volume": 310738
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-05",
+    "price": 7.42,
+    "volume": 322318
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-07-01",
+    "price": 7.26,
+    "volume": 184425
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-30",
+    "price": 7.13,
+    "volume": 428880
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-29",
+    "price": 7.37,
+    "volume": 464926
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-28",
+    "price": 7.53,
+    "volume": 508015
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-27",
+    "price": 7.56,
+    "volume": 672625
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-24",
+    "price": 6.88,
+    "volume": 4229580
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-23",
+    "price": 7.29,
+    "volume": 397571
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-22",
+    "price": 7.11,
+    "volume": 793562
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-21",
+    "price": 7.53,
+    "volume": 750214
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-17",
+    "price": 7.78,
+    "volume": 261985
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-16",
+    "price": 7.89,
+    "volume": 479983
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-15",
+    "price": 8.29,
+    "volume": 299899
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-14",
+    "price": 7.84,
+    "volume": 202607
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-13",
+    "price": 7.64,
+    "volume": 391076
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-10",
+    "price": 8.23,
+    "volume": 158460
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-09",
+    "price": 8.65,
+    "volume": 167191
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-08",
+    "price": 8.87,
+    "volume": 131161
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-07",
+    "price": 8.9,
+    "volume": 667898
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-06",
+    "price": 8.75,
+    "volume": 288116
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-03",
+    "price": 9.2,
+    "volume": 176763
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-02",
+    "price": 9.38,
+    "volume": 164902
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-06-01",
+    "price": 9.25,
+    "volume": 507622
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-31",
+    "price": 9.08,
+    "volume": 322254
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-27",
+    "price": 9.17,
+    "volume": 160991
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-26",
+    "price": 9.08,
+    "volume": 543397
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-25",
+    "price": 8.58,
+    "volume": 449487
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-24",
+    "price": 8.11,
+    "volume": 155717
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-23",
+    "price": 8.26,
+    "volume": 172219
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-20",
+    "price": 8.32,
+    "volume": 128803
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-19",
+    "price": 8.6,
+    "volume": 552498
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-18",
+    "price": 8.32,
+    "volume": 219074
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-17",
+    "price": 8.63,
+    "volume": 205433
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-16",
+    "price": 8.49,
+    "volume": 220455
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-13",
+    "price": 8.76,
+    "volume": 241017
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-12",
+    "price": 8.46,
+    "volume": 333449
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-11",
+    "price": 8.16,
+    "volume": 288559
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-10",
+    "price": 8.04,
+    "volume": 462120
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-09",
+    "price": 8.67,
+    "volume": 265731
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-06",
+    "price": 8.86,
+    "volume": 478592
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-05",
+    "price": 10.01,
+    "volume": 460050
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-04",
+    "price": 10.96,
+    "volume": 412018
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-03",
+    "price": 10.39,
+    "volume": 420563
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-05-02",
+    "price": 10.18,
+    "volume": 333461
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-29",
+    "price": 10.36,
+    "volume": 293422
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-28",
+    "price": 10.15,
+    "volume": 209784
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-27",
+    "price": 10,
+    "volume": 205427
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-26",
+    "price": 9.93,
+    "volume": 266548
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-25",
+    "price": 10.08,
+    "volume": 323649
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-22",
+    "price": 10.12,
+    "volume": 214162
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-21",
+    "price": 10.49,
+    "volume": 232555
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-20",
+    "price": 10.55,
+    "volume": 444149
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-19",
+    "price": 10.13,
+    "volume": 242211
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-18",
+    "price": 9.78,
+    "volume": 353418
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-14",
+    "price": 9.57,
+    "volume": 224130
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-13",
+    "price": 9.28,
+    "volume": 163176
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-12",
+    "price": 8.81,
+    "volume": 132241
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-11",
+    "price": 8.35,
+    "volume": 109612
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-08",
+    "price": 8.44,
+    "volume": 83719
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-07",
+    "price": 8.5,
+    "volume": 102774
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-06",
+    "price": 8.65,
+    "volume": 169218
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-05",
+    "price": 8.95,
+    "volume": 108983
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-04",
+    "price": 9.12,
+    "volume": 167671
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-04-01",
+    "price": 8.98,
+    "volume": 357992
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-31",
+    "price": 8.85,
+    "volume": 195831
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-30",
+    "price": 9.05,
+    "volume": 322146
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-29",
+    "price": 9.1,
+    "volume": 524868
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-28",
+    "price": 8.73,
+    "volume": 131758
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-25",
+    "price": 8.7,
+    "volume": 294762
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-24",
+    "price": 8.78,
+    "volume": 201528
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-23",
+    "price": 8.75,
+    "volume": 143181
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-22",
+    "price": 8.7,
+    "volume": 150234
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-21",
+    "price": 8.72,
+    "volume": 136553
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-18",
+    "price": 8.68,
+    "volume": 126099
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-17",
+    "price": 8.62,
+    "volume": 99551
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-16",
+    "price": 8.47,
+    "volume": 111886
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-15",
+    "price": 8.23,
+    "volume": 125787
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-14",
+    "price": 8.07,
+    "volume": 94855
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-11",
+    "price": 8.29,
+    "volume": 111204
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-10",
+    "price": 8.59,
+    "volume": 108584
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-09",
+    "price": 8.32,
+    "volume": 45121
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-08",
+    "price": 8.22,
+    "volume": 162621
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-07",
+    "price": 8.58,
+    "volume": 154467
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-04",
+    "price": 8.8,
+    "volume": 334246
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-03",
+    "price": 8.78,
+    "volume": 98701
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-02",
+    "price": 8.75,
+    "volume": 96689
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-03-01",
+    "price": 8.86,
+    "volume": 303894
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-28",
+    "price": 8.64,
+    "volume": 195562
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-25",
+    "price": 8.46,
+    "volume": 233372
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-24",
+    "price": 8.55,
+    "volume": 113321
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-23",
+    "price": 8.62,
+    "volume": 174758
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-22",
+    "price": 8.57,
+    "volume": 284458
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-18",
+    "price": 8.63,
+    "volume": 144276
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-17",
+    "price": 8.76,
+    "volume": 143951
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-16",
+    "price": 8.54,
+    "volume": 184383
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-15",
+    "price": 9.03,
+    "volume": 187564
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-14",
+    "price": 9.04,
+    "volume": 270832
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-11",
+    "price": 8.9,
+    "volume": 382933
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-10",
+    "price": 8.98,
+    "volume": 158811
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-09",
+    "price": 8.95,
+    "volume": 211439
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-08",
+    "price": 8.98,
+    "volume": 367807
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-07",
+    "price": 8.59,
+    "volume": 323697
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-04",
+    "price": 7.63,
+    "volume": 566759
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-03",
+    "price": 7.45,
+    "volume": 60678
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-02",
+    "price": 7.6,
+    "volume": 109832
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-02-01",
+    "price": 7.5,
+    "volume": 86034
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-31",
+    "price": 7.26,
+    "volume": 84260
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-28",
+    "price": 7.26,
+    "volume": 44057
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-27",
+    "price": 7.14,
+    "volume": 107694
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-26",
+    "price": 7.2,
+    "volume": 73868
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-25",
+    "price": 7.18,
+    "volume": 43314
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-24",
+    "price": 7.3,
+    "volume": 96031
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-21",
+    "price": 7.15,
+    "volume": 44743
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-20",
+    "price": 7.17,
+    "volume": 54011
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-19",
+    "price": 7.17,
+    "volume": 53774
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-18",
+    "price": 7.29,
+    "volume": 89354
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-14",
+    "price": 7.21,
+    "volume": 27867
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-13",
+    "price": 7.36,
+    "volume": 60643
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-12",
+    "price": 7.33,
+    "volume": 62838
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-11",
+    "price": 7.66,
+    "volume": 32205
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-10",
+    "price": 7.9,
+    "volume": 48358
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-07",
+    "price": 7.75,
+    "volume": 64947
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-06",
+    "price": 7.8,
+    "volume": 24821
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-05",
+    "price": 7.87,
+    "volume": 57838
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-04",
+    "price": 7.83,
+    "volume": 96962
+  },
+  {
+    "symbol": "UTI",
+    "date": "2022-01-03",
+    "price": 7.81,
+    "volume": 106654
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-31",
+    "price": 7.82,
+    "volume": 46098
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-30",
+    "price": 7.86,
+    "volume": 56920
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-29",
+    "price": 7.84,
+    "volume": 38708
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-28",
+    "price": 7.76,
+    "volume": 112444
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-27",
+    "price": 7.71,
+    "volume": 76079
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-23",
+    "price": 7.72,
+    "volume": 63608
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-22",
+    "price": 7.85,
+    "volume": 45979
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-21",
+    "price": 7.9,
+    "volume": 81265
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-20",
+    "price": 7.76,
+    "volume": 45787
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-17",
+    "price": 7.76,
+    "volume": 37154
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-16",
+    "price": 7.76,
+    "volume": 51459
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-15",
+    "price": 7.69,
+    "volume": 115977
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-14",
+    "price": 7.81,
+    "volume": 43922
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-13",
+    "price": 7.99,
+    "volume": 43404
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-10",
+    "price": 8.14,
+    "volume": 57018
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-09",
+    "price": 7.99,
+    "volume": 63014
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-08",
+    "price": 8.35,
+    "volume": 106964
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-07",
+    "price": 8.24,
+    "volume": 32915
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-06",
+    "price": 8.2,
+    "volume": 69117
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-03",
+    "price": 8.05,
+    "volume": 506153
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-02",
+    "price": 8.42,
+    "volume": 49784
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-12-01",
+    "price": 8.22,
+    "volume": 125452
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-30",
+    "price": 8.4,
+    "volume": 87257
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-29",
+    "price": 8.05,
+    "volume": 84340
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-26",
+    "price": 8.14,
+    "volume": 136712
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-24",
+    "price": 8.35,
+    "volume": 127519
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-23",
+    "price": 8.39,
+    "volume": 253504
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-22",
+    "price": 9.04,
+    "volume": 518145
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-19",
+    "price": 8.5,
+    "volume": 550275
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-18",
+    "price": 7.75,
+    "volume": 282086
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-17",
+    "price": 6.9,
+    "volume": 65356
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-16",
+    "price": 7.38,
+    "volume": 30006
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-15",
+    "price": 7.33,
+    "volume": 81596
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-12",
+    "price": 7.62,
+    "volume": 154489
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-11",
+    "price": 7.21,
+    "volume": 43712
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-10",
+    "price": 7.06,
+    "volume": 24821
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-09",
+    "price": 7.02,
+    "volume": 20881
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-08",
+    "price": 7.16,
+    "volume": 50526
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-05",
+    "price": 7.04,
+    "volume": 37579
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-04",
+    "price": 6.99,
+    "volume": 10871
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-03",
+    "price": 7.06,
+    "volume": 16483
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-02",
+    "price": 7.09,
+    "volume": 125247
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-11-01",
+    "price": 7.07,
+    "volume": 52470
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-29",
+    "price": 7.04,
+    "volume": 50198
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-28",
+    "price": 6.92,
+    "volume": 36101
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-27",
+    "price": 6.8,
+    "volume": 40611
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-26",
+    "price": 6.84,
+    "volume": 20987
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-25",
+    "price": 6.74,
+    "volume": 24871
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-22",
+    "price": 6.72,
+    "volume": 55491
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-21",
+    "price": 6.7,
+    "volume": 37816
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-20",
+    "price": 6.59,
+    "volume": 26551
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-19",
+    "price": 6.58,
+    "volume": 22452
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-18",
+    "price": 6.7,
+    "volume": 27489
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-15",
+    "price": 6.73,
+    "volume": 25509
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-14",
+    "price": 6.8,
+    "volume": 32461
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-13",
+    "price": 6.8,
+    "volume": 13667
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-12",
+    "price": 6.79,
+    "volume": 12658
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-11",
+    "price": 6.84,
+    "volume": 31640
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-08",
+    "price": 7,
+    "volume": 21384
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-07",
+    "price": 6.98,
+    "volume": 115461
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-06",
+    "price": 6.98,
+    "volume": 29786
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-05",
+    "price": 7.08,
+    "volume": 65537
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-04",
+    "price": 6.97,
+    "volume": 33982
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-10-01",
+    "price": 6.97,
+    "volume": 27892
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-30",
+    "price": 6.76,
+    "volume": 63918
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-29",
+    "price": 6.86,
+    "volume": 34121
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-28",
+    "price": 6.9,
+    "volume": 34547
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-27",
+    "price": 6.88,
+    "volume": 37050
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-24",
+    "price": 6.76,
+    "volume": 28280
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-23",
+    "price": 6.66,
+    "volume": 59679
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-22",
+    "price": 6.77,
+    "volume": 53853
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-21",
+    "price": 6.95,
+    "volume": 82357
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-20",
+    "price": 6.66,
+    "volume": 62560
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-17",
+    "price": 6.62,
+    "volume": 47391
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-16",
+    "price": 6.89,
+    "volume": 59990
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-15",
+    "price": 6.93,
+    "volume": 65176
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-14",
+    "price": 6.63,
+    "volume": 33987
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-13",
+    "price": 6.74,
+    "volume": 24364
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-10",
+    "price": 6.81,
+    "volume": 43962
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-09",
+    "price": 6.85,
+    "volume": 51410
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-08",
+    "price": 7.25,
+    "volume": 195408
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-07",
+    "price": 7.02,
+    "volume": 70995
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-03",
+    "price": 7.02,
+    "volume": 34068
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-02",
+    "price": 7.01,
+    "volume": 45149
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-09-01",
+    "price": 6.95,
+    "volume": 75100
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-31",
+    "price": 6.97,
+    "volume": 42758
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-30",
+    "price": 6.95,
+    "volume": 42193
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-27",
+    "price": 6.95,
+    "volume": 19053
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-26",
+    "price": 6.92,
+    "volume": 72331
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-25",
+    "price": 6.98,
+    "volume": 39394
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-24",
+    "price": 6.85,
+    "volume": 68200
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-23",
+    "price": 6.76,
+    "volume": 61465
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-20",
+    "price": 6.47,
+    "volume": 163430
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-19",
+    "price": 6.7,
+    "volume": 47211
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-18",
+    "price": 6.74,
+    "volume": 112437
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-17",
+    "price": 6.76,
+    "volume": 72078
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-16",
+    "price": 6.72,
+    "volume": 38755
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-13",
+    "price": 6.8,
+    "volume": 36237
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-12",
+    "price": 6.93,
+    "volume": 55504
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-11",
+    "price": 6.93,
+    "volume": 62551
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-10",
+    "price": 6.83,
+    "volume": 32114
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-09",
+    "price": 6.96,
+    "volume": 38843
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-06",
+    "price": 7.01,
+    "volume": 62036
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-05",
+    "price": 6.98,
+    "volume": 52963
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-04",
+    "price": 6.96,
+    "volume": 184184
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-03",
+    "price": 7.11,
+    "volume": 406396
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-08-02",
+    "price": 6.09,
+    "volume": 99227
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-30",
+    "price": 6.08,
+    "volume": 32400
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-29",
+    "price": 6.12,
+    "volume": 43278
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-28",
+    "price": 6.01,
+    "volume": 70473
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-27",
+    "price": 5.94,
+    "volume": 606036
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-26",
+    "price": 5.8,
+    "volume": 75877
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-23",
+    "price": 5.81,
+    "volume": 54996
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-22",
+    "price": 5.78,
+    "volume": 79087
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-21",
+    "price": 5.71,
+    "volume": 73071
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-20",
+    "price": 5.51,
+    "volume": 274201
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-19",
+    "price": 5.36,
+    "volume": 109823
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-16",
+    "price": 5.45,
+    "volume": 104716
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-15",
+    "price": 5.6,
+    "volume": 96146
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-14",
+    "price": 5.73,
+    "volume": 55367
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-13",
+    "price": 5.88,
+    "volume": 71411
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-12",
+    "price": 5.92,
+    "volume": 58202
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-09",
+    "price": 6.01,
+    "volume": 71020
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-08",
+    "price": 6.03,
+    "volume": 168148
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-07",
+    "price": 5.94,
+    "volume": 134150
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-06",
+    "price": 6.01,
+    "volume": 156286
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-02",
+    "price": 6.27,
+    "volume": 84037
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-07-01",
+    "price": 6.39,
+    "volume": 620608
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-30",
+    "price": 6.49,
+    "volume": 158842
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-29",
+    "price": 6.32,
+    "volume": 71646
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-28",
+    "price": 6.44,
+    "volume": 255648
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-25",
+    "price": 6.65,
+    "volume": 4107410
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-24",
+    "price": 6.02,
+    "volume": 280350
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-23",
+    "price": 5.74,
+    "volume": 216840
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-22",
+    "price": 5.62,
+    "volume": 248026
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-21",
+    "price": 5.42,
+    "volume": 176238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-18",
+    "price": 5.51,
+    "volume": 249591
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-17",
+    "price": 5.53,
+    "volume": 114066
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-16",
+    "price": 5.67,
+    "volume": 147575
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-15",
+    "price": 5.62,
+    "volume": 125441
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-14",
+    "price": 5.62,
+    "volume": 122081
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-11",
+    "price": 5.74,
+    "volume": 60000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-10",
+    "price": 5.77,
+    "volume": 60238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-09",
+    "price": 5.8,
+    "volume": 75910
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-08",
+    "price": 5.78,
+    "volume": 100071
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-07",
+    "price": 5.76,
+    "volume": 135327
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-04",
+    "price": 6.01,
+    "volume": 85461
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-03",
+    "price": 6,
+    "volume": 127576
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-02",
+    "price": 5.99,
+    "volume": 155984
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-06-01",
+    "price": 6.11,
+    "volume": 67817
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-28",
+    "price": 6.05,
+    "volume": 138835
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-27",
+    "price": 6.02,
+    "volume": 68259
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-26",
+    "price": 5.98,
+    "volume": 91682
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-25",
+    "price": 5.96,
+    "volume": 134212
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-24",
+    "price": 6.17,
+    "volume": 64683
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-21",
+    "price": 6.09,
+    "volume": 118341
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-20",
+    "price": 6.03,
+    "volume": 161656
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-19",
+    "price": 5.93,
+    "volume": 163455
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-18",
+    "price": 5.94,
+    "volume": 92564
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-17",
+    "price": 5.99,
+    "volume": 104778
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-14",
+    "price": 6.19,
+    "volume": 157111
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-13",
+    "price": 6.01,
+    "volume": 147000
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-12",
+    "price": 5.83,
+    "volume": 221978
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-11",
+    "price": 5.94,
+    "volume": 93426
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-10",
+    "price": 6.13,
+    "volume": 154543
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-07",
+    "price": 5.77,
+    "volume": 237359
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-06",
+    "price": 5.69,
+    "volume": 292573
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-05",
+    "price": 5.64,
+    "volume": 155997
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-04",
+    "price": 5.6,
+    "volume": 778973
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-05-03",
+    "price": 5.7,
+    "volume": 95613
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-30",
+    "price": 5.63,
+    "volume": 215695
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-29",
+    "price": 5.66,
+    "volume": 106717
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-28",
+    "price": 5.76,
+    "volume": 178119
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-27",
+    "price": 5.65,
+    "volume": 176689
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-26",
+    "price": 5.76,
+    "volume": 160128
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-23",
+    "price": 5.74,
+    "volume": 112911
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-22",
+    "price": 5.69,
+    "volume": 128724
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-21",
+    "price": 5.65,
+    "volume": 140925
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-20",
+    "price": 5.96,
+    "volume": 183982
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-19",
+    "price": 6.01,
+    "volume": 161024
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-16",
+    "price": 5.91,
+    "volume": 124547
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-15",
+    "price": 6,
+    "volume": 144329
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-14",
+    "price": 5.91,
+    "volume": 80862
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-13",
+    "price": 6.03,
+    "volume": 80166
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-12",
+    "price": 6.01,
+    "volume": 110736
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-09",
+    "price": 6.06,
+    "volume": 165734
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-08",
+    "price": 6.01,
+    "volume": 54937
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-07",
+    "price": 6.09,
+    "volume": 136675
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-06",
+    "price": 6.2,
+    "volume": 260511
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-05",
+    "price": 6.04,
+    "volume": 1071700
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-04-01",
+    "price": 6,
+    "volume": 835898
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-31",
+    "price": 5.84,
+    "volume": 143348
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-30",
+    "price": 5.74,
+    "volume": 101282
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-29",
+    "price": 5.73,
+    "volume": 92826
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-26",
+    "price": 5.76,
+    "volume": 188199
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-25",
+    "price": 5.75,
+    "volume": 125802
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-24",
+    "price": 5.66,
+    "volume": 196141
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-23",
+    "price": 5.55,
+    "volume": 150929
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-22",
+    "price": 5.74,
+    "volume": 157083
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-19",
+    "price": 5.86,
+    "volume": 821971
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-18",
+    "price": 6.03,
+    "volume": 143514
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-17",
+    "price": 6.14,
+    "volume": 189672
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-16",
+    "price": 6.14,
+    "volume": 67129
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-15",
+    "price": 6.21,
+    "volume": 59070
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-12",
+    "price": 6.25,
+    "volume": 79890
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-11",
+    "price": 6.22,
+    "volume": 88238
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-10",
+    "price": 6.24,
+    "volume": 71624
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-09",
+    "price": 6.25,
+    "volume": 144884
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-08",
+    "price": 6.07,
+    "volume": 69430
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-05",
+    "price": 6.14,
+    "volume": 134014
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-04",
+    "price": 6.03,
+    "volume": 258634
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-03",
+    "price": 5.95,
+    "volume": 113900
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-02",
+    "price": 6.17,
+    "volume": 75287
+  },
+  {
+    "symbol": "UTI",
+    "date": "2021-03-01",
+    "price": 6.29,
+    "volume": 100508
+  }
+]

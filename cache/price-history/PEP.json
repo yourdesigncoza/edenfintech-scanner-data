@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "PEP",
+    "date": "2026-02-27",
+    "price": 169.74,
+    "volume": 10585165
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-26",
+    "price": 167.58,
+    "volume": 7219301
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-25",
+    "price": 169.17,
+    "volume": 6832706
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-24",
+    "price": 169.54,
+    "volume": 6319800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-23",
+    "price": 168.32,
+    "volume": 6801623
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-20",
+    "price": 164.94,
+    "volume": 4811816
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-19",
+    "price": 164.59,
+    "volume": 6155811
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-18",
+    "price": 164.39,
+    "volume": 7239829
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-17",
+    "price": 161.92,
+    "volume": 8749818
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-13",
+    "price": 165.94,
+    "volume": 9286336
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-12",
+    "price": 167.2,
+    "volume": 9516300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-11",
+    "price": 169.15,
+    "volume": 6733819
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-10",
+    "price": 166.97,
+    "volume": 10352922
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-09",
+    "price": 166.47,
+    "volume": 10316236
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-06",
+    "price": 170.49,
+    "volume": 10960439
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-05",
+    "price": 167.53,
+    "volume": 11038833
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-04",
+    "price": 166.18,
+    "volume": 13322904
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-03",
+    "price": 162.85,
+    "volume": 19096432
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-02-02",
+    "price": 155.2,
+    "volume": 14660510
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-30",
+    "price": 153.63,
+    "volume": 12641300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-29",
+    "price": 148.69,
+    "volume": 9062300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-28",
+    "price": 148.5,
+    "volume": 5954100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-27",
+    "price": 148.78,
+    "volume": 7114901
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-26",
+    "price": 145.87,
+    "volume": 6589600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-23",
+    "price": 144.58,
+    "volume": 5870100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-22",
+    "price": 144.4,
+    "volume": 8167400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-21",
+    "price": 146.74,
+    "volume": 7679600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-20",
+    "price": 147.66,
+    "volume": 9982823
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-16",
+    "price": 146.32,
+    "volume": 10313500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-15",
+    "price": 146.57,
+    "volume": 5797800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-14",
+    "price": 145.92,
+    "volume": 8329500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-13",
+    "price": 143.48,
+    "volume": 9030241
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-12",
+    "price": 141.36,
+    "volume": 12223436
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-09",
+    "price": 139.91,
+    "volume": 6767600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-08",
+    "price": 139.37,
+    "volume": 8762824
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-07",
+    "price": 137.01,
+    "volume": 8539847
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-06",
+    "price": 138.96,
+    "volume": 9576500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-05",
+    "price": 139.92,
+    "volume": 9031400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2026-01-02",
+    "price": 142.23,
+    "volume": 7182100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-31",
+    "price": 143.52,
+    "volume": 4380343
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-30",
+    "price": 144.16,
+    "volume": 4713800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-29",
+    "price": 144.24,
+    "volume": 7201900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-26",
+    "price": 143.78,
+    "volume": 4975533
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-24",
+    "price": 143.74,
+    "volume": 2618700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-23",
+    "price": 143.68,
+    "volume": 7254800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-22",
+    "price": 147.05,
+    "volume": 8818726
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-19",
+    "price": 148.16,
+    "volume": 17543516
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-18",
+    "price": 149.37,
+    "volume": 6643200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-17",
+    "price": 150.08,
+    "volume": 8067133
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-16",
+    "price": 150.37,
+    "volume": 7520334
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-15",
+    "price": 151.22,
+    "volume": 8409625
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-12",
+    "price": 150.65,
+    "volume": 8143100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-11",
+    "price": 149.04,
+    "volume": 7854008
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-10",
+    "price": 149.7,
+    "volume": 18526426
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-09",
+    "price": 144.64,
+    "volume": 10035200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-08",
+    "price": 145.63,
+    "volume": 6327412
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-05",
+    "price": 145.02,
+    "volume": 5971510
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-04",
+    "price": 146.91,
+    "volume": 6803000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-03",
+    "price": 148.06,
+    "volume": 5109218
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-02",
+    "price": 148.61,
+    "volume": 6830300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-12-01",
+    "price": 149.51,
+    "volume": 7623300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-28",
+    "price": 148.74,
+    "volume": 2969300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-26",
+    "price": 147.98,
+    "volume": 5180946
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-25",
+    "price": 146.11,
+    "volume": 8954000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-24",
+    "price": 145.5,
+    "volume": 9391443
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-21",
+    "price": 146.33,
+    "volume": 7911800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-20",
+    "price": 146.1,
+    "volume": 6878914
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-19",
+    "price": 147.11,
+    "volume": 8123236
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-18",
+    "price": 148.77,
+    "volume": 10821528
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-17",
+    "price": 147.83,
+    "volume": 7320200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-14",
+    "price": 145.85,
+    "volume": 5770500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-13",
+    "price": 145.02,
+    "volume": 6663300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-12",
+    "price": 144.39,
+    "volume": 5790488
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-11",
+    "price": 145.08,
+    "volume": 7683600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-10",
+    "price": 142.62,
+    "volume": 6617500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-07",
+    "price": 142.95,
+    "volume": 7592652
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-06",
+    "price": 141.58,
+    "volume": 6449400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-05",
+    "price": 142.86,
+    "volume": 7136424
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-04",
+    "price": 142.9,
+    "volume": 8302941
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-11-03",
+    "price": 143.6,
+    "volume": 8331545
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-31",
+    "price": 146.09,
+    "volume": 6313600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-30",
+    "price": 147.55,
+    "volume": 5752708
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-29",
+    "price": 146.16,
+    "volume": 7767600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-28",
+    "price": 150.12,
+    "volume": 5626528
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-27",
+    "price": 152.63,
+    "volume": 4744600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-24",
+    "price": 151.55,
+    "volume": 3580200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-23",
+    "price": 151.51,
+    "volume": 6091800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-22",
+    "price": 153.03,
+    "volume": 6486000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-21",
+    "price": 153.18,
+    "volume": 5614300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-20",
+    "price": 153.64,
+    "volume": 4810600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-17",
+    "price": 153.71,
+    "volume": 6710141
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-16",
+    "price": 152.67,
+    "volume": 8532900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-15",
+    "price": 151.16,
+    "volume": 6101100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-14",
+    "price": 151.54,
+    "volume": 8371136
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-13",
+    "price": 148.89,
+    "volume": 7272000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-10",
+    "price": 150.08,
+    "volume": 17545200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-09",
+    "price": 144.71,
+    "volume": 13706629
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-08",
+    "price": 138.84,
+    "volume": 8256741
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-07",
+    "price": 140.79,
+    "volume": 6110309
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-06",
+    "price": 139.7,
+    "volume": 6750712
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-03",
+    "price": 141.98,
+    "volume": 5425725
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-02",
+    "price": 142.31,
+    "volume": 4497315
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-10-01",
+    "price": 143.14,
+    "volume": 5880800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-30",
+    "price": 140.44,
+    "volume": 7583411
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-29",
+    "price": 140.17,
+    "volume": 11930247
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-26",
+    "price": 140.44,
+    "volume": 6224700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-25",
+    "price": 139.92,
+    "volume": 7101700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-24",
+    "price": 142.17,
+    "volume": 5949145
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-23",
+    "price": 141.9,
+    "volume": 6356500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-22",
+    "price": 141.03,
+    "volume": 5797600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-19",
+    "price": 141.76,
+    "volume": 12365531
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-18",
+    "price": 140.73,
+    "volume": 6106600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-17",
+    "price": 141.23,
+    "volume": 6092900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-16",
+    "price": 140.03,
+    "volume": 9283500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-15",
+    "price": 140.64,
+    "volume": 7279639
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-12",
+    "price": 143.53,
+    "volume": 5714114
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-11",
+    "price": 144.23,
+    "volume": 6144400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-10",
+    "price": 142.66,
+    "volume": 6015122
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-09",
+    "price": 143.1,
+    "volume": 5866442
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-08",
+    "price": 141.71,
+    "volume": 11127619
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-05",
+    "price": 146.39,
+    "volume": 7186300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-04",
+    "price": 146.89,
+    "volume": 6342232
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-03",
+    "price": 148.64,
+    "volume": 11259203
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-09-02",
+    "price": 150.28,
+    "volume": 17348611
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-29",
+    "price": 148.65,
+    "volume": 7760710
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-28",
+    "price": 146.98,
+    "volume": 9265100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-27",
+    "price": 147.64,
+    "volume": 8092909
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-26",
+    "price": 147,
+    "volume": 11208146
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-25",
+    "price": 148.2,
+    "volume": 6624300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-22",
+    "price": 149.64,
+    "volume": 5218019
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-21",
+    "price": 148.98,
+    "volume": 8153618
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-20",
+    "price": 150.73,
+    "volume": 10023500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-19",
+    "price": 152.16,
+    "volume": 8596943
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-18",
+    "price": 149.55,
+    "volume": 9901000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-15",
+    "price": 150.4,
+    "volume": 9162200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-14",
+    "price": 148.62,
+    "volume": 6892500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-13",
+    "price": 149.35,
+    "volume": 6147005
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-12",
+    "price": 146.87,
+    "volume": 7670149
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-11",
+    "price": 144.87,
+    "volume": 5773400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-08",
+    "price": 145.21,
+    "volume": 5315100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-07",
+    "price": 143.92,
+    "volume": 7674642
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-06",
+    "price": 140.8,
+    "volume": 6747448
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-05",
+    "price": 139.45,
+    "volume": 5535100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-04",
+    "price": 139.56,
+    "volume": 8384700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-08-01",
+    "price": 139.28,
+    "volume": 7630810
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-31",
+    "price": 137.92,
+    "volume": 11689700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-30",
+    "price": 142.86,
+    "volume": 9738400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-29",
+    "price": 143.89,
+    "volume": 6282944
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-28",
+    "price": 141.57,
+    "volume": 10639129
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-25",
+    "price": 143.45,
+    "volume": 7021600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-24",
+    "price": 144.51,
+    "volume": 9749426
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-23",
+    "price": 145.66,
+    "volume": 6166000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-22",
+    "price": 146.04,
+    "volume": 8281528
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-21",
+    "price": 141.7,
+    "volume": 9025630
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-18",
+    "price": 143.24,
+    "volume": 13752825
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-17",
+    "price": 145.44,
+    "volume": 26161000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-16",
+    "price": 135.35,
+    "volume": 10941629
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-15",
+    "price": 133.81,
+    "volume": 8933520
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-14",
+    "price": 135.57,
+    "volume": 8480302
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-11",
+    "price": 135.26,
+    "volume": 7963646
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-10",
+    "price": 136.08,
+    "volume": 8870905
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-09",
+    "price": 134.48,
+    "volume": 7762618
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-08",
+    "price": 135.04,
+    "volume": 7718300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-07",
+    "price": 134.45,
+    "volume": 7773744
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-03",
+    "price": 135.38,
+    "volume": 4941400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-02",
+    "price": 136.48,
+    "volume": 9388700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-07-01",
+    "price": 135.26,
+    "volume": 12846700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-30",
+    "price": 132.04,
+    "volume": 11402443
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-27",
+    "price": 131.04,
+    "volume": 26536500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-26",
+    "price": 128.22,
+    "volume": 11538100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-25",
+    "price": 128.02,
+    "volume": 10922600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-24",
+    "price": 131.05,
+    "volume": 9226800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-23",
+    "price": 129.09,
+    "volume": 12840400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-20",
+    "price": 129.07,
+    "volume": 23001000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-18",
+    "price": 129.07,
+    "volume": 8785800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-17",
+    "price": 129.29,
+    "volume": 10235225
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-16",
+    "price": 131.41,
+    "volume": 11183700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-13",
+    "price": 130.85,
+    "volume": 9581034
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-12",
+    "price": 132.3,
+    "volume": 11444911
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-11",
+    "price": 129.9,
+    "volume": 9168400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-10",
+    "price": 131.83,
+    "volume": 11852900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-09",
+    "price": 129.96,
+    "volume": 8453146
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-06",
+    "price": 130.03,
+    "volume": 7628224
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-05",
+    "price": 131.11,
+    "volume": 9566619
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-04",
+    "price": 131.74,
+    "volume": 6519728
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-03",
+    "price": 131.85,
+    "volume": 7339524
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-06-02",
+    "price": 130.91,
+    "volume": 6723720
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-30",
+    "price": 131.45,
+    "volume": 12992100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-29",
+    "price": 131.92,
+    "volume": 6659069
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-28",
+    "price": 130.67,
+    "volume": 9431500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-27",
+    "price": 131.37,
+    "volume": 13974800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-23",
+    "price": 129.34,
+    "volume": 8122500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-22",
+    "price": 130.12,
+    "volume": 7140231
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-21",
+    "price": 130.15,
+    "volume": 9243724
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-20",
+    "price": 131.8,
+    "volume": 7624244
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-19",
+    "price": 131.79,
+    "volume": 9406200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-16",
+    "price": 131.98,
+    "volume": 8896400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-15",
+    "price": 131.5,
+    "volume": 9165100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-14",
+    "price": 128.45,
+    "volume": 10463015
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-13",
+    "price": 130.31,
+    "volume": 8650220
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-12",
+    "price": 131.68,
+    "volume": 8392720
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-09",
+    "price": 130.44,
+    "volume": 4770504
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-08",
+    "price": 131.43,
+    "volume": 6392400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-07",
+    "price": 131.92,
+    "volume": 6313815
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-06",
+    "price": 130.74,
+    "volume": 6889900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-05",
+    "price": 131.99,
+    "volume": 8972200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-02",
+    "price": 133.75,
+    "volume": 7169731
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-05-01",
+    "price": 133.55,
+    "volume": 6807019
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-30",
+    "price": 135.58,
+    "volume": 7923500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-29",
+    "price": 134.31,
+    "volume": 7010733
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-28",
+    "price": 133.76,
+    "volume": 8498608
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-25",
+    "price": 133.38,
+    "volume": 11544700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-24",
+    "price": 135.31,
+    "volume": 15577300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-23",
+    "price": 142.26,
+    "volume": 7760035
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-22",
+    "price": 143.46,
+    "volume": 7144709
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-21",
+    "price": 141.73,
+    "volume": 7412800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-17",
+    "price": 142.84,
+    "volume": 6131400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-16",
+    "price": 140.09,
+    "volume": 7878600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-15",
+    "price": 142.84,
+    "volume": 5459600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-14",
+    "price": 146.75,
+    "volume": 5393999
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-11",
+    "price": 144.43,
+    "volume": 8563304
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-10",
+    "price": 144.14,
+    "volume": 10980300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-09",
+    "price": 145.59,
+    "volume": 14067005
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-08",
+    "price": 140.3,
+    "volume": 9488900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-07",
+    "price": 143.19,
+    "volume": 14423214
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-04",
+    "price": 146.61,
+    "volume": 12911400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-03",
+    "price": 151.37,
+    "volume": 8216247
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-02",
+    "price": 149.12,
+    "volume": 5866200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-04-01",
+    "price": 149.67,
+    "volume": 6072838
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-31",
+    "price": 149.94,
+    "volume": 9985702
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-28",
+    "price": 149.27,
+    "volume": 8550900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-27",
+    "price": 149.67,
+    "volume": 5397532
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-26",
+    "price": 148.64,
+    "volume": 5885290
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-25",
+    "price": 145.54,
+    "volume": 4763300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-24",
+    "price": 146.45,
+    "volume": 5968900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-21",
+    "price": 145.45,
+    "volume": 11574800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-20",
+    "price": 147.15,
+    "volume": 4536400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-19",
+    "price": 148.11,
+    "volume": 6080100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-18",
+    "price": 148.99,
+    "volume": 8158600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-17",
+    "price": 151.34,
+    "volume": 5449712
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-14",
+    "price": 148.59,
+    "volume": 5277544
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-13",
+    "price": 148.34,
+    "volume": 5351100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-12",
+    "price": 148.17,
+    "volume": 8330241
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-11",
+    "price": 152.33,
+    "volume": 7981600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-10",
+    "price": 156.25,
+    "volume": 11156900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-07",
+    "price": 154.44,
+    "volume": 8997748
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-06",
+    "price": 154.61,
+    "volume": 8421031
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-05",
+    "price": 153.88,
+    "volume": 5578701
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-04",
+    "price": 154.19,
+    "volume": 10274235
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-03-03",
+    "price": 155.99,
+    "volume": 8321700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-28",
+    "price": 153.47,
+    "volume": 8455500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-27",
+    "price": 152.02,
+    "volume": 6731000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-26",
+    "price": 151.51,
+    "volume": 9076519
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-25",
+    "price": 156.42,
+    "volume": 9474619
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-24",
+    "price": 153.85,
+    "volume": 7187038
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-21",
+    "price": 153.5,
+    "volume": 10604404
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-20",
+    "price": 149.1,
+    "volume": 6789805
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-19",
+    "price": 145.81,
+    "volume": 5777300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-18",
+    "price": 144.1,
+    "volume": 8738725
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-14",
+    "price": 143.39,
+    "volume": 5001806
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-13",
+    "price": 144.58,
+    "volume": 7175300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-12",
+    "price": 143.99,
+    "volume": 6658200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-11",
+    "price": 145.64,
+    "volume": 6354000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-10",
+    "price": 144.35,
+    "volume": 8715400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-07",
+    "price": 144.58,
+    "volume": 5872343
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-06",
+    "price": 145.35,
+    "volume": 5604900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-05",
+    "price": 145.66,
+    "volume": 9249234
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-04",
+    "price": 143.49,
+    "volume": 12804949
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-02-03",
+    "price": 150.27,
+    "volume": 7196227
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-31",
+    "price": 150.69,
+    "volume": 4906744
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-30",
+    "price": 151.9,
+    "volume": 4671300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-29",
+    "price": 150.37,
+    "volume": 4874100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-28",
+    "price": 150.25,
+    "volume": 6349700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-27",
+    "price": 154.61,
+    "volume": 9820600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-24",
+    "price": 149.12,
+    "volume": 4509600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-23",
+    "price": 148.62,
+    "volume": 4759125
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-22",
+    "price": 148.09,
+    "volume": 5905100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-21",
+    "price": 148.55,
+    "volume": 7456200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-17",
+    "price": 148.25,
+    "volume": 7338900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-16",
+    "price": 146.54,
+    "volume": 5068040
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-15",
+    "price": 144.78,
+    "volume": 7141600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-14",
+    "price": 144.95,
+    "volume": 6996448
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-13",
+    "price": 144.5,
+    "volume": 8101400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-10",
+    "price": 142.64,
+    "volume": 9632700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-08",
+    "price": 146.54,
+    "volume": 6791848
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-07",
+    "price": 145.4,
+    "volume": 7473300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-06",
+    "price": 146.27,
+    "volume": 9470626
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-03",
+    "price": 149.65,
+    "volume": 5221639
+  },
+  {
+    "symbol": "PEP",
+    "date": "2025-01-02",
+    "price": 150.21,
+    "volume": 4970233
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-31",
+    "price": 152.06,
+    "volume": 4274960
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-30",
+    "price": 151.72,
+    "volume": 5397016
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-27",
+    "price": 152.89,
+    "volume": 4287007
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-26",
+    "price": 152.44,
+    "volume": 5529590
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-24",
+    "price": 152.81,
+    "volume": 3399800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-23",
+    "price": 151.29,
+    "volume": 6822232
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-20",
+    "price": 152.79,
+    "volume": 19205200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-19",
+    "price": 151.47,
+    "volume": 9829500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-18",
+    "price": 154.43,
+    "volume": 7620900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-17",
+    "price": 156.14,
+    "volume": 6572600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-16",
+    "price": 156.02,
+    "volume": 6696500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-13",
+    "price": 157.97,
+    "volume": 4353900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-12",
+    "price": 158.9,
+    "volume": 6849507
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-11",
+    "price": 156.77,
+    "volume": 7925928
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-10",
+    "price": 159.84,
+    "volume": 5329401
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-09",
+    "price": 159.47,
+    "volume": 8380406
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-06",
+    "price": 157.79,
+    "volume": 8359200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-05",
+    "price": 160.49,
+    "volume": 5229646
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-04",
+    "price": 160.18,
+    "volume": 6964605
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-03",
+    "price": 161.7,
+    "volume": 4277400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-12-02",
+    "price": 163.05,
+    "volume": 4967612
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-29",
+    "price": 163.45,
+    "volume": 2799312
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-27",
+    "price": 162.72,
+    "volume": 3622900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-26",
+    "price": 162.16,
+    "volume": 4653842
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-25",
+    "price": 163.05,
+    "volume": 8580400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-22",
+    "price": 162,
+    "volume": 5846300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-21",
+    "price": 160.34,
+    "volume": 5977000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-20",
+    "price": 158.74,
+    "volume": 5067300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-19",
+    "price": 156.72,
+    "volume": 8248900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-18",
+    "price": 158.33,
+    "volume": 6992040
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-15",
+    "price": 158.62,
+    "volume": 9108948
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-14",
+    "price": 165.15,
+    "volume": 5422700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-13",
+    "price": 164.74,
+    "volume": 4145443
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-12",
+    "price": 164.34,
+    "volume": 5386925
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-11",
+    "price": 164.26,
+    "volume": 3762000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-08",
+    "price": 165.11,
+    "volume": 4618300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-07",
+    "price": 164,
+    "volume": 5333532
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-06",
+    "price": 164.71,
+    "volume": 7849309
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-05",
+    "price": 167.85,
+    "volume": 3678708
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-04",
+    "price": 166.34,
+    "volume": 4885500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-11-01",
+    "price": 165.59,
+    "volume": 6339121
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-31",
+    "price": 166.08,
+    "volume": 5582423
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-30",
+    "price": 166.21,
+    "volume": 4801541
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-29",
+    "price": 167.5,
+    "volume": 5127900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-28",
+    "price": 169.84,
+    "volume": 5186635
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-25",
+    "price": 171.79,
+    "volume": 4442863
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-24",
+    "price": 172.16,
+    "volume": 4244903
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-23",
+    "price": 172.95,
+    "volume": 3800700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-22",
+    "price": 174.37,
+    "volume": 3790500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-21",
+    "price": 175.01,
+    "volume": 6436516
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-18",
+    "price": 175.06,
+    "volume": 5097170
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-17",
+    "price": 174.67,
+    "volume": 4125910
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-16",
+    "price": 174.48,
+    "volume": 4400900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-15",
+    "price": 175.9,
+    "volume": 5802300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-14",
+    "price": 176.1,
+    "volume": 4536048
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-11",
+    "price": 174.81,
+    "volume": 4720300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-10",
+    "price": 172.99,
+    "volume": 5292404
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-09",
+    "price": 172.54,
+    "volume": 7177529
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-08",
+    "price": 170.42,
+    "volume": 8297800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-07",
+    "price": 167.21,
+    "volume": 5459506
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-04",
+    "price": 167.97,
+    "volume": 4391321
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-03",
+    "price": 168.53,
+    "volume": 5090330
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-02",
+    "price": 169.55,
+    "volume": 5786000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-10-01",
+    "price": 171.38,
+    "volume": 7095900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-30",
+    "price": 170.05,
+    "volume": 5054615
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-27",
+    "price": 170,
+    "volume": 7545935
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-26",
+    "price": 169.69,
+    "volume": 5673635
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-25",
+    "price": 169.4,
+    "volume": 4505130
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-24",
+    "price": 169.92,
+    "volume": 7837900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-23",
+    "price": 172.11,
+    "volume": 5350483
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-20",
+    "price": 171.18,
+    "volume": 12198430
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-19",
+    "price": 174.66,
+    "volume": 5504038
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-18",
+    "price": 175.21,
+    "volume": 5307900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-17",
+    "price": 176.87,
+    "volume": 6305100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-16",
+    "price": 177.21,
+    "volume": 4940100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-13",
+    "price": 177.36,
+    "volume": 3290404
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-12",
+    "price": 177.25,
+    "volume": 4224894
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-11",
+    "price": 175.78,
+    "volume": 4036000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-10",
+    "price": 177.81,
+    "volume": 4315800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-09",
+    "price": 178.19,
+    "volume": 4666200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-06",
+    "price": 177.34,
+    "volume": 6395300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-05",
+    "price": 179.3,
+    "volume": 5743141
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-04",
+    "price": 178.52,
+    "volume": 6188500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-09-03",
+    "price": 177.54,
+    "volume": 7032100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-30",
+    "price": 172.88,
+    "volume": 8677312
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-29",
+    "price": 172.09,
+    "volume": 4654540
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-28",
+    "price": 173.92,
+    "volume": 3915500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-27",
+    "price": 175.3,
+    "volume": 3520600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-26",
+    "price": 175.97,
+    "volume": 4146861
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-23",
+    "price": 175.87,
+    "volume": 5283617
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-22",
+    "price": 175.74,
+    "volume": 5265989
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-21",
+    "price": 175.21,
+    "volume": 4020749
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-20",
+    "price": 175.85,
+    "volume": 5330100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-19",
+    "price": 173.82,
+    "volume": 3521700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-16",
+    "price": 172.62,
+    "volume": 4614804
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-15",
+    "price": 172.52,
+    "volume": 4472137
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-14",
+    "price": 173.71,
+    "volume": 3555959
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-13",
+    "price": 172.37,
+    "volume": 3894700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-12",
+    "price": 171.42,
+    "volume": 3802411
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-09",
+    "price": 172.39,
+    "volume": 3223163
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-08",
+    "price": 172.37,
+    "volume": 5112500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-07",
+    "price": 171.79,
+    "volume": 5429077
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-06",
+    "price": 172.49,
+    "volume": 7287100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-05",
+    "price": 174.04,
+    "volume": 7502535
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-02",
+    "price": 178.04,
+    "volume": 6856100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-08-01",
+    "price": 174.96,
+    "volume": 5994500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-31",
+    "price": 172.67,
+    "volume": 6245600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-30",
+    "price": 173.18,
+    "volume": 4994644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-29",
+    "price": 173.21,
+    "volume": 4152700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-26",
+    "price": 172.75,
+    "volume": 5746300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-25",
+    "price": 171.02,
+    "volume": 6270900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-24",
+    "price": 168.17,
+    "volume": 5867046
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-23",
+    "price": 166.28,
+    "volume": 3344300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-22",
+    "price": 167.66,
+    "volume": 5308400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-19",
+    "price": 169.36,
+    "volume": 5332848
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-18",
+    "price": 170.37,
+    "volume": 6228600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-17",
+    "price": 169.89,
+    "volume": 7671000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-16",
+    "price": 164.76,
+    "volume": 4461700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-15",
+    "price": 163.86,
+    "volume": 4551803
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-12",
+    "price": 166.38,
+    "volume": 6677035
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-11",
+    "price": 163.95,
+    "volume": 10259333
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-10",
+    "price": 163.59,
+    "volume": 7372300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-09",
+    "price": 161.9,
+    "volume": 5801833
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-08",
+    "price": 162.12,
+    "volume": 5268800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-05",
+    "price": 164.39,
+    "volume": 4208217
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-03",
+    "price": 162.6,
+    "volume": 2879600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-02",
+    "price": 163.58,
+    "volume": 4650803
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-07-01",
+    "price": 162.89,
+    "volume": 4508019
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-28",
+    "price": 164.93,
+    "volume": 8756033
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-27",
+    "price": 166.26,
+    "volume": 4326500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-26",
+    "price": 166.74,
+    "volume": 4778300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-25",
+    "price": 167.35,
+    "volume": 4220902
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-24",
+    "price": 168.08,
+    "volume": 4476929
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-21",
+    "price": 167.28,
+    "volume": 10899240
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-20",
+    "price": 166.68,
+    "volume": 4942417
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-18",
+    "price": 166.48,
+    "volume": 3519509
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-17",
+    "price": 166.14,
+    "volume": 5412239
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-14",
+    "price": 163.81,
+    "volume": 3603340
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-13",
+    "price": 163.33,
+    "volume": 5432649
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-12",
+    "price": 163.83,
+    "volume": 6281102
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-11",
+    "price": 165.07,
+    "volume": 8284512
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-10",
+    "price": 165.9,
+    "volume": 9432639
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-07",
+    "price": 171.04,
+    "volume": 3521165
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-06",
+    "price": 173.2,
+    "volume": 5536700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-05",
+    "price": 173.49,
+    "volume": 5370700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-04",
+    "price": 173.89,
+    "volume": 4619100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-06-03",
+    "price": 171.23,
+    "volume": 5032400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-31",
+    "price": 172.9,
+    "volume": 8155606
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-30",
+    "price": 170.48,
+    "volume": 3903880
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-29",
+    "price": 171.15,
+    "volume": 5352113
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-28",
+    "price": 173.38,
+    "volume": 6178117
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-24",
+    "price": 177.99,
+    "volume": 3447400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-23",
+    "price": 179.27,
+    "volume": 4009026
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-22",
+    "price": 182.09,
+    "volume": 4047000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-21",
+    "price": 181.08,
+    "volume": 3288100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-20",
+    "price": 180.31,
+    "volume": 3221153
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-17",
+    "price": 182.19,
+    "volume": 4449107
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-16",
+    "price": 183.11,
+    "volume": 5984739
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-15",
+    "price": 179.46,
+    "volume": 4785118
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-14",
+    "price": 179.87,
+    "volume": 3508716
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-13",
+    "price": 180.9,
+    "volume": 4408100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-10",
+    "price": 179.79,
+    "volume": 4201814
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-09",
+    "price": 178.06,
+    "volume": 2421414
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-08",
+    "price": 177.41,
+    "volume": 3400900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-07",
+    "price": 178.02,
+    "volume": 3708000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-06",
+    "price": 175.82,
+    "volume": 3576284
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-03",
+    "price": 176.15,
+    "volume": 3492120
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-02",
+    "price": 175.45,
+    "volume": 3964800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-05-01",
+    "price": 175.15,
+    "volume": 4340500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-30",
+    "price": 175.91,
+    "volume": 4465331
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-29",
+    "price": 176.14,
+    "volume": 3224500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-26",
+    "price": 175.58,
+    "volume": 4472102
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-25",
+    "price": 176.68,
+    "volume": 7441500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-24",
+    "price": 177.41,
+    "volume": 10016700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-23",
+    "price": 171.22,
+    "volume": 9145041
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-22",
+    "price": 176.46,
+    "volume": 7288701
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-19",
+    "price": 174.13,
+    "volume": 6636700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-18",
+    "price": 172.27,
+    "volume": 5574700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-17",
+    "price": 169.48,
+    "volume": 4069200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-16",
+    "price": 167.5,
+    "volume": 4569700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-15",
+    "price": 166.95,
+    "volume": 5133200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-12",
+    "price": 168.1,
+    "volume": 5453736
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-11",
+    "price": 168.36,
+    "volume": 4241563
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-10",
+    "price": 168.95,
+    "volume": 4581676
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-09",
+    "price": 170.61,
+    "volume": 3774304
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-08",
+    "price": 169.58,
+    "volume": 3755725
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-05",
+    "price": 169.14,
+    "volume": 4412390
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-04",
+    "price": 169.65,
+    "volume": 5422600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-03",
+    "price": 169.68,
+    "volume": 5828024
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-02",
+    "price": 171.44,
+    "volume": 5158500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-04-01",
+    "price": 172.98,
+    "volume": 4815400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-28",
+    "price": 175.01,
+    "volume": 5710539
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-27",
+    "price": 173.57,
+    "volume": 4911300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-26",
+    "price": 172.73,
+    "volume": 4593166
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-25",
+    "price": 172.6,
+    "volume": 3941985
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-22",
+    "price": 172.02,
+    "volume": 4106531
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-21",
+    "price": 172.45,
+    "volume": 4343007
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-20",
+    "price": 171.86,
+    "volume": 5046920
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-19",
+    "price": 171.8,
+    "volume": 7653926
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-18",
+    "price": 171.26,
+    "volume": 10478533
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-15",
+    "price": 164.66,
+    "volume": 21887300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-14",
+    "price": 164.78,
+    "volume": 5155326
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-13",
+    "price": 165.3,
+    "volume": 4585800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-12",
+    "price": 164.54,
+    "volume": 6158507
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-11",
+    "price": 164.73,
+    "volume": 5404800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-08",
+    "price": 163.05,
+    "volume": 6065300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-07",
+    "price": 163.11,
+    "volume": 5801610
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-06",
+    "price": 163,
+    "volume": 5302500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-05",
+    "price": 162.04,
+    "volume": 6631346
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-04",
+    "price": 165.37,
+    "volume": 4303882
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-03-01",
+    "price": 164.59,
+    "volume": 6109900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-29",
+    "price": 165.34,
+    "volume": 8489449
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-28",
+    "price": 167.03,
+    "volume": 5275300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-27",
+    "price": 168.16,
+    "volume": 3567644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-26",
+    "price": 168.26,
+    "volume": 3837000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-23",
+    "price": 169.6,
+    "volume": 6409800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-22",
+    "price": 168.25,
+    "volume": 7539232
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-21",
+    "price": 168.83,
+    "volume": 4195366
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-20",
+    "price": 168.65,
+    "volume": 6117900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-16",
+    "price": 166.32,
+    "volume": 5246000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-15",
+    "price": 167.86,
+    "volume": 4451400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-14",
+    "price": 167.52,
+    "volume": 5731904
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-13",
+    "price": 168.88,
+    "volume": 7302014
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-12",
+    "price": 170.61,
+    "volume": 7867544
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-09",
+    "price": 167.67,
+    "volume": 12731739
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-08",
+    "price": 173.85,
+    "volume": 9269700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-07",
+    "price": 171.47,
+    "volume": 5769700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-06",
+    "price": 171.42,
+    "volume": 5182879
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-05",
+    "price": 170.92,
+    "volume": 5142706
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-02",
+    "price": 170.97,
+    "volume": 5307883
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-02-01",
+    "price": 171.7,
+    "volume": 4920800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-31",
+    "price": 168.53,
+    "volume": 5769214
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-30",
+    "price": 169.62,
+    "volume": 4804243
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-29",
+    "price": 168.15,
+    "volume": 5713600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-26",
+    "price": 167.86,
+    "volume": 4849000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-25",
+    "price": 166.56,
+    "volume": 5373800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-24",
+    "price": 165.6,
+    "volume": 4984700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-23",
+    "price": 167.64,
+    "volume": 4932727
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-22",
+    "price": 165.11,
+    "volume": 5697428
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-19",
+    "price": 165.78,
+    "volume": 6528600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-18",
+    "price": 167.17,
+    "volume": 4709400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-17",
+    "price": 166.44,
+    "volume": 4392400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-16",
+    "price": 166.17,
+    "volume": 4576842
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-12",
+    "price": 167.27,
+    "volume": 3546260
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-11",
+    "price": 166.13,
+    "volume": 4800727
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-10",
+    "price": 166.92,
+    "volume": 4394900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-09",
+    "price": 167.17,
+    "volume": 6268800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-08",
+    "price": 169.11,
+    "volume": 5735600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-05",
+    "price": 168.94,
+    "volume": 5252500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-04",
+    "price": 171.47,
+    "volume": 6283225
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-03",
+    "price": 172.95,
+    "volume": 5588224
+  },
+  {
+    "symbol": "PEP",
+    "date": "2024-01-02",
+    "price": 172.91,
+    "volume": 5743112
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-29",
+    "price": 169.84,
+    "volume": 3291629
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-28",
+    "price": 169.39,
+    "volume": 2911277
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-27",
+    "price": 169.4,
+    "volume": 3502620
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-26",
+    "price": 168.86,
+    "volume": 2779405
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-22",
+    "price": 167.68,
+    "volume": 3030400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-21",
+    "price": 166.97,
+    "volume": 4374203
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-20",
+    "price": 165.69,
+    "volume": 5157800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-19",
+    "price": 167.95,
+    "volume": 4855900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-18",
+    "price": 168.91,
+    "volume": 5439517
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-15",
+    "price": 167,
+    "volume": 17734645
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-14",
+    "price": 168.25,
+    "volume": 7119300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-13",
+    "price": 172.01,
+    "volume": 6082100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-12",
+    "price": 168.47,
+    "volume": 4515820
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-11",
+    "price": 167.82,
+    "volume": 6912600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-08",
+    "price": 165.68,
+    "volume": 5115200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-07",
+    "price": 167.46,
+    "volume": 4934842
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-06",
+    "price": 167.51,
+    "volume": 4726646
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-05",
+    "price": 167.94,
+    "volume": 4553800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-04",
+    "price": 169.14,
+    "volume": 5323333
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-12-01",
+    "price": 168.69,
+    "volume": 4897439
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-30",
+    "price": 168.29,
+    "volume": 7346920
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-29",
+    "price": 167.16,
+    "volume": 4722423
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-28",
+    "price": 168.86,
+    "volume": 4056190
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-27",
+    "price": 168.32,
+    "volume": 3664714
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-24",
+    "price": 169.37,
+    "volume": 1751700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-22",
+    "price": 169.22,
+    "volume": 3235732
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-21",
+    "price": 167.8,
+    "volume": 3980000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-20",
+    "price": 166.52,
+    "volume": 4887350
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-17",
+    "price": 166.76,
+    "volume": 5583290
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-16",
+    "price": 167.71,
+    "volume": 5386432
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-15",
+    "price": 167.25,
+    "volume": 5611200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-14",
+    "price": 168.11,
+    "volume": 6238935
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-13",
+    "price": 167.77,
+    "volume": 5402335
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-10",
+    "price": 166.92,
+    "volume": 5553519
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-09",
+    "price": 166.16,
+    "volume": 5639300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-08",
+    "price": 167.39,
+    "volume": 4926736
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-07",
+    "price": 167.18,
+    "volume": 4687447
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-06",
+    "price": 166.7,
+    "volume": 5784687
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-03",
+    "price": 166.79,
+    "volume": 4063300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-02",
+    "price": 166.83,
+    "volume": 5413400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-11-01",
+    "price": 164.87,
+    "volume": 6682510
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-31",
+    "price": 163.28,
+    "volume": 5947523
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-30",
+    "price": 162.28,
+    "volume": 4626063
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-27",
+    "price": 159.62,
+    "volume": 5078025
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-26",
+    "price": 161.41,
+    "volume": 5147000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-25",
+    "price": 162.35,
+    "volume": 4534609
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-24",
+    "price": 162.19,
+    "volume": 5265200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-23",
+    "price": 160.08,
+    "volume": 5795800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-20",
+    "price": 160,
+    "volume": 5486500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-19",
+    "price": 160.56,
+    "volume": 6336801
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-18",
+    "price": 162.03,
+    "volume": 6650607
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-17",
+    "price": 160.37,
+    "volume": 6411422
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-16",
+    "price": 161.08,
+    "volume": 5605021
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-13",
+    "price": 160,
+    "volume": 6758821
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-12",
+    "price": 158.08,
+    "volume": 9024100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-11",
+    "price": 162.62,
+    "volume": 7371500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-10",
+    "price": 164.4,
+    "volume": 11456400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-09",
+    "price": 161.36,
+    "volume": 7244500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-06",
+    "price": 160.29,
+    "volume": 12774700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-05",
+    "price": 160.1,
+    "volume": 10556400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-04",
+    "price": 168.91,
+    "volume": 4134136
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-03",
+    "price": 167.7,
+    "volume": 4873523
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-10-02",
+    "price": 169.17,
+    "volume": 3838871
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-29",
+    "price": 169.44,
+    "volume": 5194292
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-28",
+    "price": 169.5,
+    "volume": 4841646
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-27",
+    "price": 169.57,
+    "volume": 5729900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-26",
+    "price": 172.52,
+    "volume": 5213700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-25",
+    "price": 174.33,
+    "volume": 3553687
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-22",
+    "price": 175.27,
+    "volume": 4542456
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-21",
+    "price": 175.38,
+    "volume": 5351155
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-20",
+    "price": 178.38,
+    "volume": 3696292
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-19",
+    "price": 178.32,
+    "volume": 3369556
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-18",
+    "price": 179.38,
+    "volume": 3182752
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-15",
+    "price": 179.84,
+    "volume": 11661200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-14",
+    "price": 181.23,
+    "volume": 4118300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-13",
+    "price": 179.68,
+    "volume": 3781554
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-12",
+    "price": 178.27,
+    "volume": 3331234
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-11",
+    "price": 178.93,
+    "volume": 4512875
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-08",
+    "price": 176.27,
+    "volume": 2995127
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-07",
+    "price": 176.4,
+    "volume": 4934402
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-06",
+    "price": 174.73,
+    "volume": 5933800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-05",
+    "price": 174.16,
+    "volume": 5081845
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-09-01",
+    "price": 175.32,
+    "volume": 4801400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-31",
+    "price": 177.92,
+    "volume": 5566735
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-30",
+    "price": 181.08,
+    "volume": 3153432
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-29",
+    "price": 180.93,
+    "volume": 4368626
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-28",
+    "price": 180.25,
+    "volume": 3189800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-25",
+    "price": 179.42,
+    "volume": 4710700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-24",
+    "price": 177.18,
+    "volume": 5710041
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-23",
+    "price": 178.12,
+    "volume": 4042732
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-22",
+    "price": 175.7,
+    "volume": 3491524
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-21",
+    "price": 177.05,
+    "volume": 4284317
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-18",
+    "price": 178.18,
+    "volume": 6020451
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-17",
+    "price": 178.45,
+    "volume": 4503030
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-16",
+    "price": 181.21,
+    "volume": 2633918
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-15",
+    "price": 181.35,
+    "volume": 3331931
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-14",
+    "price": 183.62,
+    "volume": 3385717
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-11",
+    "price": 184.04,
+    "volume": 2873848
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-10",
+    "price": 183.75,
+    "volume": 3727433
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-09",
+    "price": 183.98,
+    "volume": 4413100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-08",
+    "price": 184.44,
+    "volume": 5018032
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-07",
+    "price": 186.89,
+    "volume": 3323542
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-04",
+    "price": 184.6,
+    "volume": 4651100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-03",
+    "price": 187.12,
+    "volume": 2857659
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-02",
+    "price": 188.31,
+    "volume": 4286293
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-08-01",
+    "price": 186.82,
+    "volume": 2854164
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-31",
+    "price": 187.46,
+    "volume": 5688218
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-28",
+    "price": 190.31,
+    "volume": 5602369
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-27",
+    "price": 188.53,
+    "volume": 4141834
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-26",
+    "price": 191.6,
+    "volume": 3898900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-25",
+    "price": 191.36,
+    "volume": 3521616
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-24",
+    "price": 190.92,
+    "volume": 4226701
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-21",
+    "price": 190.16,
+    "volume": 15022100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-20",
+    "price": 189.3,
+    "volume": 5056531
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-19",
+    "price": 186.26,
+    "volume": 4140800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-18",
+    "price": 184.45,
+    "volume": 5684103
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-17",
+    "price": 185.63,
+    "volume": 5637931
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-14",
+    "price": 188.21,
+    "volume": 4467604
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-13",
+    "price": 187.53,
+    "volume": 8223100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-12",
+    "price": 183.17,
+    "volume": 6080100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-11",
+    "price": 183.98,
+    "volume": 3915229
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-10",
+    "price": 184.3,
+    "volume": 5508816
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-07",
+    "price": 183.08,
+    "volume": 6310132
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-06",
+    "price": 186.6,
+    "volume": 5592489
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-05",
+    "price": 186.58,
+    "volume": 5277266
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-07-03",
+    "price": 185.6,
+    "volume": 2389000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-30",
+    "price": 185.22,
+    "volume": 7635186
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-29",
+    "price": 183.88,
+    "volume": 5770445
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-28",
+    "price": 183.7,
+    "volume": 5194077
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-27",
+    "price": 186.22,
+    "volume": 5763039
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-26",
+    "price": 184.89,
+    "volume": 3706278
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-23",
+    "price": 186.07,
+    "volume": 7592675
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-22",
+    "price": 187.35,
+    "volume": 3186126
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-21",
+    "price": 185.43,
+    "volume": 3832400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-20",
+    "price": 185.31,
+    "volume": 4155059
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-16",
+    "price": 186.04,
+    "volume": 8925706
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-15",
+    "price": 185.71,
+    "volume": 4326317
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-14",
+    "price": 183.17,
+    "volume": 3559300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-13",
+    "price": 181.54,
+    "volume": 2838752
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-12",
+    "price": 181.9,
+    "volume": 4207398
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-09",
+    "price": 182.35,
+    "volume": 3200319
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-08",
+    "price": 182.1,
+    "volume": 4036711
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-07",
+    "price": 180.11,
+    "volume": 5162700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-06",
+    "price": 181.56,
+    "volume": 3975600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-05",
+    "price": 184.19,
+    "volume": 4311700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-02",
+    "price": 184.06,
+    "volume": 4288433
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-06-01",
+    "price": 182.19,
+    "volume": 5277433
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-31",
+    "price": 182.35,
+    "volume": 20414801
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-30",
+    "price": 181.61,
+    "volume": 4331831
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-26",
+    "price": 183.58,
+    "volume": 4449346
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-25",
+    "price": 183.8,
+    "volume": 4712884
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-24",
+    "price": 184.89,
+    "volume": 3721022
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-23",
+    "price": 186.07,
+    "volume": 6382300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-22",
+    "price": 186.64,
+    "volume": 5787000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-19",
+    "price": 191.84,
+    "volume": 3883181
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-18",
+    "price": 191.56,
+    "volume": 3709407
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-17",
+    "price": 192.06,
+    "volume": 4878900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-16",
+    "price": 193.43,
+    "volume": 5803757
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-15",
+    "price": 194.27,
+    "volume": 2946589
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-12",
+    "price": 196.12,
+    "volume": 2741000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-11",
+    "price": 195.34,
+    "volume": 3690431
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-10",
+    "price": 194.27,
+    "volume": 4352900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-09",
+    "price": 194.14,
+    "volume": 3087644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-08",
+    "price": 193.35,
+    "volume": 2249900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-05",
+    "price": 194.27,
+    "volume": 4146515
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-04",
+    "price": 193.38,
+    "volume": 4267611
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-03",
+    "price": 192.18,
+    "volume": 3389644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-02",
+    "price": 192.25,
+    "volume": 3712247
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-05-01",
+    "price": 191.68,
+    "volume": 3137839
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-28",
+    "price": 190.89,
+    "volume": 4608944
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-27",
+    "price": 189.69,
+    "volume": 4574524
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-26",
+    "price": 188.54,
+    "volume": 4481737
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-25",
+    "price": 189.71,
+    "volume": 6231626
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-24",
+    "price": 185.5,
+    "volume": 3540200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-21",
+    "price": 185.41,
+    "volume": 3781932
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-20",
+    "price": 185.33,
+    "volume": 3868200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-19",
+    "price": 184.72,
+    "volume": 2209904
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-18",
+    "price": 184.83,
+    "volume": 2438600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-17",
+    "price": 184.45,
+    "volume": 3224527
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-14",
+    "price": 183.51,
+    "volume": 2573142
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-13",
+    "price": 184.38,
+    "volume": 4303630
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-12",
+    "price": 182.56,
+    "volume": 3620900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-11",
+    "price": 182.92,
+    "volume": 3586784
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-10",
+    "price": 183.2,
+    "volume": 2408256
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-06",
+    "price": 184.36,
+    "volume": 3389758
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-05",
+    "price": 183.64,
+    "volume": 3826373
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-04",
+    "price": 181.85,
+    "volume": 3306483
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-04-03",
+    "price": 182.5,
+    "volume": 3902505
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-31",
+    "price": 182.3,
+    "volume": 4480030
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-30",
+    "price": 180.83,
+    "volume": 2743000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-29",
+    "price": 180.67,
+    "volume": 4496000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-28",
+    "price": 179.43,
+    "volume": 2850005
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-27",
+    "price": 179.49,
+    "volume": 4078600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-24",
+    "price": 179.09,
+    "volume": 3713938
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-23",
+    "price": 175.65,
+    "volume": 4655692
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-22",
+    "price": 176.51,
+    "volume": 4380800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-21",
+    "price": 178.01,
+    "volume": 3812191
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-20",
+    "price": 177.59,
+    "volume": 4367000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-17",
+    "price": 175.13,
+    "volume": 8854600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-16",
+    "price": 176.51,
+    "volume": 4734400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-15",
+    "price": 176.63,
+    "volume": 7099919
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-14",
+    "price": 173.53,
+    "volume": 6480800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-13",
+    "price": 173.71,
+    "volume": 8265278
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-10",
+    "price": 172.03,
+    "volume": 4129912
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-09",
+    "price": 171.8,
+    "volume": 4042139
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-08",
+    "price": 173.11,
+    "volume": 2920414
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-07",
+    "price": 172.64,
+    "volume": 4095127
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-06",
+    "price": 173.5,
+    "volume": 3611400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-03",
+    "price": 173.15,
+    "volume": 3627100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-02",
+    "price": 173.32,
+    "volume": 4476403
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-03-01",
+    "price": 171.33,
+    "volume": 5359107
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-28",
+    "price": 173.53,
+    "volume": 4317286
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-27",
+    "price": 175.91,
+    "volume": 3208625
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-24",
+    "price": 175.96,
+    "volume": 2959174
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-23",
+    "price": 176.31,
+    "volume": 3801421
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-22",
+    "price": 176.12,
+    "volume": 5299500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-21",
+    "price": 176.18,
+    "volume": 5797300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-17",
+    "price": 176.28,
+    "volume": 3952139
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-16",
+    "price": 175.51,
+    "volume": 4973200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-15",
+    "price": 176.01,
+    "volume": 4125761
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-14",
+    "price": 175.77,
+    "volume": 5203003
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-13",
+    "price": 177.77,
+    "volume": 5205130
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-10",
+    "price": 176.2,
+    "volume": 6176023
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-09",
+    "price": 172.78,
+    "volume": 9619400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-08",
+    "price": 171.16,
+    "volume": 5687332
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-07",
+    "price": 171.56,
+    "volume": 6044700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-06",
+    "price": 171.82,
+    "volume": 5640124
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-03",
+    "price": 169.12,
+    "volume": 5308238
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-02",
+    "price": 169.97,
+    "volume": 5653800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-02-01",
+    "price": 171.56,
+    "volume": 4147700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-31",
+    "price": 171.02,
+    "volume": 4665500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-30",
+    "price": 169.48,
+    "volume": 5191504
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-27",
+    "price": 169.62,
+    "volume": 5451407
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-26",
+    "price": 170.22,
+    "volume": 4558400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-25",
+    "price": 171.93,
+    "volume": 3852843
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-24",
+    "price": 170.69,
+    "volume": 4125624
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-23",
+    "price": 169.12,
+    "volume": 5440400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-20",
+    "price": 169.88,
+    "volume": 5779109
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-19",
+    "price": 169.63,
+    "volume": 4720400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-18",
+    "price": 171.62,
+    "volume": 5032620
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-17",
+    "price": 176.06,
+    "volume": 5032644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-13",
+    "price": 175.24,
+    "volume": 4720400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-12",
+    "price": 175.78,
+    "volume": 4246606
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-11",
+    "price": 178.05,
+    "volume": 4370110
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-10",
+    "price": 177.85,
+    "volume": 3817303
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-09",
+    "price": 179.33,
+    "volume": 3319247
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-06",
+    "price": 181.1,
+    "volume": 3713200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-05",
+    "price": 177.1,
+    "volume": 3647100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-04",
+    "price": 178.97,
+    "volume": 4771321
+  },
+  {
+    "symbol": "PEP",
+    "date": "2023-01-03",
+    "price": 179.41,
+    "volume": 5137404
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-30",
+    "price": 180.66,
+    "volume": 3136222
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-29",
+    "price": 181.98,
+    "volume": 2549240
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-28",
+    "price": 181.75,
+    "volume": 2694335
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-27",
+    "price": 183.07,
+    "volume": 3045045
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-23",
+    "price": 182.26,
+    "volume": 2197807
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-22",
+    "price": 181.09,
+    "volume": 4305729
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-21",
+    "price": 182.5,
+    "volume": 4237039
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-20",
+    "price": 181.23,
+    "volume": 3249006
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-19",
+    "price": 181.34,
+    "volume": 4447962
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-16",
+    "price": 180.34,
+    "volume": 15708100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-15",
+    "price": 180.25,
+    "volume": 6128214
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-14",
+    "price": 183.36,
+    "volume": 5392500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-13",
+    "price": 183.87,
+    "volume": 5634900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-12",
+    "price": 183.97,
+    "volume": 4691428
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-09",
+    "price": 183.1,
+    "volume": 3116234
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-08",
+    "price": 183.78,
+    "volume": 3800879
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-07",
+    "price": 182.18,
+    "volume": 4241812
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-06",
+    "price": 181.63,
+    "volume": 5835166
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-05",
+    "price": 183.12,
+    "volume": 4083270
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-02",
+    "price": 185.69,
+    "volume": 3547756
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-12-01",
+    "price": 185.9,
+    "volume": 4683431
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-30",
+    "price": 185.51,
+    "volume": 7915639
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-29",
+    "price": 182.59,
+    "volume": 4375521
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-28",
+    "price": 183.89,
+    "volume": 6411433
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-25",
+    "price": 184.11,
+    "volume": 1837000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-23",
+    "price": 185.08,
+    "volume": 2511122
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-22",
+    "price": 184.84,
+    "volume": 4109601
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-21",
+    "price": 184.82,
+    "volume": 4397600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-18",
+    "price": 181.33,
+    "volume": 4498176
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-17",
+    "price": 180.03,
+    "volume": 3921298
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-16",
+    "price": 178.33,
+    "volume": 4701109
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-15",
+    "price": 177.19,
+    "volume": 5153752
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-14",
+    "price": 176.73,
+    "volume": 5633044
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-11",
+    "price": 178.05,
+    "volume": 7390702
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-10",
+    "price": 181.7,
+    "volume": 6704136
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-09",
+    "price": 178.55,
+    "volume": 4723633
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-08",
+    "price": 180.71,
+    "volume": 3724937
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-07",
+    "price": 180.21,
+    "volume": 3246100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-04",
+    "price": 178.78,
+    "volume": 3922495
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-03",
+    "price": 177.78,
+    "volume": 3753800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-02",
+    "price": 178.24,
+    "volume": 4970857
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-11-01",
+    "price": 180.76,
+    "volume": 4084681
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-31",
+    "price": 181.58,
+    "volume": 4877200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-28",
+    "price": 182.23,
+    "volume": 6715501
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-27",
+    "price": 178.88,
+    "volume": 5424100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-26",
+    "price": 179.07,
+    "volume": 5138962
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-25",
+    "price": 178.27,
+    "volume": 5220027
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-24",
+    "price": 177.68,
+    "volume": 5316608
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-21",
+    "price": 173.06,
+    "volume": 5071500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-20",
+    "price": 171.46,
+    "volume": 4314000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-19",
+    "price": 173.36,
+    "volume": 5200248
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-18",
+    "price": 175.06,
+    "volume": 4547400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-17",
+    "price": 172.73,
+    "volume": 6401844
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-14",
+    "price": 170.19,
+    "volume": 5939034
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-13",
+    "price": 174.61,
+    "volume": 8412881
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-12",
+    "price": 169.39,
+    "volume": 9795304
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-11",
+    "price": 162.59,
+    "volume": 5222600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-10",
+    "price": 161.82,
+    "volume": 4839239
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-07",
+    "price": 161.61,
+    "volume": 4779200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-06",
+    "price": 162.8,
+    "volume": 4623429
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-05",
+    "price": 166,
+    "volume": 3538805
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-04",
+    "price": 167.11,
+    "volume": 4596800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-10-03",
+    "price": 165.25,
+    "volume": 5093400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-30",
+    "price": 163.26,
+    "volume": 5971934
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-29",
+    "price": 166.61,
+    "volume": 5167730
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-28",
+    "price": 168.67,
+    "volume": 5480944
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-27",
+    "price": 166.01,
+    "volume": 5400774
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-26",
+    "price": 168.45,
+    "volume": 5326578
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-23",
+    "price": 168.52,
+    "volume": 4565224
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-22",
+    "price": 168.6,
+    "volume": 4290658
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-21",
+    "price": 168.44,
+    "volume": 5134500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-20",
+    "price": 168.92,
+    "volume": 3872155
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-19",
+    "price": 168.73,
+    "volume": 3720900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-16",
+    "price": 166.97,
+    "volume": 12012628
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-15",
+    "price": 165.88,
+    "volume": 5461000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-14",
+    "price": 168.68,
+    "volume": 5156900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-13",
+    "price": 167.41,
+    "volume": 6926200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-12",
+    "price": 173.9,
+    "volume": 5953300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-09",
+    "price": 173.22,
+    "volume": 3662160
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-08",
+    "price": 172.67,
+    "volume": 3888130
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-07",
+    "price": 173.25,
+    "volume": 6074600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-06",
+    "price": 169.51,
+    "volume": 4900124
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-02",
+    "price": 170.66,
+    "volume": 5801500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-09-01",
+    "price": 172.85,
+    "volume": 4846285
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-31",
+    "price": 172.27,
+    "volume": 5597900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-30",
+    "price": 172.99,
+    "volume": 4026406
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-29",
+    "price": 174.49,
+    "volume": 4184510
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-26",
+    "price": 175.04,
+    "volume": 5246614
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-25",
+    "price": 179.27,
+    "volume": 3401800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-24",
+    "price": 179.26,
+    "volume": 3340600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-23",
+    "price": 178.37,
+    "volume": 2575000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-22",
+    "price": 178.45,
+    "volume": 3385000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-19",
+    "price": 180.17,
+    "volume": 3704000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-18",
+    "price": 180.4,
+    "volume": 3010644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-17",
+    "price": 180.22,
+    "volume": 2666289
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-16",
+    "price": 180.32,
+    "volume": 3395730
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-15",
+    "price": 179.28,
+    "volume": 3043178
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-12",
+    "price": 177.33,
+    "volume": 3756404
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-11",
+    "price": 175.04,
+    "volume": 2743920
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-10",
+    "price": 175.94,
+    "volume": 4041101
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-09",
+    "price": 174.5,
+    "volume": 3228826
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-08",
+    "price": 173.85,
+    "volume": 2846584
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-05",
+    "price": 174.55,
+    "volume": 3295615
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-04",
+    "price": 175.87,
+    "volume": 3822568
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-03",
+    "price": 176.83,
+    "volume": 4401333
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-02",
+    "price": 175.49,
+    "volume": 3781152
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-08-01",
+    "price": 176.95,
+    "volume": 4034834
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-29",
+    "price": 174.96,
+    "volume": 4215592
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-28",
+    "price": 174.84,
+    "volume": 3134222
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-27",
+    "price": 171.59,
+    "volume": 4479030
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-26",
+    "price": 171.83,
+    "volume": 3732349
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-25",
+    "price": 169.85,
+    "volume": 3357200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-22",
+    "price": 169.61,
+    "volume": 3757926
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-21",
+    "price": 168.51,
+    "volume": 3088309
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-20",
+    "price": 168.26,
+    "volume": 3460726
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-19",
+    "price": 170.06,
+    "volume": 4201600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-18",
+    "price": 168.26,
+    "volume": 3479707
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-15",
+    "price": 171.12,
+    "volume": 4659100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-14",
+    "price": 170.98,
+    "volume": 4218307
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-13",
+    "price": 170.1,
+    "volume": 4533125
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-12",
+    "price": 169.5,
+    "volume": 5201629
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-11",
+    "price": 170.47,
+    "volume": 4929822
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-08",
+    "price": 171.88,
+    "volume": 3483014
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-07",
+    "price": 170.36,
+    "volume": 5150219
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-06",
+    "price": 170.7,
+    "volume": 4209229
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-05",
+    "price": 169.01,
+    "volume": 4971671
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-07-01",
+    "price": 169.39,
+    "volume": 3918710
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-30",
+    "price": 166.66,
+    "volume": 6295100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-29",
+    "price": 166.73,
+    "volume": 3653622
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-28",
+    "price": 164.01,
+    "volume": 4391330
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-27",
+    "price": 166.35,
+    "volume": 4595815
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-24",
+    "price": 166.13,
+    "volume": 5951692
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-23",
+    "price": 164.1,
+    "volume": 5810719
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-22",
+    "price": 162.03,
+    "volume": 4706643
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-21",
+    "price": 160.71,
+    "volume": 4449779
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-17",
+    "price": 157.06,
+    "volume": 9881835
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-16",
+    "price": 157.03,
+    "volume": 7207930
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-15",
+    "price": 157.79,
+    "volume": 5940100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-14",
+    "price": 156.12,
+    "volume": 6159200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-13",
+    "price": 159.74,
+    "volume": 6300708
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-10",
+    "price": 162.52,
+    "volume": 5204718
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-09",
+    "price": 162.78,
+    "volume": 3522973
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-08",
+    "price": 165.73,
+    "volume": 2646900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-07",
+    "price": 166.56,
+    "volume": 4168300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-06",
+    "price": 165.54,
+    "volume": 3447947
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-03",
+    "price": 164.85,
+    "volume": 4222131
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-02",
+    "price": 166.68,
+    "volume": 4677458
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-06-01",
+    "price": 166.49,
+    "volume": 5613940
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-31",
+    "price": 167.75,
+    "volume": 13610000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-27",
+    "price": 171.77,
+    "volume": 6713600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-26",
+    "price": 170.11,
+    "volume": 5193863
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-25",
+    "price": 168.97,
+    "volume": 5781034
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-24",
+    "price": 167.82,
+    "volume": 6327782
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-23",
+    "price": 165.6,
+    "volume": 4657800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-20",
+    "price": 162.21,
+    "volume": 5768823
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-19",
+    "price": 161.2,
+    "volume": 6423817
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-18",
+    "price": 163.65,
+    "volume": 8875409
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-17",
+    "price": 174.46,
+    "volume": 5012200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-16",
+    "price": 175.47,
+    "volume": 5317216
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-13",
+    "price": 173.72,
+    "volume": 4714614
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-12",
+    "price": 170.4,
+    "volume": 6473535
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-11",
+    "price": 170.66,
+    "volume": 5376900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-10",
+    "price": 171.49,
+    "volume": 5936727
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-09",
+    "price": 171.7,
+    "volume": 7269100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-06",
+    "price": 170.41,
+    "volume": 5824752
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-05",
+    "price": 170.39,
+    "volume": 6534321
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-04",
+    "price": 173.86,
+    "volume": 6231681
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-03",
+    "price": 167.99,
+    "volume": 5564900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-05-02",
+    "price": 167.76,
+    "volume": 7692131
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-29",
+    "price": 171.71,
+    "volume": 6505600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-28",
+    "price": 177.5,
+    "volume": 5235831
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-27",
+    "price": 174.85,
+    "volume": 5180479
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-26",
+    "price": 173.3,
+    "volume": 7386600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-25",
+    "price": 173.74,
+    "volume": 7369911
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-22",
+    "price": 172.15,
+    "volume": 5864027
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-21",
+    "price": 174.84,
+    "volume": 3701300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-20",
+    "price": 175.47,
+    "volume": 4197764
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-19",
+    "price": 172.9,
+    "volume": 3642000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-18",
+    "price": 170.42,
+    "volume": 3086009
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-14",
+    "price": 171.9,
+    "volume": 4834300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-13",
+    "price": 173,
+    "volume": 4394054
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-12",
+    "price": 173.3,
+    "volume": 3924333
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-11",
+    "price": 172.6,
+    "volume": 3825328
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-08",
+    "price": 173.13,
+    "volume": 3883183
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-07",
+    "price": 172.55,
+    "volume": 5041686
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-06",
+    "price": 172.39,
+    "volume": 4294868
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-05",
+    "price": 169.5,
+    "volume": 4480879
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-04",
+    "price": 169.32,
+    "volume": 3759985
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-04-01",
+    "price": 169.76,
+    "volume": 3239641
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-31",
+    "price": 167.38,
+    "volume": 6076200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-30",
+    "price": 167.96,
+    "volume": 3871556
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-29",
+    "price": 168.19,
+    "volume": 4440480
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-28",
+    "price": 165.73,
+    "volume": 4308007
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-25",
+    "price": 165.24,
+    "volume": 4147791
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-24",
+    "price": 164.47,
+    "volume": 3160320
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-23",
+    "price": 163.48,
+    "volume": 4533800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-22",
+    "price": 164.34,
+    "volume": 5779200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-21",
+    "price": 162.56,
+    "volume": 5122600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-18",
+    "price": 162.79,
+    "volume": 12123178
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-17",
+    "price": 160.94,
+    "volume": 3587628
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-16",
+    "price": 159.7,
+    "volume": 6299191
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-15",
+    "price": 159,
+    "volume": 6203400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-14",
+    "price": 155.89,
+    "volume": 6075600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-11",
+    "price": 153.73,
+    "volume": 4762675
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-10",
+    "price": 154.51,
+    "volume": 6103700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-09",
+    "price": 157.4,
+    "volume": 5764927
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-08",
+    "price": 157.87,
+    "volume": 6163724
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-07",
+    "price": 162.45,
+    "volume": 6319500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-04",
+    "price": 165.75,
+    "volume": 6341095
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-03",
+    "price": 163.27,
+    "volume": 5352221
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-02",
+    "price": 164.52,
+    "volume": 5452100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-03-01",
+    "price": 162.27,
+    "volume": 5108127
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-28",
+    "price": 163.74,
+    "volume": 7677000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-25",
+    "price": 168.38,
+    "volume": 6535637
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-24",
+    "price": 163.79,
+    "volume": 8888800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-23",
+    "price": 166.69,
+    "volume": 5813018
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-22",
+    "price": 168.35,
+    "volume": 7734132
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-18",
+    "price": 167.71,
+    "volume": 5181629
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-17",
+    "price": 166.75,
+    "volume": 5156836
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-16",
+    "price": 166.3,
+    "volume": 4161755
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-15",
+    "price": 165.96,
+    "volume": 4943851
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-14",
+    "price": 166.7,
+    "volume": 6822570
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-11",
+    "price": 168.58,
+    "volume": 7299600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-10",
+    "price": 168.37,
+    "volume": 7899839
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-09",
+    "price": 171.94,
+    "volume": 6780200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-08",
+    "price": 172.02,
+    "volume": 3957700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-07",
+    "price": 171.81,
+    "volume": 4813468
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-04",
+    "price": 172.49,
+    "volume": 4592442
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-03",
+    "price": 175.37,
+    "volume": 4632700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-02",
+    "price": 175.47,
+    "volume": 5767000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-02-01",
+    "price": 172.34,
+    "volume": 5952749
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-31",
+    "price": 173.52,
+    "volume": 5908136
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-28",
+    "price": 172.67,
+    "volume": 5796013
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-27",
+    "price": 169.37,
+    "volume": 6545927
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-26",
+    "price": 169.53,
+    "volume": 6841800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-25",
+    "price": 171.34,
+    "volume": 6536944
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-24",
+    "price": 173.33,
+    "volume": 9272361
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-21",
+    "price": 174.22,
+    "volume": 6753200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-20",
+    "price": 173.94,
+    "volume": 6284200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-19",
+    "price": 175.21,
+    "volume": 6424500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-18",
+    "price": 173.96,
+    "volume": 5790386
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-14",
+    "price": 175.64,
+    "volume": 4474579
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-13",
+    "price": 174.18,
+    "volume": 4310300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-12",
+    "price": 173.9,
+    "volume": 5268000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-11",
+    "price": 174.09,
+    "volume": 6452499
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-10",
+    "price": 174.17,
+    "volume": 5056068
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-07",
+    "price": 174.08,
+    "volume": 4916044
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-06",
+    "price": 173.86,
+    "volume": 4288788
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-05",
+    "price": 173.82,
+    "volume": 6564600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-04",
+    "price": 173.23,
+    "volume": 4717843
+  },
+  {
+    "symbol": "PEP",
+    "date": "2022-01-03",
+    "price": 172.98,
+    "volume": 5489586
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-31",
+    "price": 173.71,
+    "volume": 2914941
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-30",
+    "price": 172.67,
+    "volume": 1988984
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-29",
+    "price": 172.97,
+    "volume": 2299691
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-28",
+    "price": 172.36,
+    "volume": 2333095
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-27",
+    "price": 171.47,
+    "volume": 2868961
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-23",
+    "price": 169.78,
+    "volume": 3241793
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-22",
+    "price": 169.97,
+    "volume": 4362937
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-21",
+    "price": 168.92,
+    "volume": 3401433
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-20",
+    "price": 169.42,
+    "volume": 5263606
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-17",
+    "price": 168.3,
+    "volume": 10181243
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-16",
+    "price": 171.82,
+    "volume": 6909923
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-15",
+    "price": 171.57,
+    "volume": 5507820
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-14",
+    "price": 169.39,
+    "volume": 4985000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-13",
+    "price": 169.81,
+    "volume": 5411817
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-10",
+    "price": 168.97,
+    "volume": 5025801
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-09",
+    "price": 166.31,
+    "volume": 3644500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-08",
+    "price": 166.52,
+    "volume": 3891904
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-07",
+    "price": 166.23,
+    "volume": 5460142
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-06",
+    "price": 166.42,
+    "volume": 5403100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-03",
+    "price": 164.71,
+    "volume": 6465900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-02",
+    "price": 160.62,
+    "volume": 4619832
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-12-01",
+    "price": 160.16,
+    "volume": 5385896
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-30",
+    "price": 159.78,
+    "volume": 7610010
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-29",
+    "price": 164.14,
+    "volume": 5305800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-26",
+    "price": 161.14,
+    "volume": 3402900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-24",
+    "price": 163.74,
+    "volume": 3309539
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-23",
+    "price": 165.25,
+    "volume": 3878130
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-22",
+    "price": 164.15,
+    "volume": 4157558
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-19",
+    "price": 163.81,
+    "volume": 5247738
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-18",
+    "price": 163.42,
+    "volume": 3498900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-17",
+    "price": 163.37,
+    "volume": 3332233
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-16",
+    "price": 163.31,
+    "volume": 2899400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-15",
+    "price": 163.8,
+    "volume": 3357116
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-12",
+    "price": 162.65,
+    "volume": 3540986
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-11",
+    "price": 162.69,
+    "volume": 2453158
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-10",
+    "price": 164.04,
+    "volume": 2683500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-09",
+    "price": 163.51,
+    "volume": 3778818
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-08",
+    "price": 162.43,
+    "volume": 5766611
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-05",
+    "price": 166,
+    "volume": 3754300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-04",
+    "price": 164.31,
+    "volume": 3310257
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-03",
+    "price": 164.3,
+    "volume": 3595043
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-02",
+    "price": 162.74,
+    "volume": 3464557
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-11-01",
+    "price": 161.26,
+    "volume": 3017100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-29",
+    "price": 161.6,
+    "volume": 4558200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-28",
+    "price": 161.62,
+    "volume": 3589600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-27",
+    "price": 160.61,
+    "volume": 3751840
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-26",
+    "price": 161.17,
+    "volume": 3684748
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-25",
+    "price": 159.22,
+    "volume": 3281200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-22",
+    "price": 159.97,
+    "volume": 3240314
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-21",
+    "price": 159.18,
+    "volume": 4164717
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-20",
+    "price": 161.31,
+    "volume": 3716590
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-19",
+    "price": 160.1,
+    "volume": 3125832
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-18",
+    "price": 158.09,
+    "volume": 3274249
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-15",
+    "price": 158.81,
+    "volume": 4313000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-14",
+    "price": 159.26,
+    "volume": 3677272
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-13",
+    "price": 157.99,
+    "volume": 3601013
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-12",
+    "price": 156.93,
+    "volume": 3195707
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-11",
+    "price": 156.24,
+    "volume": 2738194
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-08",
+    "price": 156.03,
+    "volume": 4186222
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-07",
+    "price": 156.39,
+    "volume": 4605134
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-06",
+    "price": 154.96,
+    "volume": 5499234
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-05",
+    "price": 151.09,
+    "volume": 6103136
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-04",
+    "price": 150.2,
+    "volume": 5404900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-10-01",
+    "price": 150.95,
+    "volume": 4274300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-30",
+    "price": 150.41,
+    "volume": 4950798
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-29",
+    "price": 152.3,
+    "volume": 3326568
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-28",
+    "price": 151.05,
+    "volume": 5911130
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-27",
+    "price": 152.72,
+    "volume": 4482063
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-24",
+    "price": 154.2,
+    "volume": 2366160
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-23",
+    "price": 154.13,
+    "volume": 2712534
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-22",
+    "price": 154.01,
+    "volume": 3001270
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-21",
+    "price": 153.54,
+    "volume": 4479924
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-20",
+    "price": 153.61,
+    "volume": 5484616
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-17",
+    "price": 154.13,
+    "volume": 8127400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-16",
+    "price": 155.56,
+    "volume": 4589993
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-15",
+    "price": 156.02,
+    "volume": 3702573
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-14",
+    "price": 155.15,
+    "volume": 2808919
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-13",
+    "price": 155.76,
+    "volume": 3367464
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-10",
+    "price": 155.46,
+    "volume": 3851531
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-09",
+    "price": 155.73,
+    "volume": 3560737
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-08",
+    "price": 156.72,
+    "volume": 3199100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-07",
+    "price": 154.53,
+    "volume": 4610142
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-03",
+    "price": 157.09,
+    "volume": 2035100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-02",
+    "price": 156.95,
+    "volume": 2862535
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-09-01",
+    "price": 157.91,
+    "volume": 4231400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-31",
+    "price": 156.39,
+    "volume": 5291405
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-30",
+    "price": 156,
+    "volume": 2540619
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-27",
+    "price": 154.94,
+    "volume": 4166500
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-26",
+    "price": 154.63,
+    "volume": 3220727
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-25",
+    "price": 155.2,
+    "volume": 3346864
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-24",
+    "price": 155.89,
+    "volume": 3760800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-23",
+    "price": 157.85,
+    "volume": 3102117
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-20",
+    "price": 158.35,
+    "volume": 3484313
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-19",
+    "price": 158.91,
+    "volume": 4745624
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-18",
+    "price": 156.28,
+    "volume": 3419286
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-17",
+    "price": 157.9,
+    "volume": 3736382
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-16",
+    "price": 158.05,
+    "volume": 3224020
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-13",
+    "price": 156.52,
+    "volume": 2113883
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-12",
+    "price": 155.07,
+    "volume": 1958700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-11",
+    "price": 155.04,
+    "volume": 3058025
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-10",
+    "price": 154.43,
+    "volume": 2670440
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-09",
+    "price": 154.35,
+    "volume": 2636653
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-06",
+    "price": 154.33,
+    "volume": 3430902
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-05",
+    "price": 154.31,
+    "volume": 3733574
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-04",
+    "price": 154.05,
+    "volume": 4846333
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-03",
+    "price": 156.67,
+    "volume": 3359900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-08-02",
+    "price": 156.32,
+    "volume": 3426099
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-30",
+    "price": 156.95,
+    "volume": 3757332
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-29",
+    "price": 156.81,
+    "volume": 3055728
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-28",
+    "price": 156.49,
+    "volume": 3556918
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-27",
+    "price": 157.94,
+    "volume": 4043900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-26",
+    "price": 157.07,
+    "volume": 2999895
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-23",
+    "price": 157.18,
+    "volume": 3588671
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-22",
+    "price": 155.19,
+    "volume": 3333589
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-21",
+    "price": 155.24,
+    "volume": 4906123
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-20",
+    "price": 155.82,
+    "volume": 5213868
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-19",
+    "price": 155.8,
+    "volume": 5750370
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-16",
+    "price": 155.82,
+    "volume": 5852919
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-15",
+    "price": 155.25,
+    "volume": 4920713
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-14",
+    "price": 154.54,
+    "volume": 6390323
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-13",
+    "price": 152.96,
+    "volume": 8750828
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-12",
+    "price": 149.51,
+    "volume": 4873700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-09",
+    "price": 149.48,
+    "volume": 4088600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-08",
+    "price": 149.86,
+    "volume": 4216000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-07",
+    "price": 149.79,
+    "volume": 4225000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-06",
+    "price": 149.13,
+    "volume": 4313848
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-02",
+    "price": 148.91,
+    "volume": 3835526
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-07-01",
+    "price": 148.2,
+    "volume": 3997616
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-30",
+    "price": 148.17,
+    "volume": 4943700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-29",
+    "price": 146.94,
+    "volume": 3197991
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-28",
+    "price": 147.04,
+    "volume": 4282905
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-25",
+    "price": 146.41,
+    "volume": 6387907
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-24",
+    "price": 145.67,
+    "volume": 3818927
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-23",
+    "price": 144.85,
+    "volume": 3901700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-22",
+    "price": 146.78,
+    "volume": 3518000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-21",
+    "price": 146.56,
+    "volume": 4904511
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-18",
+    "price": 145.42,
+    "volume": 10661700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-17",
+    "price": 148.52,
+    "volume": 5316467
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-16",
+    "price": 147.1,
+    "volume": 5492100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-15",
+    "price": 148.58,
+    "volume": 4256583
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-14",
+    "price": 148.57,
+    "volume": 3831939
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-11",
+    "price": 147.69,
+    "volume": 4364644
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-10",
+    "price": 147.6,
+    "volume": 4698243
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-09",
+    "price": 146.1,
+    "volume": 4008000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-08",
+    "price": 146.37,
+    "volume": 5997200
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-07",
+    "price": 147.75,
+    "volume": 4724137
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-04",
+    "price": 147.84,
+    "volume": 4427418
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-03",
+    "price": 147.67,
+    "volume": 4651603
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-02",
+    "price": 148.22,
+    "volume": 4546900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-06-01",
+    "price": 147.63,
+    "volume": 5530380
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-28",
+    "price": 147.94,
+    "volume": 4913700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-27",
+    "price": 146.51,
+    "volume": 9203638
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-26",
+    "price": 148.3,
+    "volume": 4462626
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-25",
+    "price": 148.3,
+    "volume": 4649319
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-24",
+    "price": 147.85,
+    "volume": 3627800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-21",
+    "price": 147.1,
+    "volume": 5194240
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-20",
+    "price": 147.23,
+    "volume": 3964600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-19",
+    "price": 145.43,
+    "volume": 4432736
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-18",
+    "price": 145.51,
+    "volume": 4527300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-17",
+    "price": 146.17,
+    "volume": 3747348
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-14",
+    "price": 146.59,
+    "volume": 4224700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-13",
+    "price": 146.37,
+    "volume": 4849478
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-12",
+    "price": 144.23,
+    "volume": 5652038
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-11",
+    "price": 145.65,
+    "volume": 5266131
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-10",
+    "price": 146.72,
+    "volume": 5270600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-07",
+    "price": 145.56,
+    "volume": 4181026
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-06",
+    "price": 145.56,
+    "volume": 4472242
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-05",
+    "price": 143.89,
+    "volume": 5305240
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-04",
+    "price": 143.96,
+    "volume": 6603849
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-05-03",
+    "price": 145.79,
+    "volume": 6109800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-30",
+    "price": 144.16,
+    "volume": 5051395
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-29",
+    "price": 143.94,
+    "volume": 4699900
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-28",
+    "price": 141.83,
+    "volume": 4962725
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-27",
+    "price": 142.89,
+    "volume": 4693738
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-26",
+    "price": 143.36,
+    "volume": 5817715
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-23",
+    "price": 145.83,
+    "volume": 4354823
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-22",
+    "price": 146.07,
+    "volume": 4904476
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-21",
+    "price": 146.98,
+    "volume": 6316148
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-20",
+    "price": 145.71,
+    "volume": 4999846
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-19",
+    "price": 144.75,
+    "volume": 6621282
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-16",
+    "price": 144.16,
+    "volume": 6481400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-15",
+    "price": 142.31,
+    "volume": 4777100
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-14",
+    "price": 142.11,
+    "volume": 4685300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-13",
+    "price": 143.05,
+    "volume": 5283300
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-12",
+    "price": 143.02,
+    "volume": 4386781
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-09",
+    "price": 142.57,
+    "volume": 4950949
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-08",
+    "price": 142.54,
+    "volume": 6725340
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-07",
+    "price": 143.41,
+    "volume": 4849222
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-06",
+    "price": 143.67,
+    "volume": 4751927
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-05",
+    "price": 143.16,
+    "volume": 5980728
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-04-01",
+    "price": 141.28,
+    "volume": 4823400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-31",
+    "price": 141.45,
+    "volume": 6257943
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-30",
+    "price": 142.54,
+    "volume": 4372866
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-29",
+    "price": 144.81,
+    "volume": 6105800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-26",
+    "price": 142.7,
+    "volume": 6785600
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-25",
+    "price": 139.63,
+    "volume": 5827777
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-24",
+    "price": 138.81,
+    "volume": 5082339
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-23",
+    "price": 139.46,
+    "volume": 6978400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-22",
+    "price": 137.8,
+    "volume": 7813400
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-19",
+    "price": 134.5,
+    "volume": 16114414
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-18",
+    "price": 132.53,
+    "volume": 6476700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-17",
+    "price": 133.62,
+    "volume": 6199529
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-16",
+    "price": 134.01,
+    "volume": 5544740
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-15",
+    "price": 133.03,
+    "volume": 5389458
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-12",
+    "price": 133.04,
+    "volume": 5275179
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-11",
+    "price": 133.22,
+    "volume": 4459150
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-10",
+    "price": 133.58,
+    "volume": 7791700
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-09",
+    "price": 132.25,
+    "volume": 8930215
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-08",
+    "price": 132.13,
+    "volume": 8634912
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-05",
+    "price": 133.03,
+    "volume": 10186542
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-04",
+    "price": 128.83,
+    "volume": 9102800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-03",
+    "price": 129.14,
+    "volume": 7505800
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-02",
+    "price": 131.07,
+    "volume": 5614000
+  },
+  {
+    "symbol": "PEP",
+    "date": "2021-03-01",
+    "price": 130.62,
+    "volume": 5287738
+  }
+]

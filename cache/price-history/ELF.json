@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "ELF",
+    "date": "2026-02-27",
+    "price": 92.05,
+    "volume": 1723013
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-26",
+    "price": 94.65,
+    "volume": 1569300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-25",
+    "price": 93.09,
+    "volume": 1717119
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-24",
+    "price": 94.83,
+    "volume": 1470200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-23",
+    "price": 90.07,
+    "volume": 1666839
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-20",
+    "price": 94.02,
+    "volume": 2967000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-19",
+    "price": 91.13,
+    "volume": 1916823
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-18",
+    "price": 88.04,
+    "volume": 2004522
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-17",
+    "price": 87.28,
+    "volume": 3122400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-13",
+    "price": 81.5,
+    "volume": 2937112
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-12",
+    "price": 74.33,
+    "volume": 1948100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-11",
+    "price": 76.82,
+    "volume": 2522523
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-10",
+    "price": 73.26,
+    "volume": 2909900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-09",
+    "price": 74.46,
+    "volume": 4121900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-06",
+    "price": 82.09,
+    "volume": 3172600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-05",
+    "price": 76.86,
+    "volume": 5552800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-04",
+    "price": 84.63,
+    "volume": 4127500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-03",
+    "price": 84.81,
+    "volume": 2266213
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-02-02",
+    "price": 86.15,
+    "volume": 1774400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-30",
+    "price": 84.99,
+    "volume": 1697300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-29",
+    "price": 85.03,
+    "volume": 1638700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-28",
+    "price": 84.98,
+    "volume": 1842100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-27",
+    "price": 86.73,
+    "volume": 1454446
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-26",
+    "price": 88.8,
+    "volume": 2461700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-23",
+    "price": 94.16,
+    "volume": 1475800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-22",
+    "price": 93.61,
+    "volume": 1457946
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-21",
+    "price": 91.82,
+    "volume": 1498900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-20",
+    "price": 89.04,
+    "volume": 1853800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-16",
+    "price": 89.99,
+    "volume": 1818600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-15",
+    "price": 89.18,
+    "volume": 1563241
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-14",
+    "price": 86.26,
+    "volume": 1939727
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-13",
+    "price": 87.56,
+    "volume": 1466925
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-12",
+    "price": 86.58,
+    "volume": 1520314
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-09",
+    "price": 87.02,
+    "volume": 1739736
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-08",
+    "price": 86.05,
+    "volume": 3035129
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-07",
+    "price": 82.1,
+    "volume": 1879849
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-06",
+    "price": 79.12,
+    "volume": 2279800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-05",
+    "price": 76.84,
+    "volume": 1929500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2026-01-02",
+    "price": 77.81,
+    "volume": 1510700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-31",
+    "price": 76.04,
+    "volume": 1349600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-30",
+    "price": 76.8,
+    "volume": 1742108
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-29",
+    "price": 79.43,
+    "volume": 1506900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-26",
+    "price": 80.42,
+    "volume": 840254
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-24",
+    "price": 79.76,
+    "volume": 630425
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-23",
+    "price": 78.46,
+    "volume": 1352904
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-22",
+    "price": 79.14,
+    "volume": 1560300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-19",
+    "price": 80.44,
+    "volume": 2304219
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-18",
+    "price": 77.26,
+    "volume": 1514625
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-17",
+    "price": 78.85,
+    "volume": 1481336
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-16",
+    "price": 78.77,
+    "volume": 1626722
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-15",
+    "price": 78.6,
+    "volume": 1777345
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-12",
+    "price": 76.36,
+    "volume": 1407200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-11",
+    "price": 77.99,
+    "volume": 1559700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-10",
+    "price": 78.62,
+    "volume": 1674840
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-09",
+    "price": 77.42,
+    "volume": 1886500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-08",
+    "price": 77.28,
+    "volume": 2370900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-05",
+    "price": 81.4,
+    "volume": 2595900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-04",
+    "price": 81.62,
+    "volume": 1994928
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-03",
+    "price": 80.37,
+    "volume": 4350606
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-02",
+    "price": 74.2,
+    "volume": 1782535
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-12-01",
+    "price": 76.66,
+    "volume": 2216644
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-28",
+    "price": 76.17,
+    "volume": 1055721
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-26",
+    "price": 75.23,
+    "volume": 1625229
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-25",
+    "price": 72.11,
+    "volume": 1654037
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-24",
+    "price": 71.25,
+    "volume": 1806200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-21",
+    "price": 70.05,
+    "volume": 2120800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-20",
+    "price": 68.42,
+    "volume": 2561000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-19",
+    "price": 71.24,
+    "volume": 2241300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-18",
+    "price": 73.06,
+    "volume": 1946400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-17",
+    "price": 72.79,
+    "volume": 3153300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-14",
+    "price": 73.51,
+    "volume": 2923345
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-13",
+    "price": 74.39,
+    "volume": 2776442
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-12",
+    "price": 77.74,
+    "volume": 2603826
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-11",
+    "price": 77.97,
+    "volume": 3078223
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-10",
+    "price": 79.85,
+    "volume": 6603800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-07",
+    "price": 73.74,
+    "volume": 8311000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-06",
+    "price": 76.54,
+    "volume": 19361100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-05",
+    "price": 117.83,
+    "volume": 4628300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-04",
+    "price": 118.29,
+    "volume": 1514800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-11-03",
+    "price": 120.94,
+    "volume": 1303721
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-31",
+    "price": 122.14,
+    "volume": 1828800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-30",
+    "price": 123.11,
+    "volume": 890028
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-29",
+    "price": 126.99,
+    "volume": 1045900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-28",
+    "price": 131.7,
+    "volume": 1518004
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-27",
+    "price": 126.18,
+    "volume": 1122700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-24",
+    "price": 122.81,
+    "volume": 1004145
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-23",
+    "price": 125.02,
+    "volume": 1125800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-22",
+    "price": 123.66,
+    "volume": 1160825
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-21",
+    "price": 127.13,
+    "volume": 1159343
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-20",
+    "price": 127.42,
+    "volume": 2796848
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-17",
+    "price": 136.92,
+    "volume": 1375300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-16",
+    "price": 135.85,
+    "volume": 1319400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-15",
+    "price": 134.08,
+    "volume": 1261300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-14",
+    "price": 132.49,
+    "volume": 1199216
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-13",
+    "price": 132.69,
+    "volume": 1383300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-10",
+    "price": 129.69,
+    "volume": 3102800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-09",
+    "price": 144.97,
+    "volume": 788200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-08",
+    "price": 145.07,
+    "volume": 1423600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-07",
+    "price": 140.6,
+    "volume": 964200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-06",
+    "price": 138.32,
+    "volume": 1392409
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-03",
+    "price": 134.61,
+    "volume": 1055000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-02",
+    "price": 135.91,
+    "volume": 1018368
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-10-01",
+    "price": 135.2,
+    "volume": 1261226
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-30",
+    "price": 132.48,
+    "volume": 1358100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-29",
+    "price": 131.2,
+    "volume": 1185142
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-26",
+    "price": 129.77,
+    "volume": 1353900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-25",
+    "price": 130.7,
+    "volume": 1702400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-24",
+    "price": 128.82,
+    "volume": 1852000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-23",
+    "price": 136.07,
+    "volume": 1408049
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-22",
+    "price": 137.32,
+    "volume": 1572690
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-19",
+    "price": 139.96,
+    "volume": 2373100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-18",
+    "price": 146.67,
+    "volume": 1730138
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-17",
+    "price": 146.11,
+    "volume": 2321342
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-16",
+    "price": 143.28,
+    "volume": 1784131
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-15",
+    "price": 144.37,
+    "volume": 1705700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-12",
+    "price": 135.22,
+    "volume": 1242800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-11",
+    "price": 138.07,
+    "volume": 1290700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-10",
+    "price": 134.44,
+    "volume": 1903400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-09",
+    "price": 138.83,
+    "volume": 1523700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-08",
+    "price": 138,
+    "volume": 2355822
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-05",
+    "price": 133.97,
+    "volume": 2400603
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-04",
+    "price": 133.72,
+    "volume": 1996340
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-03",
+    "price": 130.16,
+    "volume": 1521549
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-09-02",
+    "price": 125.6,
+    "volume": 1987203
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-29",
+    "price": 125,
+    "volume": 1811920
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-28",
+    "price": 129.35,
+    "volume": 2200200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-27",
+    "price": 124.9,
+    "volume": 1988917
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-26",
+    "price": 115.04,
+    "volume": 1270513
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-25",
+    "price": 113.94,
+    "volume": 1571500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-22",
+    "price": 118.15,
+    "volume": 1454600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-21",
+    "price": 116.31,
+    "volume": 2385600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-20",
+    "price": 120.44,
+    "volume": 1554400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-19",
+    "price": 119.83,
+    "volume": 1757500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-18",
+    "price": 123.74,
+    "volume": 2125127
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-15",
+    "price": 116.37,
+    "volume": 2125312
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-14",
+    "price": 119.6,
+    "volume": 1864200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-13",
+    "price": 122.92,
+    "volume": 2356200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-12",
+    "price": 116.75,
+    "volume": 2721431
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-11",
+    "price": 111.67,
+    "volume": 6186800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-08",
+    "price": 101.77,
+    "volume": 3436300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-07",
+    "price": 99.92,
+    "volume": 7626200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-06",
+    "price": 110.39,
+    "volume": 3504342
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-05",
+    "price": 109.84,
+    "volume": 2270200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-04",
+    "price": 116.28,
+    "volume": 1355924
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-08-01",
+    "price": 116.42,
+    "volume": 1372900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-31",
+    "price": 121.19,
+    "volume": 1031400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-30",
+    "price": 123.28,
+    "volume": 1276027
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-29",
+    "price": 119.93,
+    "volume": 1388300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-28",
+    "price": 120.95,
+    "volume": 1403100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-25",
+    "price": 120.86,
+    "volume": 1355231
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-24",
+    "price": 119.22,
+    "volume": 1216125
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-23",
+    "price": 117.66,
+    "volume": 1288803
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-22",
+    "price": 116.05,
+    "volume": 1533542
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-21",
+    "price": 111.61,
+    "volume": 1809900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-18",
+    "price": 117.63,
+    "volume": 2541500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-17",
+    "price": 110.9,
+    "volume": 1767000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-16",
+    "price": 108.51,
+    "volume": 1629413
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-15",
+    "price": 106.86,
+    "volume": 2120030
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-14",
+    "price": 106.02,
+    "volume": 2192500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-11",
+    "price": 109.98,
+    "volume": 2015308
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-10",
+    "price": 115.37,
+    "volume": 2223839
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-09",
+    "price": 117.66,
+    "volume": 1580000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-08",
+    "price": 116.99,
+    "volume": 3481710
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-07",
+    "price": 122.39,
+    "volume": 2013800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-03",
+    "price": 130.98,
+    "volume": 789400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-02",
+    "price": 129.48,
+    "volume": 1484334
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-07-01",
+    "price": 126.67,
+    "volume": 1633316
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-30",
+    "price": 124.44,
+    "volume": 1177911
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-27",
+    "price": 126.33,
+    "volume": 2436200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-26",
+    "price": 124.89,
+    "volume": 1502613
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-25",
+    "price": 125.45,
+    "volume": 1627435
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-24",
+    "price": 121.87,
+    "volume": 1402931
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-23",
+    "price": 123.11,
+    "volume": 1534000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-20",
+    "price": 119.85,
+    "volume": 2451413
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-18",
+    "price": 122.24,
+    "volume": 2159400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-17",
+    "price": 125.57,
+    "volume": 1999000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-16",
+    "price": 126.21,
+    "volume": 1625516
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-13",
+    "price": 125.26,
+    "volume": 2221842
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-12",
+    "price": 128.54,
+    "volume": 2552200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-11",
+    "price": 124.52,
+    "volume": 2920623
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-10",
+    "price": 117.96,
+    "volume": 2093800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-09",
+    "price": 116.51,
+    "volume": 1667800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-06",
+    "price": 117.66,
+    "volume": 1997515
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-05",
+    "price": 115.8,
+    "volume": 2235600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-04",
+    "price": 117.24,
+    "volume": 2372624
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-03",
+    "price": 114.78,
+    "volume": 2291710
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-06-02",
+    "price": 113.77,
+    "volume": 3547835
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-30",
+    "price": 112.49,
+    "volume": 5865500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-29",
+    "price": 111.84,
+    "volume": 16438228
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-28",
+    "price": 90.5,
+    "volume": 6225705
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-27",
+    "price": 91.72,
+    "volume": 4331500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-23",
+    "price": 83.93,
+    "volume": 2981634
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-22",
+    "price": 82.78,
+    "volume": 1869100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-21",
+    "price": 79.06,
+    "volume": 2373600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-20",
+    "price": 81.51,
+    "volume": 1838500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-19",
+    "price": 79.57,
+    "volume": 1481509
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-16",
+    "price": 79.3,
+    "volume": 1751605
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-15",
+    "price": 78.18,
+    "volume": 1479000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-14",
+    "price": 77.15,
+    "volume": 2545542
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-13",
+    "price": 78.21,
+    "volume": 3451800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-12",
+    "price": 74.07,
+    "volume": 3751543
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-09",
+    "price": 66.84,
+    "volume": 1564600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-08",
+    "price": 67.9,
+    "volume": 3601400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-07",
+    "price": 66.56,
+    "volume": 1721146
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-06",
+    "price": 67.69,
+    "volume": 1438323
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-05",
+    "price": 67.79,
+    "volume": 1721200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-02",
+    "price": 68.05,
+    "volume": 2588900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-05-01",
+    "price": 62.25,
+    "volume": 1892340
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-30",
+    "price": 61.87,
+    "volume": 1498100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-29",
+    "price": 62.17,
+    "volume": 1041900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-28",
+    "price": 61.98,
+    "volume": 2392920
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-25",
+    "price": 61.15,
+    "volume": 2211000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-24",
+    "price": 60.66,
+    "volume": 2644643
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-23",
+    "price": 56.84,
+    "volume": 3018700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-22",
+    "price": 55.33,
+    "volume": 2601632
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-21",
+    "price": 53.47,
+    "volume": 2294700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-17",
+    "price": 52.65,
+    "volume": 2241845
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-16",
+    "price": 49.95,
+    "volume": 1992800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-15",
+    "price": 52.17,
+    "volume": 1618200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-14",
+    "price": 53.46,
+    "volume": 2183604
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-11",
+    "price": 53.61,
+    "volume": 3528606
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-10",
+    "price": 53.79,
+    "volume": 3282000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-09",
+    "price": 55.74,
+    "volume": 6754300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-08",
+    "price": 51,
+    "volume": 3056816
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-07",
+    "price": 53.88,
+    "volume": 3481748
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-04",
+    "price": 54.93,
+    "volume": 5022919
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-03",
+    "price": 55.02,
+    "volume": 6366800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-02",
+    "price": 67.89,
+    "volume": 3127505
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-04-01",
+    "price": 64.25,
+    "volume": 1794437
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-31",
+    "price": 62.79,
+    "volume": 2238710
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-28",
+    "price": 64.83,
+    "volume": 2664512
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-27",
+    "price": 65.16,
+    "volume": 1321910
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-26",
+    "price": 64.44,
+    "volume": 1255900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-25",
+    "price": 65.1,
+    "volume": 1998225
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-24",
+    "price": 64.87,
+    "volume": 1758532
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-21",
+    "price": 62.85,
+    "volume": 2297422
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-20",
+    "price": 62.41,
+    "volume": 2043846
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-19",
+    "price": 63.63,
+    "volume": 2136600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-18",
+    "price": 63.62,
+    "volume": 2245700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-17",
+    "price": 66.14,
+    "volume": 1872700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-14",
+    "price": 68.18,
+    "volume": 2317100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-13",
+    "price": 62.97,
+    "volume": 2370843
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-12",
+    "price": 68.21,
+    "volume": 2173200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-11",
+    "price": 69.52,
+    "volume": 2853900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-10",
+    "price": 74.04,
+    "volume": 4783303
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-07",
+    "price": 70.68,
+    "volume": 4074730
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-06",
+    "price": 64.42,
+    "volume": 1779400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-05",
+    "price": 64.67,
+    "volume": 2235032
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-04",
+    "price": 63.93,
+    "volume": 2994800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-03-03",
+    "price": 63.81,
+    "volume": 3061700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-28",
+    "price": 70.25,
+    "volume": 2153919
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-27",
+    "price": 69.9,
+    "volume": 2539200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-26",
+    "price": 71.76,
+    "volume": 1504400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-25",
+    "price": 72.8,
+    "volume": 2541300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-24",
+    "price": 75.35,
+    "volume": 2583301
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-21",
+    "price": 74.92,
+    "volume": 2960727
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-20",
+    "price": 71.11,
+    "volume": 2861300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-19",
+    "price": 73.11,
+    "volume": 2163833
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-18",
+    "price": 72.27,
+    "volume": 3578100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-14",
+    "price": 73,
+    "volume": 3055300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-13",
+    "price": 74.95,
+    "volume": 3471200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-12",
+    "price": 75.08,
+    "volume": 4009930
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-11",
+    "price": 76.94,
+    "volume": 4694000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-10",
+    "price": 73.86,
+    "volume": 7156600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-07",
+    "price": 71.13,
+    "volume": 23546500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-06",
+    "price": 88.49,
+    "volume": 7251900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-05",
+    "price": 87.32,
+    "volume": 3272400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-04",
+    "price": 88.44,
+    "volume": 5603523
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-02-03",
+    "price": 93.44,
+    "volume": 3250900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-31",
+    "price": 99.91,
+    "volume": 2937400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-30",
+    "price": 107.05,
+    "volume": 1567800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-29",
+    "price": 105.96,
+    "volume": 1227200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-28",
+    "price": 106.16,
+    "volume": 1746300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-27",
+    "price": 104.33,
+    "volume": 2628500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-24",
+    "price": 110.55,
+    "volume": 2344445
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-23",
+    "price": 118.38,
+    "volume": 1224000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-22",
+    "price": 116.69,
+    "volume": 1813009
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-21",
+    "price": 118.49,
+    "volume": 3645800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-17",
+    "price": 126.95,
+    "volume": 1973713
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-16",
+    "price": 133.91,
+    "volume": 1359429
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-15",
+    "price": 128.41,
+    "volume": 2341500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-14",
+    "price": 131.48,
+    "volume": 995700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-13",
+    "price": 132.12,
+    "volume": 1925616
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-10",
+    "price": 124.89,
+    "volume": 1232500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-08",
+    "price": 127.6,
+    "volume": 1396502
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-07",
+    "price": 127.74,
+    "volume": 1261400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-06",
+    "price": 125.73,
+    "volume": 1126209
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-03",
+    "price": 125.39,
+    "volume": 963177
+  },
+  {
+    "symbol": "ELF",
+    "date": "2025-01-02",
+    "price": 122.99,
+    "volume": 1085399
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-31",
+    "price": 125.55,
+    "volume": 871013
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-30",
+    "price": 127.11,
+    "volume": 926176
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-27",
+    "price": 127.76,
+    "volume": 855018
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-26",
+    "price": 130.9,
+    "volume": 589405
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-24",
+    "price": 131.91,
+    "volume": 495239
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-23",
+    "price": 128.95,
+    "volume": 733000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-20",
+    "price": 128.66,
+    "volume": 2163256
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-19",
+    "price": 129.09,
+    "volume": 1143212
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-18",
+    "price": 127.2,
+    "volume": 1334400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-17",
+    "price": 134.89,
+    "volume": 1093900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-16",
+    "price": 140.27,
+    "volume": 1930021
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-13",
+    "price": 140.63,
+    "volume": 1565608
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-12",
+    "price": 131.51,
+    "volume": 1536400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-11",
+    "price": 138.47,
+    "volume": 1036900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-10",
+    "price": 137.6,
+    "volume": 1235100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-09",
+    "price": 140.46,
+    "volume": 1942000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-06",
+    "price": 139.6,
+    "volume": 2656204
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-05",
+    "price": 131.23,
+    "volume": 1222516
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-04",
+    "price": 136.4,
+    "volume": 2202800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-03",
+    "price": 127.41,
+    "volume": 1165238
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-12-02",
+    "price": 130.71,
+    "volume": 2413548
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-29",
+    "price": 129.52,
+    "volume": 901900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-27",
+    "price": 127.15,
+    "volume": 1169600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-26",
+    "price": 124.29,
+    "volume": 2050300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-25",
+    "price": 129.93,
+    "volume": 3205609
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-22",
+    "price": 126.42,
+    "volume": 2367600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-21",
+    "price": 122.47,
+    "volume": 4224800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-20",
+    "price": 119,
+    "volume": 11724128
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-19",
+    "price": 121.71,
+    "volume": 2454400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-18",
+    "price": 122.66,
+    "volume": 3183600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-15",
+    "price": 121.33,
+    "volume": 3169500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-14",
+    "price": 123.11,
+    "volume": 1319200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-13",
+    "price": 122.96,
+    "volume": 2150808
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-12",
+    "price": 131.33,
+    "volume": 2771307
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-11",
+    "price": 134.15,
+    "volume": 4212512
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-08",
+    "price": 120.2,
+    "volume": 3876923
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-07",
+    "price": 116.07,
+    "volume": 9411215
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-06",
+    "price": 104.16,
+    "volume": 6604311
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-05",
+    "price": 107.13,
+    "volume": 1751937
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-04",
+    "price": 103.89,
+    "volume": 1861514
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-11-01",
+    "price": 103.12,
+    "volume": 2458100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-31",
+    "price": 105.25,
+    "volume": 2032904
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-30",
+    "price": 109.22,
+    "volume": 1742400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-29",
+    "price": 113.27,
+    "volume": 2521421
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-28",
+    "price": 110.06,
+    "volume": 1834212
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-25",
+    "price": 110.38,
+    "volume": 1852327
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-24",
+    "price": 107.2,
+    "volume": 1456600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-23",
+    "price": 105.57,
+    "volume": 1515103
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-22",
+    "price": 106.63,
+    "volume": 2669700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-21",
+    "price": 112.51,
+    "volume": 3404800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-18",
+    "price": 108.2,
+    "volume": 1732400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-17",
+    "price": 107.94,
+    "volume": 1758100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-16",
+    "price": 107.08,
+    "volume": 2630015
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-15",
+    "price": 109.94,
+    "volume": 3228630
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-14",
+    "price": 115.43,
+    "volume": 2992900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-11",
+    "price": 109.72,
+    "volume": 2010200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-10",
+    "price": 107.46,
+    "volume": 1796321
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-09",
+    "price": 105.41,
+    "volume": 2254024
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-08",
+    "price": 104.01,
+    "volume": 1523134
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-07",
+    "price": 101.51,
+    "volume": 2866000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-04",
+    "price": 105.89,
+    "volume": 1414554
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-03",
+    "price": 105.18,
+    "volume": 1610900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-02",
+    "price": 105.62,
+    "volume": 1685826
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-10-01",
+    "price": 105.97,
+    "volume": 2888538
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-30",
+    "price": 109.03,
+    "volume": 3473815
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-27",
+    "price": 112.56,
+    "volume": 2572600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-26",
+    "price": 111.37,
+    "volume": 2376200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-25",
+    "price": 109.59,
+    "volume": 2842805
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-24",
+    "price": 111.42,
+    "volume": 2325634
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-23",
+    "price": 111.83,
+    "volume": 2203305
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-20",
+    "price": 112.91,
+    "volume": 2980500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-19",
+    "price": 114.59,
+    "volume": 2445023
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-18",
+    "price": 114.65,
+    "volume": 2564700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-17",
+    "price": 112.43,
+    "volume": 1770505
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-16",
+    "price": 113.19,
+    "volume": 2762700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-13",
+    "price": 116.63,
+    "volume": 2785200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-12",
+    "price": 114.67,
+    "volume": 2431200
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-11",
+    "price": 114.08,
+    "volume": 2940000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-10",
+    "price": 110.46,
+    "volume": 3924924
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-09",
+    "price": 113.98,
+    "volume": 5486800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-06",
+    "price": 122.6,
+    "volume": 4259100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-05",
+    "price": 135.69,
+    "volume": 1228141
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-04",
+    "price": 137.32,
+    "volume": 1612732
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-09-03",
+    "price": 140.23,
+    "volume": 2592400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-30",
+    "price": 149.79,
+    "volume": 1257229
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-29",
+    "price": 150.07,
+    "volume": 1363800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-28",
+    "price": 153.32,
+    "volume": 1559627
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-27",
+    "price": 151.28,
+    "volume": 1810100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-26",
+    "price": 156.09,
+    "volume": 3441409
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-23",
+    "price": 170.95,
+    "volume": 997500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-22",
+    "price": 170.44,
+    "volume": 1230900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-21",
+    "price": 170.11,
+    "volume": 1621505
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-20",
+    "price": 161.33,
+    "volume": 1487900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-19",
+    "price": 160.09,
+    "volume": 2029000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-16",
+    "price": 159.2,
+    "volume": 2168942
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-15",
+    "price": 155.54,
+    "volume": 2634800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-14",
+    "price": 145.43,
+    "volume": 1634700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-13",
+    "price": 148.64,
+    "volume": 2690712
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-12",
+    "price": 143.63,
+    "volume": 5162503
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-09",
+    "price": 160.83,
+    "volume": 7408642
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-08",
+    "price": 187.95,
+    "volume": 2592900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-07",
+    "price": 181.75,
+    "volume": 1395211
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-06",
+    "price": 183.74,
+    "volume": 1584004
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-05",
+    "price": 175.65,
+    "volume": 2322300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-02",
+    "price": 165.95,
+    "volume": 1797944
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-08-01",
+    "price": 167.62,
+    "volume": 1257100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-31",
+    "price": 172.58,
+    "volume": 949330
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-30",
+    "price": 170.29,
+    "volume": 1338628
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-29",
+    "price": 172.57,
+    "volume": 1222300
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-26",
+    "price": 182.82,
+    "volume": 1520600
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-25",
+    "price": 170.35,
+    "volume": 1289400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-24",
+    "price": 174.51,
+    "volume": 1144000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-23",
+    "price": 177.43,
+    "volume": 1502800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-22",
+    "price": 169.57,
+    "volume": 2618492
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-19",
+    "price": 177.52,
+    "volume": 1602258
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-18",
+    "price": 170.94,
+    "volume": 1972089
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-17",
+    "price": 170.7,
+    "volume": 1988390
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-16",
+    "price": 189.02,
+    "volume": 2046018
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-15",
+    "price": 194.19,
+    "volume": 2038434
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-12",
+    "price": 210.9,
+    "volume": 1893829
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-11",
+    "price": 208.92,
+    "volume": 1134344
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-10",
+    "price": 199.46,
+    "volume": 1106435
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-09",
+    "price": 206.42,
+    "volume": 1037167
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-08",
+    "price": 203.08,
+    "volume": 878947
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-05",
+    "price": 200.24,
+    "volume": 894286
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-03",
+    "price": 202.02,
+    "volume": 580348
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-02",
+    "price": 204.23,
+    "volume": 904597
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-07-01",
+    "price": 204.16,
+    "volume": 1773118
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-28",
+    "price": 210.72,
+    "volume": 8234759
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-27",
+    "price": 218,
+    "volume": 1425463
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-26",
+    "price": 204.59,
+    "volume": 1271404
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-25",
+    "price": 208.76,
+    "volume": 966572
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-24",
+    "price": 204.19,
+    "volume": 1336798
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-21",
+    "price": 205.91,
+    "volume": 1319563
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-20",
+    "price": 209.23,
+    "volume": 1569221
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-18",
+    "price": 213.73,
+    "volume": 1777476
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-17",
+    "price": 195.41,
+    "volume": 691537
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-14",
+    "price": 192.63,
+    "volume": 815117
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-13",
+    "price": 200.44,
+    "volume": 932506
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-12",
+    "price": 197.32,
+    "volume": 1486489
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-11",
+    "price": 189.58,
+    "volume": 1593353
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-10",
+    "price": 182.48,
+    "volume": 950273
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-07",
+    "price": 177.63,
+    "volume": 917084
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-06",
+    "price": 183.51,
+    "volume": 1021813
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-05",
+    "price": 184.73,
+    "volume": 1438898
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-04",
+    "price": 189.74,
+    "volume": 1054704
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-06-03",
+    "price": 196.45,
+    "volume": 1838996
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-31",
+    "price": 186.91,
+    "volume": 1432347
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-30",
+    "price": 182.4,
+    "volume": 1145793
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-29",
+    "price": 183.77,
+    "volume": 1143488
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-28",
+    "price": 193.24,
+    "volume": 1481303
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-24",
+    "price": 191.42,
+    "volume": 2549381
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-23",
+    "price": 184.77,
+    "volume": 7666929
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-22",
+    "price": 155.63,
+    "volume": 2871757
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-21",
+    "price": 158.97,
+    "volume": 1339139
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-20",
+    "price": 153.77,
+    "volume": 1873400
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-17",
+    "price": 158.45,
+    "volume": 1372445
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-16",
+    "price": 162.26,
+    "volume": 1318649
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-15",
+    "price": 168.32,
+    "volume": 1330692
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-14",
+    "price": 161.55,
+    "volume": 1082438
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-13",
+    "price": 161.73,
+    "volume": 734328
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-10",
+    "price": 164.09,
+    "volume": 1064640
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-09",
+    "price": 170.43,
+    "volume": 1221029
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-08",
+    "price": 161.38,
+    "volume": 803679
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-07",
+    "price": 163.61,
+    "volume": 893610
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-06",
+    "price": 164.69,
+    "volume": 914784
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-03",
+    "price": 160.12,
+    "volume": 1024844
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-02",
+    "price": 160.53,
+    "volume": 1153312
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-05-01",
+    "price": 158.52,
+    "volume": 1591777
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-30",
+    "price": 162.53,
+    "volume": 1701336
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-29",
+    "price": 171.86,
+    "volume": 1526093
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-26",
+    "price": 179.63,
+    "volume": 1512347
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-25",
+    "price": 176.03,
+    "volume": 2059547
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-24",
+    "price": 176.98,
+    "volume": 2516143
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-23",
+    "price": 176.99,
+    "volume": 2511379
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-22",
+    "price": 161.46,
+    "volume": 1560015
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-19",
+    "price": 156.73,
+    "volume": 2667923
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-18",
+    "price": 167.51,
+    "volume": 2232468
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-17",
+    "price": 166.26,
+    "volume": 1729614
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-16",
+    "price": 165.68,
+    "volume": 1146062
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-15",
+    "price": 163.4,
+    "volume": 1161115
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-12",
+    "price": 162.91,
+    "volume": 1234974
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-11",
+    "price": 167.22,
+    "volume": 1155665
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-10",
+    "price": 167.18,
+    "volume": 1658617
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-09",
+    "price": 170.15,
+    "volume": 1956148
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-08",
+    "price": 165.66,
+    "volume": 1336541
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-05",
+    "price": 161.38,
+    "volume": 2635659
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-04",
+    "price": 162.53,
+    "volume": 2345315
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-03",
+    "price": 163.77,
+    "volume": 4094821
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-02",
+    "price": 185.93,
+    "volume": 1706299
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-04-01",
+    "price": 191.97,
+    "volume": 1706092
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-28",
+    "price": 196.03,
+    "volume": 957685
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-27",
+    "price": 196.25,
+    "volume": 923472
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-26",
+    "price": 197.82,
+    "volume": 864976
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-25",
+    "price": 200.04,
+    "volume": 1124558
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-22",
+    "price": 205.6,
+    "volume": 991485
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-21",
+    "price": 207.31,
+    "volume": 1363168
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-20",
+    "price": 200.54,
+    "volume": 1100799
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-19",
+    "price": 190.67,
+    "volume": 1495658
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-18",
+    "price": 196.86,
+    "volume": 1178656
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-15",
+    "price": 199.37,
+    "volume": 1655553
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-14",
+    "price": 200.29,
+    "volume": 794794
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-13",
+    "price": 206.42,
+    "volume": 827282
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-12",
+    "price": 205.31,
+    "volume": 1180087
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-11",
+    "price": 193.98,
+    "volume": 1366244
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-08",
+    "price": 200.91,
+    "volume": 1480561
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-07",
+    "price": 209.93,
+    "volume": 755918
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-06",
+    "price": 207.01,
+    "volume": 1296159
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-05",
+    "price": 201.62,
+    "volume": 2488741
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-04",
+    "price": 208.96,
+    "volume": 1901032
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-03-01",
+    "price": 217.4,
+    "volume": 1314236
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-29",
+    "price": 208.53,
+    "volume": 1213651
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-28",
+    "price": 204.75,
+    "volume": 1271911
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-27",
+    "price": 202,
+    "volume": 1504085
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-26",
+    "price": 199.61,
+    "volume": 1602019
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-23",
+    "price": 185.94,
+    "volume": 1201916
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-22",
+    "price": 182.37,
+    "volume": 1163429
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-21",
+    "price": 172.33,
+    "volume": 732373
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-20",
+    "price": 171.37,
+    "volume": 959343
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-16",
+    "price": 173.98,
+    "volume": 857695
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-15",
+    "price": 175.26,
+    "volume": 1256670
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-14",
+    "price": 166.78,
+    "volume": 1199880
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-13",
+    "price": 167.86,
+    "volume": 1342812
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-12",
+    "price": 171.91,
+    "volume": 1404668
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-09",
+    "price": 174.52,
+    "volume": 1517622
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-08",
+    "price": 171.54,
+    "volume": 1911742
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-07",
+    "price": 164.82,
+    "volume": 4177779
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-06",
+    "price": 173.32,
+    "volume": 2509431
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-05",
+    "price": 169.74,
+    "volume": 1906905
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-02",
+    "price": 169.76,
+    "volume": 1093826
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-02-01",
+    "price": 162.5,
+    "volume": 802925
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-31",
+    "price": 159.53,
+    "volume": 1053250
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-30",
+    "price": 161.01,
+    "volume": 1197675
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-29",
+    "price": 158.84,
+    "volume": 1252571
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-26",
+    "price": 157.14,
+    "volume": 591586
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-25",
+    "price": 156.55,
+    "volume": 926835
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-24",
+    "price": 154.87,
+    "volume": 782281
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-23",
+    "price": 156.18,
+    "volume": 1009094
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-22",
+    "price": 153.86,
+    "volume": 11977091
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-19",
+    "price": 157.79,
+    "volume": 1721556
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-18",
+    "price": 156.38,
+    "volume": 2588920
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-17",
+    "price": 163.1,
+    "volume": 1000138
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-16",
+    "price": 163.93,
+    "volume": 1154894
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-12",
+    "price": 157.61,
+    "volume": 704862
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-11",
+    "price": 159.07,
+    "volume": 1120841
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-10",
+    "price": 155.63,
+    "volume": 972335
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-09",
+    "price": 154.68,
+    "volume": 1138240
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-08",
+    "price": 150.65,
+    "volume": 1654505
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-05",
+    "price": 138.02,
+    "volume": 1019484
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-04",
+    "price": 137.27,
+    "volume": 821911
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-03",
+    "price": 132.16,
+    "volume": 996885
+  },
+  {
+    "symbol": "ELF",
+    "date": "2024-01-02",
+    "price": 139.66,
+    "volume": 1732766
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-29",
+    "price": 144.34,
+    "volume": 642779
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-28",
+    "price": 145.11,
+    "volume": 637781
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-27",
+    "price": 144.05,
+    "volume": 607193
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-26",
+    "price": 143.74,
+    "volume": 666648
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-22",
+    "price": 143.84,
+    "volume": 1061756
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-21",
+    "price": 145.2,
+    "volume": 858664
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-20",
+    "price": 144.65,
+    "volume": 1203204
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-19",
+    "price": 152.53,
+    "volume": 1096569
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-18",
+    "price": 147.78,
+    "volume": 1032980
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-15",
+    "price": 144.37,
+    "volume": 1559041
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-14",
+    "price": 143.21,
+    "volume": 1986578
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-13",
+    "price": 141.79,
+    "volume": 2308480
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-12",
+    "price": 131.07,
+    "volume": 1262622
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-11",
+    "price": 128.61,
+    "volume": 873408
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-08",
+    "price": 127.27,
+    "volume": 775998
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-07",
+    "price": 126.9,
+    "volume": 725907
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-06",
+    "price": 125.49,
+    "volume": 905357
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-05",
+    "price": 125.86,
+    "volume": 999678
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-04",
+    "price": 126.59,
+    "volume": 1636222
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-12-01",
+    "price": 122.44,
+    "volume": 1400856
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-30",
+    "price": 118.09,
+    "volume": 1250330
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-29",
+    "price": 118.89,
+    "volume": 1126922
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-28",
+    "price": 118.19,
+    "volume": 1402585
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-27",
+    "price": 117.44,
+    "volume": 1542381
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-24",
+    "price": 114.38,
+    "volume": 406093
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-22",
+    "price": 113.76,
+    "volume": 770973
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-21",
+    "price": 111.71,
+    "volume": 960752
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-20",
+    "price": 111.13,
+    "volume": 1532586
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-17",
+    "price": 112.85,
+    "volume": 2331459
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-16",
+    "price": 111.88,
+    "volume": 1306311
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-15",
+    "price": 113.21,
+    "volume": 2272540
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-14",
+    "price": 106.21,
+    "volume": 1840157
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-13",
+    "price": 97.28,
+    "volume": 1140210
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-10",
+    "price": 95.09,
+    "volume": 2634113
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-09",
+    "price": 99.45,
+    "volume": 1712961
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-08",
+    "price": 98.14,
+    "volume": 1720507
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-07",
+    "price": 102.01,
+    "volume": 1548209
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-06",
+    "price": 101.68,
+    "volume": 1985721
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-03",
+    "price": 96.15,
+    "volume": 2809944
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-02",
+    "price": 98.01,
+    "volume": 5094130
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-11-01",
+    "price": 94.54,
+    "volume": 2703254
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-31",
+    "price": 92.63,
+    "volume": 4253540
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-30",
+    "price": 103.15,
+    "volume": 836210
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-27",
+    "price": 102.24,
+    "volume": 958876
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-26",
+    "price": 102.96,
+    "volume": 1031586
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-25",
+    "price": 108.44,
+    "volume": 808704
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-24",
+    "price": 110.23,
+    "volume": 1139940
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-23",
+    "price": 105.52,
+    "volume": 1362537
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-20",
+    "price": 101.88,
+    "volume": 1231921
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-19",
+    "price": 104.72,
+    "volume": 991375
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-18",
+    "price": 106.36,
+    "volume": 1241653
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-17",
+    "price": 108.72,
+    "volume": 2100175
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-16",
+    "price": 103.7,
+    "volume": 1056245
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-13",
+    "price": 101.39,
+    "volume": 894150
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-12",
+    "price": 100.79,
+    "volume": 983350
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-11",
+    "price": 105.1,
+    "volume": 1275025
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-10",
+    "price": 101.82,
+    "volume": 1318785
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-09",
+    "price": 100.26,
+    "volume": 877778
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-06",
+    "price": 99.93,
+    "volume": 1550500
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-05",
+    "price": 96.55,
+    "volume": 1001808
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-04",
+    "price": 99.48,
+    "volume": 1197069
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-03",
+    "price": 99.11,
+    "volume": 2732072
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-10-02",
+    "price": 108.21,
+    "volume": 917463
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-29",
+    "price": 109.83,
+    "volume": 1047434
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-28",
+    "price": 112.08,
+    "volume": 1263338
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-27",
+    "price": 110.36,
+    "volume": 1701864
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-26",
+    "price": 109.29,
+    "volume": 1948106
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-25",
+    "price": 106.8,
+    "volume": 1425626
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-22",
+    "price": 105.16,
+    "volume": 1883956
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-21",
+    "price": 106.01,
+    "volume": 3322521
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-20",
+    "price": 105.65,
+    "volume": 2242197
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-19",
+    "price": 112.48,
+    "volume": 2842655
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-18",
+    "price": 123,
+    "volume": 1030151
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-15",
+    "price": 125.77,
+    "volume": 2675002
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-14",
+    "price": 130.18,
+    "volume": 719198
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-13",
+    "price": 131.99,
+    "volume": 810217
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-12",
+    "price": 133.83,
+    "volume": 832447
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-11",
+    "price": 135.45,
+    "volume": 584991
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-08",
+    "price": 136.04,
+    "volume": 657216
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-07",
+    "price": 137.85,
+    "volume": 946670
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-06",
+    "price": 133.78,
+    "volume": 749308
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-05",
+    "price": 136.25,
+    "volume": 910181
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-09-01",
+    "price": 136.97,
+    "volume": 898116
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-31",
+    "price": 138.71,
+    "volume": 915262
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-30",
+    "price": 136.69,
+    "volume": 1572812
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-29",
+    "price": 133.63,
+    "volume": 2072434
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-28",
+    "price": 122.63,
+    "volume": 706606
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-25",
+    "price": 120.68,
+    "volume": 597700
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-24",
+    "price": 119.7,
+    "volume": 837211
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-23",
+    "price": 124.83,
+    "volume": 1262065
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-22",
+    "price": 118.42,
+    "volume": 823574
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-21",
+    "price": 119.35,
+    "volume": 989522
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-18",
+    "price": 118.04,
+    "volume": 1583366
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-17",
+    "price": 117.34,
+    "volume": 1964337
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-16",
+    "price": 129.51,
+    "volume": 931292
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-15",
+    "price": 132.33,
+    "volume": 713044
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-14",
+    "price": 134.16,
+    "volume": 846145
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-11",
+    "price": 132.46,
+    "volume": 979372
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-10",
+    "price": 133.22,
+    "volume": 1116322
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-09",
+    "price": 130.96,
+    "volume": 857465
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-08",
+    "price": 131.53,
+    "volume": 726185
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-07",
+    "price": 130.9,
+    "volume": 1093319
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-04",
+    "price": 128.15,
+    "volume": 1472701
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-03",
+    "price": 132.06,
+    "volume": 1545247
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-02",
+    "price": 133.19,
+    "volume": 4264165
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-08-01",
+    "price": 116.5,
+    "volume": 1971189
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-31",
+    "price": 116.72,
+    "volume": 1039056
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-28",
+    "price": 115.94,
+    "volume": 1205257
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-27",
+    "price": 111.49,
+    "volume": 890822
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-26",
+    "price": 113.07,
+    "volume": 722551
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-25",
+    "price": 114.1,
+    "volume": 1577006
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-24",
+    "price": 109.36,
+    "volume": 917306
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-21",
+    "price": 111.62,
+    "volume": 906699
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-20",
+    "price": 113.72,
+    "volume": 761515
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-19",
+    "price": 113.63,
+    "volume": 1268860
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-18",
+    "price": 119.51,
+    "volume": 761694
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-17",
+    "price": 118.66,
+    "volume": 771759
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-14",
+    "price": 115.6,
+    "volume": 615201
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-13",
+    "price": 115.61,
+    "volume": 653352
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-12",
+    "price": 114.44,
+    "volume": 727395
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-11",
+    "price": 113.49,
+    "volume": 753948
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-10",
+    "price": 112.34,
+    "volume": 783297
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-07",
+    "price": 110,
+    "volume": 934733
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-06",
+    "price": 111.1,
+    "volume": 829924
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-05",
+    "price": 114.37,
+    "volume": 1336748
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-07-03",
+    "price": 113.25,
+    "volume": 340523
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-30",
+    "price": 114.23,
+    "volume": 2545469
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-29",
+    "price": 112.5,
+    "volume": 871308
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-28",
+    "price": 110.56,
+    "volume": 993203
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-27",
+    "price": 110.09,
+    "volume": 960650
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-26",
+    "price": 107.41,
+    "volume": 831562
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-23",
+    "price": 108.45,
+    "volume": 1072407
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-22",
+    "price": 112.81,
+    "volume": 1356477
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-21",
+    "price": 111.47,
+    "volume": 1854807
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-20",
+    "price": 107.19,
+    "volume": 1186721
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-16",
+    "price": 104.08,
+    "volume": 1508073
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-15",
+    "price": 105.1,
+    "volume": 731264
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-14",
+    "price": 101.93,
+    "volume": 790201
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-13",
+    "price": 102.51,
+    "volume": 1308534
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-12",
+    "price": 105.44,
+    "volume": 740078
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-09",
+    "price": 104.51,
+    "volume": 714881
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-08",
+    "price": 106.2,
+    "volume": 709611
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-07",
+    "price": 103.48,
+    "volume": 943373
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-06",
+    "price": 106.99,
+    "volume": 794195
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-05",
+    "price": 105.11,
+    "volume": 763403
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-02",
+    "price": 105.19,
+    "volume": 1356803
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-06-01",
+    "price": 106.54,
+    "volume": 917427
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-31",
+    "price": 104.02,
+    "volume": 1276000
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-30",
+    "price": 104.93,
+    "volume": 1389103
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-26",
+    "price": 101.28,
+    "volume": 1701588
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-25",
+    "price": 104.15,
+    "volume": 4106908
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-24",
+    "price": 86.45,
+    "volume": 2039532
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-23",
+    "price": 85.01,
+    "volume": 988190
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-22",
+    "price": 85.95,
+    "volume": 1282210
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-19",
+    "price": 89.81,
+    "volume": 665520
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-18",
+    "price": 90.61,
+    "volume": 771857
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-17",
+    "price": 90.14,
+    "volume": 768956
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-16",
+    "price": 89.07,
+    "volume": 763061
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-15",
+    "price": 91.56,
+    "volume": 835872
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-12",
+    "price": 90.29,
+    "volume": 956802
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-11",
+    "price": 89.57,
+    "volume": 540367
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-10",
+    "price": 88.47,
+    "volume": 554391
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-09",
+    "price": 86.55,
+    "volume": 1033375
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-08",
+    "price": 90.01,
+    "volume": 702268
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-05",
+    "price": 88.39,
+    "volume": 1112432
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-04",
+    "price": 89.42,
+    "volume": 863088
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-03",
+    "price": 92.47,
+    "volume": 1302226
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-02",
+    "price": 91.74,
+    "volume": 588080
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-05-01",
+    "price": 92.72,
+    "volume": 825321
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-28",
+    "price": 92.76,
+    "volume": 659735
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-27",
+    "price": 92.85,
+    "volume": 869940
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-26",
+    "price": 93.85,
+    "volume": 717637
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-25",
+    "price": 92.39,
+    "volume": 1049229
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-24",
+    "price": 94.84,
+    "volume": 1265873
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-21",
+    "price": 96.68,
+    "volume": 987625
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-20",
+    "price": 95.33,
+    "volume": 1025855
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-19",
+    "price": 93.03,
+    "volume": 992163
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-18",
+    "price": 92.58,
+    "volume": 944153
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-17",
+    "price": 90.74,
+    "volume": 990867
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-14",
+    "price": 90.14,
+    "volume": 1076306
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-13",
+    "price": 87.13,
+    "volume": 733499
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-12",
+    "price": 85.61,
+    "volume": 917375
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-11",
+    "price": 84.16,
+    "volume": 753086
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-10",
+    "price": 84.03,
+    "volume": 1014140
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-06",
+    "price": 81.35,
+    "volume": 447996
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-05",
+    "price": 80.38,
+    "volume": 803350
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-04",
+    "price": 82.42,
+    "volume": 508042
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-04-03",
+    "price": 83.29,
+    "volume": 841056
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-31",
+    "price": 82.35,
+    "volume": 1399806
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-30",
+    "price": 78.92,
+    "volume": 691405
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-29",
+    "price": 80.42,
+    "volume": 978063
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-28",
+    "price": 79.71,
+    "volume": 724593
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-27",
+    "price": 79.31,
+    "volume": 782914
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-24",
+    "price": 78.48,
+    "volume": 1391060
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-23",
+    "price": 75.19,
+    "volume": 702421
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-22",
+    "price": 73.11,
+    "volume": 508722
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-21",
+    "price": 74.31,
+    "volume": 1008095
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-20",
+    "price": 74.51,
+    "volume": 661006
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-17",
+    "price": 72.47,
+    "volume": 1227917
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-16",
+    "price": 74.32,
+    "volume": 805993
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-15",
+    "price": 73.33,
+    "volume": 1034368
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-14",
+    "price": 72.02,
+    "volume": 767434
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-13",
+    "price": 69.58,
+    "volume": 1586562
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-10",
+    "price": 69.57,
+    "volume": 1143643
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-09",
+    "price": 71.13,
+    "volume": 1309704
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-08",
+    "price": 74.01,
+    "volume": 743766
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-07",
+    "price": 73.7,
+    "volume": 1569945
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-06",
+    "price": 72.08,
+    "volume": 1947008
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-03",
+    "price": 75.19,
+    "volume": 1076940
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-02",
+    "price": 75.22,
+    "volume": 954497
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-03-01",
+    "price": 74.19,
+    "volume": 570856
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-28",
+    "price": 74.75,
+    "volume": 914127
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-27",
+    "price": 74.07,
+    "volume": 866794
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-24",
+    "price": 73.34,
+    "volume": 454402
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-23",
+    "price": 73.75,
+    "volume": 531251
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-22",
+    "price": 73.12,
+    "volume": 608079
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-21",
+    "price": 73.19,
+    "volume": 709853
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-17",
+    "price": 73.65,
+    "volume": 636364
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-16",
+    "price": 74,
+    "volume": 436261
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-15",
+    "price": 74.63,
+    "volume": 456397
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-14",
+    "price": 73.77,
+    "volume": 621226
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-13",
+    "price": 73.44,
+    "volume": 588382
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-10",
+    "price": 71.32,
+    "volume": 560921
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-09",
+    "price": 72.82,
+    "volume": 697502
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-08",
+    "price": 71.57,
+    "volume": 777982
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-07",
+    "price": 72.03,
+    "volume": 1247947
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-06",
+    "price": 68.67,
+    "volume": 1007952
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-03",
+    "price": 69.74,
+    "volume": 1825807
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-02",
+    "price": 67.29,
+    "volume": 3590091
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-02-01",
+    "price": 58.51,
+    "volume": 1020410
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-31",
+    "price": 57.55,
+    "volume": 558577
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-30",
+    "price": 57.08,
+    "volume": 606249
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-27",
+    "price": 56.66,
+    "volume": 492470
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-26",
+    "price": 57.91,
+    "volume": 584007
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-25",
+    "price": 56.3,
+    "volume": 461448
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-24",
+    "price": 55.15,
+    "volume": 764829
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-23",
+    "price": 54,
+    "volume": 738720
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-20",
+    "price": 54.17,
+    "volume": 442831
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-19",
+    "price": 52.66,
+    "volume": 482502
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-18",
+    "price": 53.64,
+    "volume": 579593
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-17",
+    "price": 53.62,
+    "volume": 687792
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-13",
+    "price": 52.75,
+    "volume": 1121494
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-12",
+    "price": 49.99,
+    "volume": 1278365
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-11",
+    "price": 49.2,
+    "volume": 2353231
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-10",
+    "price": 51.15,
+    "volume": 2456311
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-09",
+    "price": 55.76,
+    "volume": 1949595
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-06",
+    "price": 58.05,
+    "volume": 1604405
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-05",
+    "price": 55.61,
+    "volume": 815937
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-04",
+    "price": 55.97,
+    "volume": 565611
+  },
+  {
+    "symbol": "ELF",
+    "date": "2023-01-03",
+    "price": 55.34,
+    "volume": 614442
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-30",
+    "price": 55.3,
+    "volume": 401852
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-29",
+    "price": 55.68,
+    "volume": 550378
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-28",
+    "price": 55.59,
+    "volume": 414040
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-27",
+    "price": 55.48,
+    "volume": 393155
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-23",
+    "price": 54.48,
+    "volume": 236686
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-22",
+    "price": 55.02,
+    "volume": 374491
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-21",
+    "price": 54.64,
+    "volume": 326890
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-20",
+    "price": 53.78,
+    "volume": 608333
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-19",
+    "price": 52.97,
+    "volume": 543170
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-16",
+    "price": 54.95,
+    "volume": 774561
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-15",
+    "price": 55.5,
+    "volume": 493578
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-14",
+    "price": 56.31,
+    "volume": 461527
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-13",
+    "price": 55.81,
+    "volume": 723552
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-12",
+    "price": 54.59,
+    "volume": 570584
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-09",
+    "price": 53.82,
+    "volume": 443642
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-08",
+    "price": 55.07,
+    "volume": 550816
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-07",
+    "price": 54.5,
+    "volume": 504806
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-06",
+    "price": 54.81,
+    "volume": 820516
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-05",
+    "price": 53.93,
+    "volume": 760189
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-02",
+    "price": 55.26,
+    "volume": 734680
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-12-01",
+    "price": 55.4,
+    "volume": 657080
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-30",
+    "price": 54.96,
+    "volume": 840747
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-29",
+    "price": 53.68,
+    "volume": 884015
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-28",
+    "price": 55.48,
+    "volume": 536545
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-25",
+    "price": 55.51,
+    "volume": 175326
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-23",
+    "price": 54.92,
+    "volume": 415595
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-22",
+    "price": 54.3,
+    "volume": 764528
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-21",
+    "price": 54.42,
+    "volume": 663240
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-18",
+    "price": 54.91,
+    "volume": 806382
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-17",
+    "price": 52.71,
+    "volume": 749205
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-16",
+    "price": 52.92,
+    "volume": 608390
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-15",
+    "price": 51.75,
+    "volume": 618280
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-14",
+    "price": 50.17,
+    "volume": 769835
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-11",
+    "price": 49.59,
+    "volume": 839394
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-10",
+    "price": 51.57,
+    "volume": 689221
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-09",
+    "price": 49.75,
+    "volume": 528281
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-08",
+    "price": 50.49,
+    "volume": 733872
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-07",
+    "price": 50.12,
+    "volume": 839715
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-04",
+    "price": 48.64,
+    "volume": 930130
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-03",
+    "price": 48.09,
+    "volume": 2709868
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-02",
+    "price": 41.66,
+    "volume": 884526
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-11-01",
+    "price": 43.7,
+    "volume": 551545
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-31",
+    "price": 43.26,
+    "volume": 652399
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-28",
+    "price": 43.82,
+    "volume": 707193
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-27",
+    "price": 42.95,
+    "volume": 665231
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-26",
+    "price": 42.17,
+    "volume": 589232
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-25",
+    "price": 43.36,
+    "volume": 730972
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-24",
+    "price": 41.66,
+    "volume": 478102
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-21",
+    "price": 41.56,
+    "volume": 449055
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-20",
+    "price": 40.08,
+    "volume": 459171
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-19",
+    "price": 40.17,
+    "volume": 600530
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-18",
+    "price": 41.85,
+    "volume": 835161
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-17",
+    "price": 41.5,
+    "volume": 855082
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-14",
+    "price": 39.38,
+    "volume": 404172
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-13",
+    "price": 39.81,
+    "volume": 444934
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-12",
+    "price": 40.08,
+    "volume": 812988
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-11",
+    "price": 39.74,
+    "volume": 1707686
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-10",
+    "price": 37.49,
+    "volume": 570907
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-07",
+    "price": 38.27,
+    "volume": 440131
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-06",
+    "price": 38.7,
+    "volume": 387330
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-05",
+    "price": 39.03,
+    "volume": 459225
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-04",
+    "price": 39.68,
+    "volume": 548467
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-10-03",
+    "price": 38.59,
+    "volume": 628927
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-30",
+    "price": 37.62,
+    "volume": 711668
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-29",
+    "price": 37.55,
+    "volume": 381921
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-28",
+    "price": 38.28,
+    "volume": 618784
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-27",
+    "price": 37.5,
+    "volume": 777631
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-26",
+    "price": 38.75,
+    "volume": 535057
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-23",
+    "price": 38.66,
+    "volume": 792397
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-22",
+    "price": 39.41,
+    "volume": 494397
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-21",
+    "price": 39.82,
+    "volume": 868766
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-20",
+    "price": 39.52,
+    "volume": 396583
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-19",
+    "price": 39.51,
+    "volume": 520100
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-16",
+    "price": 39.37,
+    "volume": 851309
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-15",
+    "price": 40.4,
+    "volume": 594785
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-14",
+    "price": 40.48,
+    "volume": 812892
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-13",
+    "price": 38.2,
+    "volume": 449595
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-12",
+    "price": 38.98,
+    "volume": 416857
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-09",
+    "price": 38.88,
+    "volume": 558943
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-08",
+    "price": 38.95,
+    "volume": 634897
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-07",
+    "price": 39.03,
+    "volume": 641972
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-06",
+    "price": 37.99,
+    "volume": 576238
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-02",
+    "price": 38.32,
+    "volume": 658299
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-09-01",
+    "price": 38.44,
+    "volume": 625976
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-31",
+    "price": 38.13,
+    "volume": 924965
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-30",
+    "price": 37.9,
+    "volume": 646840
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-29",
+    "price": 36.92,
+    "volume": 377339
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-26",
+    "price": 36.98,
+    "volume": 486845
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-25",
+    "price": 38.41,
+    "volume": 526435
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-24",
+    "price": 38.1,
+    "volume": 840220
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-23",
+    "price": 37.47,
+    "volume": 366637
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-22",
+    "price": 37.5,
+    "volume": 430031
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-19",
+    "price": 37.91,
+    "volume": 450966
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-18",
+    "price": 38.42,
+    "volume": 461717
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-17",
+    "price": 37.61,
+    "volume": 428485
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-16",
+    "price": 37.68,
+    "volume": 609403
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-15",
+    "price": 37.93,
+    "volume": 828138
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-12",
+    "price": 36.7,
+    "volume": 646529
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-11",
+    "price": 36.41,
+    "volume": 665340
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-10",
+    "price": 36.48,
+    "volume": 947854
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-09",
+    "price": 36.55,
+    "volume": 831081
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-08",
+    "price": 37.23,
+    "volume": 882142
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-05",
+    "price": 37.45,
+    "volume": 1064391
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-04",
+    "price": 36.18,
+    "volume": 1978240
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-03",
+    "price": 33.87,
+    "volume": 590933
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-02",
+    "price": 34.07,
+    "volume": 518856
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-08-01",
+    "price": 33.89,
+    "volume": 842646
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-29",
+    "price": 33.53,
+    "volume": 528562
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-28",
+    "price": 33.19,
+    "volume": 473089
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-27",
+    "price": 32.71,
+    "volume": 627902
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-26",
+    "price": 32.34,
+    "volume": 539735
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-25",
+    "price": 33.08,
+    "volume": 482568
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-22",
+    "price": 32.92,
+    "volume": 674925
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-21",
+    "price": 34.32,
+    "volume": 788151
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-20",
+    "price": 33.32,
+    "volume": 572062
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-19",
+    "price": 32.44,
+    "volume": 397584
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-18",
+    "price": 31.84,
+    "volume": 386147
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-15",
+    "price": 31.8,
+    "volume": 549141
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-14",
+    "price": 30.82,
+    "volume": 425664
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-13",
+    "price": 31.21,
+    "volume": 353258
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-12",
+    "price": 31.19,
+    "volume": 414278
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-11",
+    "price": 31.18,
+    "volume": 449759
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-08",
+    "price": 31.6,
+    "volume": 546223
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-07",
+    "price": 31.94,
+    "volume": 562615
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-06",
+    "price": 32.2,
+    "volume": 727597
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-05",
+    "price": 32.89,
+    "volume": 1096183
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-07-01",
+    "price": 30.62,
+    "volume": 869946
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-30",
+    "price": 30.68,
+    "volume": 1898510
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-29",
+    "price": 28.53,
+    "volume": 388288
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-28",
+    "price": 28.61,
+    "volume": 499950
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-27",
+    "price": 29.02,
+    "volume": 787312
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-24",
+    "price": 28.33,
+    "volume": 1005122
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-23",
+    "price": 27.2,
+    "volume": 551931
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-22",
+    "price": 26.7,
+    "volume": 424395
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-21",
+    "price": 26.51,
+    "volume": 378493
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-17",
+    "price": 25.63,
+    "volume": 604729
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-16",
+    "price": 25.5,
+    "volume": 471849
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-15",
+    "price": 26.33,
+    "volume": 500228
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-14",
+    "price": 25.64,
+    "volume": 586344
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-13",
+    "price": 24.72,
+    "volume": 488784
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-10",
+    "price": 26.6,
+    "volume": 572155
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-09",
+    "price": 26.29,
+    "volume": 499022
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-08",
+    "price": 26.69,
+    "volume": 450958
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-07",
+    "price": 27.63,
+    "volume": 799744
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-06",
+    "price": 26.29,
+    "volume": 482874
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-03",
+    "price": 26.42,
+    "volume": 728178
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-02",
+    "price": 27.31,
+    "volume": 682724
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-06-01",
+    "price": 26.32,
+    "volume": 529437
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-31",
+    "price": 26.62,
+    "volume": 1164090
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-27",
+    "price": 25.98,
+    "volume": 1199122
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-26",
+    "price": 24.63,
+    "volume": 1021258
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-25",
+    "price": 22.15,
+    "volume": 887970
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-24",
+    "price": 21.05,
+    "volume": 834826
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-23",
+    "price": 21.69,
+    "volume": 438826
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-20",
+    "price": 21.25,
+    "volume": 674723
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-19",
+    "price": 21.4,
+    "volume": 534716
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-18",
+    "price": 21.62,
+    "volume": 712435
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-17",
+    "price": 23.7,
+    "volume": 470675
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-16",
+    "price": 23.12,
+    "volume": 414314
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-13",
+    "price": 23.72,
+    "volume": 602745
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-12",
+    "price": 22.46,
+    "volume": 382237
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-11",
+    "price": 22.02,
+    "volume": 402990
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-10",
+    "price": 22.4,
+    "volume": 454617
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-09",
+    "price": 22.51,
+    "volume": 368592
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-06",
+    "price": 22.85,
+    "volume": 325283
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-05",
+    "price": 23.3,
+    "volume": 368947
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-04",
+    "price": 24.53,
+    "volume": 312299
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-03",
+    "price": 24.01,
+    "volume": 593165
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-05-02",
+    "price": 24.29,
+    "volume": 354533
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-29",
+    "price": 24.33,
+    "volume": 385015
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-28",
+    "price": 24.61,
+    "volume": 512076
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-27",
+    "price": 23.71,
+    "volume": 486216
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-26",
+    "price": 23.76,
+    "volume": 364283
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-25",
+    "price": 24.38,
+    "volume": 568417
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-22",
+    "price": 23.52,
+    "volume": 547625
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-21",
+    "price": 24.84,
+    "volume": 328648
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-20",
+    "price": 25.94,
+    "volume": 250123
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-19",
+    "price": 25.71,
+    "volume": 243210
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-18",
+    "price": 25.26,
+    "volume": 212603
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-14",
+    "price": 25.6,
+    "volume": 246196
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-13",
+    "price": 25.87,
+    "volume": 245141
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-12",
+    "price": 25.53,
+    "volume": 318264
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-11",
+    "price": 25.7,
+    "volume": 275156
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-08",
+    "price": 25.89,
+    "volume": 340586
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-07",
+    "price": 25.76,
+    "volume": 418498
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-06",
+    "price": 25.91,
+    "volume": 396294
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-05",
+    "price": 26.1,
+    "volume": 296277
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-04",
+    "price": 26.31,
+    "volume": 294502
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-04-01",
+    "price": 26.3,
+    "volume": 515167
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-31",
+    "price": 25.83,
+    "volume": 608506
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-30",
+    "price": 25.81,
+    "volume": 281369
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-29",
+    "price": 26.46,
+    "volume": 357092
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-28",
+    "price": 25.25,
+    "volume": 489964
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-25",
+    "price": 25.34,
+    "volume": 248238
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-24",
+    "price": 25.55,
+    "volume": 194800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-23",
+    "price": 25.31,
+    "volume": 334041
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-22",
+    "price": 25.96,
+    "volume": 285236
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-21",
+    "price": 25.36,
+    "volume": 306288
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-18",
+    "price": 25.92,
+    "volume": 471489
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-17",
+    "price": 25.23,
+    "volume": 310850
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-16",
+    "price": 25.06,
+    "volume": 381915
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-15",
+    "price": 23.93,
+    "volume": 373193
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-14",
+    "price": 23.19,
+    "volume": 528201
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-11",
+    "price": 23.62,
+    "volume": 519337
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-10",
+    "price": 23.7,
+    "volume": 482001
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-09",
+    "price": 24.68,
+    "volume": 533054
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-08",
+    "price": 22.79,
+    "volume": 882873
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-07",
+    "price": 23.05,
+    "volume": 633894
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-04",
+    "price": 25.12,
+    "volume": 420885
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-03",
+    "price": 25.81,
+    "volume": 656123
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-02",
+    "price": 26.2,
+    "volume": 411867
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-03-01",
+    "price": 25.82,
+    "volume": 551269
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-28",
+    "price": 26.43,
+    "volume": 332768
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-25",
+    "price": 26.59,
+    "volume": 373572
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-24",
+    "price": 25.96,
+    "volume": 582858
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-23",
+    "price": 25.8,
+    "volume": 307918
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-22",
+    "price": 26.23,
+    "volume": 498721
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-18",
+    "price": 26.64,
+    "volume": 364003
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-17",
+    "price": 26.62,
+    "volume": 402071
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-16",
+    "price": 27.51,
+    "volume": 330475
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-15",
+    "price": 27.33,
+    "volume": 397824
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-14",
+    "price": 26.93,
+    "volume": 413016
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-11",
+    "price": 27.06,
+    "volume": 498249
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-10",
+    "price": 27.84,
+    "volume": 550302
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-09",
+    "price": 28.82,
+    "volume": 614656
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-08",
+    "price": 28.41,
+    "volume": 441960
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-07",
+    "price": 28.19,
+    "volume": 414701
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-04",
+    "price": 28.54,
+    "volume": 1013634
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-03",
+    "price": 28.52,
+    "volume": 1525712
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-02",
+    "price": 29.57,
+    "volume": 740330
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-02-01",
+    "price": 29.78,
+    "volume": 598095
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-31",
+    "price": 29.56,
+    "volume": 516796
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-28",
+    "price": 28.11,
+    "volume": 424388
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-27",
+    "price": 27.63,
+    "volume": 452657
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-26",
+    "price": 27.42,
+    "volume": 716483
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-25",
+    "price": 27.66,
+    "volume": 752441
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-24",
+    "price": 27.96,
+    "volume": 667066
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-21",
+    "price": 27.09,
+    "volume": 422020
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-20",
+    "price": 27.33,
+    "volume": 337878
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-19",
+    "price": 27.57,
+    "volume": 267822
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-18",
+    "price": 28.1,
+    "volume": 568280
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-14",
+    "price": 29.7,
+    "volume": 295694
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-13",
+    "price": 30.16,
+    "volume": 321789
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-12",
+    "price": 30.54,
+    "volume": 349093
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-11",
+    "price": 30.42,
+    "volume": 323445
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-10",
+    "price": 30.35,
+    "volume": 879128
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-07",
+    "price": 31.07,
+    "volume": 394473
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-06",
+    "price": 31.47,
+    "volume": 231972
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-05",
+    "price": 31.57,
+    "volume": 287993
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-04",
+    "price": 32.51,
+    "volume": 260683
+  },
+  {
+    "symbol": "ELF",
+    "date": "2022-01-03",
+    "price": 33.17,
+    "volume": 556812
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-31",
+    "price": 33.21,
+    "volume": 215081
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-30",
+    "price": 32.62,
+    "volume": 256539
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-29",
+    "price": 32.38,
+    "volume": 217178
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-28",
+    "price": 32.04,
+    "volume": 302774
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-27",
+    "price": 32.14,
+    "volume": 279731
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-23",
+    "price": 31.62,
+    "volume": 167037
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-22",
+    "price": 31.19,
+    "volume": 292472
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-21",
+    "price": 30.76,
+    "volume": 446642
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-20",
+    "price": 30.08,
+    "volume": 642101
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-17",
+    "price": 30.29,
+    "volume": 1380717
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-16",
+    "price": 30.44,
+    "volume": 468931
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-15",
+    "price": 31.24,
+    "volume": 351634
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-14",
+    "price": 30.78,
+    "volume": 383672
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-13",
+    "price": 30.12,
+    "volume": 574331
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-10",
+    "price": 31.4,
+    "volume": 401958
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-09",
+    "price": 31.28,
+    "volume": 298552
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-08",
+    "price": 31.77,
+    "volume": 333479
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-07",
+    "price": 31.05,
+    "volume": 575136
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-06",
+    "price": 30.39,
+    "volume": 400056
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-03",
+    "price": 30.15,
+    "volume": 654122
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-02",
+    "price": 30.85,
+    "volume": 359428
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-12-01",
+    "price": 29.59,
+    "volume": 690348
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-30",
+    "price": 30.12,
+    "volume": 357866
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-29",
+    "price": 30.92,
+    "volume": 396169
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-26",
+    "price": 31.07,
+    "volume": 342342
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-24",
+    "price": 31.78,
+    "volume": 248968
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-23",
+    "price": 32.01,
+    "volume": 386123
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-22",
+    "price": 32.04,
+    "volume": 327965
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-19",
+    "price": 32.44,
+    "volume": 223615
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-18",
+    "price": 32.42,
+    "volume": 221671
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-17",
+    "price": 32.7,
+    "volume": 469678
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-16",
+    "price": 32.37,
+    "volume": 292120
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-15",
+    "price": 31.63,
+    "volume": 371833
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-12",
+    "price": 31.36,
+    "volume": 222070
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-11",
+    "price": 31.24,
+    "volume": 265420
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-10",
+    "price": 30.78,
+    "volume": 295714
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-09",
+    "price": 31.02,
+    "volume": 360334
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-08",
+    "price": 30.96,
+    "volume": 450935
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-05",
+    "price": 31.33,
+    "volume": 744617
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-04",
+    "price": 30.21,
+    "volume": 1964084
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-03",
+    "price": 33.18,
+    "volume": 873312
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-02",
+    "price": 32.91,
+    "volume": 496435
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-11-01",
+    "price": 32.77,
+    "volume": 780444
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-29",
+    "price": 32.31,
+    "volume": 358676
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-28",
+    "price": 32.51,
+    "volume": 311627
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-27",
+    "price": 31.62,
+    "volume": 580407
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-26",
+    "price": 31.79,
+    "volume": 905193
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-25",
+    "price": 31.07,
+    "volume": 375981
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-22",
+    "price": 30.58,
+    "volume": 221033
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-21",
+    "price": 29.74,
+    "volume": 190557
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-20",
+    "price": 29.48,
+    "volume": 179850
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-19",
+    "price": 29.32,
+    "volume": 204249
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-18",
+    "price": 29.45,
+    "volume": 210577
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-15",
+    "price": 29.12,
+    "volume": 472405
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-14",
+    "price": 29.6,
+    "volume": 428188
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-13",
+    "price": 29.48,
+    "volume": 260545
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-12",
+    "price": 29.18,
+    "volume": 213815
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-11",
+    "price": 29.58,
+    "volume": 192486
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-08",
+    "price": 29.64,
+    "volume": 231496
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-07",
+    "price": 30.29,
+    "volume": 244952
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-06",
+    "price": 29.82,
+    "volume": 242123
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-05",
+    "price": 29.98,
+    "volume": 420028
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-04",
+    "price": 29.1,
+    "volume": 434892
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-10-01",
+    "price": 29.58,
+    "volume": 369484
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-30",
+    "price": 29.05,
+    "volume": 494384
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-29",
+    "price": 30.01,
+    "volume": 434900
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-28",
+    "price": 29.63,
+    "volume": 498375
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-27",
+    "price": 29.99,
+    "volume": 789825
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-24",
+    "price": 29.19,
+    "volume": 448544
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-23",
+    "price": 29.19,
+    "volume": 533588
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-22",
+    "price": 28.96,
+    "volume": 436807
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-21",
+    "price": 28.74,
+    "volume": 462113
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-20",
+    "price": 29.05,
+    "volume": 829751
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-17",
+    "price": 29.98,
+    "volume": 2377018
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-16",
+    "price": 30.22,
+    "volume": 388541
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-15",
+    "price": 30.27,
+    "volume": 543147
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-14",
+    "price": 29.65,
+    "volume": 492668
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-13",
+    "price": 30.68,
+    "volume": 431169
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-10",
+    "price": 30.28,
+    "volume": 401059
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-09",
+    "price": 29.82,
+    "volume": 445513
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-08",
+    "price": 30.22,
+    "volume": 304265
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-07",
+    "price": 30.89,
+    "volume": 614005
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-03",
+    "price": 30.66,
+    "volume": 260898
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-02",
+    "price": 31.05,
+    "volume": 443732
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-09-01",
+    "price": 31.05,
+    "volume": 619017
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-31",
+    "price": 30.95,
+    "volume": 356238
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-30",
+    "price": 30.83,
+    "volume": 402818
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-27",
+    "price": 30.69,
+    "volume": 473227
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-26",
+    "price": 30.03,
+    "volume": 352091
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-25",
+    "price": 30.02,
+    "volume": 270827
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-24",
+    "price": 29.8,
+    "volume": 269455
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-23",
+    "price": 29.85,
+    "volume": 348815
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-20",
+    "price": 29.32,
+    "volume": 329493
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-19",
+    "price": 28.96,
+    "volume": 403450
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-18",
+    "price": 28.21,
+    "volume": 342154
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-17",
+    "price": 28.32,
+    "volume": 432898
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-16",
+    "price": 29.31,
+    "volume": 295779
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-13",
+    "price": 29.92,
+    "volume": 276241
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-12",
+    "price": 29.72,
+    "volume": 275108
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-11",
+    "price": 30.06,
+    "volume": 318676
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-10",
+    "price": 30.55,
+    "volume": 453053
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-09",
+    "price": 29.75,
+    "volume": 270939
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-06",
+    "price": 30.02,
+    "volume": 496602
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-05",
+    "price": 29.83,
+    "volume": 1240418
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-04",
+    "price": 28.05,
+    "volume": 718404
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-03",
+    "price": 28.61,
+    "volume": 580510
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-08-02",
+    "price": 27.82,
+    "volume": 707347
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-30",
+    "price": 27.61,
+    "volume": 436975
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-29",
+    "price": 27.26,
+    "volume": 389009
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-28",
+    "price": 26.7,
+    "volume": 341878
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-27",
+    "price": 26.58,
+    "volume": 312711
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-26",
+    "price": 26.55,
+    "volume": 301382
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-23",
+    "price": 26.79,
+    "volume": 352471
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-22",
+    "price": 25.98,
+    "volume": 355597
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-21",
+    "price": 26.6,
+    "volume": 408919
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-20",
+    "price": 26.04,
+    "volume": 575895
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-19",
+    "price": 24.96,
+    "volume": 571667
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-16",
+    "price": 25.49,
+    "volume": 318714
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-15",
+    "price": 25.91,
+    "volume": 351110
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-14",
+    "price": 26.29,
+    "volume": 572443
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-13",
+    "price": 25.7,
+    "volume": 299804
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-12",
+    "price": 26.13,
+    "volume": 225063
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-09",
+    "price": 26.41,
+    "volume": 302325
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-08",
+    "price": 25.88,
+    "volume": 418926
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-07",
+    "price": 25.9,
+    "volume": 343457
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-06",
+    "price": 26.3,
+    "volume": 476772
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-02",
+    "price": 26.61,
+    "volume": 404339
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-07-01",
+    "price": 27.16,
+    "volume": 629040
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-30",
+    "price": 27.14,
+    "volume": 576976
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-29",
+    "price": 27.6,
+    "volume": 315665
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-28",
+    "price": 27.55,
+    "volume": 896767
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-25",
+    "price": 28,
+    "volume": 884942
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-24",
+    "price": 28,
+    "volume": 310702
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-23",
+    "price": 27.62,
+    "volume": 557455
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-22",
+    "price": 27.61,
+    "volume": 410926
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-21",
+    "price": 27.91,
+    "volume": 270954
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-18",
+    "price": 27.47,
+    "volume": 438871
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-17",
+    "price": 27.84,
+    "volume": 333391
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-16",
+    "price": 28.13,
+    "volume": 322886
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-15",
+    "price": 28.6,
+    "volume": 270129
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-14",
+    "price": 28.49,
+    "volume": 324655
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-11",
+    "price": 28.47,
+    "volume": 347341
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-10",
+    "price": 27.87,
+    "volume": 267761
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-09",
+    "price": 28.1,
+    "volume": 402243
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-08",
+    "price": 27.97,
+    "volume": 473520
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-07",
+    "price": 27.52,
+    "volume": 320752
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-04",
+    "price": 27.3,
+    "volume": 279640
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-03",
+    "price": 27.33,
+    "volume": 495701
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-02",
+    "price": 27.59,
+    "volume": 876979
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-06-01",
+    "price": 27.57,
+    "volume": 704648
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-28",
+    "price": 28,
+    "volume": 710507
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-27",
+    "price": 28.52,
+    "volume": 1150715
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-26",
+    "price": 29.65,
+    "volume": 700160
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-25",
+    "price": 28.5,
+    "volume": 471845
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-24",
+    "price": 29.15,
+    "volume": 429360
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-21",
+    "price": 28.8,
+    "volume": 299199
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-20",
+    "price": 29.29,
+    "volume": 341710
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-19",
+    "price": 28.93,
+    "volume": 439964
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-18",
+    "price": 29.22,
+    "volume": 297913
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-17",
+    "price": 29.27,
+    "volume": 292764
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-14",
+    "price": 28.86,
+    "volume": 552111
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-13",
+    "price": 27.87,
+    "volume": 580531
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-12",
+    "price": 27.72,
+    "volume": 577736
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-11",
+    "price": 28.57,
+    "volume": 693166
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-10",
+    "price": 29.04,
+    "volume": 543437
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-07",
+    "price": 30.13,
+    "volume": 421674
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-06",
+    "price": 30.57,
+    "volume": 341865
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-05",
+    "price": 29.93,
+    "volume": 302737
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-04",
+    "price": 29.73,
+    "volume": 361253
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-05-03",
+    "price": 29.54,
+    "volume": 949479
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-30",
+    "price": 30.25,
+    "volume": 463819
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-29",
+    "price": 30.29,
+    "volume": 382667
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-28",
+    "price": 30.05,
+    "volume": 623486
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-27",
+    "price": 30.21,
+    "volume": 776289
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-26",
+    "price": 30.33,
+    "volume": 596165
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-23",
+    "price": 31.12,
+    "volume": 616070
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-22",
+    "price": 30.22,
+    "volume": 572346
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-21",
+    "price": 29.81,
+    "volume": 450277
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-20",
+    "price": 29.57,
+    "volume": 524561
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-19",
+    "price": 29.75,
+    "volume": 456209
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-16",
+    "price": 29.9,
+    "volume": 424175
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-15",
+    "price": 29.08,
+    "volume": 591434
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-14",
+    "price": 29.07,
+    "volume": 623935
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-13",
+    "price": 28.24,
+    "volume": 507980
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-12",
+    "price": 28.33,
+    "volume": 521159
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-09",
+    "price": 27.85,
+    "volume": 374168
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-08",
+    "price": 27.54,
+    "volume": 612706
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-07",
+    "price": 27.25,
+    "volume": 415549
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-06",
+    "price": 27.02,
+    "volume": 376023
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-05",
+    "price": 27.01,
+    "volume": 285338
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-04-01",
+    "price": 26.94,
+    "volume": 393334
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-31",
+    "price": 26.83,
+    "volume": 451359
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-30",
+    "price": 27.04,
+    "volume": 364390
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-29",
+    "price": 26.58,
+    "volume": 575290
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-26",
+    "price": 27.11,
+    "volume": 697800
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-25",
+    "price": 26.65,
+    "volume": 867123
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-24",
+    "price": 26.14,
+    "volume": 872629
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-23",
+    "price": 27.24,
+    "volume": 566658
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-22",
+    "price": 28.35,
+    "volume": 799463
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-19",
+    "price": 27.67,
+    "volume": 681874
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-18",
+    "price": 27.75,
+    "volume": 725761
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-17",
+    "price": 27.87,
+    "volume": 582535
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-16",
+    "price": 28.25,
+    "volume": 736072
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-15",
+    "price": 28.79,
+    "volume": 431773
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-12",
+    "price": 28.61,
+    "volume": 808086
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-11",
+    "price": 28.72,
+    "volume": 632621
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-10",
+    "price": 27.41,
+    "volume": 706256
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-09",
+    "price": 26.33,
+    "volume": 414459
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-08",
+    "price": 26.08,
+    "volume": 837988
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-05",
+    "price": 25.78,
+    "volume": 874265
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-04",
+    "price": 24.96,
+    "volume": 839047
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-03",
+    "price": 25.62,
+    "volume": 738466
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-02",
+    "price": 26.14,
+    "volume": 1221383
+  },
+  {
+    "symbol": "ELF",
+    "date": "2021-03-01",
+    "price": 27.2,
+    "volume": 1138392
+  }
+]

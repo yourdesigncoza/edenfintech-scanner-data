@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "BHC",
+    "date": "2026-02-27",
+    "price": 5.93,
+    "volume": 1371225
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-26",
+    "price": 6.04,
+    "volume": 1331448
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-25",
+    "price": 6.11,
+    "volume": 1778921
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-24",
+    "price": 6.02,
+    "volume": 1414042
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-23",
+    "price": 5.98,
+    "volume": 1909800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-20",
+    "price": 6.13,
+    "volume": 3067100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-19",
+    "price": 5.93,
+    "volume": 4807638
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-18",
+    "price": 6.19,
+    "volume": 2806800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-17",
+    "price": 5.99,
+    "volume": 1971907
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-13",
+    "price": 5.99,
+    "volume": 1664600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-12",
+    "price": 5.84,
+    "volume": 2122806
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-11",
+    "price": 6.08,
+    "volume": 2549902
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-10",
+    "price": 6.16,
+    "volume": 1763648
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-09",
+    "price": 5.98,
+    "volume": 1638718
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-06",
+    "price": 5.88,
+    "volume": 1364092
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-05",
+    "price": 5.73,
+    "volume": 2304500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-04",
+    "price": 5.66,
+    "volume": 1361800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-03",
+    "price": 5.7,
+    "volume": 1408854
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-02-02",
+    "price": 5.76,
+    "volume": 2114200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-30",
+    "price": 5.74,
+    "volume": 2243737
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-29",
+    "price": 5.59,
+    "volume": 1916400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-28",
+    "price": 5.66,
+    "volume": 1830400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-27",
+    "price": 5.72,
+    "volume": 2796610
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-26",
+    "price": 5.8,
+    "volume": 2685031
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-23",
+    "price": 5.91,
+    "volume": 7975200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-22",
+    "price": 6.57,
+    "volume": 1935600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-21",
+    "price": 6.65,
+    "volume": 2210300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-20",
+    "price": 6.79,
+    "volume": 1976370
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-16",
+    "price": 6.98,
+    "volume": 1533139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-15",
+    "price": 7.26,
+    "volume": 1810786
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-14",
+    "price": 7.45,
+    "volume": 1298000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-13",
+    "price": 7.5,
+    "volume": 1913718
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-12",
+    "price": 7.49,
+    "volume": 1297327
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-09",
+    "price": 7.41,
+    "volume": 1682800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-08",
+    "price": 7.77,
+    "volume": 1768827
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-07",
+    "price": 7.9,
+    "volume": 2142905
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-06",
+    "price": 7.63,
+    "volume": 2109747
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-05",
+    "price": 7.4,
+    "volume": 2478017
+  },
+  {
+    "symbol": "BHC",
+    "date": "2026-01-02",
+    "price": 7.21,
+    "volume": 2343117
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-31",
+    "price": 6.95,
+    "volume": 1389439
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-30",
+    "price": 6.99,
+    "volume": 1352000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-29",
+    "price": 7.13,
+    "volume": 1158400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-26",
+    "price": 7.2,
+    "volume": 1016900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-24",
+    "price": 7.18,
+    "volume": 979737
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-23",
+    "price": 7.32,
+    "volume": 8098300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-22",
+    "price": 6.99,
+    "volume": 3312100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-19",
+    "price": 6.88,
+    "volume": 2474318
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-18",
+    "price": 6.82,
+    "volume": 1302586
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-17",
+    "price": 6.82,
+    "volume": 1522907
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-16",
+    "price": 6.93,
+    "volume": 1334518
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-15",
+    "price": 6.91,
+    "volume": 1463917
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-12",
+    "price": 6.92,
+    "volume": 1541457
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-11",
+    "price": 7.01,
+    "volume": 2041578
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-10",
+    "price": 6.82,
+    "volume": 1073400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-09",
+    "price": 6.8,
+    "volume": 5372708
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-08",
+    "price": 6.82,
+    "volume": 1851043
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-05",
+    "price": 6.93,
+    "volume": 2157600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-04",
+    "price": 7.38,
+    "volume": 4729563
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-03",
+    "price": 7.05,
+    "volume": 3230800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-02",
+    "price": 6.9,
+    "volume": 3862392
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-12-01",
+    "price": 7.05,
+    "volume": 7366908
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-28",
+    "price": 6.35,
+    "volume": 1886400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-26",
+    "price": 6.25,
+    "volume": 2065326
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-25",
+    "price": 6.32,
+    "volume": 7228846
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-24",
+    "price": 6.11,
+    "volume": 2536461
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-21",
+    "price": 6.03,
+    "volume": 1306922
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-20",
+    "price": 6,
+    "volume": 1297500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-19",
+    "price": 6.05,
+    "volume": 1686430
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-18",
+    "price": 6.18,
+    "volume": 1601000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-17",
+    "price": 6.13,
+    "volume": 1894300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-14",
+    "price": 6.28,
+    "volume": 2255800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-13",
+    "price": 6.62,
+    "volume": 3400500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-12",
+    "price": 6.94,
+    "volume": 5646800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-11",
+    "price": 6.81,
+    "volume": 3291557
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-10",
+    "price": 6.4,
+    "volume": 1919941
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-07",
+    "price": 6.65,
+    "volume": 1971549
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-06",
+    "price": 6.69,
+    "volume": 1652500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-05",
+    "price": 6.78,
+    "volume": 1533007
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-04",
+    "price": 6.74,
+    "volume": 1803600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-11-03",
+    "price": 6.81,
+    "volume": 7366100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-31",
+    "price": 7.02,
+    "volume": 3265117
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-30",
+    "price": 6.61,
+    "volume": 4644647
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-29",
+    "price": 5.9,
+    "volume": 3712200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-28",
+    "price": 6.19,
+    "volume": 4252100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-27",
+    "price": 6.2,
+    "volume": 1273600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-24",
+    "price": 6.2,
+    "volume": 3479725
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-23",
+    "price": 6.38,
+    "volume": 1620809
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-22",
+    "price": 6.24,
+    "volume": 1493733
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-21",
+    "price": 6.16,
+    "volume": 1726850
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-20",
+    "price": 6.31,
+    "volume": 2264034
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-17",
+    "price": 6.05,
+    "volume": 1117147
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-16",
+    "price": 6.01,
+    "volume": 1401700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-15",
+    "price": 6.02,
+    "volume": 1051500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-14",
+    "price": 6.11,
+    "volume": 836294
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-13",
+    "price": 6.11,
+    "volume": 903146
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-10",
+    "price": 6.05,
+    "volume": 2916500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-09",
+    "price": 6.39,
+    "volume": 1162300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-08",
+    "price": 6.34,
+    "volume": 903000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-07",
+    "price": 6.39,
+    "volume": 858900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-06",
+    "price": 6.47,
+    "volume": 1331508
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-03",
+    "price": 6.68,
+    "volume": 1463028
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-02",
+    "price": 6.55,
+    "volume": 1159356
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-10-01",
+    "price": 6.62,
+    "volume": 1785100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-30",
+    "price": 6.45,
+    "volume": 1674000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-29",
+    "price": 6.47,
+    "volume": 1608364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-26",
+    "price": 6.48,
+    "volume": 847920
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-25",
+    "price": 6.46,
+    "volume": 2236125
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-24",
+    "price": 6.65,
+    "volume": 1422687
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-23",
+    "price": 6.71,
+    "volume": 1381720
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-22",
+    "price": 6.81,
+    "volume": 1245918
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-19",
+    "price": 6.73,
+    "volume": 1404825
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-18",
+    "price": 6.89,
+    "volume": 2032829
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-17",
+    "price": 6.83,
+    "volume": 3778000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-16",
+    "price": 6.78,
+    "volume": 3165400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-15",
+    "price": 7.18,
+    "volume": 1787357
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-12",
+    "price": 7.26,
+    "volume": 3075400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-11",
+    "price": 7.25,
+    "volume": 1045891
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-10",
+    "price": 7.15,
+    "volume": 1544827
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-09",
+    "price": 7.21,
+    "volume": 1579586
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-08",
+    "price": 7.33,
+    "volume": 792700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-05",
+    "price": 7.35,
+    "volume": 1006004
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-04",
+    "price": 7.21,
+    "volume": 1232818
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-03",
+    "price": 7.35,
+    "volume": 2691880
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-09-02",
+    "price": 7.68,
+    "volume": 5687211
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-29",
+    "price": 7.42,
+    "volume": 2189738
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-28",
+    "price": 7.15,
+    "volume": 2048611
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-27",
+    "price": 7.27,
+    "volume": 1117260
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-26",
+    "price": 7.17,
+    "volume": 2833121
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-25",
+    "price": 7.3,
+    "volume": 1981000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-22",
+    "price": 7.49,
+    "volume": 1885900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-21",
+    "price": 7.5,
+    "volume": 1988847
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-20",
+    "price": 7.58,
+    "volume": 2242400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-19",
+    "price": 7.79,
+    "volume": 2811724
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-18",
+    "price": 8.02,
+    "volume": 3474500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-15",
+    "price": 8.34,
+    "volume": 9182300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-14",
+    "price": 7.51,
+    "volume": 37481100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-13",
+    "price": 7.17,
+    "volume": 1920200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-12",
+    "price": 7,
+    "volume": 3804766
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-11",
+    "price": 6.66,
+    "volume": 9496605
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-08",
+    "price": 5.75,
+    "volume": 843013
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-07",
+    "price": 5.76,
+    "volume": 875800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-06",
+    "price": 5.76,
+    "volume": 1543011
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-05",
+    "price": 5.94,
+    "volume": 2143300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-04",
+    "price": 5.78,
+    "volume": 1353240
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-08-01",
+    "price": 5.71,
+    "volume": 1336651
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-31",
+    "price": 5.89,
+    "volume": 4958728
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-30",
+    "price": 6.39,
+    "volume": 2049800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-29",
+    "price": 6.82,
+    "volume": 1240723
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-28",
+    "price": 6.89,
+    "volume": 974404
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-25",
+    "price": 6.77,
+    "volume": 754258
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-24",
+    "price": 6.78,
+    "volume": 1305688
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-23",
+    "price": 6.65,
+    "volume": 1230210
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-22",
+    "price": 6.51,
+    "volume": 1124745
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-21",
+    "price": 6.32,
+    "volume": 1011300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-18",
+    "price": 6.31,
+    "volume": 903000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-17",
+    "price": 6.48,
+    "volume": 785526
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-16",
+    "price": 6.44,
+    "volume": 1119900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-15",
+    "price": 6.42,
+    "volume": 1100900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-14",
+    "price": 6.34,
+    "volume": 1564722
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-11",
+    "price": 6.42,
+    "volume": 1540104
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-10",
+    "price": 6.62,
+    "volume": 2265484
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-09",
+    "price": 6.59,
+    "volume": 1048580
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-08",
+    "price": 6.7,
+    "volume": 1298830
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-07",
+    "price": 6.87,
+    "volume": 1539458
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-03",
+    "price": 7.06,
+    "volume": 1177315
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-02",
+    "price": 7.12,
+    "volume": 2971344
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-07-01",
+    "price": 6.79,
+    "volume": 2332660
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-30",
+    "price": 6.66,
+    "volume": 2307000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-27",
+    "price": 6.46,
+    "volume": 2706100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-26",
+    "price": 6.41,
+    "volume": 2318548
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-25",
+    "price": 6.38,
+    "volume": 3071000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-24",
+    "price": 6.2,
+    "volume": 1464761
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-23",
+    "price": 6.1,
+    "volume": 2306621
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-20",
+    "price": 6.18,
+    "volume": 2797755
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-18",
+    "price": 6.18,
+    "volume": 4649649
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-17",
+    "price": 5.73,
+    "volume": 2231200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-16",
+    "price": 5.91,
+    "volume": 5110534
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-13",
+    "price": 5.98,
+    "volume": 11500118
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-12",
+    "price": 5.51,
+    "volume": 4208753
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-11",
+    "price": 5.33,
+    "volume": 4143371
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-10",
+    "price": 5.1,
+    "volume": 2752755
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-09",
+    "price": 4.86,
+    "volume": 1578845
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-06",
+    "price": 4.76,
+    "volume": 991700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-05",
+    "price": 4.63,
+    "volume": 723520
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-04",
+    "price": 4.64,
+    "volume": 1469800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-03",
+    "price": 4.58,
+    "volume": 1923700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-06-02",
+    "price": 4.48,
+    "volume": 1188309
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-30",
+    "price": 4.53,
+    "volume": 914021
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-29",
+    "price": 4.61,
+    "volume": 1171873
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-28",
+    "price": 4.55,
+    "volume": 899134
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-27",
+    "price": 4.59,
+    "volume": 814200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-23",
+    "price": 4.45,
+    "volume": 930148
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-22",
+    "price": 4.5,
+    "volume": 1047800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-21",
+    "price": 4.48,
+    "volume": 1164835
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-20",
+    "price": 4.68,
+    "volume": 1142044
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-19",
+    "price": 4.64,
+    "volume": 783924
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-16",
+    "price": 4.67,
+    "volume": 1151823
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-15",
+    "price": 4.6,
+    "volume": 1344800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-14",
+    "price": 4.56,
+    "volume": 1295147
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-13",
+    "price": 4.67,
+    "volume": 1272540
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-12",
+    "price": 4.78,
+    "volume": 3197260
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-09",
+    "price": 4.59,
+    "volume": 1724549
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-08",
+    "price": 4.7,
+    "volume": 1935549
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-07",
+    "price": 4.7,
+    "volume": 2901245
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-06",
+    "price": 4.74,
+    "volume": 2079900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-05",
+    "price": 4.93,
+    "volume": 2694400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-02",
+    "price": 5.42,
+    "volume": 2045300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-05-01",
+    "price": 5.3,
+    "volume": 3177402
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-30",
+    "price": 5.3,
+    "volume": 2306700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-29",
+    "price": 5.51,
+    "volume": 1104300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-28",
+    "price": 5.41,
+    "volume": 1640634
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-25",
+    "price": 5.44,
+    "volume": 1345800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-24",
+    "price": 5.48,
+    "volume": 1994846
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-23",
+    "price": 5.17,
+    "volume": 2220706
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-22",
+    "price": 5.19,
+    "volume": 3642300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-21",
+    "price": 4.72,
+    "volume": 3076435
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-17",
+    "price": 5.1,
+    "volume": 9207125
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-16",
+    "price": 4.5,
+    "volume": 2161000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-15",
+    "price": 4.52,
+    "volume": 2363426
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-14",
+    "price": 4.34,
+    "volume": 3607023
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-11",
+    "price": 4.32,
+    "volume": 2276797
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-10",
+    "price": 4.37,
+    "volume": 4206851
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-09",
+    "price": 5.02,
+    "volume": 6878566
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-08",
+    "price": 4.81,
+    "volume": 3678900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-07",
+    "price": 5.26,
+    "volume": 4044238
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-04",
+    "price": 5.33,
+    "volume": 3167844
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-03",
+    "price": 5.67,
+    "volume": 2054100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-02",
+    "price": 6.11,
+    "volume": 1317983
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-04-01",
+    "price": 6.25,
+    "volume": 1343664
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-31",
+    "price": 6.47,
+    "volume": 2076400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-28",
+    "price": 6.48,
+    "volume": 1361131
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-27",
+    "price": 6.75,
+    "volume": 2005500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-26",
+    "price": 6.81,
+    "volume": 2569401
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-25",
+    "price": 7,
+    "volume": 2220655
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-24",
+    "price": 7.27,
+    "volume": 1510310
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-21",
+    "price": 7.16,
+    "volume": 2541633
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-20",
+    "price": 7.13,
+    "volume": 1517700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-19",
+    "price": 7,
+    "volume": 1832000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-18",
+    "price": 7.01,
+    "volume": 929139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-17",
+    "price": 7.04,
+    "volume": 1088804
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-14",
+    "price": 7.15,
+    "volume": 1899119
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-13",
+    "price": 6.89,
+    "volume": 1204030
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-12",
+    "price": 6.79,
+    "volume": 917755
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-11",
+    "price": 7,
+    "volume": 694743
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-10",
+    "price": 7,
+    "volume": 1468400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-07",
+    "price": 7.15,
+    "volume": 716486
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-06",
+    "price": 7.21,
+    "volume": 1026143
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-05",
+    "price": 7.15,
+    "volume": 893428
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-04",
+    "price": 7.01,
+    "volume": 1422600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-03-03",
+    "price": 7.17,
+    "volume": 2054200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-28",
+    "price": 7.44,
+    "volume": 1161900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-27",
+    "price": 7.65,
+    "volume": 1722152
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-26",
+    "price": 7.7,
+    "volume": 1502600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-25",
+    "price": 7.54,
+    "volume": 2919709
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-24",
+    "price": 7.17,
+    "volume": 2440970
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-21",
+    "price": 7.31,
+    "volume": 3004766
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-20",
+    "price": 7.18,
+    "volume": 6096711
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-19",
+    "price": 6.51,
+    "volume": 2903900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-18",
+    "price": 6.36,
+    "volume": 7594600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-14",
+    "price": 6.16,
+    "volume": 2956600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-13",
+    "price": 6.38,
+    "volume": 2091941
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-12",
+    "price": 6.36,
+    "volume": 1870526
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-11",
+    "price": 6.37,
+    "volume": 1542595
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-10",
+    "price": 6.32,
+    "volume": 6162529
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-07",
+    "price": 6.45,
+    "volume": 1790826
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-06",
+    "price": 6.54,
+    "volume": 3314649
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-05",
+    "price": 7.34,
+    "volume": 1124100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-04",
+    "price": 7.26,
+    "volume": 971600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-02-03",
+    "price": 7.28,
+    "volume": 8618500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-31",
+    "price": 7.43,
+    "volume": 1455041
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-30",
+    "price": 7.46,
+    "volume": 8112000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-29",
+    "price": 7.47,
+    "volume": 1571200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-28",
+    "price": 7.6,
+    "volume": 1248560
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-27",
+    "price": 7.77,
+    "volume": 1366439
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-24",
+    "price": 7.72,
+    "volume": 1140400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-23",
+    "price": 7.81,
+    "volume": 1568100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-22",
+    "price": 7.72,
+    "volume": 12861779
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-21",
+    "price": 7.47,
+    "volume": 17944918
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-17",
+    "price": 7.44,
+    "volume": 3766847
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-16",
+    "price": 7.65,
+    "volume": 983141
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-15",
+    "price": 7.57,
+    "volume": 1376000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-14",
+    "price": 7.48,
+    "volume": 3451310
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-13",
+    "price": 7.4,
+    "volume": 2816552
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-10",
+    "price": 7.88,
+    "volume": 1468879
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-08",
+    "price": 7.83,
+    "volume": 992000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-07",
+    "price": 7.85,
+    "volume": 817089
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-06",
+    "price": 7.8,
+    "volume": 907236
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-03",
+    "price": 7.8,
+    "volume": 985000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2025-01-02",
+    "price": 7.94,
+    "volume": 1052618
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-31",
+    "price": 8.06,
+    "volume": 2489100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-30",
+    "price": 7.73,
+    "volume": 1431309
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-27",
+    "price": 7.65,
+    "volume": 1427412
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-26",
+    "price": 7.61,
+    "volume": 728700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-24",
+    "price": 7.53,
+    "volume": 380508
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-23",
+    "price": 7.48,
+    "volume": 873825
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-20",
+    "price": 7.47,
+    "volume": 1232922
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-19",
+    "price": 7.39,
+    "volume": 828657
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-18",
+    "price": 7.34,
+    "volume": 1573924
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-17",
+    "price": 7.68,
+    "volume": 481500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-16",
+    "price": 7.65,
+    "volume": 1117646
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-13",
+    "price": 7.81,
+    "volume": 876693
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-12",
+    "price": 7.75,
+    "volume": 1637100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-11",
+    "price": 7.58,
+    "volume": 4777800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-10",
+    "price": 8.32,
+    "volume": 1121300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-09",
+    "price": 8.46,
+    "volume": 1428341
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-06",
+    "price": 8.15,
+    "volume": 847349
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-05",
+    "price": 8.12,
+    "volume": 634143
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-04",
+    "price": 8.13,
+    "volume": 763300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-03",
+    "price": 8.09,
+    "volume": 1601329
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-12-02",
+    "price": 7.82,
+    "volume": 1815600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-29",
+    "price": 8.37,
+    "volume": 596000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-27",
+    "price": 8.12,
+    "volume": 928905
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-26",
+    "price": 7.89,
+    "volume": 2193200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-25",
+    "price": 7.95,
+    "volume": 2739864
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-22",
+    "price": 7.97,
+    "volume": 1647500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-21",
+    "price": 8.18,
+    "volume": 579530
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-20",
+    "price": 8.19,
+    "volume": 902942
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-19",
+    "price": 8.19,
+    "volume": 1131100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-18",
+    "price": 8.38,
+    "volume": 1131018
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-15",
+    "price": 8.48,
+    "volume": 1027632
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-14",
+    "price": 8.76,
+    "volume": 859400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-13",
+    "price": 8.78,
+    "volume": 1403200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-12",
+    "price": 9.13,
+    "volume": 1631200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-11",
+    "price": 9.35,
+    "volume": 1749810
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-08",
+    "price": 9.34,
+    "volume": 1069500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-07",
+    "price": 9.42,
+    "volume": 2783500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-06",
+    "price": 9.5,
+    "volume": 2988528
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-05",
+    "price": 9.69,
+    "volume": 3346500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-04",
+    "price": 9.26,
+    "volume": 2692103
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-11-01",
+    "price": 9.78,
+    "volume": 3457099
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-31",
+    "price": 9.2,
+    "volume": 7666621
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-30",
+    "price": 8.17,
+    "volume": 2001800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-29",
+    "price": 8.16,
+    "volume": 1014880
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-28",
+    "price": 8.19,
+    "volume": 1143423
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-25",
+    "price": 8.04,
+    "volume": 612100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-24",
+    "price": 8.12,
+    "volume": 929400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-23",
+    "price": 8.07,
+    "volume": 872100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-22",
+    "price": 8.11,
+    "volume": 1144700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-21",
+    "price": 8.17,
+    "volume": 1559123
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-18",
+    "price": 8.16,
+    "volume": 1481400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-17",
+    "price": 8.36,
+    "volume": 2123600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-16",
+    "price": 8.46,
+    "volume": 2291400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-15",
+    "price": 8.39,
+    "volume": 1839683
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-14",
+    "price": 8.24,
+    "volume": 2653900
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-11",
+    "price": 7.95,
+    "volume": 1238139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-10",
+    "price": 8.1,
+    "volume": 759511
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-09",
+    "price": 7.93,
+    "volume": 1743052
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-08",
+    "price": 8.06,
+    "volume": 1087400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-07",
+    "price": 8.16,
+    "volume": 1166732
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-04",
+    "price": 8.32,
+    "volume": 1155100
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-03",
+    "price": 8.27,
+    "volume": 1146327
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-02",
+    "price": 8.16,
+    "volume": 1123300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-10-01",
+    "price": 8.27,
+    "volume": 1379600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-30",
+    "price": 8.16,
+    "volume": 2281677
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-27",
+    "price": 8.26,
+    "volume": 1561022
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-26",
+    "price": 8.11,
+    "volume": 2169800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-25",
+    "price": 8.03,
+    "volume": 1849508
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-24",
+    "price": 8.08,
+    "volume": 1851700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-23",
+    "price": 8.01,
+    "volume": 1560525
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-20",
+    "price": 8.03,
+    "volume": 1989533
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-19",
+    "price": 8.18,
+    "volume": 4700132
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-18",
+    "price": 8.02,
+    "volume": 8165400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-17",
+    "price": 7.18,
+    "volume": 3179212
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-16",
+    "price": 7,
+    "volume": 6593274
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-13",
+    "price": 6.32,
+    "volume": 1047584
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-12",
+    "price": 6.3,
+    "volume": 946327
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-11",
+    "price": 6.38,
+    "volume": 2812800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-10",
+    "price": 6.25,
+    "volume": 2216760
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-09",
+    "price": 6.2,
+    "volume": 1187888
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-06",
+    "price": 6.21,
+    "volume": 11532607
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-05",
+    "price": 6.19,
+    "volume": 879611
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-04",
+    "price": 6.23,
+    "volume": 1208794
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-09-03",
+    "price": 6.07,
+    "volume": 2136219
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-30",
+    "price": 5.93,
+    "volume": 1266800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-29",
+    "price": 5.87,
+    "volume": 9710240
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-28",
+    "price": 5.9,
+    "volume": 745243
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-27",
+    "price": 5.96,
+    "volume": 1136305
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-26",
+    "price": 5.97,
+    "volume": 1123300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-23",
+    "price": 5.87,
+    "volume": 918800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-22",
+    "price": 5.77,
+    "volume": 954376
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-21",
+    "price": 5.83,
+    "volume": 751183
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-20",
+    "price": 5.83,
+    "volume": 858710
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-19",
+    "price": 5.75,
+    "volume": 692300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-16",
+    "price": 5.73,
+    "volume": 718000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-15",
+    "price": 5.74,
+    "volume": 1242200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-14",
+    "price": 5.53,
+    "volume": 787625
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-13",
+    "price": 5.48,
+    "volume": 1033332
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-12",
+    "price": 5.41,
+    "volume": 1001440
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-09",
+    "price": 5.42,
+    "volume": 1404510
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-08",
+    "price": 5.48,
+    "volume": 5133144
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-07",
+    "price": 5.22,
+    "volume": 1464500
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-06",
+    "price": 5.39,
+    "volume": 2461400
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-05",
+    "price": 5.23,
+    "volume": 3695612
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-02",
+    "price": 5.63,
+    "volume": 3565700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-08-01",
+    "price": 6.1,
+    "volume": 3999931
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-31",
+    "price": 6.03,
+    "volume": 3145926
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-30",
+    "price": 5.96,
+    "volume": 3411300
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-29",
+    "price": 5.95,
+    "volume": 3375589
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-26",
+    "price": 5.99,
+    "volume": 5184200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-25",
+    "price": 5.88,
+    "volume": 7969891
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-24",
+    "price": 5.81,
+    "volume": 63028544
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-23",
+    "price": 7.57,
+    "volume": 3089800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-22",
+    "price": 7.57,
+    "volume": 1474557
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-19",
+    "price": 7.6,
+    "volume": 3564202
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-18",
+    "price": 7.38,
+    "volume": 3652029
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-17",
+    "price": 7.62,
+    "volume": 2842548
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-16",
+    "price": 7.55,
+    "volume": 4543453
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-15",
+    "price": 7.32,
+    "volume": 2026709
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-12",
+    "price": 7.42,
+    "volume": 3102689
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-11",
+    "price": 7.55,
+    "volume": 9062515
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-10",
+    "price": 7.32,
+    "volume": 2018591
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-09",
+    "price": 7.19,
+    "volume": 2396538
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-08",
+    "price": 7.29,
+    "volume": 2816405
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-05",
+    "price": 7.23,
+    "volume": 2590240
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-03",
+    "price": 7.15,
+    "volume": 1244499
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-02",
+    "price": 7.11,
+    "volume": 1690830
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-07-01",
+    "price": 7.09,
+    "volume": 2462840
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-28",
+    "price": 6.97,
+    "volume": 3260673
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-27",
+    "price": 6.89,
+    "volume": 2260254
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-26",
+    "price": 6.79,
+    "volume": 2855903
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-25",
+    "price": 6.8,
+    "volume": 2656973
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-24",
+    "price": 6.83,
+    "volume": 2115133
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-21",
+    "price": 6.8,
+    "volume": 4143674
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-20",
+    "price": 6.73,
+    "volume": 3627472
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-18",
+    "price": 6.47,
+    "volume": 2093240
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-17",
+    "price": 6.43,
+    "volume": 1641631
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-14",
+    "price": 6.32,
+    "volume": 2475748
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-13",
+    "price": 6.17,
+    "volume": 2361416
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-12",
+    "price": 6.31,
+    "volume": 2550295
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-11",
+    "price": 6.1,
+    "volume": 1168039
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-10",
+    "price": 6.32,
+    "volume": 1061211
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-07",
+    "price": 6.27,
+    "volume": 1001898
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-06",
+    "price": 6.23,
+    "volume": 1338647
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-05",
+    "price": 6.28,
+    "volume": 1456834
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-04",
+    "price": 6.2,
+    "volume": 1768693
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-06-03",
+    "price": 6.33,
+    "volume": 2208320
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-31",
+    "price": 6.56,
+    "volume": 2477816
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-30",
+    "price": 6.29,
+    "volume": 1506554
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-29",
+    "price": 6.13,
+    "volume": 2288924
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-28",
+    "price": 6.2,
+    "volume": 2590364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-24",
+    "price": 6.36,
+    "volume": 2031448
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-23",
+    "price": 6.35,
+    "volume": 2393297
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-22",
+    "price": 6.37,
+    "volume": 2285781
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-21",
+    "price": 6.55,
+    "volume": 2878465
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-20",
+    "price": 6.5,
+    "volume": 3131136
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-17",
+    "price": 6.77,
+    "volume": 4041073
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-16",
+    "price": 7.07,
+    "volume": 1941461
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-15",
+    "price": 7.08,
+    "volume": 2212822
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-14",
+    "price": 7.12,
+    "volume": 2284912
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-13",
+    "price": 7.13,
+    "volume": 2838652
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-10",
+    "price": 6.88,
+    "volume": 4300566
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-09",
+    "price": 6.95,
+    "volume": 5288718
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-08",
+    "price": 7.03,
+    "volume": 6928279
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-07",
+    "price": 7.41,
+    "volume": 2282690
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-06",
+    "price": 7.52,
+    "volume": 5320281
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-03",
+    "price": 7.82,
+    "volume": 3396646
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-02",
+    "price": 8.09,
+    "volume": 6377852
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-05-01",
+    "price": 8.75,
+    "volume": 2730560
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-30",
+    "price": 8.76,
+    "volume": 1546776
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-29",
+    "price": 8.88,
+    "volume": 2665315
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-26",
+    "price": 8.71,
+    "volume": 2082642
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-25",
+    "price": 8.62,
+    "volume": 2796669
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-24",
+    "price": 8.56,
+    "volume": 1990857
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-23",
+    "price": 8.53,
+    "volume": 4025451
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-22",
+    "price": 8.45,
+    "volume": 2358181
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-19",
+    "price": 8.69,
+    "volume": 2945834
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-18",
+    "price": 8.6,
+    "volume": 2183657
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-17",
+    "price": 8.66,
+    "volume": 2199159
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-16",
+    "price": 8.74,
+    "volume": 2495720
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-15",
+    "price": 8.63,
+    "volume": 3190927
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-12",
+    "price": 8.76,
+    "volume": 5244196
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-11",
+    "price": 8.97,
+    "volume": 15233932
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-10",
+    "price": 8.92,
+    "volume": 2595581
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-09",
+    "price": 9.26,
+    "volume": 3895482
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-08",
+    "price": 9.69,
+    "volume": 6317155
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-05",
+    "price": 10.41,
+    "volume": 4491499
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-04",
+    "price": 10.05,
+    "volume": 3731033
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-03",
+    "price": 10.04,
+    "volume": 6739454
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-02",
+    "price": 10.2,
+    "volume": 1462879
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-04-01",
+    "price": 10.4,
+    "volume": 2747664
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-28",
+    "price": 10.61,
+    "volume": 3815281
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-27",
+    "price": 10.49,
+    "volume": 6336459
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-26",
+    "price": 9.86,
+    "volume": 3089355
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-25",
+    "price": 9.48,
+    "volume": 2192227
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-22",
+    "price": 9.56,
+    "volume": 1138699
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-21",
+    "price": 9.5,
+    "volume": 1684267
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-20",
+    "price": 9.59,
+    "volume": 1430423
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-19",
+    "price": 9.54,
+    "volume": 1465120
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-18",
+    "price": 9.38,
+    "volume": 1195972
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-15",
+    "price": 9.2,
+    "volume": 1385517
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-14",
+    "price": 9.09,
+    "volume": 1037885
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-13",
+    "price": 9.28,
+    "volume": 1075220
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-12",
+    "price": 9.19,
+    "volume": 1027329
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-11",
+    "price": 9.12,
+    "volume": 1121071
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-08",
+    "price": 9.23,
+    "volume": 1200279
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-07",
+    "price": 9.28,
+    "volume": 1381620
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-06",
+    "price": 9.23,
+    "volume": 2660969
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-05",
+    "price": 9.56,
+    "volume": 2467862
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-04",
+    "price": 9.58,
+    "volume": 2860876
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-03-01",
+    "price": 9.89,
+    "volume": 5991150
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-29",
+    "price": 9.39,
+    "volume": 3266867
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-28",
+    "price": 9.2,
+    "volume": 2099253
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-27",
+    "price": 9.18,
+    "volume": 5155062
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-26",
+    "price": 8.99,
+    "volume": 2534716
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-23",
+    "price": 9.18,
+    "volume": 3470659
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-22",
+    "price": 9.3,
+    "volume": 8072418
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-21",
+    "price": 8.67,
+    "volume": 3905891
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-20",
+    "price": 8.6,
+    "volume": 1313215
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-16",
+    "price": 8.51,
+    "volume": 1620496
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-15",
+    "price": 8.49,
+    "volume": 1800219
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-14",
+    "price": 8.43,
+    "volume": 941451
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-13",
+    "price": 8.41,
+    "volume": 1455505
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-12",
+    "price": 8.38,
+    "volume": 2346569
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-09",
+    "price": 8.21,
+    "volume": 1041511
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-08",
+    "price": 8.13,
+    "volume": 1054824
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-07",
+    "price": 8.12,
+    "volume": 1278184
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-06",
+    "price": 8.13,
+    "volume": 1712893
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-05",
+    "price": 7.77,
+    "volume": 2456762
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-02",
+    "price": 7.92,
+    "volume": 1198784
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-02-01",
+    "price": 7.98,
+    "volume": 1512169
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-31",
+    "price": 7.85,
+    "volume": 3976630
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-30",
+    "price": 8.19,
+    "volume": 1187728
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-29",
+    "price": 8.33,
+    "volume": 1674501
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-26",
+    "price": 8.18,
+    "volume": 1396567
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-25",
+    "price": 8.08,
+    "volume": 1743276
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-24",
+    "price": 8.04,
+    "volume": 1668898
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-23",
+    "price": 8.2,
+    "volume": 1579876
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-22",
+    "price": 8.22,
+    "volume": 2484695
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-19",
+    "price": 8.15,
+    "volume": 6032263
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-18",
+    "price": 8.26,
+    "volume": 2519221
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-17",
+    "price": 8.16,
+    "volume": 3167921
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-16",
+    "price": 8.4,
+    "volume": 1752000
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-12",
+    "price": 8.53,
+    "volume": 2929034
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-11",
+    "price": 8.41,
+    "volume": 3408293
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-10",
+    "price": 8.45,
+    "volume": 3291152
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-09",
+    "price": 8.31,
+    "volume": 3694378
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-08",
+    "price": 8.41,
+    "volume": 4369807
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-05",
+    "price": 8.2,
+    "volume": 2467456
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-04",
+    "price": 7.79,
+    "volume": 1074145
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-03",
+    "price": 7.81,
+    "volume": 1825259
+  },
+  {
+    "symbol": "BHC",
+    "date": "2024-01-02",
+    "price": 7.78,
+    "volume": 1699091
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-29",
+    "price": 8.02,
+    "volume": 2168103
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-28",
+    "price": 8.02,
+    "volume": 2811366
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-27",
+    "price": 7.75,
+    "volume": 1440739
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-26",
+    "price": 7.66,
+    "volume": 1917636
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-22",
+    "price": 7.45,
+    "volume": 2206238
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-21",
+    "price": 7.46,
+    "volume": 2749659
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-20",
+    "price": 7.25,
+    "volume": 1880484
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-19",
+    "price": 7.53,
+    "volume": 1697160
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-18",
+    "price": 7.37,
+    "volume": 1099363
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-15",
+    "price": 7.28,
+    "volume": 1688690
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-14",
+    "price": 7.47,
+    "volume": 2232931
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-13",
+    "price": 7.51,
+    "volume": 2618012
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-12",
+    "price": 7.17,
+    "volume": 1465474
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-11",
+    "price": 7.16,
+    "volume": 1020565
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-08",
+    "price": 7.3,
+    "volume": 3254438
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-07",
+    "price": 7.17,
+    "volume": 983186
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-06",
+    "price": 7.17,
+    "volume": 1253039
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-05",
+    "price": 7.13,
+    "volume": 1519187
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-04",
+    "price": 7.48,
+    "volume": 1450361
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-12-01",
+    "price": 7.36,
+    "volume": 1762790
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-30",
+    "price": 7.14,
+    "volume": 1444950
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-29",
+    "price": 7.05,
+    "volume": 1175301
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-28",
+    "price": 6.86,
+    "volume": 1060517
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-27",
+    "price": 6.89,
+    "volume": 1677763
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-24",
+    "price": 6.93,
+    "volume": 496296
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-22",
+    "price": 6.87,
+    "volume": 1219495
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-21",
+    "price": 6.91,
+    "volume": 1804341
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-20",
+    "price": 7.04,
+    "volume": 1877109
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-17",
+    "price": 6.9,
+    "volume": 2227454
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-16",
+    "price": 6.56,
+    "volume": 3246304
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-15",
+    "price": 6.94,
+    "volume": 1253420
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-14",
+    "price": 6.79,
+    "volume": 2535537
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-13",
+    "price": 6.53,
+    "volume": 1745872
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-10",
+    "price": 6.81,
+    "volume": 1647989
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-09",
+    "price": 6.84,
+    "volume": 2595887
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-08",
+    "price": 7.17,
+    "volume": 1543281
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-07",
+    "price": 7.25,
+    "volume": 1643689
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-06",
+    "price": 7.45,
+    "volume": 1625194
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-03",
+    "price": 7.57,
+    "volume": 3888387
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-02",
+    "price": 7.34,
+    "volume": 6287241
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-11-01",
+    "price": 7.08,
+    "volume": 9089429
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-31",
+    "price": 6.82,
+    "volume": 2215513
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-30",
+    "price": 6.69,
+    "volume": 1983717
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-27",
+    "price": 6.57,
+    "volume": 1948144
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-26",
+    "price": 6.73,
+    "volume": 1964529
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-25",
+    "price": 6.91,
+    "volume": 1607371
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-24",
+    "price": 7.15,
+    "volume": 1770211
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-23",
+    "price": 7.04,
+    "volume": 1791976
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-20",
+    "price": 7.32,
+    "volume": 1482916
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-19",
+    "price": 7.34,
+    "volume": 2107898
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-18",
+    "price": 7.76,
+    "volume": 1813598
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-17",
+    "price": 7.77,
+    "volume": 2714068
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-16",
+    "price": 7.39,
+    "volume": 6428332
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-13",
+    "price": 7.14,
+    "volume": 2129215
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-12",
+    "price": 7.29,
+    "volume": 1712015
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-11",
+    "price": 7.39,
+    "volume": 4518297
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-10",
+    "price": 7.78,
+    "volume": 2331592
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-09",
+    "price": 7.65,
+    "volume": 6061556
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-06",
+    "price": 8.11,
+    "volume": 2507265
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-05",
+    "price": 8.23,
+    "volume": 2454481
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-04",
+    "price": 8.02,
+    "volume": 2138127
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-03",
+    "price": 8.01,
+    "volume": 2660073
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-10-02",
+    "price": 8.14,
+    "volume": 2031789
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-29",
+    "price": 8.22,
+    "volume": 1801948
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-28",
+    "price": 8.24,
+    "volume": 1137512
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-27",
+    "price": 8.2,
+    "volume": 1902973
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-26",
+    "price": 8.23,
+    "volume": 1548959
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-25",
+    "price": 8.25,
+    "volume": 1608325
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-22",
+    "price": 8.22,
+    "volume": 4335975
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-21",
+    "price": 8.39,
+    "volume": 7595026
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-20",
+    "price": 8.34,
+    "volume": 10282746
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-19",
+    "price": 7.72,
+    "volume": 10088475
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-18",
+    "price": 8.37,
+    "volume": 2248277
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-15",
+    "price": 8.52,
+    "volume": 2150385
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-14",
+    "price": 8.7,
+    "volume": 1613660
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-13",
+    "price": 8.63,
+    "volume": 1835239
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-12",
+    "price": 8.57,
+    "volume": 1956465
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-11",
+    "price": 8.68,
+    "volume": 3330269
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-08",
+    "price": 8.64,
+    "volume": 3679084
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-07",
+    "price": 8.42,
+    "volume": 2711613
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-06",
+    "price": 8.36,
+    "volume": 1744596
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-05",
+    "price": 8.35,
+    "volume": 1894592
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-09-01",
+    "price": 8.46,
+    "volume": 4754807
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-31",
+    "price": 8.34,
+    "volume": 4844368
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-30",
+    "price": 8.43,
+    "volume": 1822319
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-29",
+    "price": 8.48,
+    "volume": 2474041
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-28",
+    "price": 8.26,
+    "volume": 1633198
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-25",
+    "price": 8.24,
+    "volume": 3806613
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-24",
+    "price": 8.07,
+    "volume": 1899341
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-23",
+    "price": 8.16,
+    "volume": 2300675
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-22",
+    "price": 8.25,
+    "volume": 4210304
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-21",
+    "price": 8.45,
+    "volume": 3057390
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-18",
+    "price": 8.35,
+    "volume": 2334986
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-17",
+    "price": 8.3,
+    "volume": 1993746
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-16",
+    "price": 8.35,
+    "volume": 3402964
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-15",
+    "price": 8.32,
+    "volume": 1890418
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-14",
+    "price": 8.42,
+    "volume": 1268526
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-11",
+    "price": 8.41,
+    "volume": 1421175
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-10",
+    "price": 8.41,
+    "volume": 3090041
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-09",
+    "price": 8.62,
+    "volume": 2240617
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-08",
+    "price": 8.9,
+    "volume": 2832688
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-07",
+    "price": 8.83,
+    "volume": 4641943
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-04",
+    "price": 9.06,
+    "volume": 3952662
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-03",
+    "price": 9.41,
+    "volume": 7439716
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-02",
+    "price": 9.33,
+    "volume": 2371121
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-08-01",
+    "price": 9.47,
+    "volume": 2235409
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-31",
+    "price": 9.71,
+    "volume": 1674057
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-28",
+    "price": 9.58,
+    "volume": 1671354
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-27",
+    "price": 9.36,
+    "volume": 1117864
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-26",
+    "price": 9.46,
+    "volume": 1217664
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-25",
+    "price": 9.53,
+    "volume": 2526721
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-24",
+    "price": 9.57,
+    "volume": 1271961
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-21",
+    "price": 9.59,
+    "volume": 2813381
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-20",
+    "price": 9.59,
+    "volume": 2425665
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-19",
+    "price": 9.29,
+    "volume": 1652753
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-18",
+    "price": 9.45,
+    "volume": 3409139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-17",
+    "price": 9.29,
+    "volume": 5878755
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-14",
+    "price": 8.43,
+    "volume": 1443196
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-13",
+    "price": 8.4,
+    "volume": 1247490
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-12",
+    "price": 8.51,
+    "volume": 1370366
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-11",
+    "price": 8.65,
+    "volume": 2045858
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-10",
+    "price": 8.73,
+    "volume": 3641615
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-07",
+    "price": 8.34,
+    "volume": 5273913
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-06",
+    "price": 7.69,
+    "volume": 2862806
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-05",
+    "price": 7.77,
+    "volume": 1490280
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-07-03",
+    "price": 7.82,
+    "volume": 1524329
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-30",
+    "price": 8,
+    "volume": 2720740
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-29",
+    "price": 7.83,
+    "volume": 1531740
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-28",
+    "price": 7.62,
+    "volume": 1256919
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-27",
+    "price": 7.4,
+    "volume": 1476917
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-26",
+    "price": 7.28,
+    "volume": 825850
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-23",
+    "price": 7.19,
+    "volume": 1776723
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-22",
+    "price": 7.33,
+    "volume": 1490770
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-21",
+    "price": 7.37,
+    "volume": 1248751
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-20",
+    "price": 7.4,
+    "volume": 2025823
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-16",
+    "price": 7.35,
+    "volume": 2838521
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-15",
+    "price": 7.44,
+    "volume": 1987155
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-14",
+    "price": 7.32,
+    "volume": 1318424
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-13",
+    "price": 7.45,
+    "volume": 1837399
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-12",
+    "price": 7.29,
+    "volume": 1952561
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-09",
+    "price": 7.19,
+    "volume": 2511638
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-08",
+    "price": 7.1,
+    "volume": 3166009
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-07",
+    "price": 7.12,
+    "volume": 4000567
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-06",
+    "price": 7.25,
+    "volume": 16581052
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-05",
+    "price": 7.94,
+    "volume": 3076387
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-02",
+    "price": 8.23,
+    "volume": 2130186
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-06-01",
+    "price": 8.2,
+    "volume": 2326654
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-31",
+    "price": 8.21,
+    "volume": 2584704
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-30",
+    "price": 8.19,
+    "volume": 1408437
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-26",
+    "price": 8.14,
+    "volume": 2583104
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-25",
+    "price": 8.2,
+    "volume": 3757348
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-24",
+    "price": 8.28,
+    "volume": 3873969
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-23",
+    "price": 8.41,
+    "volume": 6046651
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-22",
+    "price": 8.8,
+    "volume": 6418328
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-19",
+    "price": 8.3,
+    "volume": 7183449
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-18",
+    "price": 8.56,
+    "volume": 11785946
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-17",
+    "price": 7.47,
+    "volume": 32074468
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-16",
+    "price": 6.02,
+    "volume": 3249676
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-15",
+    "price": 6.03,
+    "volume": 3050738
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-12",
+    "price": 5.72,
+    "volume": 2662795
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-11",
+    "price": 5.82,
+    "volume": 3252978
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-10",
+    "price": 5.95,
+    "volume": 4324924
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-09",
+    "price": 5.86,
+    "volume": 1830701
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-08",
+    "price": 5.99,
+    "volume": 3088933
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-05",
+    "price": 5.83,
+    "volume": 4711168
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-04",
+    "price": 5.89,
+    "volume": 9317104
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-03",
+    "price": 7.4,
+    "volume": 5355510
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-02",
+    "price": 7.35,
+    "volume": 2816800
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-05-01",
+    "price": 7.51,
+    "volume": 2205089
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-28",
+    "price": 7.37,
+    "volume": 1768757
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-27",
+    "price": 7.12,
+    "volume": 1253482
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-26",
+    "price": 7.06,
+    "volume": 2153957
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-25",
+    "price": 7.12,
+    "volume": 2676203
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-24",
+    "price": 7.56,
+    "volume": 1726370
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-21",
+    "price": 7.7,
+    "volume": 1562647
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-20",
+    "price": 7.69,
+    "volume": 2435766
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-19",
+    "price": 7.53,
+    "volume": 1509950
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-18",
+    "price": 7.46,
+    "volume": 1763983
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-17",
+    "price": 7.65,
+    "volume": 1855257
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-14",
+    "price": 7.49,
+    "volume": 3577352
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-13",
+    "price": 7.54,
+    "volume": 1634578
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-12",
+    "price": 7.38,
+    "volume": 1856503
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-11",
+    "price": 7.62,
+    "volume": 4697550
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-10",
+    "price": 7.48,
+    "volume": 1489761
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-06",
+    "price": 7.33,
+    "volume": 1516333
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-05",
+    "price": 7.42,
+    "volume": 1621612
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-04",
+    "price": 7.55,
+    "volume": 2789741
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-04-03",
+    "price": 7.8,
+    "volume": 3463450
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-31",
+    "price": 8.1,
+    "volume": 3763044
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-30",
+    "price": 7.71,
+    "volume": 1357651
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-29",
+    "price": 7.67,
+    "volume": 1289493
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-28",
+    "price": 7.47,
+    "volume": 1588057
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-27",
+    "price": 7.45,
+    "volume": 1873453
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-24",
+    "price": 7.23,
+    "volume": 4417946
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-23",
+    "price": 7.28,
+    "volume": 2420930
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-22",
+    "price": 7.58,
+    "volume": 1879074
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-21",
+    "price": 7.92,
+    "volume": 2811935
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-20",
+    "price": 7.61,
+    "volume": 2256506
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-17",
+    "price": 7.6,
+    "volume": 2845539
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-16",
+    "price": 7.79,
+    "volume": 3219777
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-15",
+    "price": 7.63,
+    "volume": 3616485
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-14",
+    "price": 7.92,
+    "volume": 2873365
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-13",
+    "price": 7.96,
+    "volume": 2860985
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-10",
+    "price": 8.03,
+    "volume": 3736596
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-09",
+    "price": 8.32,
+    "volume": 2747005
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-08",
+    "price": 8.62,
+    "volume": 2567546
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-07",
+    "price": 8.64,
+    "volume": 2010833
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-06",
+    "price": 8.82,
+    "volume": 3468090
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-03",
+    "price": 9.16,
+    "volume": 3662135
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-02",
+    "price": 9.25,
+    "volume": 9362302
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-03-01",
+    "price": 9.22,
+    "volume": 3670736
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-28",
+    "price": 9.31,
+    "volume": 4898893
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-27",
+    "price": 9.33,
+    "volume": 5981444
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-24",
+    "price": 9.57,
+    "volume": 12062026
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-23",
+    "price": 9.85,
+    "volume": 19602857
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-22",
+    "price": 8.64,
+    "volume": 11498548
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-21",
+    "price": 8.86,
+    "volume": 10625152
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-17",
+    "price": 9.51,
+    "volume": 11002186
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-16",
+    "price": 8.97,
+    "volume": 9200798
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-15",
+    "price": 8.98,
+    "volume": 30504458
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-14",
+    "price": 7.53,
+    "volume": 3568866
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-13",
+    "price": 7.32,
+    "volume": 3531944
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-10",
+    "price": 7.16,
+    "volume": 4739256
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-09",
+    "price": 7.26,
+    "volume": 3843133
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-08",
+    "price": 7.58,
+    "volume": 2961736
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-07",
+    "price": 7.84,
+    "volume": 2580776
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-06",
+    "price": 7.69,
+    "volume": 1621505
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-03",
+    "price": 7.86,
+    "volume": 1778364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-02",
+    "price": 7.9,
+    "volume": 2980128
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-02-01",
+    "price": 7.83,
+    "volume": 6182540
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-31",
+    "price": 7.7,
+    "volume": 3064627
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-30",
+    "price": 7.82,
+    "volume": 4015260
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-27",
+    "price": 8.38,
+    "volume": 4675751
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-26",
+    "price": 8.52,
+    "volume": 3865213
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-25",
+    "price": 8.38,
+    "volume": 2238245
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-24",
+    "price": 8.37,
+    "volume": 3272228
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-23",
+    "price": 8.18,
+    "volume": 9228518
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-20",
+    "price": 8.15,
+    "volume": 7922961
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-19",
+    "price": 7.77,
+    "volume": 2326697
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-18",
+    "price": 7.89,
+    "volume": 5908441
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-17",
+    "price": 7.74,
+    "volume": 7069179
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-13",
+    "price": 7.5,
+    "volume": 2843163
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-12",
+    "price": 7.34,
+    "volume": 4367628
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-11",
+    "price": 7.31,
+    "volume": 2237262
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-10",
+    "price": 7.48,
+    "volume": 8730916
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-09",
+    "price": 7.55,
+    "volume": 2872987
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-06",
+    "price": 7.47,
+    "volume": 5480916
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-05",
+    "price": 7.16,
+    "volume": 4431923
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-04",
+    "price": 6.87,
+    "volume": 3722053
+  },
+  {
+    "symbol": "BHC",
+    "date": "2023-01-03",
+    "price": 6.28,
+    "volume": 2518266
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-30",
+    "price": 6.28,
+    "volume": 3164698
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-29",
+    "price": 6.31,
+    "volume": 3175593
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-28",
+    "price": 6.09,
+    "volume": 3930648
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-27",
+    "price": 6.2,
+    "volume": 3973409
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-23",
+    "price": 6.33,
+    "volume": 3982794
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-22",
+    "price": 6.53,
+    "volume": 16350657
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-21",
+    "price": 6.91,
+    "volume": 7155153
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-20",
+    "price": 6.8,
+    "volume": 9617939
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-19",
+    "price": 7,
+    "volume": 2837115
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-16",
+    "price": 7.13,
+    "volume": 9428290
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-15",
+    "price": 7.73,
+    "volume": 4649147
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-14",
+    "price": 7.86,
+    "volume": 4219191
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-13",
+    "price": 7.71,
+    "volume": 5336325
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-12",
+    "price": 7.65,
+    "volume": 3771983
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-09",
+    "price": 7.63,
+    "volume": 2914447
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-08",
+    "price": 7.61,
+    "volume": 6474971
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-07",
+    "price": 7.21,
+    "volume": 3690225
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-06",
+    "price": 7.43,
+    "volume": 4074267
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-05",
+    "price": 7.55,
+    "volume": 3243550
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-02",
+    "price": 7.93,
+    "volume": 4404883
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-12-01",
+    "price": 7.7,
+    "volume": 13189797
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-30",
+    "price": 7.03,
+    "volume": 12042434
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-29",
+    "price": 6.82,
+    "volume": 4202001
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-28",
+    "price": 6.76,
+    "volume": 3521664
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-25",
+    "price": 6.9,
+    "volume": 2528687
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-23",
+    "price": 6.75,
+    "volume": 6127384
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-22",
+    "price": 6.94,
+    "volume": 13429888
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-21",
+    "price": 6.94,
+    "volume": 6408850
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-18",
+    "price": 7.57,
+    "volume": 3721666
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-17",
+    "price": 7.56,
+    "volume": 18533537
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-16",
+    "price": 6.97,
+    "volume": 2572292
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-15",
+    "price": 7.18,
+    "volume": 2863060
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-14",
+    "price": 7.14,
+    "volume": 2833348
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-11",
+    "price": 7.46,
+    "volume": 3117680
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-10",
+    "price": 7.37,
+    "volume": 8138020
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-09",
+    "price": 6.56,
+    "volume": 3118348
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-08",
+    "price": 7.08,
+    "volume": 2757515
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-07",
+    "price": 7.39,
+    "volume": 3443881
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-04",
+    "price": 7.02,
+    "volume": 5391225
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-03",
+    "price": 6.45,
+    "volume": 5873945
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-02",
+    "price": 6.53,
+    "volume": 3441813
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-11-01",
+    "price": 6.9,
+    "volume": 7521219
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-31",
+    "price": 6.5,
+    "volume": 2696073
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-28",
+    "price": 6.59,
+    "volume": 2557897
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-27",
+    "price": 6.66,
+    "volume": 3227034
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-26",
+    "price": 7.18,
+    "volume": 2973455
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-25",
+    "price": 6.92,
+    "volume": 3614607
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-24",
+    "price": 6.7,
+    "volume": 2918536
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-21",
+    "price": 6.72,
+    "volume": 4982510
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-20",
+    "price": 6.41,
+    "volume": 2362216
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-19",
+    "price": 6.35,
+    "volume": 4487303
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-18",
+    "price": 6.79,
+    "volume": 3844717
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-17",
+    "price": 6.89,
+    "volume": 2875446
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-14",
+    "price": 6.45,
+    "volume": 5225419
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-13",
+    "price": 6.5,
+    "volume": 4774389
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-12",
+    "price": 6.73,
+    "volume": 3030797
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-11",
+    "price": 6.61,
+    "volume": 3472585
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-10",
+    "price": 6.76,
+    "volume": 3834104
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-07",
+    "price": 6.81,
+    "volume": 5931642
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-06",
+    "price": 7.39,
+    "volume": 2757643
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-05",
+    "price": 7.58,
+    "volume": 2863017
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-04",
+    "price": 7.54,
+    "volume": 5194030
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-10-03",
+    "price": 7.03,
+    "volume": 4277203
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-30",
+    "price": 6.89,
+    "volume": 5190188
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-29",
+    "price": 6.95,
+    "volume": 6909067
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-28",
+    "price": 7.47,
+    "volume": 5207012
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-27",
+    "price": 7.16,
+    "volume": 6262439
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-26",
+    "price": 7.31,
+    "volume": 9013418
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-23",
+    "price": 7.04,
+    "volume": 7489724
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-22",
+    "price": 7.15,
+    "volume": 9631531
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-21",
+    "price": 7.1,
+    "volume": 7952141
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-20",
+    "price": 7.14,
+    "volume": 5242532
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-19",
+    "price": 7.39,
+    "volume": 5939505
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-16",
+    "price": 7.38,
+    "volume": 6507784
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-15",
+    "price": 7.64,
+    "volume": 9862560
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-14",
+    "price": 7.85,
+    "volume": 16005163
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-13",
+    "price": 7.36,
+    "volume": 12594656
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-12",
+    "price": 7.26,
+    "volume": 10667972
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-09",
+    "price": 7.4,
+    "volume": 21269127
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-08",
+    "price": 6.7,
+    "volume": 28280947
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-07",
+    "price": 6.95,
+    "volume": 9466487
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-06",
+    "price": 6.49,
+    "volume": 6479286
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-02",
+    "price": 6.45,
+    "volume": 8195985
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-09-01",
+    "price": 6.59,
+    "volume": 18526022
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-31",
+    "price": 5.97,
+    "volume": 26205315
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-30",
+    "price": 5.12,
+    "volume": 6592049
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-29",
+    "price": 5.07,
+    "volume": 3461414
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-26",
+    "price": 5.18,
+    "volume": 3859793
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-25",
+    "price": 5.53,
+    "volume": 3689655
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-24",
+    "price": 5.27,
+    "volume": 7847584
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-23",
+    "price": 5.26,
+    "volume": 4515790
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-22",
+    "price": 5.6,
+    "volume": 8295114
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-19",
+    "price": 5.45,
+    "volume": 3969177
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-18",
+    "price": 5.75,
+    "volume": 4017202
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-17",
+    "price": 5.94,
+    "volume": 5396023
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-16",
+    "price": 6.36,
+    "volume": 6506192
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-15",
+    "price": 6.28,
+    "volume": 5056207
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-12",
+    "price": 6.01,
+    "volume": 6588147
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-11",
+    "price": 6.2,
+    "volume": 12425615
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-10",
+    "price": 5.65,
+    "volume": 10873858
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-09",
+    "price": 5.18,
+    "volume": 14424376
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-08",
+    "price": 5.84,
+    "volume": 7772858
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-05",
+    "price": 5.59,
+    "volume": 9746204
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-04",
+    "price": 5.12,
+    "volume": 11294526
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-03",
+    "price": 5.2,
+    "volume": 12314544
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-02",
+    "price": 4.58,
+    "volume": 12404218
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-08-01",
+    "price": 4.59,
+    "volume": 15774872
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-29",
+    "price": 4.62,
+    "volume": 38491873
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-28",
+    "price": 5.1,
+    "volume": 29240991
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-27",
+    "price": 8.68,
+    "volume": 6494930
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-26",
+    "price": 8.74,
+    "volume": 5041517
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-25",
+    "price": 8.84,
+    "volume": 5353631
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-22",
+    "price": 8.77,
+    "volume": 5210944
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-21",
+    "price": 9.05,
+    "volume": 3410896
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-20",
+    "price": 9.18,
+    "volume": 5140983
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-19",
+    "price": 8.84,
+    "volume": 4406873
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-18",
+    "price": 8.64,
+    "volume": 5199436
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-15",
+    "price": 8.7,
+    "volume": 4055281
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-14",
+    "price": 8.74,
+    "volume": 4362790
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-13",
+    "price": 9,
+    "volume": 3191206
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-12",
+    "price": 8.73,
+    "volume": 3848586
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-11",
+    "price": 8.39,
+    "volume": 3566727
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-08",
+    "price": 8.74,
+    "volume": 6627493
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-07",
+    "price": 9.21,
+    "volume": 3463868
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-06",
+    "price": 8.58,
+    "volume": 4157654
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-05",
+    "price": 9.05,
+    "volume": 4749004
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-07-01",
+    "price": 8.53,
+    "volume": 3432905
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-30",
+    "price": 8.36,
+    "volume": 4578834
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-29",
+    "price": 8.51,
+    "volume": 4628004
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-28",
+    "price": 8.83,
+    "volume": 7365125
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-27",
+    "price": 8.68,
+    "volume": 6622106
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-24",
+    "price": 8.75,
+    "volume": 16699544
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-23",
+    "price": 7.27,
+    "volume": 5522076
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-22",
+    "price": 7.06,
+    "volume": 4918640
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-21",
+    "price": 7.2,
+    "volume": 5962827
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-17",
+    "price": 7.36,
+    "volume": 5142157
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-16",
+    "price": 7.28,
+    "volume": 5361139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-15",
+    "price": 7.84,
+    "volume": 5689918
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-14",
+    "price": 7.4,
+    "volume": 5133486
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-13",
+    "price": 7.58,
+    "volume": 6332197
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-10",
+    "price": 8.03,
+    "volume": 6262587
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-09",
+    "price": 8.38,
+    "volume": 6537029
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-08",
+    "price": 9,
+    "volume": 5540641
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-07",
+    "price": 9.11,
+    "volume": 5173788
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-06",
+    "price": 9.2,
+    "volume": 5323015
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-03",
+    "price": 9.12,
+    "volume": 5107387
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-02",
+    "price": 9.63,
+    "volume": 3735848
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-06-01",
+    "price": 9.57,
+    "volume": 6280280
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-31",
+    "price": 9.72,
+    "volume": 6686128
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-27",
+    "price": 9.87,
+    "volume": 4973064
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-26",
+    "price": 9.86,
+    "volume": 9767076
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-25",
+    "price": 9.58,
+    "volume": 5088545
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-24",
+    "price": 9.28,
+    "volume": 4407450
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-23",
+    "price": 9.79,
+    "volume": 4148268
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-20",
+    "price": 9.93,
+    "volume": 15955350
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-19",
+    "price": 10.15,
+    "volume": 10115872
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-18",
+    "price": 9.95,
+    "volume": 7360332
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-17",
+    "price": 11.03,
+    "volume": 5724952
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-16",
+    "price": 10.77,
+    "volume": 7103013
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-13",
+    "price": 10.84,
+    "volume": 9752395
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-12",
+    "price": 10.45,
+    "volume": 13045351
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-11",
+    "price": 10.13,
+    "volume": 16100451
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-10",
+    "price": 9.4,
+    "volume": 42421991
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-09",
+    "price": 12.9,
+    "volume": 18729421
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-06",
+    "price": 16.04,
+    "volume": 15383178
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-05",
+    "price": 16.76,
+    "volume": 13746145
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-04",
+    "price": 18.1,
+    "volume": 14215171
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-03",
+    "price": 18.66,
+    "volume": 8677578
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-05-02",
+    "price": 18.85,
+    "volume": 5032273
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-29",
+    "price": 19.01,
+    "volume": 6243752
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-28",
+    "price": 19.74,
+    "volume": 19015098
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-27",
+    "price": 20.56,
+    "volume": 2863184
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-26",
+    "price": 20.55,
+    "volume": 7764161
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-25",
+    "price": 21.48,
+    "volume": 3956170
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-22",
+    "price": 21.67,
+    "volume": 3825996
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-21",
+    "price": 22.23,
+    "volume": 3864242
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-20",
+    "price": 22.78,
+    "volume": 5759779
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-19",
+    "price": 22.14,
+    "volume": 4550364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-18",
+    "price": 21.02,
+    "volume": 5041535
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-14",
+    "price": 22.17,
+    "volume": 2593236
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-13",
+    "price": 22.29,
+    "volume": 6041320
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-12",
+    "price": 22.45,
+    "volume": 2620786
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-11",
+    "price": 22.82,
+    "volume": 1752867
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-08",
+    "price": 23.38,
+    "volume": 2229729
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-07",
+    "price": 23.3,
+    "volume": 1870364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-06",
+    "price": 23.03,
+    "volume": 2513142
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-05",
+    "price": 23.23,
+    "volume": 1717059
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-04",
+    "price": 23.63,
+    "volume": 2419061
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-04-01",
+    "price": 23.04,
+    "volume": 1844824
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-31",
+    "price": 22.85,
+    "volume": 2718441
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-30",
+    "price": 23.17,
+    "volume": 2326963
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-29",
+    "price": 23.3,
+    "volume": 3288497
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-28",
+    "price": 22.58,
+    "volume": 3610261
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-25",
+    "price": 22.82,
+    "volume": 3867353
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-24",
+    "price": 23.39,
+    "volume": 3464940
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-23",
+    "price": 23.6,
+    "volume": 2804364
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-22",
+    "price": 24.05,
+    "volume": 5213411
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-21",
+    "price": 23.65,
+    "volume": 3331397
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-18",
+    "price": 24.2,
+    "volume": 5520380
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-17",
+    "price": 23.4,
+    "volume": 4026764
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-16",
+    "price": 23.06,
+    "volume": 5410515
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-15",
+    "price": 21.97,
+    "volume": 2124691
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-14",
+    "price": 22.21,
+    "volume": 3614472
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-11",
+    "price": 22.32,
+    "volume": 2418937
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-10",
+    "price": 22.56,
+    "volume": 1873496
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-09",
+    "price": 22.75,
+    "volume": 3058678
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-08",
+    "price": 21.6,
+    "volume": 4350333
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-07",
+    "price": 21.76,
+    "volume": 5866119
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-04",
+    "price": 22.86,
+    "volume": 3159984
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-03",
+    "price": 23.61,
+    "volume": 2314304
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-02",
+    "price": 24.17,
+    "volume": 2268855
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-03-01",
+    "price": 23.43,
+    "volume": 2051691
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-28",
+    "price": 24.06,
+    "volume": 2929345
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-25",
+    "price": 24.35,
+    "volume": 4966996
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-24",
+    "price": 23.16,
+    "volume": 7043938
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-23",
+    "price": 22.91,
+    "volume": 10181844
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-22",
+    "price": 23.61,
+    "volume": 4731206
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-18",
+    "price": 23.93,
+    "volume": 3626478
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-17",
+    "price": 24.7,
+    "volume": 1919137
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-16",
+    "price": 25.46,
+    "volume": 2523320
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-15",
+    "price": 25.53,
+    "volume": 1735683
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-14",
+    "price": 24.74,
+    "volume": 1691665
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-11",
+    "price": 25.13,
+    "volume": 2228619
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-10",
+    "price": 25.67,
+    "volume": 2915570
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-09",
+    "price": 25.93,
+    "volume": 6193541
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-08",
+    "price": 24.78,
+    "volume": 2092641
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-07",
+    "price": 24.39,
+    "volume": 2299621
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-04",
+    "price": 24.52,
+    "volume": 2204145
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-03",
+    "price": 24.71,
+    "volume": 3567128
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-02",
+    "price": 25.13,
+    "volume": 1986187
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-02-01",
+    "price": 25.05,
+    "volume": 6223816
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-31",
+    "price": 24.57,
+    "volume": 4871553
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-28",
+    "price": 24.14,
+    "volume": 7930601
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-27",
+    "price": 23.27,
+    "volume": 2870572
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-26",
+    "price": 23.84,
+    "volume": 3503548
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-25",
+    "price": 24.32,
+    "volume": 4192164
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-24",
+    "price": 24.62,
+    "volume": 6119837
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-21",
+    "price": 25.06,
+    "volume": 7525586
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-20",
+    "price": 24.92,
+    "volume": 5125597
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-19",
+    "price": 25.58,
+    "volume": 4572220
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-18",
+    "price": 26.6,
+    "volume": 5968285
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-14",
+    "price": 27.08,
+    "volume": 4557728
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-13",
+    "price": 26.75,
+    "volume": 3234541
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-12",
+    "price": 27.34,
+    "volume": 5064479
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-11",
+    "price": 27.76,
+    "volume": 12505502
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-10",
+    "price": 26.38,
+    "volume": 3583600
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-07",
+    "price": 27.02,
+    "volume": 3272737
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-06",
+    "price": 26.72,
+    "volume": 3991558
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-05",
+    "price": 27.01,
+    "volume": 8981434
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-04",
+    "price": 27.62,
+    "volume": 2737846
+  },
+  {
+    "symbol": "BHC",
+    "date": "2022-01-03",
+    "price": 27.79,
+    "volume": 1833814
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-31",
+    "price": 27.61,
+    "volume": 1375262
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-30",
+    "price": 27.53,
+    "volume": 1461074
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-29",
+    "price": 27.93,
+    "volume": 1569654
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-28",
+    "price": 28.18,
+    "volume": 2058189
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-27",
+    "price": 28.15,
+    "volume": 2051192
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-23",
+    "price": 27.99,
+    "volume": 5398808
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-22",
+    "price": 27.6,
+    "volume": 3024574
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-21",
+    "price": 26.84,
+    "volume": 5696184
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-20",
+    "price": 25.7,
+    "volume": 7583556
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-17",
+    "price": 24.85,
+    "volume": 1843541
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-16",
+    "price": 24.72,
+    "volume": 3136125
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-15",
+    "price": 25.06,
+    "volume": 5632808
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-14",
+    "price": 24.49,
+    "volume": 5017655
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-13",
+    "price": 24.11,
+    "volume": 2589712
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-10",
+    "price": 24.38,
+    "volume": 1466804
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-09",
+    "price": 24.76,
+    "volume": 1725768
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-08",
+    "price": 25.4,
+    "volume": 1130037
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-07",
+    "price": 25.19,
+    "volume": 2333482
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-06",
+    "price": 24.34,
+    "volume": 2732662
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-03",
+    "price": 23.73,
+    "volume": 2997671
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-02",
+    "price": 23.46,
+    "volume": 3404089
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-12-01",
+    "price": 23,
+    "volume": 3324200
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-30",
+    "price": 23.84,
+    "volume": 3517825
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-29",
+    "price": 24.95,
+    "volume": 3104454
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-26",
+    "price": 25.25,
+    "volume": 2402463
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-24",
+    "price": 26.11,
+    "volume": 1280183
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-23",
+    "price": 26.03,
+    "volume": 5918342
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-22",
+    "price": 25.54,
+    "volume": 2086973
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-19",
+    "price": 26.01,
+    "volume": 2356532
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-18",
+    "price": 26.18,
+    "volume": 1515448
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-17",
+    "price": 26.15,
+    "volume": 1622185
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-16",
+    "price": 26.57,
+    "volume": 2282646
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-15",
+    "price": 26.84,
+    "volume": 1943306
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-12",
+    "price": 26.44,
+    "volume": 1210536
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-11",
+    "price": 26.79,
+    "volume": 1578568
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-10",
+    "price": 27.02,
+    "volume": 1633075
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-09",
+    "price": 27.54,
+    "volume": 1445150
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-08",
+    "price": 28.24,
+    "volume": 2877182
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-05",
+    "price": 27.98,
+    "volume": 3428243
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-04",
+    "price": 27.07,
+    "volume": 4566492
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-03",
+    "price": 27.25,
+    "volume": 3464827
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-02",
+    "price": 25.87,
+    "volume": 10152808
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-11-01",
+    "price": 28.53,
+    "volume": 4320492
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-29",
+    "price": 28.08,
+    "volume": 3105461
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-28",
+    "price": 27.6,
+    "volume": 2590956
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-27",
+    "price": 27.76,
+    "volume": 1546721
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-26",
+    "price": 28.53,
+    "volume": 1058920
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-25",
+    "price": 29.01,
+    "volume": 1368562
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-22",
+    "price": 28.72,
+    "volume": 1157928
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-21",
+    "price": 28.59,
+    "volume": 1045700
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-20",
+    "price": 28.7,
+    "volume": 776101
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-19",
+    "price": 28.48,
+    "volume": 843225
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-18",
+    "price": 28.07,
+    "volume": 1000680
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-15",
+    "price": 28.49,
+    "volume": 774304
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-14",
+    "price": 28.43,
+    "volume": 1248451
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-13",
+    "price": 27.89,
+    "volume": 753562
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-12",
+    "price": 27.86,
+    "volume": 831963
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-11",
+    "price": 27.78,
+    "volume": 768542
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-08",
+    "price": 27.85,
+    "volume": 773785
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-07",
+    "price": 27.93,
+    "volume": 1264552
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-06",
+    "price": 27.59,
+    "volume": 1664444
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-05",
+    "price": 28.11,
+    "volume": 1092678
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-04",
+    "price": 27.99,
+    "volume": 1245392
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-10-01",
+    "price": 28.6,
+    "volume": 1592905
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-30",
+    "price": 27.85,
+    "volume": 1313287
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-29",
+    "price": 28.14,
+    "volume": 860960
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-28",
+    "price": 28.31,
+    "volume": 1172243
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-27",
+    "price": 28.71,
+    "volume": 1021286
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-24",
+    "price": 28.86,
+    "volume": 1945923
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-23",
+    "price": 29.47,
+    "volume": 3245976
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-22",
+    "price": 28.39,
+    "volume": 1769931
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-21",
+    "price": 28.21,
+    "volume": 5065125
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-20",
+    "price": 26.11,
+    "volume": 3425048
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-17",
+    "price": 27.27,
+    "volume": 2658404
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-16",
+    "price": 27.55,
+    "volume": 1755763
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-15",
+    "price": 28.16,
+    "volume": 1510588
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-14",
+    "price": 28.66,
+    "volume": 2566496
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-13",
+    "price": 29.19,
+    "volume": 3188453
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-10",
+    "price": 28.45,
+    "volume": 1484763
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-09",
+    "price": 28.62,
+    "volume": 1756404
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-08",
+    "price": 28.5,
+    "volume": 2045861
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-07",
+    "price": 29.23,
+    "volume": 1813992
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-03",
+    "price": 29.33,
+    "volume": 1314658
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-02",
+    "price": 29.44,
+    "volume": 1272440
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-09-01",
+    "price": 28.85,
+    "volume": 3071980
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-31",
+    "price": 29.13,
+    "volume": 1425353
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-30",
+    "price": 29.12,
+    "volume": 1657765
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-27",
+    "price": 28.95,
+    "volume": 1901670
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-26",
+    "price": 28.1,
+    "volume": 1708219
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-25",
+    "price": 28.85,
+    "volume": 1420163
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-24",
+    "price": 28.66,
+    "volume": 1733406
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-23",
+    "price": 28.23,
+    "volume": 2158865
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-20",
+    "price": 27.96,
+    "volume": 1804384
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-19",
+    "price": 27.9,
+    "volume": 2112904
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-18",
+    "price": 28.18,
+    "volume": 2279790
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-17",
+    "price": 27.59,
+    "volume": 2907675
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-16",
+    "price": 27.53,
+    "volume": 2855336
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-13",
+    "price": 27.56,
+    "volume": 2921069
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-12",
+    "price": 27.14,
+    "volume": 3023826
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-11",
+    "price": 26.86,
+    "volume": 2412669
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-10",
+    "price": 27.06,
+    "volume": 2298416
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-09",
+    "price": 27.49,
+    "volume": 5455008
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-06",
+    "price": 26.67,
+    "volume": 2796770
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-05",
+    "price": 25.93,
+    "volume": 3365776
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-04",
+    "price": 25.04,
+    "volume": 7619040
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-03",
+    "price": 26.44,
+    "volume": 12058825
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-08-02",
+    "price": 29.65,
+    "volume": 2579758
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-30",
+    "price": 29.25,
+    "volume": 1444782
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-29",
+    "price": 29.59,
+    "volume": 1273972
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-28",
+    "price": 29.54,
+    "volume": 1950581
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-27",
+    "price": 28.1,
+    "volume": 930267
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-26",
+    "price": 28.63,
+    "volume": 653773
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-23",
+    "price": 28.6,
+    "volume": 1914956
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-22",
+    "price": 28.59,
+    "volume": 831172
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-21",
+    "price": 29.03,
+    "volume": 1228150
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-20",
+    "price": 28.38,
+    "volume": 1706791
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-19",
+    "price": 27.15,
+    "volume": 3172872
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-16",
+    "price": 27.61,
+    "volume": 2065513
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-15",
+    "price": 28.45,
+    "volume": 1918814
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-14",
+    "price": 28.96,
+    "volume": 1340780
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-13",
+    "price": 29.37,
+    "volume": 1053941
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-12",
+    "price": 29.6,
+    "volume": 987712
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-09",
+    "price": 29.28,
+    "volume": 1094279
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-08",
+    "price": 28.75,
+    "volume": 1675670
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-07",
+    "price": 29.04,
+    "volume": 1750796
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-06",
+    "price": 29.67,
+    "volume": 1244536
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-02",
+    "price": 29.89,
+    "volume": 969356
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-07-01",
+    "price": 30.06,
+    "volume": 1910278
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-30",
+    "price": 29.32,
+    "volume": 2482680
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-29",
+    "price": 29.2,
+    "volume": 1534888
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-28",
+    "price": 29.45,
+    "volume": 1853801
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-25",
+    "price": 29.9,
+    "volume": 1033645
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-24",
+    "price": 29.71,
+    "volume": 1560263
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-23",
+    "price": 29.08,
+    "volume": 1408107
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-22",
+    "price": 29.22,
+    "volume": 1323503
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-21",
+    "price": 29.34,
+    "volume": 2503627
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-18",
+    "price": 29.31,
+    "volume": 3553481
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-17",
+    "price": 29.79,
+    "volume": 1691161
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-16",
+    "price": 29.91,
+    "volume": 3305822
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-15",
+    "price": 30.89,
+    "volume": 2681144
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-14",
+    "price": 31.53,
+    "volume": 1471923
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-11",
+    "price": 31.82,
+    "volume": 1344363
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-10",
+    "price": 31.56,
+    "volume": 1362824
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-09",
+    "price": 31.25,
+    "volume": 1593264
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-08",
+    "price": 31.28,
+    "volume": 2323804
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-07",
+    "price": 31.62,
+    "volume": 2286704
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-04",
+    "price": 31.33,
+    "volume": 1522292
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-03",
+    "price": 31.69,
+    "volume": 1436637
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-02",
+    "price": 31.89,
+    "volume": 3289331
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-06-01",
+    "price": 32.03,
+    "volume": 1844967
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-28",
+    "price": 32.16,
+    "volume": 1596913
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-27",
+    "price": 31.94,
+    "volume": 1534091
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-26",
+    "price": 31.96,
+    "volume": 2020124
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-25",
+    "price": 31.26,
+    "volume": 1622005
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-24",
+    "price": 31.33,
+    "volume": 1559133
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-21",
+    "price": 31.16,
+    "volume": 2417040
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-20",
+    "price": 31.55,
+    "volume": 4313284
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-19",
+    "price": 30.25,
+    "volume": 2832845
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-18",
+    "price": 29.75,
+    "volume": 2278719
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-17",
+    "price": 29.25,
+    "volume": 2498849
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-14",
+    "price": 29.07,
+    "volume": 1800916
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-13",
+    "price": 28.15,
+    "volume": 2850539
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-12",
+    "price": 27.92,
+    "volume": 3763294
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-11",
+    "price": 27.43,
+    "volume": 2409072
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-10",
+    "price": 27.53,
+    "volume": 3199006
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-07",
+    "price": 28.08,
+    "volume": 2068240
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-06",
+    "price": 27.76,
+    "volume": 2856775
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-05",
+    "price": 28.03,
+    "volume": 5151962
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-04",
+    "price": 27.94,
+    "volume": 10384502
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-05-03",
+    "price": 31.42,
+    "volume": 3344443
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-30",
+    "price": 32.17,
+    "volume": 2043175
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-29",
+    "price": 32.7,
+    "volume": 3133391
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-28",
+    "price": 32.54,
+    "volume": 10525665
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-27",
+    "price": 31.25,
+    "volume": 2751520
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-26",
+    "price": 30.8,
+    "volume": 2775015
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-23",
+    "price": 29.65,
+    "volume": 1219347
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-22",
+    "price": 29.47,
+    "volume": 985722
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-21",
+    "price": 29.55,
+    "volume": 1887392
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-20",
+    "price": 28.44,
+    "volume": 3254358
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-19",
+    "price": 29.12,
+    "volume": 2542877
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-16",
+    "price": 30.03,
+    "volume": 1899324
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-15",
+    "price": 30.3,
+    "volume": 1824215
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-14",
+    "price": 30.26,
+    "volume": 3140106
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-13",
+    "price": 29.81,
+    "volume": 3384139
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-12",
+    "price": 29.95,
+    "volume": 2594287
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-09",
+    "price": 30.78,
+    "volume": 1548348
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-08",
+    "price": 30.77,
+    "volume": 2074313
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-07",
+    "price": 31.55,
+    "volume": 1636584
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-06",
+    "price": 31.24,
+    "volume": 2624232
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-05",
+    "price": 31.52,
+    "volume": 1505145
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-04-01",
+    "price": 31.71,
+    "volume": 2110731
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-31",
+    "price": 31.74,
+    "volume": 2640803
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-30",
+    "price": 31.04,
+    "volume": 1433679
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-29",
+    "price": 30.69,
+    "volume": 1669137
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-26",
+    "price": 31,
+    "volume": 1516947
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-25",
+    "price": 31.1,
+    "volume": 2528167
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-24",
+    "price": 30.71,
+    "volume": 3560981
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-23",
+    "price": 31.66,
+    "volume": 2958676
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-22",
+    "price": 32.96,
+    "volume": 2100880
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-19",
+    "price": 33,
+    "volume": 11141068
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-18",
+    "price": 32.84,
+    "volume": 11474123
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-17",
+    "price": 33.31,
+    "volume": 13995560
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-16",
+    "price": 33.38,
+    "volume": 12187201
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-15",
+    "price": 33.8,
+    "volume": 2065224
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-12",
+    "price": 33.34,
+    "volume": 5462414
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-11",
+    "price": 34.38,
+    "volume": 14957560
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-10",
+    "price": 32.82,
+    "volume": 9576704
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-09",
+    "price": 33.93,
+    "volume": 7475862
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-08",
+    "price": 33.08,
+    "volume": 9919026
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-05",
+    "price": 32.97,
+    "volume": 4166681
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-04",
+    "price": 31.9,
+    "volume": 5120194
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-03",
+    "price": 32.56,
+    "volume": 5472152
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-02",
+    "price": 32.28,
+    "volume": 4373278
+  },
+  {
+    "symbol": "BHC",
+    "date": "2021-03-01",
+    "price": 31.75,
+    "volume": 6089019
+  }
+]

@@ -1,0 +1,5546 @@
+[
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-27",
+    "price": 13.61,
+    "volume": 2382900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-26",
+    "price": 13.6,
+    "volume": 6788000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-25",
+    "price": 13.58,
+    "volume": 2967600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-24",
+    "price": 13.56,
+    "volume": 4681411
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-23",
+    "price": 13.6,
+    "volume": 12898825
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-20",
+    "price": 11.09,
+    "volume": 1362426
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-19",
+    "price": 11.2,
+    "volume": 1921835
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-18",
+    "price": 11.07,
+    "volume": 2591743
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-17",
+    "price": 11.29,
+    "volume": 725000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-13",
+    "price": 11.16,
+    "volume": 518000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-12",
+    "price": 11.22,
+    "volume": 872700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-11",
+    "price": 11.24,
+    "volume": 948551
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-10",
+    "price": 11.19,
+    "volume": 1581400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-09",
+    "price": 11.09,
+    "volume": 219492
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-06",
+    "price": 11.13,
+    "volume": 282462
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-05",
+    "price": 11.02,
+    "volume": 312426
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-04",
+    "price": 11.02,
+    "volume": 593973
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-03",
+    "price": 10.82,
+    "volume": 288043
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-02-02",
+    "price": 10.77,
+    "volume": 292700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-30",
+    "price": 10.63,
+    "volume": 367629
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-29",
+    "price": 10.54,
+    "volume": 237809
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-28",
+    "price": 10.32,
+    "volume": 325200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-27",
+    "price": 10.38,
+    "volume": 315841
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-26",
+    "price": 10.73,
+    "volume": 230710
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-23",
+    "price": 10.79,
+    "volume": 254800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-22",
+    "price": 11.07,
+    "volume": 510914
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-21",
+    "price": 10.74,
+    "volume": 359900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-20",
+    "price": 10.43,
+    "volume": 277976
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-16",
+    "price": 10.52,
+    "volume": 364100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-15",
+    "price": 10.89,
+    "volume": 336300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-14",
+    "price": 10.8,
+    "volume": 373725
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-13",
+    "price": 10.95,
+    "volume": 651321
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-12",
+    "price": 10.19,
+    "volume": 382400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-09",
+    "price": 9.97,
+    "volume": 418149
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-08",
+    "price": 10.19,
+    "volume": 702014
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-07",
+    "price": 9.51,
+    "volume": 251000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-06",
+    "price": 9.44,
+    "volume": 315302
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-05",
+    "price": 9.23,
+    "volume": 408000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2026-01-02",
+    "price": 9.09,
+    "volume": 368000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-31",
+    "price": 9.22,
+    "volume": 501600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-30",
+    "price": 9.29,
+    "volume": 263300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-29",
+    "price": 9.42,
+    "volume": 313460
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-26",
+    "price": 9.38,
+    "volume": 214902
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-24",
+    "price": 9.48,
+    "volume": 153600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-23",
+    "price": 9.38,
+    "volume": 288426
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-22",
+    "price": 9.39,
+    "volume": 310513
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-19",
+    "price": 9.56,
+    "volume": 748400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-18",
+    "price": 9.66,
+    "volume": 286710
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-17",
+    "price": 9.62,
+    "volume": 274725
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-16",
+    "price": 9.61,
+    "volume": 449201
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-15",
+    "price": 9.69,
+    "volume": 449100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-12",
+    "price": 9.68,
+    "volume": 409001
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-11",
+    "price": 9.59,
+    "volume": 615249
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-10",
+    "price": 9.68,
+    "volume": 498723
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-09",
+    "price": 9.6,
+    "volume": 726200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-08",
+    "price": 9.35,
+    "volume": 703000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-05",
+    "price": 9.33,
+    "volume": 343200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-04",
+    "price": 9.31,
+    "volume": 456200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-03",
+    "price": 9.34,
+    "volume": 496042
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-02",
+    "price": 9.51,
+    "volume": 745034
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-12-01",
+    "price": 9.69,
+    "volume": 1403200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-28",
+    "price": 8.94,
+    "volume": 252339
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-26",
+    "price": 9.03,
+    "volume": 689828
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-25",
+    "price": 8.81,
+    "volume": 518542
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-24",
+    "price": 8.72,
+    "volume": 489760
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-21",
+    "price": 8.5,
+    "volume": 576145
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-20",
+    "price": 8.11,
+    "volume": 381902
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-19",
+    "price": 7.99,
+    "volume": 402948
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-18",
+    "price": 8.07,
+    "volume": 320100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-17",
+    "price": 7.99,
+    "volume": 744719
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-14",
+    "price": 8.09,
+    "volume": 1433605
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-13",
+    "price": 8.15,
+    "volume": 633729
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-12",
+    "price": 8.05,
+    "volume": 693720
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-11",
+    "price": 7.99,
+    "volume": 467400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-10",
+    "price": 7.93,
+    "volume": 532122
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-07",
+    "price": 7.95,
+    "volume": 539633
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-06",
+    "price": 7.71,
+    "volume": 455800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-05",
+    "price": 8.21,
+    "volume": 371254
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-04",
+    "price": 8.15,
+    "volume": 486000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-11-03",
+    "price": 8.31,
+    "volume": 440814
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-31",
+    "price": 8.13,
+    "volume": 240000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-30",
+    "price": 8.18,
+    "volume": 278143
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-29",
+    "price": 8.5,
+    "volume": 283800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-28",
+    "price": 8.53,
+    "volume": 355227
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-27",
+    "price": 8.58,
+    "volume": 308528
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-24",
+    "price": 8.56,
+    "volume": 177900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-23",
+    "price": 8.36,
+    "volume": 250400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-22",
+    "price": 8.79,
+    "volume": 522600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-21",
+    "price": 8.5,
+    "volume": 535039
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-20",
+    "price": 8.4,
+    "volume": 407400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-17",
+    "price": 8.06,
+    "volume": 298405
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-16",
+    "price": 8.01,
+    "volume": 243336
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-15",
+    "price": 8.08,
+    "volume": 205800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-14",
+    "price": 8,
+    "volume": 325400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-13",
+    "price": 7.96,
+    "volume": 451800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-10",
+    "price": 7.75,
+    "volume": 412253
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-09",
+    "price": 8,
+    "volume": 248900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-08",
+    "price": 8.21,
+    "volume": 211510
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-07",
+    "price": 7.96,
+    "volume": 316200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-06",
+    "price": 8.14,
+    "volume": 298500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-03",
+    "price": 8.13,
+    "volume": 204323
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-02",
+    "price": 8.09,
+    "volume": 279141
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-10-01",
+    "price": 8.15,
+    "volume": 314746
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-30",
+    "price": 8.01,
+    "volume": 219700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-29",
+    "price": 8.05,
+    "volume": 313835
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-26",
+    "price": 8.11,
+    "volume": 322513
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-25",
+    "price": 7.99,
+    "volume": 278941
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-24",
+    "price": 8.28,
+    "volume": 294567
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-23",
+    "price": 8.07,
+    "volume": 308633
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-22",
+    "price": 8.21,
+    "volume": 268900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-19",
+    "price": 8.18,
+    "volume": 1059800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-18",
+    "price": 8.06,
+    "volume": 337000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-17",
+    "price": 7.72,
+    "volume": 372017
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-16",
+    "price": 7.6,
+    "volume": 316614
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-15",
+    "price": 7.7,
+    "volume": 311600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-12",
+    "price": 7.87,
+    "volume": 442204
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-11",
+    "price": 8.11,
+    "volume": 398003
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-10",
+    "price": 8.06,
+    "volume": 1027235
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-09",
+    "price": 7.87,
+    "volume": 447900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-08",
+    "price": 7.7,
+    "volume": 286410
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-05",
+    "price": 7.79,
+    "volume": 316100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-04",
+    "price": 7.86,
+    "volume": 240500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-03",
+    "price": 7.86,
+    "volume": 353612
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-09-02",
+    "price": 7.86,
+    "volume": 302433
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-29",
+    "price": 7.88,
+    "volume": 282223
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-28",
+    "price": 7.92,
+    "volume": 251400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-27",
+    "price": 8,
+    "volume": 426300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-26",
+    "price": 7.94,
+    "volume": 418917
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-25",
+    "price": 8.07,
+    "volume": 262844
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-22",
+    "price": 8.19,
+    "volume": 360000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-21",
+    "price": 7.99,
+    "volume": 371547
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-20",
+    "price": 8.11,
+    "volume": 478400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-19",
+    "price": 8.06,
+    "volume": 671517
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-18",
+    "price": 7.97,
+    "volume": 602508
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-15",
+    "price": 7.56,
+    "volume": 336200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-14",
+    "price": 7.39,
+    "volume": 249200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-13",
+    "price": 7.57,
+    "volume": 491800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-12",
+    "price": 7.54,
+    "volume": 801811
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-11",
+    "price": 7.28,
+    "volume": 644245
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-08",
+    "price": 7.62,
+    "volume": 913107
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-07",
+    "price": 7.8,
+    "volume": 1546900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-06",
+    "price": 6.77,
+    "volume": 665449
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-05",
+    "price": 6.69,
+    "volume": 401800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-04",
+    "price": 6.6,
+    "volume": 809200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-08-01",
+    "price": 6.52,
+    "volume": 582191
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-31",
+    "price": 6.72,
+    "volume": 403700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-30",
+    "price": 6.68,
+    "volume": 433200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-29",
+    "price": 6.66,
+    "volume": 647704
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-28",
+    "price": 6.79,
+    "volume": 420300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-25",
+    "price": 6.75,
+    "volume": 504840
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-24",
+    "price": 6.89,
+    "volume": 580000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-23",
+    "price": 6.92,
+    "volume": 479267
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-22",
+    "price": 6.76,
+    "volume": 432047
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-21",
+    "price": 6.72,
+    "volume": 855941
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-18",
+    "price": 6.75,
+    "volume": 664873
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-17",
+    "price": 6.66,
+    "volume": 585238
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-16",
+    "price": 6.84,
+    "volume": 707846
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-15",
+    "price": 7,
+    "volume": 725500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-14",
+    "price": 7.08,
+    "volume": 1145243
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-11",
+    "price": 7.05,
+    "volume": 782740
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-10",
+    "price": 7.41,
+    "volume": 920900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-09",
+    "price": 7.27,
+    "volume": 1773936
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-08",
+    "price": 7.3,
+    "volume": 861655
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-07",
+    "price": 7.32,
+    "volume": 774400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-03",
+    "price": 7.65,
+    "volume": 976844
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-02",
+    "price": 7.71,
+    "volume": 1763952
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-07-01",
+    "price": 7.88,
+    "volume": 2912229
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-30",
+    "price": 9.64,
+    "volume": 499500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-27",
+    "price": 9.56,
+    "volume": 743500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-26",
+    "price": 9.51,
+    "volume": 361944
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-25",
+    "price": 9.4,
+    "volume": 358500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-24",
+    "price": 9.51,
+    "volume": 337833
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-23",
+    "price": 9.28,
+    "volume": 515303
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-20",
+    "price": 9.27,
+    "volume": 573600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-18",
+    "price": 9.34,
+    "volume": 312100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-17",
+    "price": 9.58,
+    "volume": 382100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-16",
+    "price": 9.94,
+    "volume": 350400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-13",
+    "price": 9.78,
+    "volume": 400700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-12",
+    "price": 9.97,
+    "volume": 790300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-11",
+    "price": 10.25,
+    "volume": 1152400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-10",
+    "price": 10.72,
+    "volume": 331200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-09",
+    "price": 10.78,
+    "volume": 301842
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-06",
+    "price": 10.8,
+    "volume": 290102
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-05",
+    "price": 10.76,
+    "volume": 394773
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-04",
+    "price": 10.62,
+    "volume": 325000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-03",
+    "price": 10.43,
+    "volume": 507702
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-06-02",
+    "price": 10.37,
+    "volume": 432219
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-30",
+    "price": 10.5,
+    "volume": 715100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-29",
+    "price": 10.33,
+    "volume": 284600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-28",
+    "price": 10.36,
+    "volume": 238842
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-27",
+    "price": 10.45,
+    "volume": 248300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-23",
+    "price": 10.22,
+    "volume": 209400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-22",
+    "price": 10.26,
+    "volume": 214108
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-21",
+    "price": 10.43,
+    "volume": 255500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-20",
+    "price": 10.61,
+    "volume": 522318
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-19",
+    "price": 10.65,
+    "volume": 457000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-16",
+    "price": 10.64,
+    "volume": 709400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-15",
+    "price": 10.76,
+    "volume": 356700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-14",
+    "price": 10.58,
+    "volume": 544100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-13",
+    "price": 10.47,
+    "volume": 568318
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-12",
+    "price": 10.46,
+    "volume": 694497
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-09",
+    "price": 10.28,
+    "volume": 773500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-08",
+    "price": 9.69,
+    "volume": 673770
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-07",
+    "price": 8.2,
+    "volume": 384300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-06",
+    "price": 8.04,
+    "volume": 263900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-05",
+    "price": 7.97,
+    "volume": 284149
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-02",
+    "price": 8.05,
+    "volume": 415000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-05-01",
+    "price": 7.85,
+    "volume": 280000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-30",
+    "price": 7.99,
+    "volume": 268518
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-29",
+    "price": 7.96,
+    "volume": 228130
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-28",
+    "price": 7.93,
+    "volume": 225500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-25",
+    "price": 7.78,
+    "volume": 222226
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-24",
+    "price": 7.7,
+    "volume": 221800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-23",
+    "price": 7.52,
+    "volume": 220635
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-22",
+    "price": 7.29,
+    "volume": 284700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-21",
+    "price": 7.22,
+    "volume": 299700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-17",
+    "price": 7.68,
+    "volume": 243217
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-16",
+    "price": 7.7,
+    "volume": 195900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-15",
+    "price": 7.79,
+    "volume": 233500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-14",
+    "price": 7.79,
+    "volume": 334739
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-11",
+    "price": 7.76,
+    "volume": 339600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-10",
+    "price": 7.91,
+    "volume": 261100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-09",
+    "price": 8.03,
+    "volume": 443500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-08",
+    "price": 7.75,
+    "volume": 303549
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-07",
+    "price": 7.92,
+    "volume": 447500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-04",
+    "price": 8.15,
+    "volume": 404035
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-03",
+    "price": 8.51,
+    "volume": 229513
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-02",
+    "price": 8.8,
+    "volume": 286822
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-04-01",
+    "price": 8.72,
+    "volume": 421700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-31",
+    "price": 8.79,
+    "volume": 372100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-28",
+    "price": 8.64,
+    "volume": 197302
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-27",
+    "price": 8.93,
+    "volume": 210447
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-26",
+    "price": 8.81,
+    "volume": 197400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-25",
+    "price": 8.84,
+    "volume": 272700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-24",
+    "price": 8.91,
+    "volume": 250319
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-21",
+    "price": 9.05,
+    "volume": 587933
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-20",
+    "price": 9.26,
+    "volume": 223315
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-19",
+    "price": 9.22,
+    "volume": 340428
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-18",
+    "price": 9.29,
+    "volume": 1125348
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-17",
+    "price": 9.01,
+    "volume": 554800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-14",
+    "price": 8.56,
+    "volume": 323600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-13",
+    "price": 8.51,
+    "volume": 318800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-12",
+    "price": 8.54,
+    "volume": 347216
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-11",
+    "price": 8.45,
+    "volume": 394801
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-10",
+    "price": 8.67,
+    "volume": 560200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-07",
+    "price": 8.53,
+    "volume": 488000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-06",
+    "price": 8.02,
+    "volume": 940432
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-05",
+    "price": 8.54,
+    "volume": 306200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-04",
+    "price": 8.47,
+    "volume": 344906
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-03-03",
+    "price": 8.43,
+    "volume": 573600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-28",
+    "price": 8.37,
+    "volume": 482100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-27",
+    "price": 8.28,
+    "volume": 288109
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-26",
+    "price": 8.24,
+    "volume": 274649
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-25",
+    "price": 8.26,
+    "volume": 242400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-24",
+    "price": 8.07,
+    "volume": 250231
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-21",
+    "price": 8.14,
+    "volume": 200639
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-20",
+    "price": 8.44,
+    "volume": 147800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-19",
+    "price": 8.76,
+    "volume": 222100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-18",
+    "price": 8.73,
+    "volume": 241205
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-14",
+    "price": 8.7,
+    "volume": 176200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-13",
+    "price": 8.59,
+    "volume": 190800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-12",
+    "price": 8.23,
+    "volume": 258100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-11",
+    "price": 8.3,
+    "volume": 248800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-10",
+    "price": 8.43,
+    "volume": 338700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-07",
+    "price": 8.31,
+    "volume": 315000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-06",
+    "price": 8.24,
+    "volume": 233503
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-05",
+    "price": 8.65,
+    "volume": 280900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-04",
+    "price": 8.49,
+    "volume": 240000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-02-03",
+    "price": 8.44,
+    "volume": 358603
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-31",
+    "price": 8.4,
+    "volume": 353300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-30",
+    "price": 8.71,
+    "volume": 479521
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-29",
+    "price": 8.4,
+    "volume": 366547
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-28",
+    "price": 8.57,
+    "volume": 343111
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-27",
+    "price": 8.44,
+    "volume": 368506
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-24",
+    "price": 8.13,
+    "volume": 213200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-23",
+    "price": 8.02,
+    "volume": 183700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-22",
+    "price": 7.91,
+    "volume": 179805
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-21",
+    "price": 7.99,
+    "volume": 229100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-17",
+    "price": 7.99,
+    "volume": 217400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-16",
+    "price": 7.97,
+    "volume": 212000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-15",
+    "price": 7.81,
+    "volume": 148700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-14",
+    "price": 7.74,
+    "volume": 269400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-13",
+    "price": 7.77,
+    "volume": 181700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-10",
+    "price": 7.6,
+    "volume": 372013
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-08",
+    "price": 7.8,
+    "volume": 254500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-07",
+    "price": 7.71,
+    "volume": 256400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-06",
+    "price": 7.77,
+    "volume": 285922
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-03",
+    "price": 7.87,
+    "volume": 242800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2025-01-02",
+    "price": 7.75,
+    "volume": 249434
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-31",
+    "price": 7.81,
+    "volume": 222800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-30",
+    "price": 7.69,
+    "volume": 227242
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-27",
+    "price": 7.68,
+    "volume": 217900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-26",
+    "price": 7.73,
+    "volume": 173820
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-24",
+    "price": 7.66,
+    "volume": 132300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-23",
+    "price": 7.65,
+    "volume": 283229
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-20",
+    "price": 7.65,
+    "volume": 814900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-19",
+    "price": 7.7,
+    "volume": 397417
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-18",
+    "price": 7.93,
+    "volume": 545000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-17",
+    "price": 8.29,
+    "volume": 269900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-16",
+    "price": 8.52,
+    "volume": 219500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-13",
+    "price": 8.52,
+    "volume": 207600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-12",
+    "price": 8.52,
+    "volume": 224440
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-11",
+    "price": 8.53,
+    "volume": 283701
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-10",
+    "price": 8.59,
+    "volume": 395500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-09",
+    "price": 8.75,
+    "volume": 713749
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-06",
+    "price": 7.73,
+    "volume": 341516
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-05",
+    "price": 7.99,
+    "volume": 420313
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-04",
+    "price": 8.31,
+    "volume": 641400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-03",
+    "price": 8,
+    "volume": 592329
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-12-02",
+    "price": 7.86,
+    "volume": 333700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-29",
+    "price": 7.73,
+    "volume": 198400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-27",
+    "price": 7.62,
+    "volume": 318331
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-26",
+    "price": 7.62,
+    "volume": 303203
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-25",
+    "price": 7.62,
+    "volume": 1447400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-22",
+    "price": 7.56,
+    "volume": 388315
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-21",
+    "price": 7.47,
+    "volume": 440100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-20",
+    "price": 7.46,
+    "volume": 331523
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-19",
+    "price": 7.27,
+    "volume": 357923
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-18",
+    "price": 7.14,
+    "volume": 313400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-15",
+    "price": 7.35,
+    "volume": 419503
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-14",
+    "price": 7.44,
+    "volume": 815919
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-13",
+    "price": 7.61,
+    "volume": 450100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-12",
+    "price": 7.61,
+    "volume": 435904
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-11",
+    "price": 8.01,
+    "volume": 499917
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-08",
+    "price": 7.89,
+    "volume": 566800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-07",
+    "price": 7.92,
+    "volume": 711800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-06",
+    "price": 7.91,
+    "volume": 591825
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-05",
+    "price": 7.6,
+    "volume": 434478
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-04",
+    "price": 7.63,
+    "volume": 466803
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-11-01",
+    "price": 7.25,
+    "volume": 286100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-31",
+    "price": 6.89,
+    "volume": 340044
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-30",
+    "price": 6.98,
+    "volume": 234200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-29",
+    "price": 6.98,
+    "volume": 232500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-28",
+    "price": 7.13,
+    "volume": 233002
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-25",
+    "price": 7.04,
+    "volume": 268305
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-24",
+    "price": 7.06,
+    "volume": 259600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-23",
+    "price": 7.01,
+    "volume": 239900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-22",
+    "price": 7.2,
+    "volume": 273300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-21",
+    "price": 7.18,
+    "volume": 282527
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-18",
+    "price": 7.36,
+    "volume": 224715
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-17",
+    "price": 7.35,
+    "volume": 288400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-16",
+    "price": 7.42,
+    "volume": 332100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-15",
+    "price": 7.15,
+    "volume": 254129
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-14",
+    "price": 7.16,
+    "volume": 295636
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-11",
+    "price": 7.2,
+    "volume": 317300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-10",
+    "price": 7.09,
+    "volume": 455824
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-09",
+    "price": 7.12,
+    "volume": 297143
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-08",
+    "price": 7.29,
+    "volume": 469548
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-07",
+    "price": 7.18,
+    "volume": 549300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-04",
+    "price": 7.48,
+    "volume": 403131
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-03",
+    "price": 7.57,
+    "volume": 465900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-02",
+    "price": 7.51,
+    "volume": 409911
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-10-01",
+    "price": 7.54,
+    "volume": 531300
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-30",
+    "price": 7.9,
+    "volume": 488500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-27",
+    "price": 7.93,
+    "volume": 310800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-26",
+    "price": 7.93,
+    "volume": 591600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-25",
+    "price": 7.88,
+    "volume": 616100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-24",
+    "price": 7.98,
+    "volume": 572317
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-23",
+    "price": 8.11,
+    "volume": 660700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-20",
+    "price": 8.05,
+    "volume": 9827804
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-19",
+    "price": 8.24,
+    "volume": 860400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-18",
+    "price": 8.16,
+    "volume": 815800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-17",
+    "price": 8,
+    "volume": 753900
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-16",
+    "price": 8.05,
+    "volume": 861502
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-13",
+    "price": 8.1,
+    "volume": 540500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-12",
+    "price": 7.84,
+    "volume": 614200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-11",
+    "price": 8.01,
+    "volume": 741200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-10",
+    "price": 7.5,
+    "volume": 761419
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-09",
+    "price": 7.92,
+    "volume": 1105849
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-06",
+    "price": 7.89,
+    "volume": 639400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-05",
+    "price": 7.95,
+    "volume": 847100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-04",
+    "price": 7.47,
+    "volume": 735014
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-09-03",
+    "price": 8.08,
+    "volume": 420800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-30",
+    "price": 8.44,
+    "volume": 427623
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-29",
+    "price": 8.54,
+    "volume": 377845
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-28",
+    "price": 8.27,
+    "volume": 524747
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-27",
+    "price": 8.33,
+    "volume": 359200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-26",
+    "price": 8.42,
+    "volume": 465047
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-23",
+    "price": 8.21,
+    "volume": 400524
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-22",
+    "price": 8.02,
+    "volume": 290000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-21",
+    "price": 8.03,
+    "volume": 325341
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-20",
+    "price": 8.13,
+    "volume": 337044
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-19",
+    "price": 8.31,
+    "volume": 377333
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-16",
+    "price": 8.36,
+    "volume": 271100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-15",
+    "price": 8.55,
+    "volume": 382700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-14",
+    "price": 8.47,
+    "volume": 852400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-13",
+    "price": 8.81,
+    "volume": 629400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-12",
+    "price": 8.17,
+    "volume": 586210
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-09",
+    "price": 8.46,
+    "volume": 529700
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-08",
+    "price": 8.52,
+    "volume": 846311
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-07",
+    "price": 8.5,
+    "volume": 1437113
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-06",
+    "price": 9.89,
+    "volume": 454042
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-05",
+    "price": 9.6,
+    "volume": 741352
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-02",
+    "price": 9.67,
+    "volume": 422400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-08-01",
+    "price": 10.05,
+    "volume": 550200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-31",
+    "price": 10.24,
+    "volume": 415102
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-30",
+    "price": 10.24,
+    "volume": 378800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-29",
+    "price": 10.25,
+    "volume": 644600
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-26",
+    "price": 10.36,
+    "volume": 327726
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-25",
+    "price": 10.29,
+    "volume": 713100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-24",
+    "price": 9.93,
+    "volume": 455506
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-23",
+    "price": 9.73,
+    "volume": 406242
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-22",
+    "price": 9.64,
+    "volume": 220098
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-19",
+    "price": 9.49,
+    "volume": 348006
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-18",
+    "price": 9.38,
+    "volume": 244376
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-17",
+    "price": 9.69,
+    "volume": 476312
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-16",
+    "price": 9.65,
+    "volume": 526913
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-15",
+    "price": 9.19,
+    "volume": 1008154
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-12",
+    "price": 9.48,
+    "volume": 546993
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-11",
+    "price": 9.25,
+    "volume": 823214
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-10",
+    "price": 8.63,
+    "volume": 190829
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-09",
+    "price": 8.72,
+    "volume": 264058
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-08",
+    "price": 8.83,
+    "volume": 290260
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-05",
+    "price": 8.64,
+    "volume": 408757
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-03",
+    "price": 8.76,
+    "volume": 120995
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-02",
+    "price": 8.76,
+    "volume": 510907
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-07-01",
+    "price": 8.75,
+    "volume": 609735
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-28",
+    "price": 8.92,
+    "volume": 1187318
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-27",
+    "price": 8.57,
+    "volume": 801488
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-26",
+    "price": 8.49,
+    "volume": 255525
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-25",
+    "price": 8.41,
+    "volume": 603702
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-24",
+    "price": 8.5,
+    "volume": 555933
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-21",
+    "price": 8.54,
+    "volume": 1560991
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-20",
+    "price": 8.81,
+    "volume": 557086
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-18",
+    "price": 8.68,
+    "volume": 515121
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-17",
+    "price": 8.84,
+    "volume": 285771
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-14",
+    "price": 8.8,
+    "volume": 327054
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-13",
+    "price": 8.95,
+    "volume": 454536
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-12",
+    "price": 9.4,
+    "volume": 328791
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-11",
+    "price": 9.65,
+    "volume": 421312
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-10",
+    "price": 9.6,
+    "volume": 426265
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-07",
+    "price": 9.19,
+    "volume": 225954
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-06",
+    "price": 9.16,
+    "volume": 223852
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-05",
+    "price": 9.21,
+    "volume": 197668
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-04",
+    "price": 9,
+    "volume": 326065
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-06-03",
+    "price": 8.92,
+    "volume": 348799
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-31",
+    "price": 9.19,
+    "volume": 475817
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-30",
+    "price": 9.2,
+    "volume": 360419
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-29",
+    "price": 9.05,
+    "volume": 291827
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-28",
+    "price": 9.09,
+    "volume": 350886
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-24",
+    "price": 8.84,
+    "volume": 491529
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-23",
+    "price": 9.18,
+    "volume": 611740
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-22",
+    "price": 9.41,
+    "volume": 611737
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-21",
+    "price": 9.27,
+    "volume": 582206
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-20",
+    "price": 8.95,
+    "volume": 1042170
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-17",
+    "price": 8.25,
+    "volume": 739317
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-16",
+    "price": 8.35,
+    "volume": 697881
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-15",
+    "price": 8.66,
+    "volume": 654897
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-14",
+    "price": 9.04,
+    "volume": 1161836
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-13",
+    "price": 8.64,
+    "volume": 1105433
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-10",
+    "price": 8.34,
+    "volume": 1602831
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-09",
+    "price": 8.29,
+    "volume": 3215621
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-08",
+    "price": 9.7,
+    "volume": 370003
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-07",
+    "price": 9.9,
+    "volume": 223278
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-06",
+    "price": 9.86,
+    "volume": 284972
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-03",
+    "price": 10.18,
+    "volume": 281692
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-02",
+    "price": 9.99,
+    "volume": 281620
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-05-01",
+    "price": 10.18,
+    "volume": 312625
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-30",
+    "price": 10.09,
+    "volume": 486322
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-29",
+    "price": 10.31,
+    "volume": 260979
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-26",
+    "price": 10.03,
+    "volume": 238307
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-25",
+    "price": 9.87,
+    "volume": 278357
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-24",
+    "price": 10.17,
+    "volume": 432592
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-23",
+    "price": 10.27,
+    "volume": 278231
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-22",
+    "price": 10.26,
+    "volume": 281125
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-19",
+    "price": 10.25,
+    "volume": 339281
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-18",
+    "price": 10.11,
+    "volume": 290125
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-17",
+    "price": 10.16,
+    "volume": 339735
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-16",
+    "price": 10.24,
+    "volume": 318789
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-15",
+    "price": 10.43,
+    "volume": 459845
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-12",
+    "price": 10.4,
+    "volume": 366245
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-11",
+    "price": 10.75,
+    "volume": 259499
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-10",
+    "price": 10.94,
+    "volume": 371817
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-09",
+    "price": 11.19,
+    "volume": 234516
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-08",
+    "price": 11.07,
+    "volume": 288128
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-05",
+    "price": 11.02,
+    "volume": 261566
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-04",
+    "price": 10.81,
+    "volume": 302797
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-03",
+    "price": 10.99,
+    "volume": 359135
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-02",
+    "price": 10.63,
+    "volume": 593367
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-04-01",
+    "price": 11.29,
+    "volume": 438502
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-28",
+    "price": 11.65,
+    "volume": 517451
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-27",
+    "price": 11.56,
+    "volume": 636589
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-26",
+    "price": 11.34,
+    "volume": 302051
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-25",
+    "price": 11.11,
+    "volume": 280892
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-22",
+    "price": 11.08,
+    "volume": 352885
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-21",
+    "price": 11.39,
+    "volume": 655409
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-20",
+    "price": 11.5,
+    "volume": 452063
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-19",
+    "price": 11.19,
+    "volume": 626943
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-18",
+    "price": 10.96,
+    "volume": 879911
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-15",
+    "price": 11.01,
+    "volume": 1151473
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-14",
+    "price": 10.85,
+    "volume": 959473
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-13",
+    "price": 10.84,
+    "volume": 1019804
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-12",
+    "price": 10.42,
+    "volume": 626628
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-11",
+    "price": 9.89,
+    "volume": 1191153
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-08",
+    "price": 10.34,
+    "volume": 1766784
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-07",
+    "price": 9.6,
+    "volume": 3607759
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-06",
+    "price": 7.86,
+    "volume": 1433357
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-05",
+    "price": 7.92,
+    "volume": 607756
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-04",
+    "price": 8.22,
+    "volume": 864746
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-03-01",
+    "price": 8.81,
+    "volume": 634058
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-29",
+    "price": 9,
+    "volume": 605481
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-28",
+    "price": 9.18,
+    "volume": 647501
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-27",
+    "price": 9.51,
+    "volume": 368286
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-26",
+    "price": 9.33,
+    "volume": 467821
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-23",
+    "price": 9.49,
+    "volume": 299939
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-22",
+    "price": 9.41,
+    "volume": 596160
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-21",
+    "price": 9.3,
+    "volume": 626826
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-20",
+    "price": 9.27,
+    "volume": 442546
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-16",
+    "price": 9.69,
+    "volume": 466098
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-15",
+    "price": 9.59,
+    "volume": 555069
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-14",
+    "price": 8.99,
+    "volume": 413941
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-13",
+    "price": 8.86,
+    "volume": 536097
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-12",
+    "price": 9.16,
+    "volume": 520851
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-09",
+    "price": 8.93,
+    "volume": 502926
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-08",
+    "price": 8.9,
+    "volume": 666271
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-07",
+    "price": 9.14,
+    "volume": 346930
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-06",
+    "price": 9.6,
+    "volume": 351304
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-05",
+    "price": 9.48,
+    "volume": 444425
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-02",
+    "price": 10.21,
+    "volume": 306402
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-02-01",
+    "price": 10.27,
+    "volume": 300915
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-31",
+    "price": 10.09,
+    "volume": 393772
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-30",
+    "price": 10.31,
+    "volume": 288573
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-29",
+    "price": 10.47,
+    "volume": 476771
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-26",
+    "price": 10.63,
+    "volume": 372586
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-25",
+    "price": 10.7,
+    "volume": 332394
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-24",
+    "price": 10.76,
+    "volume": 305448
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-23",
+    "price": 10.83,
+    "volume": 544179
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-22",
+    "price": 10.77,
+    "volume": 482451
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-19",
+    "price": 10.21,
+    "volume": 382284
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-18",
+    "price": 10.11,
+    "volume": 317419
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-17",
+    "price": 10.16,
+    "volume": 440557
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-16",
+    "price": 10.35,
+    "volume": 469841
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-12",
+    "price": 10.43,
+    "volume": 440152
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-11",
+    "price": 10.56,
+    "volume": 534120
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-10",
+    "price": 10.56,
+    "volume": 577587
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-09",
+    "price": 10.51,
+    "volume": 579406
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-08",
+    "price": 10.16,
+    "volume": 476144
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-05",
+    "price": 9.76,
+    "volume": 1410388
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-04",
+    "price": 9.38,
+    "volume": 1047272
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-03",
+    "price": 9.73,
+    "volume": 597531
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2024-01-02",
+    "price": 10.16,
+    "volume": 562362
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-29",
+    "price": 10.35,
+    "volume": 297097
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-28",
+    "price": 10.61,
+    "volume": 344419
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-27",
+    "price": 10.72,
+    "volume": 259467
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-26",
+    "price": 10.79,
+    "volume": 268952
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-22",
+    "price": 10.68,
+    "volume": 347282
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-21",
+    "price": 10.69,
+    "volume": 388664
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-20",
+    "price": 10.54,
+    "volume": 594945
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-19",
+    "price": 10.68,
+    "volume": 617058
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-18",
+    "price": 10.44,
+    "volume": 505705
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-15",
+    "price": 10.52,
+    "volume": 1415112
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-14",
+    "price": 10.98,
+    "volume": 510359
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-13",
+    "price": 11,
+    "volume": 559787
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-12",
+    "price": 10.77,
+    "volume": 467831
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-11",
+    "price": 10.75,
+    "volume": 328387
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-08",
+    "price": 11.08,
+    "volume": 566072
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-07",
+    "price": 11.02,
+    "volume": 354137
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-06",
+    "price": 10.76,
+    "volume": 378328
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-05",
+    "price": 10.74,
+    "volume": 299004
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-04",
+    "price": 11.06,
+    "volume": 447527
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-12-01",
+    "price": 10.93,
+    "volume": 456507
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-30",
+    "price": 10.66,
+    "volume": 501684
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-29",
+    "price": 10.47,
+    "volume": 533143
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-28",
+    "price": 10.47,
+    "volume": 574827
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-27",
+    "price": 10.41,
+    "volume": 680481
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-24",
+    "price": 10.54,
+    "volume": 321378
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-22",
+    "price": 10.1,
+    "volume": 220390
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-21",
+    "price": 9.86,
+    "volume": 377262
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-20",
+    "price": 10.01,
+    "volume": 390760
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-17",
+    "price": 9.82,
+    "volume": 620812
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-16",
+    "price": 9.69,
+    "volume": 297198
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-15",
+    "price": 9.78,
+    "volume": 1118408
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-14",
+    "price": 9.76,
+    "volume": 455654
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-13",
+    "price": 9.2,
+    "volume": 441505
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-10",
+    "price": 9.3,
+    "volume": 643644
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-09",
+    "price": 9.43,
+    "volume": 1060705
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-08",
+    "price": 9.92,
+    "volume": 1840990
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-07",
+    "price": 8.55,
+    "volume": 610891
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-06",
+    "price": 8.5,
+    "volume": 677409
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-03",
+    "price": 8.67,
+    "volume": 635870
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-02",
+    "price": 8,
+    "volume": 876247
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-11-01",
+    "price": 7.28,
+    "volume": 735426
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-31",
+    "price": 7.37,
+    "volume": 1578121
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-30",
+    "price": 7.5,
+    "volume": 400846
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-27",
+    "price": 7.41,
+    "volume": 595291
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-26",
+    "price": 7.3,
+    "volume": 875832
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-25",
+    "price": 7.55,
+    "volume": 350737
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-24",
+    "price": 7.97,
+    "volume": 527640
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-23",
+    "price": 7.88,
+    "volume": 620327
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-20",
+    "price": 8.01,
+    "volume": 1055721
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-19",
+    "price": 8.17,
+    "volume": 462430
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-18",
+    "price": 8.13,
+    "volume": 492038
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-17",
+    "price": 8.1,
+    "volume": 690664
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-16",
+    "price": 7.76,
+    "volume": 825025
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-13",
+    "price": 7.78,
+    "volume": 531353
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-12",
+    "price": 7.89,
+    "volume": 648445
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-11",
+    "price": 8.19,
+    "volume": 699686
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-10",
+    "price": 8.57,
+    "volume": 708500
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-09",
+    "price": 8.47,
+    "volume": 656635
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-06",
+    "price": 8.56,
+    "volume": 779075
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-05",
+    "price": 8.38,
+    "volume": 1106955
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-04",
+    "price": 8.65,
+    "volume": 1782424
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-03",
+    "price": 8.56,
+    "volume": 2974105
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-10-02",
+    "price": 11.73,
+    "volume": 679727
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-29",
+    "price": 11.25,
+    "volume": 484396
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-28",
+    "price": 11.79,
+    "volume": 569064
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-27",
+    "price": 11.79,
+    "volume": 583518
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-26",
+    "price": 11.6,
+    "volume": 358325
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-25",
+    "price": 11.98,
+    "volume": 375055
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-22",
+    "price": 12,
+    "volume": 484649
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-21",
+    "price": 12.03,
+    "volume": 425506
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-20",
+    "price": 12.22,
+    "volume": 438294
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-19",
+    "price": 12,
+    "volume": 731740
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-18",
+    "price": 12.5,
+    "volume": 400304
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-15",
+    "price": 12.51,
+    "volume": 1386721
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-14",
+    "price": 12.5,
+    "volume": 577135
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-13",
+    "price": 12.77,
+    "volume": 457489
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-12",
+    "price": 12.65,
+    "volume": 630366
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-11",
+    "price": 12.48,
+    "volume": 419078
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-08",
+    "price": 12.47,
+    "volume": 531757
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-07",
+    "price": 12.32,
+    "volume": 588642
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-06",
+    "price": 12.43,
+    "volume": 339325
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-05",
+    "price": 12.5,
+    "volume": 466343
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-09-01",
+    "price": 12.63,
+    "volume": 568163
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-31",
+    "price": 12.81,
+    "volume": 540028
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-30",
+    "price": 12.95,
+    "volume": 357819
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-29",
+    "price": 12.75,
+    "volume": 483031
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-28",
+    "price": 12.51,
+    "volume": 339520
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-25",
+    "price": 12.54,
+    "volume": 919187
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-24",
+    "price": 12.77,
+    "volume": 1281085
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-23",
+    "price": 11.94,
+    "volume": 469107
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-22",
+    "price": 12,
+    "volume": 504648
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-21",
+    "price": 11.75,
+    "volume": 545013
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-18",
+    "price": 11.5,
+    "volume": 706413
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-17",
+    "price": 11.63,
+    "volume": 681319
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-16",
+    "price": 11.47,
+    "volume": 847736
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-15",
+    "price": 11.32,
+    "volume": 856817
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-14",
+    "price": 11.97,
+    "volume": 935656
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-11",
+    "price": 11.5,
+    "volume": 1270080
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-10",
+    "price": 11.81,
+    "volume": 2654244
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-09",
+    "price": 13.7,
+    "volume": 495055
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-08",
+    "price": 13.76,
+    "volume": 243444
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-07",
+    "price": 13.81,
+    "volume": 483640
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-04",
+    "price": 13.62,
+    "volume": 593082
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-03",
+    "price": 13.52,
+    "volume": 549941
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-02",
+    "price": 13.11,
+    "volume": 417882
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-08-01",
+    "price": 13.58,
+    "volume": 417360
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-31",
+    "price": 13.73,
+    "volume": 486491
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-28",
+    "price": 13.69,
+    "volume": 440265
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-27",
+    "price": 13.97,
+    "volume": 370405
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-26",
+    "price": 14.43,
+    "volume": 527574
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-25",
+    "price": 14.09,
+    "volume": 416627
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-24",
+    "price": 14.3,
+    "volume": 506185
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-21",
+    "price": 14.36,
+    "volume": 662542
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-20",
+    "price": 13.69,
+    "volume": 420365
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-19",
+    "price": 13.5,
+    "volume": 274909
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-18",
+    "price": 12.71,
+    "volume": 477393
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-17",
+    "price": 12.64,
+    "volume": 626247
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-14",
+    "price": 12.63,
+    "volume": 572992
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-13",
+    "price": 12.53,
+    "volume": 431784
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-12",
+    "price": 12.35,
+    "volume": 329498
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-11",
+    "price": 12.24,
+    "volume": 372245
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-10",
+    "price": 12.03,
+    "volume": 411974
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-07",
+    "price": 12.03,
+    "volume": 667756
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-06",
+    "price": 12.01,
+    "volume": 813133
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-05",
+    "price": 12.06,
+    "volume": 916070
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-07-03",
+    "price": 11.23,
+    "volume": 430525
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-30",
+    "price": 11.5,
+    "volume": 1793605
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-29",
+    "price": 11.96,
+    "volume": 330482
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-28",
+    "price": 11.81,
+    "volume": 505360
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-27",
+    "price": 11.78,
+    "volume": 561683
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-26",
+    "price": 12,
+    "volume": 599249
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-23",
+    "price": 12.02,
+    "volume": 7127555
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-22",
+    "price": 12.2,
+    "volume": 673494
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-21",
+    "price": 12.09,
+    "volume": 592873
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-20",
+    "price": 12.2,
+    "volume": 758403
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-16",
+    "price": 12.36,
+    "volume": 843262
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-15",
+    "price": 12.18,
+    "volume": 390417
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-14",
+    "price": 12.1,
+    "volume": 352137
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-13",
+    "price": 12.41,
+    "volume": 710425
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-12",
+    "price": 12.11,
+    "volume": 734027
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-09",
+    "price": 12.54,
+    "volume": 443726
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-08",
+    "price": 12.97,
+    "volume": 423871
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-07",
+    "price": 13.72,
+    "volume": 550558
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-06",
+    "price": 13.63,
+    "volume": 657390
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-05",
+    "price": 13.28,
+    "volume": 718216
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-02",
+    "price": 12.23,
+    "volume": 445576
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-06-01",
+    "price": 11.94,
+    "volume": 766694
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-31",
+    "price": 10.76,
+    "volume": 744803
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-30",
+    "price": 10.84,
+    "volume": 372679
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-26",
+    "price": 11.55,
+    "volume": 386988
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-25",
+    "price": 11.64,
+    "volume": 461693
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-24",
+    "price": 12.44,
+    "volume": 379322
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-23",
+    "price": 12.45,
+    "volume": 520831
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-22",
+    "price": 12.17,
+    "volume": 595465
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-19",
+    "price": 11.89,
+    "volume": 631965
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-18",
+    "price": 12.01,
+    "volume": 639498
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-17",
+    "price": 12.03,
+    "volume": 412628
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-16",
+    "price": 11.88,
+    "volume": 569040
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-15",
+    "price": 12.12,
+    "volume": 473490
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-12",
+    "price": 12.22,
+    "volume": 816958
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-11",
+    "price": 12.8,
+    "volume": 644800
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-10",
+    "price": 12.33,
+    "volume": 1168582
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-09",
+    "price": 13.51,
+    "volume": 1035874
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-08",
+    "price": 13.49,
+    "volume": 351238
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-05",
+    "price": 13.24,
+    "volume": 552455
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-04",
+    "price": 12.96,
+    "volume": 759101
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-03",
+    "price": 12.28,
+    "volume": 281904
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-02",
+    "price": 12.2,
+    "volume": 513304
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-05-01",
+    "price": 12.4,
+    "volume": 277738
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-28",
+    "price": 12.25,
+    "volume": 628501
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-27",
+    "price": 12.3,
+    "volume": 396989
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-26",
+    "price": 12.29,
+    "volume": 473200
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-25",
+    "price": 12.38,
+    "volume": 491063
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-24",
+    "price": 12.57,
+    "volume": 639380
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-21",
+    "price": 12.59,
+    "volume": 349230
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-20",
+    "price": 12.39,
+    "volume": 338756
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-19",
+    "price": 12.62,
+    "volume": 483647
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-18",
+    "price": 12.4,
+    "volume": 586502
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-17",
+    "price": 12.83,
+    "volume": 656086
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-14",
+    "price": 13.55,
+    "volume": 236616
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-13",
+    "price": 13.55,
+    "volume": 187094
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-12",
+    "price": 13.38,
+    "volume": 482393
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-11",
+    "price": 13.91,
+    "volume": 374845
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-10",
+    "price": 13.44,
+    "volume": 326373
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-06",
+    "price": 13.24,
+    "volume": 359359
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-05",
+    "price": 13.42,
+    "volume": 347888
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-04",
+    "price": 13.25,
+    "volume": 766380
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-04-03",
+    "price": 13.47,
+    "volume": 1051650
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-31",
+    "price": 13.91,
+    "volume": 521841
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-30",
+    "price": 13.18,
+    "volume": 1292747
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-29",
+    "price": 13.41,
+    "volume": 449083
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-28",
+    "price": 13.82,
+    "volume": 384352
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-27",
+    "price": 13.78,
+    "volume": 431896
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-24",
+    "price": 13.78,
+    "volume": 256498
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-23",
+    "price": 13.34,
+    "volume": 273072
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-22",
+    "price": 13.74,
+    "volume": 403524
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-21",
+    "price": 13.7,
+    "volume": 444295
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-20",
+    "price": 13.32,
+    "volume": 375681
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-17",
+    "price": 13.53,
+    "volume": 1873553
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-16",
+    "price": 14.14,
+    "volume": 1173925
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-15",
+    "price": 14.25,
+    "volume": 594682
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-14",
+    "price": 14.36,
+    "volume": 516637
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-13",
+    "price": 14,
+    "volume": 658050
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-10",
+    "price": 14,
+    "volume": 463910
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-09",
+    "price": 13.9,
+    "volume": 440467
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-08",
+    "price": 14.09,
+    "volume": 482180
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-07",
+    "price": 13.91,
+    "volume": 661814
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-06",
+    "price": 14.06,
+    "volume": 882526
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-03",
+    "price": 14.79,
+    "volume": 541690
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-02",
+    "price": 14.81,
+    "volume": 547062
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-03-01",
+    "price": 14.85,
+    "volume": 1001472
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-28",
+    "price": 15.35,
+    "volume": 580045
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-27",
+    "price": 15.49,
+    "volume": 376783
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-24",
+    "price": 15.38,
+    "volume": 368401
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-23",
+    "price": 15.77,
+    "volume": 738633
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-22",
+    "price": 15.71,
+    "volume": 552132
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-21",
+    "price": 15.65,
+    "volume": 439012
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-17",
+    "price": 15.65,
+    "volume": 392774
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-16",
+    "price": 15.74,
+    "volume": 442213
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-15",
+    "price": 15.99,
+    "volume": 1354576
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-14",
+    "price": 14.23,
+    "volume": 643547
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-13",
+    "price": 14.32,
+    "volume": 527228
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-10",
+    "price": 15.22,
+    "volume": 373196
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-09",
+    "price": 14.73,
+    "volume": 533595
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-08",
+    "price": 14.64,
+    "volume": 679391
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-07",
+    "price": 14.78,
+    "volume": 295654
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-06",
+    "price": 14.41,
+    "volume": 351102
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-03",
+    "price": 15.1,
+    "volume": 385349
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-02",
+    "price": 16.02,
+    "volume": 453854
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-02-01",
+    "price": 15.47,
+    "volume": 329370
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-31",
+    "price": 15.36,
+    "volume": 454582
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-30",
+    "price": 14.94,
+    "volume": 350104
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-27",
+    "price": 15.12,
+    "volume": 318789
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-26",
+    "price": 14.95,
+    "volume": 261431
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-25",
+    "price": 14.91,
+    "volume": 273016
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-24",
+    "price": 14.61,
+    "volume": 338870
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-23",
+    "price": 15.11,
+    "volume": 429252
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-20",
+    "price": 15.37,
+    "volume": 475066
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-19",
+    "price": 15,
+    "volume": 332716
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-18",
+    "price": 14.3,
+    "volume": 1712815
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-17",
+    "price": 13.79,
+    "volume": 354738
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-13",
+    "price": 13.52,
+    "volume": 325687
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-12",
+    "price": 13.27,
+    "volume": 788008
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-11",
+    "price": 13.61,
+    "volume": 407868
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-10",
+    "price": 12.88,
+    "volume": 738509
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-09",
+    "price": 12.6,
+    "volume": 353701
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-06",
+    "price": 12.6,
+    "volume": 411648
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-05",
+    "price": 12.69,
+    "volume": 842898
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-04",
+    "price": 12.89,
+    "volume": 519108
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2023-01-03",
+    "price": 13.02,
+    "volume": 603618
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-30",
+    "price": 13.16,
+    "volume": 288437
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-29",
+    "price": 13.11,
+    "volume": 317135
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-28",
+    "price": 13,
+    "volume": 340659
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-27",
+    "price": 12.72,
+    "volume": 431729
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-23",
+    "price": 12.69,
+    "volume": 462539
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-22",
+    "price": 12.99,
+    "volume": 378224
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-21",
+    "price": 13.61,
+    "volume": 542530
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-20",
+    "price": 13.95,
+    "volume": 745612
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-19",
+    "price": 13.3,
+    "volume": 507327
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-16",
+    "price": 13.46,
+    "volume": 1830525
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-15",
+    "price": 14,
+    "volume": 340506
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-14",
+    "price": 14.02,
+    "volume": 528490
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-13",
+    "price": 13.92,
+    "volume": 747880
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-12",
+    "price": 13.97,
+    "volume": 496242
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-09",
+    "price": 13.85,
+    "volume": 355519
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-08",
+    "price": 13.69,
+    "volume": 1354294
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-07",
+    "price": 14.59,
+    "volume": 988437
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-06",
+    "price": 14.6,
+    "volume": 825282
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-05",
+    "price": 13.68,
+    "volume": 650212
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-02",
+    "price": 13.7,
+    "volume": 505305
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-12-01",
+    "price": 13.92,
+    "volume": 872817
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-30",
+    "price": 14.31,
+    "volume": 682836
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-29",
+    "price": 13.5,
+    "volume": 357478
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-28",
+    "price": 13.15,
+    "volume": 638990
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-25",
+    "price": 13.2,
+    "volume": 242379
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-23",
+    "price": 13.74,
+    "volume": 567716
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-22",
+    "price": 13.24,
+    "volume": 730286
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-21",
+    "price": 12.82,
+    "volume": 504373
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-18",
+    "price": 12.84,
+    "volume": 486328
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-17",
+    "price": 12.55,
+    "volume": 316647
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-16",
+    "price": 12.26,
+    "volume": 402047
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-15",
+    "price": 13.12,
+    "volume": 438974
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-14",
+    "price": 12.59,
+    "volume": 620604
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-11",
+    "price": 12.6,
+    "volume": 434956
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-10",
+    "price": 12.77,
+    "volume": 465469
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-09",
+    "price": 12.76,
+    "volume": 413795
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-08",
+    "price": 13,
+    "volume": 753004
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-07",
+    "price": 13.05,
+    "volume": 578904
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-04",
+    "price": 12.65,
+    "volume": 566139
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-03",
+    "price": 12.6,
+    "volume": 892490
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-02",
+    "price": 13.67,
+    "volume": 1753655
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-11-01",
+    "price": 12.96,
+    "volume": 2726769
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-31",
+    "price": 12.42,
+    "volume": 1049627
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-28",
+    "price": 13.05,
+    "volume": 570369
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-27",
+    "price": 13.1,
+    "volume": 555861
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-26",
+    "price": 14.17,
+    "volume": 440936
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-25",
+    "price": 13.9,
+    "volume": 402808
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-24",
+    "price": 13.21,
+    "volume": 436771
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-21",
+    "price": 12.85,
+    "volume": 295997
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-20",
+    "price": 12.85,
+    "volume": 431105
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-19",
+    "price": 13.15,
+    "volume": 261176
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-18",
+    "price": 13.39,
+    "volume": 593197
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-17",
+    "price": 12.82,
+    "volume": 1998286
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-14",
+    "price": 12.43,
+    "volume": 807466
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-13",
+    "price": 12.76,
+    "volume": 2253766
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-12",
+    "price": 12.5,
+    "volume": 757037
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-11",
+    "price": 13.47,
+    "volume": 1013924
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-10",
+    "price": 13.75,
+    "volume": 1099471
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-07",
+    "price": 14.23,
+    "volume": 255393
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-06",
+    "price": 14.55,
+    "volume": 351861
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-05",
+    "price": 14.52,
+    "volume": 287034
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-04",
+    "price": 14.26,
+    "volume": 1144808
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-10-03",
+    "price": 13.71,
+    "volume": 974748
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-30",
+    "price": 14.04,
+    "volume": 561617
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-29",
+    "price": 14.59,
+    "volume": 577650
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-28",
+    "price": 14.77,
+    "volume": 639901
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-27",
+    "price": 14.23,
+    "volume": 474785
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-26",
+    "price": 14.52,
+    "volume": 913150
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-23",
+    "price": 14.68,
+    "volume": 445234
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-22",
+    "price": 14.8,
+    "volume": 888695
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-21",
+    "price": 14.28,
+    "volume": 476992
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-20",
+    "price": 15.15,
+    "volume": 402355
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-19",
+    "price": 15.84,
+    "volume": 376711
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-16",
+    "price": 14.89,
+    "volume": 1461445
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-15",
+    "price": 15.63,
+    "volume": 443535
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-14",
+    "price": 15.42,
+    "volume": 339121
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-13",
+    "price": 15.68,
+    "volume": 328441
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-12",
+    "price": 16.38,
+    "volume": 490974
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-09",
+    "price": 16.4,
+    "volume": 453896
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-08",
+    "price": 16.45,
+    "volume": 389826
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-07",
+    "price": 16.26,
+    "volume": 608524
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-06",
+    "price": 16.6,
+    "volume": 1040034
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-02",
+    "price": 15.41,
+    "volume": 338016
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-09-01",
+    "price": 15.42,
+    "volume": 556623
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-31",
+    "price": 16.6,
+    "volume": 861232
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-30",
+    "price": 15.98,
+    "volume": 334728
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-29",
+    "price": 15.04,
+    "volume": 243175
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-26",
+    "price": 15,
+    "volume": 339241
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-25",
+    "price": 15.32,
+    "volume": 428138
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-24",
+    "price": 15.85,
+    "volume": 413365
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-23",
+    "price": 15.74,
+    "volume": 384815
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-22",
+    "price": 15.41,
+    "volume": 563824
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-19",
+    "price": 14.56,
+    "volume": 394521
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-18",
+    "price": 14.07,
+    "volume": 266489
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-17",
+    "price": 14.3,
+    "volume": 349101
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-16",
+    "price": 14.96,
+    "volume": 885697
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-15",
+    "price": 15.9,
+    "volume": 987477
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-12",
+    "price": 13.83,
+    "volume": 787037
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-11",
+    "price": 13.6,
+    "volume": 1310790
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-10",
+    "price": 13.41,
+    "volume": 656626
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-09",
+    "price": 13.11,
+    "volume": 1688453
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-08",
+    "price": 13.51,
+    "volume": 1810743
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-05",
+    "price": 12.75,
+    "volume": 1166704
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-04",
+    "price": 12.45,
+    "volume": 2468723
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-03",
+    "price": 13.5,
+    "volume": 1070319
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-02",
+    "price": 14.7,
+    "volume": 1957974
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-08-01",
+    "price": 17.97,
+    "volume": 599850
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-29",
+    "price": 17.51,
+    "volume": 639398
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-28",
+    "price": 18.25,
+    "volume": 334041
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-27",
+    "price": 18.19,
+    "volume": 329119
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-26",
+    "price": 17.94,
+    "volume": 808010
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-25",
+    "price": 18.54,
+    "volume": 501102
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-22",
+    "price": 18.68,
+    "volume": 453775
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-21",
+    "price": 18.84,
+    "volume": 584749
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-20",
+    "price": 18.52,
+    "volume": 946799
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-19",
+    "price": 18.37,
+    "volume": 612082
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-18",
+    "price": 18.54,
+    "volume": 316957
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-15",
+    "price": 18.53,
+    "volume": 865070
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-14",
+    "price": 17.29,
+    "volume": 750260
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-13",
+    "price": 18,
+    "volume": 1055178
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-12",
+    "price": 18.8,
+    "volume": 2022254
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-11",
+    "price": 17.7,
+    "volume": 1622315
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-08",
+    "price": 19.39,
+    "volume": 1898327
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-07",
+    "price": 20.5,
+    "volume": 3104388
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-06",
+    "price": 20.51,
+    "volume": 2170642
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-05",
+    "price": 21.34,
+    "volume": 2046463
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-07-01",
+    "price": 22.74,
+    "volume": 14398133
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-30",
+    "price": 22.969999,
+    "volume": 101100
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-29",
+    "price": 23.75,
+    "volume": 152000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-28",
+    "price": 24.75,
+    "volume": 0
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-27",
+    "price": 24.75,
+    "volume": 24400
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-24",
+    "price": 25,
+    "volume": 10000
+  },
+  {
+    "symbol": "EHAB",
+    "date": "2022-06-23",
+    "price": 25,
+    "volume": 61800
+  }
+]

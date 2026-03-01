@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "CYH",
+    "date": "2025-12-31",
+    "stockPrice": 3.12,
+    "numberOfShares": 134000000,
+    "marketCapitalization": 418080000,
+    "minusCashAndCashEquivalents": 260000000,
+    "addTotalDebt": 11580000000,
+    "enterpriseValue": 11738080000
+  },
+  {
+    "symbol": "CYH",
+    "date": "2024-12-31",
+    "stockPrice": 2.99,
+    "numberOfShares": 132102000,
+    "marketCapitalization": 394984980,
+    "minusCashAndCashEquivalents": 37000000,
+    "addTotalDebt": 12102000000,
+    "enterpriseValue": 12459984980
+  },
+  {
+    "symbol": "CYH",
+    "date": "2023-12-31",
+    "stockPrice": 3.13,
+    "numberOfShares": 130392156,
+    "marketCapitalization": 408127448,
+    "minusCashAndCashEquivalents": 38000000,
+    "addTotalDebt": 12174000000,
+    "enterpriseValue": 12544127448
+  },
+  {
+    "symbol": "CYH",
+    "date": "2022-12-31",
+    "stockPrice": 4.32,
+    "numberOfShares": 128808387,
+    "marketCapitalization": 556452231,
+    "minusCashAndCashEquivalents": 118000000,
+    "addTotalDebt": 12388000000,
+    "enterpriseValue": 12826452231
+  },
+  {
+    "symbol": "CYH",
+    "date": "2021-12-31",
+    "stockPrice": 13.31,
+    "numberOfShares": 126754852,
+    "marketCapitalization": 1687107080,
+    "minusCashAndCashEquivalents": 507000000,
+    "addTotalDebt": 12822000000,
+    "enterpriseValue": 14002107080
+  },
+  {
+    "symbol": "CYH",
+    "date": "2020-12-31",
+    "stockPrice": 7.43,
+    "numberOfShares": 115491022,
+    "marketCapitalization": 858098293,
+    "minusCashAndCashEquivalents": 1676000000,
+    "addTotalDebt": 12882000000,
+    "enterpriseValue": 12064098293
+  },
+  {
+    "symbol": "CYH",
+    "date": "2019-12-31",
+    "stockPrice": 2.9,
+    "numberOfShares": 113739046,
+    "marketCapitalization": 329843233,
+    "minusCashAndCashEquivalents": 216000000,
+    "addTotalDebt": 14028000000,
+    "enterpriseValue": 14141843233
+  },
+  {
+    "symbol": "CYH",
+    "date": "2018-12-31",
+    "stockPrice": 2.82,
+    "numberOfShares": 112728274,
+    "marketCapitalization": 317893732,
+    "minusCashAndCashEquivalents": 196000000,
+    "addTotalDebt": 13596000000,
+    "enterpriseValue": 13717893732
+  },
+  {
+    "symbol": "CYH",
+    "date": "2017-12-31",
+    "stockPrice": 4.26,
+    "numberOfShares": 111769821,
+    "marketCapitalization": 476139437,
+    "minusCashAndCashEquivalents": 563000000,
+    "addTotalDebt": 13913000000,
+    "enterpriseValue": 13826139437
+  },
+  {
+    "symbol": "CYH",
+    "date": "2016-12-31",
+    "stockPrice": 5.59,
+    "numberOfShares": 110707340,
+    "marketCapitalization": 618854030,
+    "minusCashAndCashEquivalents": 238000000,
+    "addTotalDebt": 15244000000,
+    "enterpriseValue": 15624854030
+  }
+]

@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-27",
+    "price": 86.68,
+    "volume": 1163302
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-26",
+    "price": 86.77,
+    "volume": 761500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-25",
+    "price": 86.5,
+    "volume": 878100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-24",
+    "price": 87.1,
+    "volume": 657700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-23",
+    "price": 85.76,
+    "volume": 884700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-20",
+    "price": 84.85,
+    "volume": 1734200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-19",
+    "price": 83,
+    "volume": 2297100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-18",
+    "price": 86.48,
+    "volume": 1667766
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-17",
+    "price": 87.66,
+    "volume": 1326012
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-13",
+    "price": 85.92,
+    "volume": 929712
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-12",
+    "price": 85.36,
+    "volume": 1291636
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-11",
+    "price": 87.18,
+    "volume": 3381505
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-10",
+    "price": 86.15,
+    "volume": 634527
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-09",
+    "price": 85.46,
+    "volume": 694552
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-06",
+    "price": 86.45,
+    "volume": 592600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-05",
+    "price": 85.23,
+    "volume": 598500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-04",
+    "price": 85.52,
+    "volume": 688644
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-03",
+    "price": 86.04,
+    "volume": 511648
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-02-02",
+    "price": 85.55,
+    "volume": 650232
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-30",
+    "price": 86.86,
+    "volume": 720137
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-29",
+    "price": 86.47,
+    "volume": 599500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-28",
+    "price": 85.9,
+    "volume": 468439
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-27",
+    "price": 85.79,
+    "volume": 309830
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-26",
+    "price": 86.24,
+    "volume": 393300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-23",
+    "price": 86.23,
+    "volume": 508100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-22",
+    "price": 85.54,
+    "volume": 527800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-21",
+    "price": 87,
+    "volume": 494300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-20",
+    "price": 85.15,
+    "volume": 649560
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-16",
+    "price": 85.78,
+    "volume": 539244
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-15",
+    "price": 85.28,
+    "volume": 804500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-14",
+    "price": 84.7,
+    "volume": 393900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-13",
+    "price": 82.74,
+    "volume": 459200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-12",
+    "price": 83.57,
+    "volume": 515086
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-09",
+    "price": 84.31,
+    "volume": 702751
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-08",
+    "price": 82.79,
+    "volume": 612200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-07",
+    "price": 80.88,
+    "volume": 598400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-06",
+    "price": 80.81,
+    "volume": 631134
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-05",
+    "price": 79.72,
+    "volume": 611500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2026-01-02",
+    "price": 76.78,
+    "volume": 402717
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-31",
+    "price": 78.43,
+    "volume": 433959
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-30",
+    "price": 78.34,
+    "volume": 343122
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-29",
+    "price": 78.53,
+    "volume": 366000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-26",
+    "price": 78.88,
+    "volume": 266460
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-24",
+    "price": 78.71,
+    "volume": 222021
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-23",
+    "price": 77.77,
+    "volume": 512316
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-22",
+    "price": 79.23,
+    "volume": 625200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-19",
+    "price": 78.58,
+    "volume": 1668373
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-18",
+    "price": 78.52,
+    "volume": 1700134
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-17",
+    "price": 74.13,
+    "volume": 418779
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-16",
+    "price": 73.9,
+    "volume": 909613
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-15",
+    "price": 73.09,
+    "volume": 576602
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-12",
+    "price": 72.72,
+    "volume": 392508
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-11",
+    "price": 72.34,
+    "volume": 550900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-10",
+    "price": 71.95,
+    "volume": 444200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-09",
+    "price": 71.6,
+    "volume": 633032
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-08",
+    "price": 69.13,
+    "volume": 553050
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-05",
+    "price": 69.84,
+    "volume": 436900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-04",
+    "price": 70.62,
+    "volume": 433916
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-03",
+    "price": 69.88,
+    "volume": 457100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-02",
+    "price": 69.99,
+    "volume": 397638
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-12-01",
+    "price": 71.75,
+    "volume": 529400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-28",
+    "price": 72.18,
+    "volume": 170623
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-26",
+    "price": 72.04,
+    "volume": 623600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-25",
+    "price": 71.43,
+    "volume": 744413
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-24",
+    "price": 71.22,
+    "volume": 746319
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-21",
+    "price": 70,
+    "volume": 591019
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-20",
+    "price": 68.13,
+    "volume": 921524
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-19",
+    "price": 67.66,
+    "volume": 691233
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-18",
+    "price": 67.75,
+    "volume": 1292700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-17",
+    "price": 67.1,
+    "volume": 543320
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-14",
+    "price": 69.49,
+    "volume": 576683
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-13",
+    "price": 68.05,
+    "volume": 689601
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-12",
+    "price": 69.51,
+    "volume": 723910
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-11",
+    "price": 69.82,
+    "volume": 555400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-10",
+    "price": 68.76,
+    "volume": 621326
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-07",
+    "price": 68.26,
+    "volume": 717238
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-06",
+    "price": 66.64,
+    "volume": 945403
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-05",
+    "price": 68.14,
+    "volume": 1567239
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-04",
+    "price": 68.61,
+    "volume": 1632000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-11-03",
+    "price": 66.93,
+    "volume": 1353800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-31",
+    "price": 64.57,
+    "volume": 2618503
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-30",
+    "price": 63.32,
+    "volume": 1737043
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-29",
+    "price": 65.3,
+    "volume": 1829900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-28",
+    "price": 68,
+    "volume": 2118223
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-27",
+    "price": 70.2,
+    "volume": 2949214
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-24",
+    "price": 72.91,
+    "volume": 4157000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-23",
+    "price": 73.89,
+    "volume": 14161439
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-22",
+    "price": 109.11,
+    "volume": 787500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-21",
+    "price": 107.94,
+    "volume": 426447
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-20",
+    "price": 107.37,
+    "volume": 317207
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-17",
+    "price": 104.83,
+    "volume": 418644
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-16",
+    "price": 103.12,
+    "volume": 412812
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-15",
+    "price": 103.8,
+    "volume": 353600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-14",
+    "price": 103.97,
+    "volume": 466500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-13",
+    "price": 102.1,
+    "volume": 333900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-10",
+    "price": 101.05,
+    "volume": 491506
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-09",
+    "price": 103.4,
+    "volume": 229131
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-08",
+    "price": 105.36,
+    "volume": 398006
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-07",
+    "price": 103.72,
+    "volume": 348909
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-06",
+    "price": 105.38,
+    "volume": 468500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-03",
+    "price": 105.04,
+    "volume": 373036
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-02",
+    "price": 103.09,
+    "volume": 226800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-10-01",
+    "price": 102.92,
+    "volume": 295343
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-30",
+    "price": 103.33,
+    "volume": 270800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-29",
+    "price": 101.12,
+    "volume": 458700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-26",
+    "price": 101.5,
+    "volume": 334112
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-25",
+    "price": 101.77,
+    "volume": 789618
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-24",
+    "price": 102.97,
+    "volume": 668600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-23",
+    "price": 103.16,
+    "volume": 275546
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-22",
+    "price": 103.66,
+    "volume": 356243
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-19",
+    "price": 103.31,
+    "volume": 867023
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-18",
+    "price": 104.06,
+    "volume": 394628
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-17",
+    "price": 102.69,
+    "volume": 437300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-16",
+    "price": 103.07,
+    "volume": 1036431
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-15",
+    "price": 100.19,
+    "volume": 654541
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-12",
+    "price": 101.34,
+    "volume": 396500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-11",
+    "price": 104.23,
+    "volume": 445018
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-10",
+    "price": 102.47,
+    "volume": 511433
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-09",
+    "price": 105.52,
+    "volume": 365643
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-08",
+    "price": 106.22,
+    "volume": 391000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-05",
+    "price": 106.94,
+    "volume": 317647
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-04",
+    "price": 106.6,
+    "volume": 278000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-03",
+    "price": 105.84,
+    "volume": 269100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-09-02",
+    "price": 106.97,
+    "volume": 274740
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-29",
+    "price": 107.87,
+    "volume": 166100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-28",
+    "price": 107.38,
+    "volume": 211000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-27",
+    "price": 108.07,
+    "volume": 168300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-26",
+    "price": 108.46,
+    "volume": 223100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-25",
+    "price": 108.79,
+    "volume": 256908
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-22",
+    "price": 110.58,
+    "volume": 256439
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-21",
+    "price": 106.83,
+    "volume": 281400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-20",
+    "price": 107.3,
+    "volume": 336504
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-19",
+    "price": 106.27,
+    "volume": 283117
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-18",
+    "price": 105.54,
+    "volume": 355300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-15",
+    "price": 106.79,
+    "volume": 202340
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-14",
+    "price": 106.77,
+    "volume": 200200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-13",
+    "price": 109.58,
+    "volume": 557900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-12",
+    "price": 107.33,
+    "volume": 333217
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-11",
+    "price": 105.4,
+    "volume": 259923
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-08",
+    "price": 106.45,
+    "volume": 282102
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-07",
+    "price": 105.72,
+    "volume": 244322
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-06",
+    "price": 105.36,
+    "volume": 332122
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-05",
+    "price": 107.72,
+    "volume": 234800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-04",
+    "price": 106.83,
+    "volume": 246700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-08-01",
+    "price": 106.52,
+    "volume": 379900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-31",
+    "price": 108.51,
+    "volume": 539107
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-30",
+    "price": 108.76,
+    "volume": 545137
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-29",
+    "price": 109.2,
+    "volume": 689817
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-28",
+    "price": 108.14,
+    "volume": 552443
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-25",
+    "price": 108.51,
+    "volume": 614643
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-24",
+    "price": 107.1,
+    "volume": 1240100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-23",
+    "price": 115.77,
+    "volume": 799100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-22",
+    "price": 114.32,
+    "volume": 563400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-21",
+    "price": 111.55,
+    "volume": 346000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-18",
+    "price": 112.49,
+    "volume": 463003
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-17",
+    "price": 114.64,
+    "volume": 554711
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-16",
+    "price": 117.13,
+    "volume": 364528
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-15",
+    "price": 117.44,
+    "volume": 409538
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-14",
+    "price": 119.47,
+    "volume": 290329
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-11",
+    "price": 119.96,
+    "volume": 343100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-10",
+    "price": 121.77,
+    "volume": 386242
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-09",
+    "price": 120.47,
+    "volume": 300600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-08",
+    "price": 118.17,
+    "volume": 384700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-07",
+    "price": 117.02,
+    "volume": 599247
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-03",
+    "price": 121,
+    "volume": 199700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-02",
+    "price": 121.19,
+    "volume": 419900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-07-01",
+    "price": 121.29,
+    "volume": 495729
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-30",
+    "price": 122.97,
+    "volume": 282700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-27",
+    "price": 122.56,
+    "volume": 1049308
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-26",
+    "price": 121.87,
+    "volume": 483500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-25",
+    "price": 120.8,
+    "volume": 476709
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-24",
+    "price": 120.42,
+    "volume": 325100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-23",
+    "price": 119.07,
+    "volume": 399200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-20",
+    "price": 117.8,
+    "volume": 840500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-18",
+    "price": 118.96,
+    "volume": 374625
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-17",
+    "price": 119.06,
+    "volume": 350200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-16",
+    "price": 118.33,
+    "volume": 345804
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-13",
+    "price": 118.3,
+    "volume": 370509
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-12",
+    "price": 118.75,
+    "volume": 532501
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-11",
+    "price": 120.03,
+    "volume": 384800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-10",
+    "price": 122.53,
+    "volume": 412000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-09",
+    "price": 122.06,
+    "volume": 383900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-06",
+    "price": 121.33,
+    "volume": 234023
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-05",
+    "price": 120.9,
+    "volume": 296300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-04",
+    "price": 120.17,
+    "volume": 293800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-03",
+    "price": 119.85,
+    "volume": 414820
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-06-02",
+    "price": 117.69,
+    "volume": 342138
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-30",
+    "price": 118.76,
+    "volume": 377531
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-29",
+    "price": 119.49,
+    "volume": 258800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-28",
+    "price": 119.39,
+    "volume": 264207
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-27",
+    "price": 121.63,
+    "volume": 399700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-23",
+    "price": 118.31,
+    "volume": 244616
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-22",
+    "price": 118.16,
+    "volume": 524100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-21",
+    "price": 118.88,
+    "volume": 344700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-20",
+    "price": 121.59,
+    "volume": 317600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-19",
+    "price": 121.45,
+    "volume": 403200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-16",
+    "price": 120.99,
+    "volume": 538500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-15",
+    "price": 119.07,
+    "volume": 696600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-14",
+    "price": 119.61,
+    "volume": 544516
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-13",
+    "price": 121,
+    "volume": 652000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-12",
+    "price": 120.7,
+    "volume": 551101
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-09",
+    "price": 118.44,
+    "volume": 334900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-08",
+    "price": 119.52,
+    "volume": 661400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-07",
+    "price": 118.98,
+    "volume": 548322
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-06",
+    "price": 118.22,
+    "volume": 1069915
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-05",
+    "price": 116.55,
+    "volume": 1075802
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-02",
+    "price": 125.66,
+    "volume": 641000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-05-01",
+    "price": 125.59,
+    "volume": 1066200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-30",
+    "price": 126.31,
+    "volume": 847237
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-29",
+    "price": 126.93,
+    "volume": 586773
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-28",
+    "price": 122.78,
+    "volume": 534605
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-25",
+    "price": 123.41,
+    "volume": 451700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-24",
+    "price": 121.46,
+    "volume": 1388200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-23",
+    "price": 120.51,
+    "volume": 645327
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-22",
+    "price": 117.98,
+    "volume": 325604
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-21",
+    "price": 115.44,
+    "volume": 546000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-17",
+    "price": 116.98,
+    "volume": 849806
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-16",
+    "price": 116.21,
+    "volume": 1015905
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-15",
+    "price": 116.86,
+    "volume": 1040101
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-14",
+    "price": 117.97,
+    "volume": 1121022
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-11",
+    "price": 116.5,
+    "volume": 633900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-10",
+    "price": 113.83,
+    "volume": 754246
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-09",
+    "price": 116.37,
+    "volume": 804100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-08",
+    "price": 106.73,
+    "volume": 903900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-07",
+    "price": 112.93,
+    "volume": 703600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-04",
+    "price": 113.7,
+    "volume": 1211300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-03",
+    "price": 116.07,
+    "volume": 888400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-02",
+    "price": 121.08,
+    "volume": 390720
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-04-01",
+    "price": 118.56,
+    "volume": 633246
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-31",
+    "price": 118.01,
+    "volume": 861900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-28",
+    "price": 116.95,
+    "volume": 310618
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-27",
+    "price": 117.5,
+    "volume": 415200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-26",
+    "price": 118.07,
+    "volume": 392201
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-25",
+    "price": 119.12,
+    "volume": 791400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-24",
+    "price": 117.18,
+    "volume": 282000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-21",
+    "price": 115.16,
+    "volume": 1042329
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-20",
+    "price": 116.29,
+    "volume": 734700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-19",
+    "price": 120.67,
+    "volume": 539400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-18",
+    "price": 119.05,
+    "volume": 490600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-17",
+    "price": 119.31,
+    "volume": 549400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-14",
+    "price": 117.89,
+    "volume": 2991416
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-13",
+    "price": 118.4,
+    "volume": 824600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-12",
+    "price": 119.56,
+    "volume": 303500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-11",
+    "price": 120.14,
+    "volume": 257730
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-10",
+    "price": 120.27,
+    "volume": 574300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-07",
+    "price": 121.96,
+    "volume": 397000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-06",
+    "price": 122.03,
+    "volume": 416621
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-05",
+    "price": 122.73,
+    "volume": 655000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-04",
+    "price": 118.23,
+    "volume": 514900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-03-03",
+    "price": 120.21,
+    "volume": 374300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-28",
+    "price": 123.2,
+    "volume": 411900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-27",
+    "price": 123.8,
+    "volume": 314535
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-26",
+    "price": 126.27,
+    "volume": 494541
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-25",
+    "price": 127.74,
+    "volume": 472349
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-24",
+    "price": 126.98,
+    "volume": 526600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-21",
+    "price": 129.87,
+    "volume": 499343
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-20",
+    "price": 135.22,
+    "volume": 750700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-19",
+    "price": 143.21,
+    "volume": 588421
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-18",
+    "price": 141.15,
+    "volume": 331817
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-14",
+    "price": 141,
+    "volume": 201506
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-13",
+    "price": 138.67,
+    "volume": 270200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-12",
+    "price": 137.34,
+    "volume": 226116
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-11",
+    "price": 138.7,
+    "volume": 208600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-10",
+    "price": 139.4,
+    "volume": 282800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-07",
+    "price": 140.35,
+    "volume": 155600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-06",
+    "price": 140.91,
+    "volume": 200800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-05",
+    "price": 142.35,
+    "volume": 258710
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-04",
+    "price": 139.4,
+    "volume": 230800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-02-03",
+    "price": 138.24,
+    "volume": 322830
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-31",
+    "price": 142.22,
+    "volume": 219900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-30",
+    "price": 143.51,
+    "volume": 209310
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-29",
+    "price": 143.22,
+    "volume": 235500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-28",
+    "price": 144.36,
+    "volume": 291400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-27",
+    "price": 143.13,
+    "volume": 131325
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-24",
+    "price": 142.44,
+    "volume": 184834
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-23",
+    "price": 143.28,
+    "volume": 250200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-22",
+    "price": 141.44,
+    "volume": 387900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-21",
+    "price": 143.16,
+    "volume": 274600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-17",
+    "price": 141,
+    "volume": 146652
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-16",
+    "price": 140.56,
+    "volume": 191719
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-15",
+    "price": 139.88,
+    "volume": 174500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-14",
+    "price": 138.83,
+    "volume": 249016
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-13",
+    "price": 135.15,
+    "volume": 188427
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-10",
+    "price": 133.73,
+    "volume": 253611
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-08",
+    "price": 133.12,
+    "volume": 153600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-07",
+    "price": 132.16,
+    "volume": 143600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-06",
+    "price": 133.25,
+    "volume": 122539
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-03",
+    "price": 133.89,
+    "volume": 119147
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2025-01-02",
+    "price": 132.17,
+    "volume": 122326
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-31",
+    "price": 132.52,
+    "volume": 125100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-30",
+    "price": 133.58,
+    "volume": 103800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-27",
+    "price": 134.76,
+    "volume": 108715
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-26",
+    "price": 135.88,
+    "volume": 137335
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-24",
+    "price": 134.75,
+    "volume": 67745
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-23",
+    "price": 133.68,
+    "volume": 140700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-20",
+    "price": 133.67,
+    "volume": 402042
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-19",
+    "price": 132.89,
+    "volume": 212242
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-18",
+    "price": 131.5,
+    "volume": 241600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-17",
+    "price": 136.68,
+    "volume": 237000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-16",
+    "price": 138.37,
+    "volume": 144700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-13",
+    "price": 138.71,
+    "volume": 155806
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-12",
+    "price": 139.29,
+    "volume": 167126
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-11",
+    "price": 140.62,
+    "volume": 167307
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-10",
+    "price": 139.64,
+    "volume": 304139
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-09",
+    "price": 138.31,
+    "volume": 180900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-06",
+    "price": 139.39,
+    "volume": 109400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-05",
+    "price": 139.28,
+    "volume": 139646
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-04",
+    "price": 140.5,
+    "volume": 179300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-03",
+    "price": 141.16,
+    "volume": 304800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-12-02",
+    "price": 138.77,
+    "volume": 211300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-29",
+    "price": 140.5,
+    "volume": 149717
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-27",
+    "price": 140.8,
+    "volume": 171900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-26",
+    "price": 138.78,
+    "volume": 292600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-25",
+    "price": 140.28,
+    "volume": 282002
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-22",
+    "price": 138.11,
+    "volume": 181641
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-21",
+    "price": 135.88,
+    "volume": 136700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-20",
+    "price": 133.37,
+    "volume": 120400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-19",
+    "price": 133.52,
+    "volume": 222700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-18",
+    "price": 134.53,
+    "volume": 662100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-15",
+    "price": 133.18,
+    "volume": 210429
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-14",
+    "price": 134.83,
+    "volume": 225726
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-13",
+    "price": 137.56,
+    "volume": 315500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-12",
+    "price": 136.89,
+    "volume": 200200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-11",
+    "price": 139.49,
+    "volume": 238300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-08",
+    "price": 136.76,
+    "volume": 196445
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-07",
+    "price": 134.64,
+    "volume": 199900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-06",
+    "price": 135.42,
+    "volume": 440325
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-05",
+    "price": 128.68,
+    "volume": 588211
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-04",
+    "price": 126.53,
+    "volume": 213900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-11-01",
+    "price": 126.45,
+    "volume": 197700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-31",
+    "price": 124.25,
+    "volume": 285519
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-30",
+    "price": 129.94,
+    "volume": 378931
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-29",
+    "price": 130.1,
+    "volume": 275501
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-28",
+    "price": 127.93,
+    "volume": 261300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-25",
+    "price": 125.77,
+    "volume": 187400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-24",
+    "price": 126.76,
+    "volume": 524925
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-23",
+    "price": 126.53,
+    "volume": 346900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-22",
+    "price": 125.55,
+    "volume": 291544
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-21",
+    "price": 127.8,
+    "volume": 415140
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-18",
+    "price": 130.43,
+    "volume": 233107
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-17",
+    "price": 130.42,
+    "volume": 213206
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-16",
+    "price": 131.06,
+    "volume": 547500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-15",
+    "price": 131.49,
+    "volume": 142722
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-14",
+    "price": 132.43,
+    "volume": 322800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-11",
+    "price": 129.24,
+    "volume": 106420
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-10",
+    "price": 128.23,
+    "volume": 168735
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-09",
+    "price": 129.72,
+    "volume": 93100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-08",
+    "price": 129.23,
+    "volume": 197400
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-07",
+    "price": 128.69,
+    "volume": 235111
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-04",
+    "price": 129.11,
+    "volume": 302900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-03",
+    "price": 125.78,
+    "volume": 155300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-02",
+    "price": 127.23,
+    "volume": 176311
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-10-01",
+    "price": 127.19,
+    "volume": 291500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-30",
+    "price": 130,
+    "volume": 223900
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-27",
+    "price": 125.9,
+    "volume": 225000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-26",
+    "price": 127.01,
+    "volume": 230600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-25",
+    "price": 127.73,
+    "volume": 133800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-24",
+    "price": 127.09,
+    "volume": 151800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-23",
+    "price": 128.39,
+    "volume": 386200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-20",
+    "price": 129.33,
+    "volume": 723300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-19",
+    "price": 131.48,
+    "volume": 231800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-18",
+    "price": 128.36,
+    "volume": 332500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-17",
+    "price": 126.12,
+    "volume": 196039
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-16",
+    "price": 127.87,
+    "volume": 145300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-13",
+    "price": 126.78,
+    "volume": 218146
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-12",
+    "price": 126.17,
+    "volume": 312945
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-11",
+    "price": 124.25,
+    "volume": 251800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-10",
+    "price": 123.16,
+    "volume": 482800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-09",
+    "price": 124.42,
+    "volume": 374800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-06",
+    "price": 129,
+    "volume": 455500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-05",
+    "price": 129.68,
+    "volume": 363314
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-04",
+    "price": 128.1,
+    "volume": 155203
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-09-03",
+    "price": 126.87,
+    "volume": 289700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-30",
+    "price": 130.07,
+    "volume": 258000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-29",
+    "price": 128.45,
+    "volume": 185509
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-28",
+    "price": 127.67,
+    "volume": 145621
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-27",
+    "price": 127.26,
+    "volume": 132300
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-26",
+    "price": 127.3,
+    "volume": 208929
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-23",
+    "price": 126.68,
+    "volume": 167000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-22",
+    "price": 123.62,
+    "volume": 167600
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-21",
+    "price": 122.83,
+    "volume": 231700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-20",
+    "price": 121.97,
+    "volume": 166100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-19",
+    "price": 122.53,
+    "volume": 144100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-16",
+    "price": 121.12,
+    "volume": 198140
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-15",
+    "price": 120.79,
+    "volume": 249200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-14",
+    "price": 117.66,
+    "volume": 140000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-13",
+    "price": 118.47,
+    "volume": 308700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-12",
+    "price": 115.41,
+    "volume": 223425
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-09",
+    "price": 116.73,
+    "volume": 318100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-08",
+    "price": 114.49,
+    "volume": 161323
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-07",
+    "price": 113,
+    "volume": 241200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-06",
+    "price": 112.46,
+    "volume": 353313
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-05",
+    "price": 110.25,
+    "volume": 387725
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-02",
+    "price": 111.77,
+    "volume": 497243
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-08-01",
+    "price": 116.16,
+    "volume": 365000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-31",
+    "price": 118.76,
+    "volume": 432500
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-30",
+    "price": 121.43,
+    "volume": 423000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-29",
+    "price": 119.75,
+    "volume": 443406
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-26",
+    "price": 116.81,
+    "volume": 460100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-25",
+    "price": 115.68,
+    "volume": 1090700
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-24",
+    "price": 124.55,
+    "volume": 663249
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-23",
+    "price": 126.08,
+    "volume": 613200
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-22",
+    "price": 129.18,
+    "volume": 520192
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-19",
+    "price": 126.11,
+    "volume": 335601
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-18",
+    "price": 123.3,
+    "volume": 457072
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-17",
+    "price": 124.38,
+    "volume": 354012
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-16",
+    "price": 124.77,
+    "volume": 446142
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-15",
+    "price": 119.9,
+    "volume": 240935
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-12",
+    "price": 120.23,
+    "volume": 256123
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-11",
+    "price": 117.25,
+    "volume": 365792
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-10",
+    "price": 114.69,
+    "volume": 234707
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-09",
+    "price": 114.95,
+    "volume": 258110
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-08",
+    "price": 115.74,
+    "volume": 215904
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-05",
+    "price": 116.33,
+    "volume": 123260
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-03",
+    "price": 115.03,
+    "volume": 85448
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-02",
+    "price": 115.75,
+    "volume": 162330
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-07-01",
+    "price": 115.16,
+    "volume": 183849
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-28",
+    "price": 115.79,
+    "volume": 1248141
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-27",
+    "price": 114.53,
+    "volume": 341671
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-26",
+    "price": 114.76,
+    "volume": 204113
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-25",
+    "price": 114.68,
+    "volume": 150406
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-24",
+    "price": 114.89,
+    "volume": 216173
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-21",
+    "price": 116.02,
+    "volume": 397229
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-20",
+    "price": 115.75,
+    "volume": 264382
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-18",
+    "price": 115.03,
+    "volume": 346621
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-17",
+    "price": 117.3,
+    "volume": 202840
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-14",
+    "price": 116.31,
+    "volume": 342511
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-13",
+    "price": 116.73,
+    "volume": 266936
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-12",
+    "price": 118.02,
+    "volume": 435502
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-11",
+    "price": 117.35,
+    "volume": 236026
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-10",
+    "price": 118.59,
+    "volume": 299474
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-07",
+    "price": 121.11,
+    "volume": 166267
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-06",
+    "price": 121,
+    "volume": 211006
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-05",
+    "price": 120.87,
+    "volume": 269098
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-04",
+    "price": 119.32,
+    "volume": 265487
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-06-03",
+    "price": 121.32,
+    "volume": 326346
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-31",
+    "price": 121.24,
+    "volume": 251366
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-30",
+    "price": 121.65,
+    "volume": 163246
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-29",
+    "price": 121.45,
+    "volume": 219480
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-28",
+    "price": 121.4,
+    "volume": 286647
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-24",
+    "price": 122.63,
+    "volume": 175867
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-23",
+    "price": 121.83,
+    "volume": 272510
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-22",
+    "price": 121.57,
+    "volume": 204642
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-21",
+    "price": 121.31,
+    "volume": 142800
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-20",
+    "price": 120.26,
+    "volume": 232863
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-17",
+    "price": 120.92,
+    "volume": 356774
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-16",
+    "price": 119,
+    "volume": 253434
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-15",
+    "price": 117.72,
+    "volume": 529990
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-14",
+    "price": 112.01,
+    "volume": 290187
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-13",
+    "price": 112.69,
+    "volume": 158509
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-10",
+    "price": 113.97,
+    "volume": 206477
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-09",
+    "price": 114.23,
+    "volume": 174136
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-08",
+    "price": 113.14,
+    "volume": 250443
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-07",
+    "price": 113.14,
+    "volume": 204053
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-06",
+    "price": 111.73,
+    "volume": 153930
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-03",
+    "price": 111.27,
+    "volume": 224856
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-02",
+    "price": 109.92,
+    "volume": 237040
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-05-01",
+    "price": 109.78,
+    "volume": 274295
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-30",
+    "price": 111.63,
+    "volume": 453253
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-29",
+    "price": 114.57,
+    "volume": 538136
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-26",
+    "price": 109.58,
+    "volume": 604251
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-25",
+    "price": 111.15,
+    "volume": 1606715
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-24",
+    "price": 123.27,
+    "volume": 1108272
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-23",
+    "price": 117.91,
+    "volume": 244425
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-22",
+    "price": 116.65,
+    "volume": 267412
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-19",
+    "price": 116.62,
+    "volume": 450401
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-18",
+    "price": 117.83,
+    "volume": 435565
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-17",
+    "price": 118.52,
+    "volume": 579651
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-16",
+    "price": 119.31,
+    "volume": 722159
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-15",
+    "price": 118.65,
+    "volume": 739547
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-12",
+    "price": 115.77,
+    "volume": 222043
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-11",
+    "price": 116.97,
+    "volume": 321652
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-10",
+    "price": 115.46,
+    "volume": 469150
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-09",
+    "price": 118.99,
+    "volume": 416863
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-08",
+    "price": 115.4,
+    "volume": 191519
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-05",
+    "price": 114.97,
+    "volume": 355545
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-04",
+    "price": 115.02,
+    "volume": 835708
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-03",
+    "price": 116.24,
+    "volume": 373142
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-02",
+    "price": 114.62,
+    "volume": 311883
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-04-01",
+    "price": 115.99,
+    "volume": 190427
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-28",
+    "price": 116.68,
+    "volume": 211569
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-27",
+    "price": 115.06,
+    "volume": 244076
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-26",
+    "price": 111.53,
+    "volume": 265069
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-25",
+    "price": 114.26,
+    "volume": 447992
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-22",
+    "price": 116.04,
+    "volume": 137869
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-21",
+    "price": 114.79,
+    "volume": 250982
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-20",
+    "price": 113.19,
+    "volume": 168128
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-19",
+    "price": 113.36,
+    "volume": 161077
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-18",
+    "price": 113.48,
+    "volume": 266516
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-15",
+    "price": 113.82,
+    "volume": 359526
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-14",
+    "price": 114.85,
+    "volume": 184060
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-13",
+    "price": 113.9,
+    "volume": 239321
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-12",
+    "price": 113.73,
+    "volume": 219469
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-11",
+    "price": 113.09,
+    "volume": 263674
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-08",
+    "price": 115.52,
+    "volume": 370590
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-07",
+    "price": 116.19,
+    "volume": 357678
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-06",
+    "price": 115.2,
+    "volume": 417215
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-05",
+    "price": 112.46,
+    "volume": 256286
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-04",
+    "price": 113.19,
+    "volume": 450380
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-03-01",
+    "price": 111.52,
+    "volume": 330989
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-29",
+    "price": 110.29,
+    "volume": 437242
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-28",
+    "price": 108.26,
+    "volume": 450968
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-27",
+    "price": 105.55,
+    "volume": 372404
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-26",
+    "price": 103.34,
+    "volume": 316083
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-23",
+    "price": 102,
+    "volume": 264834
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-22",
+    "price": 100.18,
+    "volume": 300136
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-21",
+    "price": 98.61,
+    "volume": 333970
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-20",
+    "price": 100.32,
+    "volume": 459248
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-16",
+    "price": 99.39,
+    "volume": 597235
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-15",
+    "price": 99.83,
+    "volume": 1018102
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-14",
+    "price": 105.05,
+    "volume": 382209
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-13",
+    "price": 104.06,
+    "volume": 379248
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-12",
+    "price": 105.74,
+    "volume": 269199
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-09",
+    "price": 105.72,
+    "volume": 146662
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-08",
+    "price": 105.57,
+    "volume": 187794
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-07",
+    "price": 104.85,
+    "volume": 163000
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-06",
+    "price": 105.37,
+    "volume": 289416
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-05",
+    "price": 102.97,
+    "volume": 126679
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-02",
+    "price": 103.91,
+    "volume": 252749
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-02-01",
+    "price": 103.83,
+    "volume": 193478
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-31",
+    "price": 101.32,
+    "volume": 209359
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-30",
+    "price": 102.52,
+    "volume": 299504
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-29",
+    "price": 101.86,
+    "volume": 244035
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-26",
+    "price": 101.16,
+    "volume": 157494
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-25",
+    "price": 101.33,
+    "volume": 206108
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-24",
+    "price": 101.23,
+    "volume": 168785
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-23",
+    "price": 102.63,
+    "volume": 175349
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-22",
+    "price": 103.71,
+    "volume": 286297
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-19",
+    "price": 103.99,
+    "volume": 180949
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-18",
+    "price": 103.15,
+    "volume": 241782
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-17",
+    "price": 103.99,
+    "volume": 145202
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-16",
+    "price": 104.5,
+    "volume": 343290
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-12",
+    "price": 103.35,
+    "volume": 244034
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-11",
+    "price": 102,
+    "volume": 549553
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-10",
+    "price": 98.26,
+    "volume": 202403
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-09",
+    "price": 99.01,
+    "volume": 140411
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-08",
+    "price": 99.27,
+    "volume": 135369
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-05",
+    "price": 97.43,
+    "volume": 215425
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-04",
+    "price": 98.56,
+    "volume": 247474
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-03",
+    "price": 96.48,
+    "volume": 223006
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2024-01-02",
+    "price": 98.24,
+    "volume": 171646
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-29",
+    "price": 99.08,
+    "volume": 121628
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-28",
+    "price": 100.2,
+    "volume": 149473
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-27",
+    "price": 100.02,
+    "volume": 147570
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-26",
+    "price": 100.13,
+    "volume": 94543
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-22",
+    "price": 99.39,
+    "volume": 111534
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-21",
+    "price": 98.84,
+    "volume": 194577
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-20",
+    "price": 97.98,
+    "volume": 234760
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-19",
+    "price": 99.93,
+    "volume": 296146
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-18",
+    "price": 97.47,
+    "volume": 207785
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-15",
+    "price": 97.58,
+    "volume": 1267106
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-14",
+    "price": 96.94,
+    "volume": 348537
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-13",
+    "price": 96.22,
+    "volume": 276468
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-12",
+    "price": 94.29,
+    "volume": 348497
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-11",
+    "price": 92.59,
+    "volume": 388585
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-08",
+    "price": 89.54,
+    "volume": 152879
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-07",
+    "price": 88.9,
+    "volume": 209375
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-06",
+    "price": 86.5,
+    "volume": 296933
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-05",
+    "price": 87.68,
+    "volume": 221475
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-04",
+    "price": 89.37,
+    "volume": 278798
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-12-01",
+    "price": 88.65,
+    "volume": 180374
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-30",
+    "price": 87.22,
+    "volume": 354671
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-29",
+    "price": 87.29,
+    "volume": 320556
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-28",
+    "price": 89.29,
+    "volume": 126262
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-27",
+    "price": 90.15,
+    "volume": 139946
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-24",
+    "price": 89.52,
+    "volume": 49936
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-22",
+    "price": 89.26,
+    "volume": 86956
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-21",
+    "price": 89.39,
+    "volume": 122402
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-20",
+    "price": 89.65,
+    "volume": 182085
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-17",
+    "price": 88.96,
+    "volume": 188789
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-16",
+    "price": 89.01,
+    "volume": 153387
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-15",
+    "price": 88.6,
+    "volume": 263956
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-14",
+    "price": 88.89,
+    "volume": 238131
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-13",
+    "price": 86.12,
+    "volume": 148571
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-10",
+    "price": 84.63,
+    "volume": 156499
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-09",
+    "price": 85,
+    "volume": 228210
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-08",
+    "price": 85.88,
+    "volume": 304471
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-07",
+    "price": 87.59,
+    "volume": 298028
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-06",
+    "price": 86.5,
+    "volume": 219247
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-03",
+    "price": 86.51,
+    "volume": 355398
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-02",
+    "price": 83.72,
+    "volume": 234841
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-11-01",
+    "price": 82.42,
+    "volume": 283563
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-31",
+    "price": 81.17,
+    "volume": 355545
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-30",
+    "price": 80.4,
+    "volume": 385095
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-27",
+    "price": 78.89,
+    "volume": 379059
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-26",
+    "price": 80.24,
+    "volume": 877587
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-25",
+    "price": 69.42,
+    "volume": 523788
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-24",
+    "price": 71.97,
+    "volume": 247703
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-23",
+    "price": 71.34,
+    "volume": 342639
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-20",
+    "price": 72,
+    "volume": 247791
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-19",
+    "price": 72.61,
+    "volume": 369347
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-18",
+    "price": 74.53,
+    "volume": 245823
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-17",
+    "price": 76.87,
+    "volume": 149020
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-16",
+    "price": 76.09,
+    "volume": 161462
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-13",
+    "price": 75.26,
+    "volume": 120445
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-12",
+    "price": 75.44,
+    "volume": 300196
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-11",
+    "price": 77.31,
+    "volume": 387071
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-10",
+    "price": 80.81,
+    "volume": 182267
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-09",
+    "price": 79.16,
+    "volume": 102943
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-06",
+    "price": 79.01,
+    "volume": 255261
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-05",
+    "price": 78.36,
+    "volume": 167959
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-04",
+    "price": 77.78,
+    "volume": 126897
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-03",
+    "price": 77.99,
+    "volume": 176339
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-10-02",
+    "price": 78.04,
+    "volume": 161832
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-29",
+    "price": 78.43,
+    "volume": 180813
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-28",
+    "price": 79.84,
+    "volume": 225409
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-27",
+    "price": 78.52,
+    "volume": 134953
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-26",
+    "price": 78.5,
+    "volume": 167116
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-25",
+    "price": 78.66,
+    "volume": 136154
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-22",
+    "price": 78.98,
+    "volume": 250823
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-21",
+    "price": 78.87,
+    "volume": 183596
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-20",
+    "price": 79.89,
+    "volume": 109875
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-19",
+    "price": 81.08,
+    "volume": 124398
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-18",
+    "price": 81.18,
+    "volume": 129806
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-15",
+    "price": 81.32,
+    "volume": 557838
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-14",
+    "price": 82,
+    "volume": 182662
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-13",
+    "price": 81.17,
+    "volume": 143539
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-12",
+    "price": 80.95,
+    "volume": 124331
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-11",
+    "price": 81.91,
+    "volume": 189703
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-08",
+    "price": 80.48,
+    "volume": 129319
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-07",
+    "price": 80.56,
+    "volume": 214392
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-06",
+    "price": 80.74,
+    "volume": 171671
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-05",
+    "price": 81.28,
+    "volume": 264367
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-09-01",
+    "price": 85.01,
+    "volume": 190282
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-31",
+    "price": 85.31,
+    "volume": 263814
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-30",
+    "price": 85.14,
+    "volume": 238568
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-29",
+    "price": 83.46,
+    "volume": 191205
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-28",
+    "price": 82.02,
+    "volume": 244027
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-25",
+    "price": 82.33,
+    "volume": 308596
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-24",
+    "price": 82.39,
+    "volume": 302418
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-23",
+    "price": 84.12,
+    "volume": 325338
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-22",
+    "price": 83.9,
+    "volume": 274481
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-21",
+    "price": 84.47,
+    "volume": 276725
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-18",
+    "price": 83.83,
+    "volume": 355909
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-17",
+    "price": 86.92,
+    "volume": 179060
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-16",
+    "price": 87.41,
+    "volume": 238322
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-15",
+    "price": 89.42,
+    "volume": 164883
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-14",
+    "price": 89.74,
+    "volume": 180990
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-11",
+    "price": 89.7,
+    "volume": 150321
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-10",
+    "price": 89.9,
+    "volume": 156541
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-09",
+    "price": 88.66,
+    "volume": 187699
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-08",
+    "price": 88.87,
+    "volume": 226170
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-07",
+    "price": 91.57,
+    "volume": 168028
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-04",
+    "price": 90.9,
+    "volume": 318424
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-03",
+    "price": 90.21,
+    "volume": 359763
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-02",
+    "price": 92.37,
+    "volume": 295187
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-08-01",
+    "price": 92.63,
+    "volume": 233163
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-31",
+    "price": 92.48,
+    "volume": 511528
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-28",
+    "price": 91.75,
+    "volume": 521204
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-27",
+    "price": 93.24,
+    "volume": 865651
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-26",
+    "price": 86.99,
+    "volume": 144135
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-25",
+    "price": 85.76,
+    "volume": 131544
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-24",
+    "price": 86.35,
+    "volume": 213948
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-21",
+    "price": 86.05,
+    "volume": 326512
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-20",
+    "price": 85.87,
+    "volume": 343192
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-19",
+    "price": 84.21,
+    "volume": 202052
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-18",
+    "price": 83.76,
+    "volume": 160550
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-17",
+    "price": 82.92,
+    "volume": 242090
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-14",
+    "price": 83.74,
+    "volume": 191443
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-13",
+    "price": 83.34,
+    "volume": 168267
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-12",
+    "price": 82.61,
+    "volume": 271579
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-11",
+    "price": 83.35,
+    "volume": 319215
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-10",
+    "price": 84.71,
+    "volume": 222410
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-07",
+    "price": 84.73,
+    "volume": 208476
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-06",
+    "price": 84.8,
+    "volume": 178021
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-05",
+    "price": 86.68,
+    "volume": 123484
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-07-03",
+    "price": 88.48,
+    "volume": 42893
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-30",
+    "price": 88.61,
+    "volume": 163421
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-29",
+    "price": 88.64,
+    "volume": 151099
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-28",
+    "price": 87.4,
+    "volume": 136395
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-27",
+    "price": 87.21,
+    "volume": 168751
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-26",
+    "price": 86.2,
+    "volume": 174278
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-23",
+    "price": 86.07,
+    "volume": 345498
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-22",
+    "price": 86.49,
+    "volume": 171393
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-21",
+    "price": 85.77,
+    "volume": 168773
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-20",
+    "price": 85.39,
+    "volume": 282128
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-16",
+    "price": 85.59,
+    "volume": 549874
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-15",
+    "price": 85.48,
+    "volume": 362777
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-14",
+    "price": 85.16,
+    "volume": 410498
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-13",
+    "price": 84.36,
+    "volume": 156845
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-12",
+    "price": 82.98,
+    "volume": 144855
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-09",
+    "price": 83.68,
+    "volume": 270969
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-08",
+    "price": 83.86,
+    "volume": 200118
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-07",
+    "price": 84.37,
+    "volume": 460948
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-06",
+    "price": 83.27,
+    "volume": 163166
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-05",
+    "price": 82.65,
+    "volume": 196047
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-02",
+    "price": 84.31,
+    "volume": 179541
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-06-01",
+    "price": 82.63,
+    "volume": 187310
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-31",
+    "price": 81.86,
+    "volume": 251858
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-30",
+    "price": 81.96,
+    "volume": 127722
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-26",
+    "price": 80.37,
+    "volume": 104513
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-25",
+    "price": 80.14,
+    "volume": 122138
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-24",
+    "price": 80.12,
+    "volume": 154909
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-23",
+    "price": 79.97,
+    "volume": 255762
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-22",
+    "price": 81.9,
+    "volume": 183081
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-19",
+    "price": 80.45,
+    "volume": 214886
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-18",
+    "price": 80.61,
+    "volume": 168351
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-17",
+    "price": 81.03,
+    "volume": 279721
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-16",
+    "price": 80.38,
+    "volume": 212023
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-15",
+    "price": 79.25,
+    "volume": 208491
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-12",
+    "price": 78.4,
+    "volume": 202344
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-11",
+    "price": 78.18,
+    "volume": 292386
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-10",
+    "price": 79.48,
+    "volume": 255001
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-09",
+    "price": 79.16,
+    "volume": 200289
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-08",
+    "price": 80.8,
+    "volume": 171177
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-05",
+    "price": 82.25,
+    "volume": 207769
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-04",
+    "price": 80.7,
+    "volume": 136986
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-03",
+    "price": 81.35,
+    "volume": 170443
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-02",
+    "price": 81.58,
+    "volume": 318141
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-05-01",
+    "price": 82.77,
+    "volume": 338095
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-28",
+    "price": 82.35,
+    "volume": 447599
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-27",
+    "price": 85.96,
+    "volume": 601947
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-26",
+    "price": 81.31,
+    "volume": 386176
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-25",
+    "price": 80.73,
+    "volume": 243164
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-24",
+    "price": 81.51,
+    "volume": 152640
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-21",
+    "price": 82.33,
+    "volume": 268248
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-20",
+    "price": 81.27,
+    "volume": 178880
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-19",
+    "price": 81.04,
+    "volume": 244415
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-18",
+    "price": 80,
+    "volume": 188097
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-17",
+    "price": 79.79,
+    "volume": 156981
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-14",
+    "price": 79.58,
+    "volume": 151995
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-13",
+    "price": 79.31,
+    "volume": 180760
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-12",
+    "price": 77.93,
+    "volume": 153815
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-11",
+    "price": 77.59,
+    "volume": 130831
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-10",
+    "price": 76.95,
+    "volume": 167192
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-06",
+    "price": 76.31,
+    "volume": 371881
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-05",
+    "price": 76.87,
+    "volume": 145922
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-04",
+    "price": 76.39,
+    "volume": 301926
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-04-03",
+    "price": 75.44,
+    "volume": 705949
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-31",
+    "price": 77.5,
+    "volume": 336360
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-30",
+    "price": 75.9,
+    "volume": 453186
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-29",
+    "price": 76.85,
+    "volume": 466040
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-28",
+    "price": 78.67,
+    "volume": 384653
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-27",
+    "price": 77.56,
+    "volume": 241352
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-24",
+    "price": 76.67,
+    "volume": 272368
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-23",
+    "price": 75.49,
+    "volume": 402351
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-22",
+    "price": 74.16,
+    "volume": 489589
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-21",
+    "price": 74.37,
+    "volume": 253422
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-20",
+    "price": 73.64,
+    "volume": 555060
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-17",
+    "price": 72.97,
+    "volume": 661065
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-16",
+    "price": 75.17,
+    "volume": 231415
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-15",
+    "price": 74.15,
+    "volume": 260178
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-14",
+    "price": 75.36,
+    "volume": 290043
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-13",
+    "price": 72.24,
+    "volume": 288066
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-10",
+    "price": 73.14,
+    "volume": 328903
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-09",
+    "price": 74.72,
+    "volume": 599684
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-08",
+    "price": 76.14,
+    "volume": 711919
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-07",
+    "price": 74.27,
+    "volume": 568364
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-06",
+    "price": 73.89,
+    "volume": 637216
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-03",
+    "price": 77,
+    "volume": 586802
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-02",
+    "price": 76.14,
+    "volume": 202652
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-03-01",
+    "price": 76.53,
+    "volume": 283279
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-28",
+    "price": 74.98,
+    "volume": 778688
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-27",
+    "price": 74.45,
+    "volume": 182718
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-24",
+    "price": 74.12,
+    "volume": 191605
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-23",
+    "price": 73.8,
+    "volume": 203120
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-22",
+    "price": 73.68,
+    "volume": 192291
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-21",
+    "price": 73.65,
+    "volume": 188059
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-17",
+    "price": 76.24,
+    "volume": 333217
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-16",
+    "price": 74.6,
+    "volume": 407821
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-15",
+    "price": 71.93,
+    "volume": 168240
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-14",
+    "price": 71.84,
+    "volume": 190686
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-13",
+    "price": 72.13,
+    "volume": 298170
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-10",
+    "price": 70.43,
+    "volume": 196706
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-09",
+    "price": 70.84,
+    "volume": 194733
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-08",
+    "price": 72.68,
+    "volume": 188787
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-07",
+    "price": 73.55,
+    "volume": 199687
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-06",
+    "price": 73.62,
+    "volume": 154746
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-03",
+    "price": 73.5,
+    "volume": 610118
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-02",
+    "price": 73.99,
+    "volume": 1200781
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-02-01",
+    "price": 68.95,
+    "volume": 2285921
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-31",
+    "price": 65.81,
+    "volume": 2615565
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-30",
+    "price": 70.74,
+    "volume": 137118
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-27",
+    "price": 70.99,
+    "volume": 79605
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-26",
+    "price": 71.84,
+    "volume": 91788
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-25",
+    "price": 71.39,
+    "volume": 105919
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-24",
+    "price": 73.27,
+    "volume": 77530
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-23",
+    "price": 74.44,
+    "volume": 87468
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-20",
+    "price": 74.21,
+    "volume": 92813
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-19",
+    "price": 73.26,
+    "volume": 69087
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-18",
+    "price": 72.42,
+    "volume": 89680
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-17",
+    "price": 72.83,
+    "volume": 113434
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-13",
+    "price": 73.59,
+    "volume": 75901
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-12",
+    "price": 72.27,
+    "volume": 114514
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-11",
+    "price": 72.25,
+    "volume": 206082
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-10",
+    "price": 70.39,
+    "volume": 124347
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-09",
+    "price": 69.55,
+    "volume": 152672
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-06",
+    "price": 68.97,
+    "volume": 157540
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-05",
+    "price": 68.33,
+    "volume": 117066
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-04",
+    "price": 67.91,
+    "volume": 175036
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2023-01-03",
+    "price": 68.47,
+    "volume": 281968
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-30",
+    "price": 68.46,
+    "volume": 121319
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-29",
+    "price": 69,
+    "volume": 110751
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-28",
+    "price": 66.36,
+    "volume": 156526
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-27",
+    "price": 68.16,
+    "volume": 111671
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-23",
+    "price": 67.9,
+    "volume": 69370
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-22",
+    "price": 68.09,
+    "volume": 150929
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-21",
+    "price": 68.62,
+    "volume": 248667
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-20",
+    "price": 67.69,
+    "volume": 245180
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-19",
+    "price": 67.64,
+    "volume": 508441
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-16",
+    "price": 62.8,
+    "volume": 530433
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-15",
+    "price": 67.17,
+    "volume": 130062
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-14",
+    "price": 70.42,
+    "volume": 234433
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-13",
+    "price": 70.91,
+    "volume": 234560
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-12",
+    "price": 69.72,
+    "volume": 233091
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-09",
+    "price": 72.61,
+    "volume": 199604
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-08",
+    "price": 72.73,
+    "volume": 234939
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-07",
+    "price": 71.85,
+    "volume": 224878
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-06",
+    "price": 71.66,
+    "volume": 275483
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-05",
+    "price": 72.27,
+    "volume": 131023
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-02",
+    "price": 73.22,
+    "volume": 123592
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-12-01",
+    "price": 74.09,
+    "volume": 91312
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-30",
+    "price": 74.32,
+    "volume": 231657
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-29",
+    "price": 71.3,
+    "volume": 115875
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-28",
+    "price": 71.06,
+    "volume": 278070
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-25",
+    "price": 72.02,
+    "volume": 85802
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-23",
+    "price": 71.43,
+    "volume": 212811
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-22",
+    "price": 72.52,
+    "volume": 203701
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-21",
+    "price": 71.38,
+    "volume": 139018
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-18",
+    "price": 71.78,
+    "volume": 134045
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-17",
+    "price": 71.17,
+    "volume": 207676
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-16",
+    "price": 71.92,
+    "volume": 210391
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-15",
+    "price": 72.25,
+    "volume": 228173
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-14",
+    "price": 70.57,
+    "volume": 161902
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-11",
+    "price": 71.55,
+    "volume": 151929
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-10",
+    "price": 69.85,
+    "volume": 263759
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-09",
+    "price": 64.43,
+    "volume": 131458
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-08",
+    "price": 65,
+    "volume": 191363
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-07",
+    "price": 64.58,
+    "volume": 107424
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-04",
+    "price": 64,
+    "volume": 143794
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-03",
+    "price": 62.26,
+    "volume": 100223
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-02",
+    "price": 62.2,
+    "volume": 350152
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-11-01",
+    "price": 63.88,
+    "volume": 320196
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-31",
+    "price": 62.33,
+    "volume": 205354
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-28",
+    "price": 62.54,
+    "volume": 207840
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-27",
+    "price": 61.29,
+    "volume": 204048
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-26",
+    "price": 60.03,
+    "volume": 189603
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-25",
+    "price": 58.42,
+    "volume": 203845
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-24",
+    "price": 56.27,
+    "volume": 184894
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-21",
+    "price": 55.7,
+    "volume": 192437
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-20",
+    "price": 55.48,
+    "volume": 254931
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-19",
+    "price": 56,
+    "volume": 173084
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-18",
+    "price": 56.72,
+    "volume": 247767
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-17",
+    "price": 56.22,
+    "volume": 321416
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-14",
+    "price": 54.08,
+    "volume": 234847
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-13",
+    "price": 54.11,
+    "volume": 220553
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-12",
+    "price": 52.32,
+    "volume": 288801
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-11",
+    "price": 51.98,
+    "volume": 350766
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-10",
+    "price": 51.11,
+    "volume": 324478
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-07",
+    "price": 51.34,
+    "volume": 994187
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-06",
+    "price": 55.28,
+    "volume": 1153548
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-05",
+    "price": 66.29,
+    "volume": 125914
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-04",
+    "price": 65.84,
+    "volume": 113450
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-10-03",
+    "price": 63.65,
+    "volume": 163293
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-30",
+    "price": 62.23,
+    "volume": 213065
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-29",
+    "price": 62.87,
+    "volume": 170674
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-28",
+    "price": 63.17,
+    "volume": 214892
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-27",
+    "price": 61.21,
+    "volume": 316882
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-26",
+    "price": 61.16,
+    "volume": 414842
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-23",
+    "price": 61.92,
+    "volume": 298006
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-22",
+    "price": 61.76,
+    "volume": 174236
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-21",
+    "price": 62.33,
+    "volume": 182554
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-20",
+    "price": 62.97,
+    "volume": 199850
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-19",
+    "price": 63.51,
+    "volume": 164153
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-16",
+    "price": 62.83,
+    "volume": 374938
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-15",
+    "price": 62.29,
+    "volume": 129680
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-14",
+    "price": 63.08,
+    "volume": 152845
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-13",
+    "price": 64.41,
+    "volume": 339019
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-12",
+    "price": 65.57,
+    "volume": 148662
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-09",
+    "price": 65.06,
+    "volume": 168472
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-08",
+    "price": 63.52,
+    "volume": 208242
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-07",
+    "price": 62.16,
+    "volume": 169466
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-06",
+    "price": 59.5,
+    "volume": 181839
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-02",
+    "price": 60.67,
+    "volume": 135568
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-09-01",
+    "price": 62.3,
+    "volume": 193507
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-31",
+    "price": 63.07,
+    "volume": 110179
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-30",
+    "price": 63.47,
+    "volume": 160059
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-29",
+    "price": 65.08,
+    "volume": 100328
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-26",
+    "price": 66.58,
+    "volume": 111757
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-25",
+    "price": 69.58,
+    "volume": 125071
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-24",
+    "price": 67.25,
+    "volume": 129555
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-23",
+    "price": 66.54,
+    "volume": 159799
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-22",
+    "price": 68.4,
+    "volume": 160110
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-19",
+    "price": 70.36,
+    "volume": 162633
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-18",
+    "price": 72.16,
+    "volume": 132498
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-17",
+    "price": 72.85,
+    "volume": 151053
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-16",
+    "price": 75.5,
+    "volume": 64904
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-15",
+    "price": 76.22,
+    "volume": 153462
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-12",
+    "price": 74.76,
+    "volume": 125163
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-11",
+    "price": 73.47,
+    "volume": 120420
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-10",
+    "price": 72.45,
+    "volume": 133008
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-09",
+    "price": 70.81,
+    "volume": 138019
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-08",
+    "price": 72.71,
+    "volume": 178905
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-05",
+    "price": 70.96,
+    "volume": 138433
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-04",
+    "price": 70.16,
+    "volume": 98437
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-03",
+    "price": 71.57,
+    "volume": 189868
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-02",
+    "price": 69.99,
+    "volume": 126867
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-08-01",
+    "price": 70.08,
+    "volume": 111920
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-29",
+    "price": 69.89,
+    "volume": 142396
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-28",
+    "price": 70.02,
+    "volume": 238818
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-27",
+    "price": 70.23,
+    "volume": 120888
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-26",
+    "price": 69.27,
+    "volume": 124058
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-25",
+    "price": 69.36,
+    "volume": 132656
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-22",
+    "price": 68.14,
+    "volume": 104382
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-21",
+    "price": 69.76,
+    "volume": 205304
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-20",
+    "price": 67.69,
+    "volume": 153082
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-19",
+    "price": 67.4,
+    "volume": 195170
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-18",
+    "price": 65.87,
+    "volume": 157933
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-15",
+    "price": 67.77,
+    "volume": 145537
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-14",
+    "price": 66.75,
+    "volume": 120238
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-13",
+    "price": 66.55,
+    "volume": 89928
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-12",
+    "price": 67.78,
+    "volume": 84673
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-11",
+    "price": 68.15,
+    "volume": 115767
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-08",
+    "price": 69.38,
+    "volume": 81983
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-07",
+    "price": 69.73,
+    "volume": 82452
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-06",
+    "price": 69.2,
+    "volume": 115249
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-05",
+    "price": 71.26,
+    "volume": 179143
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-07-01",
+    "price": 72,
+    "volume": 135550
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-30",
+    "price": 70.66,
+    "volume": 160263
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-29",
+    "price": 71.83,
+    "volume": 90636
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-28",
+    "price": 71.21,
+    "volume": 115373
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-27",
+    "price": 72.97,
+    "volume": 108684
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-24",
+    "price": 72.41,
+    "volume": 402582
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-23",
+    "price": 70.27,
+    "volume": 107543
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-22",
+    "price": 68.38,
+    "volume": 157708
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-21",
+    "price": 68.84,
+    "volume": 176477
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-17",
+    "price": 67.74,
+    "volume": 246228
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-16",
+    "price": 66.92,
+    "volume": 163775
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-15",
+    "price": 71.58,
+    "volume": 160468
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-14",
+    "price": 71.04,
+    "volume": 146291
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-13",
+    "price": 73.05,
+    "volume": 174054
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-10",
+    "price": 74.88,
+    "volume": 111077
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-09",
+    "price": 73.86,
+    "volume": 58250
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-08",
+    "price": 75.72,
+    "volume": 85195
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-07",
+    "price": 76.87,
+    "volume": 129219
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-06",
+    "price": 76.7,
+    "volume": 108629
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-03",
+    "price": 77.4,
+    "volume": 158386
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-02",
+    "price": 80.14,
+    "volume": 110898
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-06-01",
+    "price": 78.01,
+    "volume": 233813
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-31",
+    "price": 79.78,
+    "volume": 140981
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-27",
+    "price": 80.49,
+    "volume": 98701
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-26",
+    "price": 78.89,
+    "volume": 127515
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-25",
+    "price": 78.48,
+    "volume": 138031
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-24",
+    "price": 77.09,
+    "volume": 166181
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-23",
+    "price": 76.61,
+    "volume": 159838
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-20",
+    "price": 74.96,
+    "volume": 192098
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-19",
+    "price": 74.4,
+    "volume": 180256
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-18",
+    "price": 74.64,
+    "volume": 280431
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-17",
+    "price": 75.42,
+    "volume": 117807
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-16",
+    "price": 72.17,
+    "volume": 107213
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-13",
+    "price": 71.97,
+    "volume": 213348
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-12",
+    "price": 70.96,
+    "volume": 151813
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-11",
+    "price": 71.07,
+    "volume": 186856
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-10",
+    "price": 71.65,
+    "volume": 191620
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-09",
+    "price": 72.97,
+    "volume": 293659
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-06",
+    "price": 76.64,
+    "volume": 222257
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-05",
+    "price": 76.28,
+    "volume": 239125
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-04",
+    "price": 79.39,
+    "volume": 206174
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-03",
+    "price": 77.94,
+    "volume": 243020
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-05-02",
+    "price": 76.07,
+    "volume": 301015
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-29",
+    "price": 75.17,
+    "volume": 276781
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-28",
+    "price": 79.15,
+    "volume": 769609
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-27",
+    "price": 79.18,
+    "volume": 416098
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-26",
+    "price": 80.29,
+    "volume": 180546
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-25",
+    "price": 83.09,
+    "volume": 178824
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-22",
+    "price": 81.76,
+    "volume": 204078
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-21",
+    "price": 83.54,
+    "volume": 157867
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-20",
+    "price": 87.38,
+    "volume": 336749
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-19",
+    "price": 84.18,
+    "volume": 153889
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-18",
+    "price": 80.77,
+    "volume": 116688
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-14",
+    "price": 81.67,
+    "volume": 121629
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-13",
+    "price": 81.58,
+    "volume": 95176
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-12",
+    "price": 81.3,
+    "volume": 192023
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-11",
+    "price": 80.55,
+    "volume": 256517
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-08",
+    "price": 81.51,
+    "volume": 196468
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-07",
+    "price": 81.27,
+    "volume": 210570
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-06",
+    "price": 77.5,
+    "volume": 181635
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-05",
+    "price": 77.07,
+    "volume": 175065
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-04",
+    "price": 78.92,
+    "volume": 151027
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-04-01",
+    "price": 82.53,
+    "volume": 307685
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-31",
+    "price": 80.57,
+    "volume": 202216
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-30",
+    "price": 81.76,
+    "volume": 120051
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-29",
+    "price": 81.7,
+    "volume": 216599
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-28",
+    "price": 79.45,
+    "volume": 125608
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-25",
+    "price": 78.6,
+    "volume": 113096
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-24",
+    "price": 77.44,
+    "volume": 109021
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-23",
+    "price": 76.55,
+    "volume": 199168
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-22",
+    "price": 79.41,
+    "volume": 150799
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-21",
+    "price": 80.2,
+    "volume": 109082
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-18",
+    "price": 79.41,
+    "volume": 299438
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-17",
+    "price": 80.98,
+    "volume": 90061
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-16",
+    "price": 79.58,
+    "volume": 144132
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-15",
+    "price": 78.44,
+    "volume": 151539
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-14",
+    "price": 77.35,
+    "volume": 102532
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-11",
+    "price": 78.09,
+    "volume": 90891
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-10",
+    "price": 78.69,
+    "volume": 149909
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-09",
+    "price": 80.73,
+    "volume": 165876
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-08",
+    "price": 78.87,
+    "volume": 165953
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-07",
+    "price": 79.76,
+    "volume": 113858
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-04",
+    "price": 80.92,
+    "volume": 138390
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-03",
+    "price": 81.93,
+    "volume": 176247
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-02",
+    "price": 81.82,
+    "volume": 288557
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-03-01",
+    "price": 80.78,
+    "volume": 322579
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-28",
+    "price": 83.87,
+    "volume": 310899
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-25",
+    "price": 85.89,
+    "volume": 164526
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-24",
+    "price": 83.49,
+    "volume": 168997
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-23",
+    "price": 80.75,
+    "volume": 176398
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-22",
+    "price": 80.89,
+    "volume": 217898
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-18",
+    "price": 83.65,
+    "volume": 493493
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-17",
+    "price": 85.79,
+    "volume": 427786
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-16",
+    "price": 85.56,
+    "volume": 180392
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-15",
+    "price": 84.24,
+    "volume": 164944
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-14",
+    "price": 82.49,
+    "volume": 215342
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-11",
+    "price": 81.56,
+    "volume": 128371
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-10",
+    "price": 80.62,
+    "volume": 126708
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-09",
+    "price": 81.66,
+    "volume": 96541
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-08",
+    "price": 80.38,
+    "volume": 49048
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-07",
+    "price": 78.34,
+    "volume": 85742
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-04",
+    "price": 78.32,
+    "volume": 83582
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-03",
+    "price": 77.99,
+    "volume": 78818
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-02",
+    "price": 78.79,
+    "volume": 104062
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-02-01",
+    "price": 79.14,
+    "volume": 161576
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-31",
+    "price": 78.41,
+    "volume": 132840
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-28",
+    "price": 77.7,
+    "volume": 104143
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-27",
+    "price": 76.68,
+    "volume": 97733
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-26",
+    "price": 78.19,
+    "volume": 128360
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-25",
+    "price": 79.27,
+    "volume": 204684
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-24",
+    "price": 79.73,
+    "volume": 202816
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-21",
+    "price": 79.76,
+    "volume": 166492
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-20",
+    "price": 80.12,
+    "volume": 104466
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-19",
+    "price": 80.85,
+    "volume": 143774
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-18",
+    "price": 81.69,
+    "volume": 157905
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-14",
+    "price": 84.46,
+    "volume": 158650
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-13",
+    "price": 82.12,
+    "volume": 108976
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-12",
+    "price": 81.76,
+    "volume": 127875
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-11",
+    "price": 82.92,
+    "volume": 112423
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-10",
+    "price": 81.97,
+    "volume": 126895
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-07",
+    "price": 80.43,
+    "volume": 150405
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-06",
+    "price": 81.25,
+    "volume": 208511
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-05",
+    "price": 82.6,
+    "volume": 237077
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-04",
+    "price": 84.56,
+    "volume": 305007
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2022-01-03",
+    "price": 84.95,
+    "volume": 280601
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-31",
+    "price": 85.59,
+    "volume": 88702
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-30",
+    "price": 85.82,
+    "volume": 128748
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-29",
+    "price": 86.11,
+    "volume": 118929
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-28",
+    "price": 86.11,
+    "volume": 88723
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-27",
+    "price": 86.59,
+    "volume": 149603
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-23",
+    "price": 85.79,
+    "volume": 163693
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-22",
+    "price": 85,
+    "volume": 308154
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-21",
+    "price": 84.18,
+    "volume": 386414
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-20",
+    "price": 81.57,
+    "volume": 167714
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-17",
+    "price": 83.9,
+    "volume": 763271
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-16",
+    "price": 82.49,
+    "volume": 148105
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-15",
+    "price": 83.91,
+    "volume": 171844
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-14",
+    "price": 82.5,
+    "volume": 174126
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-13",
+    "price": 83.02,
+    "volume": 142102
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-10",
+    "price": 83.16,
+    "volume": 186148
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-09",
+    "price": 84.31,
+    "volume": 151581
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-08",
+    "price": 84.99,
+    "volume": 154196
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-07",
+    "price": 84.76,
+    "volume": 206581
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-06",
+    "price": 83.55,
+    "volume": 268695
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-03",
+    "price": 80.23,
+    "volume": 223021
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-02",
+    "price": 81.78,
+    "volume": 281357
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-12-01",
+    "price": 79.76,
+    "volume": 140929
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-30",
+    "price": 79.74,
+    "volume": 239472
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-29",
+    "price": 82.4,
+    "volume": 162074
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-26",
+    "price": 83.29,
+    "volume": 85484
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-24",
+    "price": 87.71,
+    "volume": 83652
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-23",
+    "price": 87.22,
+    "volume": 130913
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-22",
+    "price": 88.42,
+    "volume": 214966
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-19",
+    "price": 89.73,
+    "volume": 246323
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-18",
+    "price": 89.27,
+    "volume": 211658
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-17",
+    "price": 88.12,
+    "volume": 147249
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-16",
+    "price": 88.44,
+    "volume": 170257
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-15",
+    "price": 87.5,
+    "volume": 150863
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-12",
+    "price": 88.17,
+    "volume": 70240
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-11",
+    "price": 88.48,
+    "volume": 113927
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-10",
+    "price": 89.54,
+    "volume": 189961
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-09",
+    "price": 87.34,
+    "volume": 171364
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-08",
+    "price": 89.97,
+    "volume": 144356
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-05",
+    "price": 90.55,
+    "volume": 205677
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-04",
+    "price": 89.28,
+    "volume": 110050
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-03",
+    "price": 90.92,
+    "volume": 204940
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-02",
+    "price": 89.55,
+    "volume": 177465
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-11-01",
+    "price": 88.6,
+    "volume": 234837
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-29",
+    "price": 90.02,
+    "volume": 228874
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-28",
+    "price": 92.44,
+    "volume": 187982
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-27",
+    "price": 91.5,
+    "volume": 72216
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-26",
+    "price": 92.35,
+    "volume": 148835
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-25",
+    "price": 93.39,
+    "volume": 120143
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-22",
+    "price": 91.61,
+    "volume": 52594
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-21",
+    "price": 91.96,
+    "volume": 72954
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-20",
+    "price": 90.9,
+    "volume": 59478
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-19",
+    "price": 90.59,
+    "volume": 117858
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-18",
+    "price": 87.65,
+    "volume": 82260
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-15",
+    "price": 89.28,
+    "volume": 90886
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-14",
+    "price": 89.28,
+    "volume": 39750
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-13",
+    "price": 87.34,
+    "volume": 63575
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-12",
+    "price": 88.28,
+    "volume": 63360
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-11",
+    "price": 87.39,
+    "volume": 64108
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-08",
+    "price": 89.46,
+    "volume": 55619
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-07",
+    "price": 91.5,
+    "volume": 121587
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-06",
+    "price": 89.71,
+    "volume": 85382
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-05",
+    "price": 92.25,
+    "volume": 155618
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-04",
+    "price": 91.05,
+    "volume": 181996
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-10-01",
+    "price": 92.12,
+    "volume": 126839
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-30",
+    "price": 89.34,
+    "volume": 95190
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-29",
+    "price": 91.04,
+    "volume": 79960
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-28",
+    "price": 88.81,
+    "volume": 108389
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-27",
+    "price": 91.65,
+    "volume": 89384
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-24",
+    "price": 91.16,
+    "volume": 79470
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-23",
+    "price": 91.55,
+    "volume": 102531
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-22",
+    "price": 89.66,
+    "volume": 105065
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-21",
+    "price": 87.66,
+    "volume": 111325
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-20",
+    "price": 87.8,
+    "volume": 171219
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-17",
+    "price": 91.59,
+    "volume": 387850
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-16",
+    "price": 91.86,
+    "volume": 93524
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-15",
+    "price": 93.06,
+    "volume": 136894
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-14",
+    "price": 94.28,
+    "volume": 109898
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-13",
+    "price": 93.37,
+    "volume": 115135
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-10",
+    "price": 94.01,
+    "volume": 94232
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-09",
+    "price": 95.86,
+    "volume": 77949
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-08",
+    "price": 97.08,
+    "volume": 109618
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-07",
+    "price": 97.65,
+    "volume": 74620
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-03",
+    "price": 97.35,
+    "volume": 114380
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-02",
+    "price": 99.18,
+    "volume": 92521
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-09-01",
+    "price": 99.09,
+    "volume": 110246
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-31",
+    "price": 98.79,
+    "volume": 106330
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-30",
+    "price": 97.39,
+    "volume": 109031
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-27",
+    "price": 98.3,
+    "volume": 227473
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-26",
+    "price": 93.48,
+    "volume": 149751
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-25",
+    "price": 95.72,
+    "volume": 151355
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-24",
+    "price": 99.15,
+    "volume": 121305
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-23",
+    "price": 97.96,
+    "volume": 92311
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-20",
+    "price": 97.49,
+    "volume": 152296
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-19",
+    "price": 96.95,
+    "volume": 157285
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-18",
+    "price": 97.43,
+    "volume": 242211
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-17",
+    "price": 95.11,
+    "volume": 122314
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-16",
+    "price": 93.21,
+    "volume": 169044
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-13",
+    "price": 91.83,
+    "volume": 128463
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-12",
+    "price": 91.8,
+    "volume": 161098
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-11",
+    "price": 90,
+    "volume": 157938
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-10",
+    "price": 90.18,
+    "volume": 75224
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-09",
+    "price": 92.05,
+    "volume": 128832
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-06",
+    "price": 95.24,
+    "volume": 79322
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-05",
+    "price": 93.54,
+    "volume": 60138
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-04",
+    "price": 93.25,
+    "volume": 98630
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-03",
+    "price": 95.63,
+    "volume": 154394
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-08-02",
+    "price": 96.43,
+    "volume": 140419
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-30",
+    "price": 97.89,
+    "volume": 183980
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-29",
+    "price": 99.66,
+    "volume": 243637
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-28",
+    "price": 98.81,
+    "volume": 284207
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-27",
+    "price": 95.7,
+    "volume": 156722
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-26",
+    "price": 92.62,
+    "volume": 163958
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-23",
+    "price": 91.93,
+    "volume": 121641
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-22",
+    "price": 89.62,
+    "volume": 84210
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-21",
+    "price": 90.96,
+    "volume": 73911
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-20",
+    "price": 89.12,
+    "volume": 155554
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-19",
+    "price": 86.25,
+    "volume": 94674
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-16",
+    "price": 88.96,
+    "volume": 128570
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-15",
+    "price": 89.47,
+    "volume": 167892
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-14",
+    "price": 88,
+    "volume": 137647
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-13",
+    "price": 90.67,
+    "volume": 102546
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-12",
+    "price": 93.08,
+    "volume": 60870
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-09",
+    "price": 93.04,
+    "volume": 73357
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-08",
+    "price": 92.15,
+    "volume": 96153
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-07",
+    "price": 93.31,
+    "volume": 89661
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-06",
+    "price": 93.53,
+    "volume": 102401
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-02",
+    "price": 95.34,
+    "volume": 107574
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-07-01",
+    "price": 95.12,
+    "volume": 137804
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-30",
+    "price": 94.2,
+    "volume": 129903
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-29",
+    "price": 93.98,
+    "volume": 169435
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-28",
+    "price": 93.12,
+    "volume": 251259
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-25",
+    "price": 94.15,
+    "volume": 1037466
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-24",
+    "price": 93.77,
+    "volume": 104777
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-23",
+    "price": 93.14,
+    "volume": 128754
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-22",
+    "price": 92.97,
+    "volume": 94845
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-21",
+    "price": 92.71,
+    "volume": 121015
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-18",
+    "price": 90.19,
+    "volume": 383852
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-17",
+    "price": 92.99,
+    "volume": 258604
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-16",
+    "price": 94.02,
+    "volume": 155772
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-15",
+    "price": 93.29,
+    "volume": 211247
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-14",
+    "price": 89.56,
+    "volume": 135396
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-11",
+    "price": 89,
+    "volume": 106594
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-10",
+    "price": 88.09,
+    "volume": 106479
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-09",
+    "price": 88.37,
+    "volume": 146928
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-08",
+    "price": 87.17,
+    "volume": 80552
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-07",
+    "price": 86.27,
+    "volume": 100975
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-04",
+    "price": 85.84,
+    "volume": 102584
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-03",
+    "price": 87.06,
+    "volume": 107284
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-02",
+    "price": 87.32,
+    "volume": 144064
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-06-01",
+    "price": 90.8,
+    "volume": 121026
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-28",
+    "price": 90.47,
+    "volume": 59013
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-27",
+    "price": 90.35,
+    "volume": 146381
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-26",
+    "price": 90.27,
+    "volume": 114921
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-25",
+    "price": 90.67,
+    "volume": 114953
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-24",
+    "price": 92.88,
+    "volume": 101084
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-21",
+    "price": 93.21,
+    "volume": 158417
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-20",
+    "price": 92.72,
+    "volume": 61870
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-19",
+    "price": 93.39,
+    "volume": 102392
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-18",
+    "price": 93.28,
+    "volume": 86134
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-17",
+    "price": 92.97,
+    "volume": 67694
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-14",
+    "price": 93.6,
+    "volume": 62747
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-13",
+    "price": 92.24,
+    "volume": 88417
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-12",
+    "price": 89.73,
+    "volume": 94493
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-11",
+    "price": 92.27,
+    "volume": 77861
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-10",
+    "price": 92,
+    "volume": 123664
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-07",
+    "price": 95.03,
+    "volume": 63828
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-06",
+    "price": 94.24,
+    "volume": 120458
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-05",
+    "price": 94.01,
+    "volume": 101521
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-04",
+    "price": 93.38,
+    "volume": 109086
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-05-03",
+    "price": 94.62,
+    "volume": 218697
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-30",
+    "price": 93.88,
+    "volume": 124521
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-29",
+    "price": 95.16,
+    "volume": 160376
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-28",
+    "price": 95.9,
+    "volume": 101646
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-27",
+    "price": 95.45,
+    "volume": 118873
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-26",
+    "price": 95.09,
+    "volume": 129088
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-23",
+    "price": 94.78,
+    "volume": 113190
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-22",
+    "price": 92.82,
+    "volume": 112677
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-21",
+    "price": 93.66,
+    "volume": 113626
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-20",
+    "price": 90.66,
+    "volume": 121183
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-19",
+    "price": 93.04,
+    "volume": 135747
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-16",
+    "price": 93.05,
+    "volume": 66579
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-15",
+    "price": 93.62,
+    "volume": 128689
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-14",
+    "price": 91.51,
+    "volume": 121194
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-13",
+    "price": 90.77,
+    "volume": 122764
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-12",
+    "price": 91.71,
+    "volume": 79137
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-09",
+    "price": 92.66,
+    "volume": 89414
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-08",
+    "price": 92.9,
+    "volume": 78680
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-07",
+    "price": 91.67,
+    "volume": 115045
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-06",
+    "price": 92.76,
+    "volume": 108813
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-05",
+    "price": 92.53,
+    "volume": 244772
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-04-01",
+    "price": 90.88,
+    "volume": 124737
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-31",
+    "price": 92.1,
+    "volume": 310681
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-30",
+    "price": 91.35,
+    "volume": 195626
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-29",
+    "price": 90.39,
+    "volume": 345430
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-26",
+    "price": 93.32,
+    "volume": 332256
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-25",
+    "price": 88.51,
+    "volume": 132392
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-24",
+    "price": 86.51,
+    "volume": 192692
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-23",
+    "price": 87.6,
+    "volume": 238351
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-22",
+    "price": 89.48,
+    "volume": 160075
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-19",
+    "price": 88.73,
+    "volume": 541971
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-18",
+    "price": 88.48,
+    "volume": 135004
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-17",
+    "price": 91.63,
+    "volume": 82615
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-16",
+    "price": 92.15,
+    "volume": 132267
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-15",
+    "price": 93.94,
+    "volume": 119445
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-12",
+    "price": 95.67,
+    "volume": 111389
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-11",
+    "price": 95.66,
+    "volume": 128133
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-10",
+    "price": 94.57,
+    "volume": 103100
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-09",
+    "price": 92.02,
+    "volume": 146834
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-08",
+    "price": 93.21,
+    "volume": 120767
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-05",
+    "price": 93.56,
+    "volume": 217614
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-04",
+    "price": 90.06,
+    "volume": 225369
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-03",
+    "price": 90.79,
+    "volume": 192793
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-02",
+    "price": 91.7,
+    "volume": 194053
+  },
+  {
+    "symbol": "ITGR",
+    "date": "2021-03-01",
+    "price": 92.42,
+    "volume": 276164
+  }
+]

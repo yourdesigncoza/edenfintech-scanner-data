@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "NVST",
+    "date": "2026-02-27",
+    "price": 29.21,
+    "volume": 2479518
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-26",
+    "price": 29.3,
+    "volume": 2882901
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-25",
+    "price": 29.59,
+    "volume": 2612715
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-24",
+    "price": 29.43,
+    "volume": 2303308
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-23",
+    "price": 28.98,
+    "volume": 2429412
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-20",
+    "price": 29.12,
+    "volume": 2625112
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-19",
+    "price": 28.72,
+    "volume": 2459633
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-18",
+    "price": 28.5,
+    "volume": 3598900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-17",
+    "price": 28.07,
+    "volume": 3199900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-13",
+    "price": 28.97,
+    "volume": 2193400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-12",
+    "price": 28.77,
+    "volume": 4347508
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-11",
+    "price": 30.26,
+    "volume": 3500017
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-10",
+    "price": 30.17,
+    "volume": 3986849
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-09",
+    "price": 29.36,
+    "volume": 4899329
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-06",
+    "price": 29.1,
+    "volume": 9981076
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-05",
+    "price": 24.71,
+    "volume": 9458614
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-04",
+    "price": 23.66,
+    "volume": 3336300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-03",
+    "price": 22.91,
+    "volume": 3309200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-02-02",
+    "price": 23.26,
+    "volume": 4978703
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-30",
+    "price": 23.47,
+    "volume": 3283939
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-29",
+    "price": 23.39,
+    "volume": 3327000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-28",
+    "price": 24.08,
+    "volume": 2676215
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-27",
+    "price": 24.11,
+    "volume": 1717810
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-26",
+    "price": 24.05,
+    "volume": 1946918
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-23",
+    "price": 23.84,
+    "volume": 1753500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-22",
+    "price": 24.41,
+    "volume": 1843500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-21",
+    "price": 24.67,
+    "volume": 2559024
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-20",
+    "price": 24.34,
+    "volume": 2659100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-16",
+    "price": 25.24,
+    "volume": 4039522
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-15",
+    "price": 24.69,
+    "volume": 3660848
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-14",
+    "price": 24.2,
+    "volume": 3126502
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-13",
+    "price": 23.23,
+    "volume": 1746310
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-12",
+    "price": 23.38,
+    "volume": 3130500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-09",
+    "price": 23.63,
+    "volume": 2500429
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-08",
+    "price": 23.62,
+    "volume": 1875500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-07",
+    "price": 22.93,
+    "volume": 2667482
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-06",
+    "price": 23.21,
+    "volume": 2218773
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-05",
+    "price": 22.55,
+    "volume": 1734326
+  },
+  {
+    "symbol": "NVST",
+    "date": "2026-01-02",
+    "price": 21.69,
+    "volume": 1395600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-31",
+    "price": 21.71,
+    "volume": 1216835
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-30",
+    "price": 21.91,
+    "volume": 1400900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-29",
+    "price": 21.81,
+    "volume": 1463514
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-26",
+    "price": 21.99,
+    "volume": 1300128
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-24",
+    "price": 22,
+    "volume": 589730
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-23",
+    "price": 21.87,
+    "volume": 2266306
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-22",
+    "price": 22.44,
+    "volume": 2278209
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-19",
+    "price": 22.28,
+    "volume": 4234320
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-18",
+    "price": 22.25,
+    "volume": 3559800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-17",
+    "price": 21.85,
+    "volume": 2551000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-16",
+    "price": 21.9,
+    "volume": 3046600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-15",
+    "price": 22.06,
+    "volume": 2266901
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-12",
+    "price": 21.97,
+    "volume": 2048300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-11",
+    "price": 22.14,
+    "volume": 2143027
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-10",
+    "price": 22.1,
+    "volume": 4484758
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-09",
+    "price": 20.62,
+    "volume": 2620554
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-08",
+    "price": 20.01,
+    "volume": 1966230
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-05",
+    "price": 20.23,
+    "volume": 2412001
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-04",
+    "price": 20.13,
+    "volume": 1838533
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-03",
+    "price": 20.45,
+    "volume": 2125000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-02",
+    "price": 20.18,
+    "volume": 2443200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-12-01",
+    "price": 20.77,
+    "volume": 1214949
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-28",
+    "price": 20.9,
+    "volume": 570100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-26",
+    "price": 20.99,
+    "volume": 1419500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-25",
+    "price": 21.05,
+    "volume": 2435800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-24",
+    "price": 20.2,
+    "volume": 2094200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-21",
+    "price": 19.89,
+    "volume": 1918418
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-20",
+    "price": 19.11,
+    "volume": 1674900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-19",
+    "price": 18.95,
+    "volume": 1704301
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-18",
+    "price": 19.13,
+    "volume": 1511149
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-17",
+    "price": 19.11,
+    "volume": 1563600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-14",
+    "price": 19.4,
+    "volume": 1647682
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-13",
+    "price": 19.89,
+    "volume": 1514206
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-12",
+    "price": 20.12,
+    "volume": 1667005
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-11",
+    "price": 20.21,
+    "volume": 1438030
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-10",
+    "price": 20.05,
+    "volume": 1567800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-07",
+    "price": 19.45,
+    "volume": 2856515
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-06",
+    "price": 19.48,
+    "volume": 1773600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-05",
+    "price": 20.15,
+    "volume": 2035600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-04",
+    "price": 20.15,
+    "volume": 2491543
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-11-03",
+    "price": 20.09,
+    "volume": 3705500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-31",
+    "price": 20.35,
+    "volume": 4988100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-30",
+    "price": 20.14,
+    "volume": 6205300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-29",
+    "price": 19.98,
+    "volume": 2005473
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-28",
+    "price": 20.06,
+    "volume": 1366100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-27",
+    "price": 20.35,
+    "volume": 1411200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-24",
+    "price": 20.36,
+    "volume": 1273600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-23",
+    "price": 20.22,
+    "volume": 1917300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-22",
+    "price": 19.84,
+    "volume": 2158846
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-21",
+    "price": 20.08,
+    "volume": 1444500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-20",
+    "price": 20.14,
+    "volume": 1676189
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-17",
+    "price": 19.96,
+    "volume": 1535540
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-16",
+    "price": 19.73,
+    "volume": 1473547
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-15",
+    "price": 19.61,
+    "volume": 2088004
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-14",
+    "price": 19.45,
+    "volume": 1945838
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-13",
+    "price": 19.22,
+    "volume": 1722704
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-10",
+    "price": 19.06,
+    "volume": 3642201
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-09",
+    "price": 20.19,
+    "volume": 1327300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-08",
+    "price": 20.58,
+    "volume": 1795015
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-07",
+    "price": 20.42,
+    "volume": 1322223
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-06",
+    "price": 20.63,
+    "volume": 2983500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-03",
+    "price": 20.85,
+    "volume": 2013800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-02",
+    "price": 20.57,
+    "volume": 1181000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-10-01",
+    "price": 20.36,
+    "volume": 2264700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-30",
+    "price": 20.37,
+    "volume": 2385005
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-29",
+    "price": 20.23,
+    "volume": 2378500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-26",
+    "price": 20.35,
+    "volume": 1945242
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-25",
+    "price": 19.99,
+    "volume": 1569586
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-24",
+    "price": 20.55,
+    "volume": 960900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-23",
+    "price": 20.84,
+    "volume": 1931600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-22",
+    "price": 20.89,
+    "volume": 1828296
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-19",
+    "price": 20.93,
+    "volume": 4326484
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-18",
+    "price": 21.03,
+    "volume": 2713277
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-17",
+    "price": 20.98,
+    "volume": 1940235
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-16",
+    "price": 21.1,
+    "volume": 1980300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-15",
+    "price": 21.13,
+    "volume": 1349744
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-12",
+    "price": 21.01,
+    "volume": 1223510
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-11",
+    "price": 21.61,
+    "volume": 1536910
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-10",
+    "price": 20.77,
+    "volume": 1757205
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-09",
+    "price": 20.81,
+    "volume": 1242318
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-08",
+    "price": 21.15,
+    "volume": 1430500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-05",
+    "price": 21.31,
+    "volume": 1910100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-04",
+    "price": 20.78,
+    "volume": 2587700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-03",
+    "price": 20.3,
+    "volume": 1829500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-09-02",
+    "price": 20.72,
+    "volume": 1010700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-29",
+    "price": 21.18,
+    "volume": 1038714
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-28",
+    "price": 21.25,
+    "volume": 896600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-27",
+    "price": 21.24,
+    "volume": 2782404
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-26",
+    "price": 21.14,
+    "volume": 1299200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-25",
+    "price": 21.12,
+    "volume": 1140800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-22",
+    "price": 21.72,
+    "volume": 1558800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-21",
+    "price": 20.46,
+    "volume": 858540
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-20",
+    "price": 20.72,
+    "volume": 1426100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-19",
+    "price": 20.71,
+    "volume": 1380218
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-18",
+    "price": 20.77,
+    "volume": 2387500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-15",
+    "price": 20.64,
+    "volume": 1690500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-14",
+    "price": 20.82,
+    "volume": 2226941
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-13",
+    "price": 21.56,
+    "volume": 2380348
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-12",
+    "price": 20.89,
+    "volume": 1901528
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-11",
+    "price": 20.16,
+    "volume": 2029600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-08",
+    "price": 20.24,
+    "volume": 1698300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-07",
+    "price": 20.09,
+    "volume": 2077400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-06",
+    "price": 19.71,
+    "volume": 2827300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-05",
+    "price": 20.07,
+    "volume": 2770700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-04",
+    "price": 20.48,
+    "volume": 3198900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-08-01",
+    "price": 20.83,
+    "volume": 6349513
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-31",
+    "price": 18.89,
+    "volume": 8145225
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-30",
+    "price": 19.96,
+    "volume": 2376000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-29",
+    "price": 20.3,
+    "volume": 2963000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-28",
+    "price": 20.74,
+    "volume": 2105300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-25",
+    "price": 20.8,
+    "volume": 2277906
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-24",
+    "price": 20.67,
+    "volume": 2303828
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-23",
+    "price": 20.75,
+    "volume": 2143706
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-22",
+    "price": 20.04,
+    "volume": 2462049
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-21",
+    "price": 19.47,
+    "volume": 1552826
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-18",
+    "price": 19.51,
+    "volume": 1980932
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-17",
+    "price": 19.75,
+    "volume": 1190134
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-16",
+    "price": 19.72,
+    "volume": 1689900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-15",
+    "price": 19.81,
+    "volume": 2097842
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-14",
+    "price": 20.03,
+    "volume": 1449729
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-11",
+    "price": 20.2,
+    "volume": 1855616
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-10",
+    "price": 20.72,
+    "volume": 2383800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-09",
+    "price": 20.38,
+    "volume": 1739300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-08",
+    "price": 20.15,
+    "volume": 1657740
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-07",
+    "price": 19.67,
+    "volume": 2289300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-03",
+    "price": 20.39,
+    "volume": 1002900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-02",
+    "price": 20.17,
+    "volume": 2168000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-07-01",
+    "price": 20.02,
+    "volume": 2676345
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-30",
+    "price": 19.54,
+    "volume": 2020608
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-27",
+    "price": 19.67,
+    "volume": 2564813
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-26",
+    "price": 19.65,
+    "volume": 1334347
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-25",
+    "price": 19.35,
+    "volume": 1600200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-24",
+    "price": 18.94,
+    "volume": 1938700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-23",
+    "price": 18.9,
+    "volume": 2281717
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-20",
+    "price": 18.89,
+    "volume": 3200221
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-18",
+    "price": 18.61,
+    "volume": 1604900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-17",
+    "price": 18.43,
+    "volume": 1811226
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-16",
+    "price": 18.98,
+    "volume": 1788000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-13",
+    "price": 18.45,
+    "volume": 1656700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-12",
+    "price": 18.87,
+    "volume": 1366716
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-11",
+    "price": 19.23,
+    "volume": 1948200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-10",
+    "price": 19.14,
+    "volume": 1899815
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-09",
+    "price": 19.02,
+    "volume": 1820400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-06",
+    "price": 18.73,
+    "volume": 1271400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-05",
+    "price": 18.68,
+    "volume": 1189539
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-04",
+    "price": 18.75,
+    "volume": 1611408
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-03",
+    "price": 18.73,
+    "volume": 3337502
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-06-02",
+    "price": 18.1,
+    "volume": 1678207
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-30",
+    "price": 18.27,
+    "volume": 2560800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-29",
+    "price": 18.46,
+    "volume": 3753222
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-28",
+    "price": 18.53,
+    "volume": 4238100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-27",
+    "price": 18,
+    "volume": 3579142
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-23",
+    "price": 16.72,
+    "volume": 2062600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-22",
+    "price": 16.87,
+    "volume": 2455419
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-21",
+    "price": 16.64,
+    "volume": 2120440
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-20",
+    "price": 17.77,
+    "volume": 4925700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-19",
+    "price": 17.7,
+    "volume": 2576903
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-16",
+    "price": 18.27,
+    "volume": 1826900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-15",
+    "price": 18.09,
+    "volume": 2346839
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-14",
+    "price": 17.93,
+    "volume": 3036000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-13",
+    "price": 18.61,
+    "volume": 1212800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-12",
+    "price": 18.55,
+    "volume": 2391237
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-09",
+    "price": 17.59,
+    "volume": 1751523
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-08",
+    "price": 17.77,
+    "volume": 2280500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-07",
+    "price": 16.84,
+    "volume": 2322700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-06",
+    "price": 16.39,
+    "volume": 2507935
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-05",
+    "price": 16.97,
+    "volume": 2761000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-02",
+    "price": 16.99,
+    "volume": 3541500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-05-01",
+    "price": 16.34,
+    "volume": 5975200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-30",
+    "price": 16.08,
+    "volume": 4760200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-29",
+    "price": 16.2,
+    "volume": 1818400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-28",
+    "price": 15.96,
+    "volume": 3097146
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-25",
+    "price": 15.94,
+    "volume": 2273500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-24",
+    "price": 15.98,
+    "volume": 1607400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-23",
+    "price": 15.73,
+    "volume": 2890628
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-22",
+    "price": 15.17,
+    "volume": 1770870
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-21",
+    "price": 14.87,
+    "volume": 2281119
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-17",
+    "price": 15.18,
+    "volume": 2104731
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-16",
+    "price": 15.02,
+    "volume": 3238700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-15",
+    "price": 15.14,
+    "volume": 1800345
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-14",
+    "price": 15.62,
+    "volume": 1383800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-11",
+    "price": 15.46,
+    "volume": 2446200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-10",
+    "price": 15.54,
+    "volume": 3148500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-09",
+    "price": 16.44,
+    "volume": 4266300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-08",
+    "price": 14.76,
+    "volume": 3855600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-07",
+    "price": 15.29,
+    "volume": 4063230
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-04",
+    "price": 15.48,
+    "volume": 5800011
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-03",
+    "price": 16.1,
+    "volume": 5085200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-02",
+    "price": 17.51,
+    "volume": 4197048
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-04-01",
+    "price": 17.1,
+    "volume": 3257000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-31",
+    "price": 17.26,
+    "volume": 3694940
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-28",
+    "price": 16.97,
+    "volume": 6605419
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-27",
+    "price": 18.03,
+    "volume": 3967300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-26",
+    "price": 17.57,
+    "volume": 3998637
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-25",
+    "price": 17.45,
+    "volume": 1982300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-24",
+    "price": 17.48,
+    "volume": 2621033
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-21",
+    "price": 16.66,
+    "volume": 12252515
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-20",
+    "price": 16.88,
+    "volume": 1746245
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-19",
+    "price": 17,
+    "volume": 1852025
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-18",
+    "price": 16.9,
+    "volume": 2093800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-17",
+    "price": 17.17,
+    "volume": 3641500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-14",
+    "price": 16.65,
+    "volume": 3077800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-13",
+    "price": 16.25,
+    "volume": 2778839
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-12",
+    "price": 16.74,
+    "volume": 2503500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-11",
+    "price": 17.13,
+    "volume": 3221940
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-10",
+    "price": 17.51,
+    "volume": 3168325
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-07",
+    "price": 18.43,
+    "volume": 3087968
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-06",
+    "price": 17.83,
+    "volume": 2787042
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-05",
+    "price": 18.24,
+    "volume": 4791500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-04",
+    "price": 18.62,
+    "volume": 3690400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-03-03",
+    "price": 19.02,
+    "volume": 2523000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-28",
+    "price": 19.98,
+    "volume": 2779021
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-27",
+    "price": 19.86,
+    "volume": 1965900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-26",
+    "price": 20.73,
+    "volume": 1673635
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-25",
+    "price": 20.66,
+    "volume": 2828230
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-24",
+    "price": 21.39,
+    "volume": 2779100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-21",
+    "price": 20.87,
+    "volume": 1424000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-20",
+    "price": 21.45,
+    "volume": 1632301
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-19",
+    "price": 21.76,
+    "volume": 1835600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-18",
+    "price": 22.15,
+    "volume": 2669000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-14",
+    "price": 21.62,
+    "volume": 957228
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-13",
+    "price": 21.51,
+    "volume": 1992300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-12",
+    "price": 20.86,
+    "volume": 1346400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-11",
+    "price": 21.02,
+    "volume": 1862600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-10",
+    "price": 21.23,
+    "volume": 2279537
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-07",
+    "price": 21.25,
+    "volume": 2438400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-06",
+    "price": 21.79,
+    "volume": 6847700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-05",
+    "price": 20.57,
+    "volume": 4922000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-04",
+    "price": 20.13,
+    "volume": 2041900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-02-03",
+    "price": 20.02,
+    "volume": 3253947
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-31",
+    "price": 20.52,
+    "volume": 2143100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-30",
+    "price": 21.41,
+    "volume": 1107900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-29",
+    "price": 21.37,
+    "volume": 1906527
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-28",
+    "price": 21.77,
+    "volume": 2189826
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-27",
+    "price": 21.6,
+    "volume": 1445900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-24",
+    "price": 21.45,
+    "volume": 2649349
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-23",
+    "price": 21.3,
+    "volume": 2444140
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-22",
+    "price": 21.05,
+    "volume": 2599047
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-21",
+    "price": 20.55,
+    "volume": 2507403
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-17",
+    "price": 19.83,
+    "volume": 1385800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-16",
+    "price": 19.19,
+    "volume": 920206
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-15",
+    "price": 19.18,
+    "volume": 1505700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-14",
+    "price": 18.85,
+    "volume": 1251100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-13",
+    "price": 18.99,
+    "volume": 1521954
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-10",
+    "price": 18.58,
+    "volume": 2716900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-08",
+    "price": 19.17,
+    "volume": 2204100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-07",
+    "price": 19.49,
+    "volume": 2006623
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-06",
+    "price": 19.62,
+    "volume": 1582100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-03",
+    "price": 19.03,
+    "volume": 2232500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2025-01-02",
+    "price": 19.11,
+    "volume": 1233434
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-31",
+    "price": 19.29,
+    "volume": 931500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-30",
+    "price": 19.11,
+    "volume": 1752233
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-27",
+    "price": 19.24,
+    "volume": 1339500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-26",
+    "price": 19.34,
+    "volume": 901309
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-24",
+    "price": 18.95,
+    "volume": 481217
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-23",
+    "price": 18.8,
+    "volume": 2212100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-20",
+    "price": 18.7,
+    "volume": 6290900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-19",
+    "price": 18.03,
+    "volume": 2106700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-18",
+    "price": 18.2,
+    "volume": 3210810
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-17",
+    "price": 19.24,
+    "volume": 1969612
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-16",
+    "price": 19.57,
+    "volume": 2282500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-13",
+    "price": 19.47,
+    "volume": 1680303
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-12",
+    "price": 20.3,
+    "volume": 1523622
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-11",
+    "price": 20.52,
+    "volume": 1855300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-10",
+    "price": 19.99,
+    "volume": 2206731
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-09",
+    "price": 20.01,
+    "volume": 1631734
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-06",
+    "price": 19.89,
+    "volume": 1515900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-05",
+    "price": 20.08,
+    "volume": 2628900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-04",
+    "price": 20.57,
+    "volume": 2954200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-03",
+    "price": 22,
+    "volume": 1709126
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-12-02",
+    "price": 22.31,
+    "volume": 1721800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-29",
+    "price": 22.29,
+    "volume": 664149
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-27",
+    "price": 22.33,
+    "volume": 1418200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-26",
+    "price": 22,
+    "volume": 2382647
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-25",
+    "price": 22.18,
+    "volume": 2305100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-22",
+    "price": 21.48,
+    "volume": 1721200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-21",
+    "price": 21.39,
+    "volume": 1955300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-20",
+    "price": 20.37,
+    "volume": 878800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-19",
+    "price": 20.26,
+    "volume": 1379700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-18",
+    "price": 20.61,
+    "volume": 3077100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-15",
+    "price": 20.57,
+    "volume": 1874100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-14",
+    "price": 20.08,
+    "volume": 1036139
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-13",
+    "price": 20.34,
+    "volume": 1457800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-12",
+    "price": 20.52,
+    "volume": 1391804
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-11",
+    "price": 20.75,
+    "volume": 1769600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-08",
+    "price": 20.39,
+    "volume": 1648200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-07",
+    "price": 21.4,
+    "volume": 4106500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-06",
+    "price": 21.89,
+    "volume": 1490600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-05",
+    "price": 21.1,
+    "volume": 1742400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-04",
+    "price": 21.28,
+    "volume": 2285100
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-11-01",
+    "price": 20.94,
+    "volume": 2955600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-31",
+    "price": 20.97,
+    "volume": 6330600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-30",
+    "price": 19.23,
+    "volume": 4087917
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-29",
+    "price": 18.79,
+    "volume": 2107000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-28",
+    "price": 19.23,
+    "volume": 2288003
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-25",
+    "price": 18.89,
+    "volume": 1891900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-24",
+    "price": 19.02,
+    "volume": 2773203
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-23",
+    "price": 19.09,
+    "volume": 2719500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-22",
+    "price": 18.66,
+    "volume": 1909200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-21",
+    "price": 18.57,
+    "volume": 1697227
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-18",
+    "price": 18.88,
+    "volume": 1465230
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-17",
+    "price": 18.27,
+    "volume": 983303
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-16",
+    "price": 18.18,
+    "volume": 1375800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-15",
+    "price": 17.7,
+    "volume": 2444200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-14",
+    "price": 17.84,
+    "volume": 1633003
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-11",
+    "price": 18.13,
+    "volume": 1934300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-10",
+    "price": 17.92,
+    "volume": 1528900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-09",
+    "price": 18.12,
+    "volume": 1617646
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-08",
+    "price": 18.2,
+    "volume": 1250720
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-07",
+    "price": 18.25,
+    "volume": 2294400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-04",
+    "price": 18.83,
+    "volume": 1469347
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-03",
+    "price": 18.64,
+    "volume": 2456231
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-02",
+    "price": 19.1,
+    "volume": 1989900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-10-01",
+    "price": 19.34,
+    "volume": 1869618
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-30",
+    "price": 19.76,
+    "volume": 1837200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-27",
+    "price": 19.76,
+    "volume": 1981024
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-26",
+    "price": 19.25,
+    "volume": 1329817
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-25",
+    "price": 18.64,
+    "volume": 1273325
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-24",
+    "price": 18.84,
+    "volume": 1130700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-23",
+    "price": 19.06,
+    "volume": 2395032
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-20",
+    "price": 19,
+    "volume": 3451910
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-19",
+    "price": 19.33,
+    "volume": 2263600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-18",
+    "price": 19.18,
+    "volume": 1867339
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-17",
+    "price": 19,
+    "volume": 1807900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-16",
+    "price": 18.89,
+    "volume": 2364325
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-13",
+    "price": 19.41,
+    "volume": 3595324
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-12",
+    "price": 18.67,
+    "volume": 4072700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-11",
+    "price": 17.64,
+    "volume": 2429400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-10",
+    "price": 17.24,
+    "volume": 1725200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-09",
+    "price": 16.98,
+    "volume": 1790000
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-06",
+    "price": 17.44,
+    "volume": 1676700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-05",
+    "price": 17.83,
+    "volume": 5461631
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-04",
+    "price": 17.22,
+    "volume": 3371615
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-09-03",
+    "price": 17.82,
+    "volume": 2175041
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-30",
+    "price": 18.26,
+    "volume": 1488800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-29",
+    "price": 18.4,
+    "volume": 1496829
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-28",
+    "price": 18.35,
+    "volume": 2655400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-27",
+    "price": 18.69,
+    "volume": 1939700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-26",
+    "price": 18.42,
+    "volume": 1805239
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-23",
+    "price": 18.7,
+    "volume": 2835705
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-22",
+    "price": 17.97,
+    "volume": 2125529
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-21",
+    "price": 18.01,
+    "volume": 2238243
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-20",
+    "price": 17.8,
+    "volume": 2814700
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-19",
+    "price": 18.31,
+    "volume": 2858253
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-16",
+    "price": 17.91,
+    "volume": 2476821
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-15",
+    "price": 18.03,
+    "volume": 4837600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-14",
+    "price": 17.31,
+    "volume": 3845200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-13",
+    "price": 16.99,
+    "volume": 4149425
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-12",
+    "price": 16.22,
+    "volume": 4055500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-09",
+    "price": 16.18,
+    "volume": 4447904
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-08",
+    "price": 16.5,
+    "volume": 8484226
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-07",
+    "price": 15.3,
+    "volume": 4262300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-06",
+    "price": 15.76,
+    "volume": 2999620
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-05",
+    "price": 15.77,
+    "volume": 2961400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-02",
+    "price": 16.66,
+    "volume": 2711900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-08-01",
+    "price": 16.93,
+    "volume": 1638300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-31",
+    "price": 17.07,
+    "volume": 2208800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-30",
+    "price": 16.9,
+    "volume": 2185200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-29",
+    "price": 16.42,
+    "volume": 1302534
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-26",
+    "price": 16.31,
+    "volume": 1351447
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-25",
+    "price": 16.11,
+    "volume": 3171500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-24",
+    "price": 16.29,
+    "volume": 3247300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-23",
+    "price": 16.25,
+    "volume": 2017500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-22",
+    "price": 16.32,
+    "volume": 1974474
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-19",
+    "price": 16.57,
+    "volume": 2361547
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-18",
+    "price": 16.5,
+    "volume": 1762714
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-17",
+    "price": 17.18,
+    "volume": 1985790
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-16",
+    "price": 16.85,
+    "volume": 2760687
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-15",
+    "price": 15.94,
+    "volume": 1798948
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-12",
+    "price": 16.04,
+    "volume": 3181080
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-11",
+    "price": 16.74,
+    "volume": 5105509
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-10",
+    "price": 15.85,
+    "volume": 2618746
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-09",
+    "price": 15.98,
+    "volume": 3282043
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-08",
+    "price": 16.41,
+    "volume": 2597836
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-05",
+    "price": 16.41,
+    "volume": 1785795
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-03",
+    "price": 16.29,
+    "volume": 1349025
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-02",
+    "price": 16.34,
+    "volume": 1715089
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-07-01",
+    "price": 16.11,
+    "volume": 2247191
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-28",
+    "price": 16.63,
+    "volume": 3035385
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-27",
+    "price": 16.48,
+    "volume": 2152726
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-26",
+    "price": 16.51,
+    "volume": 4077046
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-25",
+    "price": 16,
+    "volume": 5612371
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-24",
+    "price": 16.93,
+    "volume": 2062352
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-21",
+    "price": 17.41,
+    "volume": 9287525
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-20",
+    "price": 17.2,
+    "volume": 2631420
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-18",
+    "price": 17,
+    "volume": 2856060
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-17",
+    "price": 17.22,
+    "volume": 3081155
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-14",
+    "price": 17.67,
+    "volume": 1650671
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-13",
+    "price": 17.83,
+    "volume": 2000978
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-12",
+    "price": 18.17,
+    "volume": 2251541
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-11",
+    "price": 18.13,
+    "volume": 2709708
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-10",
+    "price": 18.17,
+    "volume": 2066041
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-07",
+    "price": 18.25,
+    "volume": 1054286
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-06",
+    "price": 18.44,
+    "volume": 1301903
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-05",
+    "price": 18.54,
+    "volume": 1198290
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-04",
+    "price": 18.58,
+    "volume": 1802894
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-06-03",
+    "price": 18.8,
+    "volume": 3084102
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-31",
+    "price": 19.36,
+    "volume": 2873033
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-30",
+    "price": 18.88,
+    "volume": 2644665
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-29",
+    "price": 18.2,
+    "volume": 3754645
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-28",
+    "price": 18.03,
+    "volume": 2840374
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-24",
+    "price": 18.25,
+    "volume": 1870915
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-23",
+    "price": 17.97,
+    "volume": 1611311
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-22",
+    "price": 18.63,
+    "volume": 2483551
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-21",
+    "price": 18.35,
+    "volume": 1739329
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-20",
+    "price": 18.27,
+    "volume": 1696918
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-17",
+    "price": 18.53,
+    "volume": 1134541
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-16",
+    "price": 19.13,
+    "volume": 1056628
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-15",
+    "price": 18.86,
+    "volume": 1736074
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-14",
+    "price": 19.17,
+    "volume": 1248968
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-13",
+    "price": 18.86,
+    "volume": 1839185
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-10",
+    "price": 18.54,
+    "volume": 2693376
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-09",
+    "price": 19.28,
+    "volume": 1735443
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-08",
+    "price": 18.83,
+    "volume": 2098660
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-07",
+    "price": 19,
+    "volume": 2051915
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-06",
+    "price": 19.06,
+    "volume": 3033388
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-03",
+    "price": 19,
+    "volume": 2239656
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-02",
+    "price": 19.81,
+    "volume": 4715517
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-05-01",
+    "price": 19.75,
+    "volume": 2509131
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-30",
+    "price": 19.68,
+    "volume": 2775266
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-29",
+    "price": 20.62,
+    "volume": 1411750
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-26",
+    "price": 20.39,
+    "volume": 1816943
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-25",
+    "price": 20.02,
+    "volume": 1193865
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-24",
+    "price": 20.28,
+    "volume": 1173568
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-23",
+    "price": 20.22,
+    "volume": 1329110
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-22",
+    "price": 20.11,
+    "volume": 1590770
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-19",
+    "price": 19.96,
+    "volume": 1174927
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-18",
+    "price": 19.75,
+    "volume": 1956824
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-17",
+    "price": 19.59,
+    "volume": 1891911
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-16",
+    "price": 19.78,
+    "volume": 3560294
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-15",
+    "price": 19.14,
+    "volume": 2084665
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-12",
+    "price": 19.18,
+    "volume": 1596500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-11",
+    "price": 20.09,
+    "volume": 1131226
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-10",
+    "price": 20.11,
+    "volume": 1346572
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-09",
+    "price": 21.1,
+    "volume": 2468243
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-08",
+    "price": 20.32,
+    "volume": 1828062
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-05",
+    "price": 20.46,
+    "volume": 2029214
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-04",
+    "price": 20.48,
+    "volume": 2035424
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-03",
+    "price": 20.24,
+    "volume": 3750975
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-02",
+    "price": 20.33,
+    "volume": 4646199
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-04-01",
+    "price": 20.81,
+    "volume": 1853642
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-28",
+    "price": 21.38,
+    "volume": 1380482
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-27",
+    "price": 21.55,
+    "volume": 1710870
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-26",
+    "price": 20.76,
+    "volume": 1986589
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-25",
+    "price": 20.96,
+    "volume": 1595070
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-22",
+    "price": 21.32,
+    "volume": 1595808
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-21",
+    "price": 21.5,
+    "volume": 1784241
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-20",
+    "price": 21.54,
+    "volume": 2314194
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-19",
+    "price": 21.75,
+    "volume": 1596424
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-18",
+    "price": 21.43,
+    "volume": 1627485
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-15",
+    "price": 21.36,
+    "volume": 4600360
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-14",
+    "price": 21.65,
+    "volume": 2874796
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-13",
+    "price": 21.75,
+    "volume": 2780666
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-12",
+    "price": 21.5,
+    "volume": 4111633
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-11",
+    "price": 21.73,
+    "volume": 1579009
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-08",
+    "price": 21.23,
+    "volume": 1496306
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-07",
+    "price": 21.13,
+    "volume": 1154320
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-06",
+    "price": 20.84,
+    "volume": 1849455
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-05",
+    "price": 20.64,
+    "volume": 1881789
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-04",
+    "price": 20.75,
+    "volume": 1453238
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-03-01",
+    "price": 20.92,
+    "volume": 3492945
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-29",
+    "price": 20.65,
+    "volume": 3312061
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-28",
+    "price": 20.87,
+    "volume": 3106086
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-27",
+    "price": 21.44,
+    "volume": 3045692
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-26",
+    "price": 21.92,
+    "volume": 1861670
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-23",
+    "price": 22.65,
+    "volume": 1648931
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-22",
+    "price": 22.87,
+    "volume": 2354865
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-21",
+    "price": 22.38,
+    "volume": 2362161
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-20",
+    "price": 22.87,
+    "volume": 2059802
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-16",
+    "price": 22.53,
+    "volume": 3083974
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-15",
+    "price": 22.5,
+    "volume": 2439047
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-14",
+    "price": 22.14,
+    "volume": 1925652
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-13",
+    "price": 21.9,
+    "volume": 2458536
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-12",
+    "price": 22.8,
+    "volume": 2446087
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-09",
+    "price": 21.94,
+    "volume": 4216581
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-08",
+    "price": 22.44,
+    "volume": 9866521
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-07",
+    "price": 24.24,
+    "volume": 3628235
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-06",
+    "price": 24.52,
+    "volume": 2820311
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-05",
+    "price": 23.75,
+    "volume": 3722422
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-02",
+    "price": 23.76,
+    "volume": 2075964
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-02-01",
+    "price": 23.74,
+    "volume": 3229910
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-31",
+    "price": 23.5,
+    "volume": 2680279
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-30",
+    "price": 24,
+    "volume": 1737585
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-29",
+    "price": 24.52,
+    "volume": 1804554
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-26",
+    "price": 24.37,
+    "volume": 1469869
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-25",
+    "price": 24.22,
+    "volume": 2277003
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-24",
+    "price": 23.87,
+    "volume": 1189546
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-23",
+    "price": 24.19,
+    "volume": 1675976
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-22",
+    "price": 24.09,
+    "volume": 2021587
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-19",
+    "price": 23.7,
+    "volume": 2010850
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-18",
+    "price": 24.06,
+    "volume": 2321033
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-17",
+    "price": 23.06,
+    "volume": 1182299
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-16",
+    "price": 23.55,
+    "volume": 1498261
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-12",
+    "price": 24.19,
+    "volume": 1944039
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-11",
+    "price": 24.7,
+    "volume": 1460613
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-10",
+    "price": 25.45,
+    "volume": 3109644
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-09",
+    "price": 25.19,
+    "volume": 3038266
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-08",
+    "price": 24.03,
+    "volume": 1895624
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-05",
+    "price": 23.38,
+    "volume": 2855132
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-04",
+    "price": 23.38,
+    "volume": 1704253
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-03",
+    "price": 23.46,
+    "volume": 1651407
+  },
+  {
+    "symbol": "NVST",
+    "date": "2024-01-02",
+    "price": 24.1,
+    "volume": 2040457
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-29",
+    "price": 24.06,
+    "volume": 2063212
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-28",
+    "price": 24.36,
+    "volume": 926086
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-27",
+    "price": 24.42,
+    "volume": 1301644
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-26",
+    "price": 24.53,
+    "volume": 1175412
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-22",
+    "price": 24.19,
+    "volume": 1236627
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-21",
+    "price": 24.41,
+    "volume": 2242062
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-20",
+    "price": 23.7,
+    "volume": 2243303
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-19",
+    "price": 24.53,
+    "volume": 2948501
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-18",
+    "price": 23.34,
+    "volume": 2532567
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-15",
+    "price": 23.85,
+    "volume": 5412159
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-14",
+    "price": 24.15,
+    "volume": 6091087
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-13",
+    "price": 23.78,
+    "volume": 5132440
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-12",
+    "price": 22.5,
+    "volume": 5274569
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-11",
+    "price": 22.79,
+    "volume": 2426203
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-08",
+    "price": 23.45,
+    "volume": 3795533
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-07",
+    "price": 24.01,
+    "volume": 1667060
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-06",
+    "price": 23.61,
+    "volume": 3013198
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-05",
+    "price": 23.7,
+    "volume": 1889873
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-04",
+    "price": 24.13,
+    "volume": 2266927
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-12-01",
+    "price": 23.9,
+    "volume": 2737021
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-30",
+    "price": 22.69,
+    "volume": 2978658
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-29",
+    "price": 22.79,
+    "volume": 2907355
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-28",
+    "price": 23.49,
+    "volume": 2095867
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-27",
+    "price": 23.88,
+    "volume": 1216015
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-24",
+    "price": 24.1,
+    "volume": 390621
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-22",
+    "price": 23.98,
+    "volume": 1001206
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-21",
+    "price": 23.95,
+    "volume": 1713899
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-20",
+    "price": 23.79,
+    "volume": 1724418
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-17",
+    "price": 23.45,
+    "volume": 2088641
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-16",
+    "price": 23.09,
+    "volume": 1409078
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-15",
+    "price": 23.24,
+    "volume": 2377934
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-14",
+    "price": 22.35,
+    "volume": 2860384
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-13",
+    "price": 21.26,
+    "volume": 3523786
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-10",
+    "price": 21.57,
+    "volume": 2986670
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-09",
+    "price": 21.06,
+    "volume": 2313276
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-08",
+    "price": 21.69,
+    "volume": 3284469
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-07",
+    "price": 21.46,
+    "volume": 2894008
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-06",
+    "price": 21.33,
+    "volume": 2488344
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-03",
+    "price": 22.1,
+    "volume": 3496235
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-02",
+    "price": 21.25,
+    "volume": 9869157
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-11-01",
+    "price": 22.99,
+    "volume": 3677979
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-31",
+    "price": 23.27,
+    "volume": 4869560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-30",
+    "price": 23.29,
+    "volume": 2632692
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-27",
+    "price": 23.52,
+    "volume": 2841594
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-26",
+    "price": 23.77,
+    "volume": 3671210
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-25",
+    "price": 24.64,
+    "volume": 4456131
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-24",
+    "price": 25.07,
+    "volume": 1478858
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-23",
+    "price": 24.76,
+    "volume": 1656560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-20",
+    "price": 24.79,
+    "volume": 2437925
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-19",
+    "price": 24.71,
+    "volume": 1858227
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-18",
+    "price": 24.88,
+    "volume": 1749577
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-17",
+    "price": 25.05,
+    "volume": 1827301
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-16",
+    "price": 24.79,
+    "volume": 3035062
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-13",
+    "price": 24.26,
+    "volume": 1508855
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-12",
+    "price": 24.49,
+    "volume": 2506150
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-11",
+    "price": 25.55,
+    "volume": 2072462
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-10",
+    "price": 26.05,
+    "volume": 1707460
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-09",
+    "price": 25.99,
+    "volume": 1605619
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-06",
+    "price": 26.37,
+    "volume": 1589893
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-05",
+    "price": 25.64,
+    "volume": 3269650
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-04",
+    "price": 26.99,
+    "volume": 1491302
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-03",
+    "price": 27.1,
+    "volume": 1257759
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-10-02",
+    "price": 27.57,
+    "volume": 1303627
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-29",
+    "price": 27.88,
+    "volume": 1199145
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-28",
+    "price": 28.12,
+    "volume": 1169071
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-27",
+    "price": 27.99,
+    "volume": 2088715
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-26",
+    "price": 28.11,
+    "volume": 1862865
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-25",
+    "price": 28.12,
+    "volume": 1380650
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-22",
+    "price": 27.83,
+    "volume": 1781519
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-21",
+    "price": 27.56,
+    "volume": 1428133
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-20",
+    "price": 28.2,
+    "volume": 1372095
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-19",
+    "price": 28.62,
+    "volume": 1284361
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-18",
+    "price": 28.88,
+    "volume": 1196785
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-15",
+    "price": 28.87,
+    "volume": 2363057
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-14",
+    "price": 29.01,
+    "volume": 2470932
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-13",
+    "price": 29.43,
+    "volume": 3859707
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-12",
+    "price": 30.47,
+    "volume": 1139886
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-11",
+    "price": 30.52,
+    "volume": 1325949
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-08",
+    "price": 29.87,
+    "volume": 1570393
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-07",
+    "price": 30.52,
+    "volume": 2854864
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-06",
+    "price": 31.38,
+    "volume": 1230598
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-05",
+    "price": 31.62,
+    "volume": 1159626
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-09-01",
+    "price": 32.38,
+    "volume": 948871
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-31",
+    "price": 32.02,
+    "volume": 2293307
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-30",
+    "price": 32.6,
+    "volume": 2106478
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-29",
+    "price": 33.1,
+    "volume": 965932
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-28",
+    "price": 32.7,
+    "volume": 1160652
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-25",
+    "price": 32.49,
+    "volume": 1185900
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-24",
+    "price": 32,
+    "volume": 1544933
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-23",
+    "price": 32.77,
+    "volume": 1593720
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-22",
+    "price": 32.46,
+    "volume": 1727276
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-21",
+    "price": 33.09,
+    "volume": 1545911
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-18",
+    "price": 32.68,
+    "volume": 1579061
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-17",
+    "price": 32.3,
+    "volume": 2039097
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-16",
+    "price": 32.76,
+    "volume": 1272703
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-15",
+    "price": 33.1,
+    "volume": 1127954
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-14",
+    "price": 33.28,
+    "volume": 2697650
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-11",
+    "price": 33.38,
+    "volume": 2993954
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-10",
+    "price": 32.67,
+    "volume": 2970990
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-09",
+    "price": 33.33,
+    "volume": 2668694
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-08",
+    "price": 34.42,
+    "volume": 10609950
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-07",
+    "price": 34.95,
+    "volume": 7045213
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-04",
+    "price": 33.65,
+    "volume": 1601559
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-03",
+    "price": 34.27,
+    "volume": 3772915
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-02",
+    "price": 33.92,
+    "volume": 4087632
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-08-01",
+    "price": 34.01,
+    "volume": 2977181
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-31",
+    "price": 34.41,
+    "volume": 1477358
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-28",
+    "price": 34.69,
+    "volume": 1619460
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-27",
+    "price": 34.62,
+    "volume": 1904229
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-26",
+    "price": 35.2,
+    "volume": 2003337
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-25",
+    "price": 34.9,
+    "volume": 1121965
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-24",
+    "price": 35.7,
+    "volume": 964998
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-21",
+    "price": 35.35,
+    "volume": 1300600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-20",
+    "price": 34.47,
+    "volume": 2292007
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-19",
+    "price": 35.16,
+    "volume": 1418500
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-18",
+    "price": 34.72,
+    "volume": 1067127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-17",
+    "price": 35.22,
+    "volume": 836019
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-14",
+    "price": 35.07,
+    "volume": 824601
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-13",
+    "price": 35.4,
+    "volume": 2277715
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-12",
+    "price": 34.25,
+    "volume": 3335579
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-11",
+    "price": 34.77,
+    "volume": 1356559
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-10",
+    "price": 33.84,
+    "volume": 1191306
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-07",
+    "price": 33.74,
+    "volume": 1326877
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-06",
+    "price": 33.58,
+    "volume": 1611711
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-05",
+    "price": 33.5,
+    "volume": 2270010
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-07-03",
+    "price": 33.88,
+    "volume": 709021
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-30",
+    "price": 33.84,
+    "volume": 1166897
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-29",
+    "price": 33.72,
+    "volume": 2601258
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-28",
+    "price": 33.65,
+    "volume": 1338199
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-27",
+    "price": 33.82,
+    "volume": 1563952
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-26",
+    "price": 33.76,
+    "volume": 1158723
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-23",
+    "price": 33.5,
+    "volume": 3854733
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-22",
+    "price": 34.3,
+    "volume": 1745194
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-21",
+    "price": 33.74,
+    "volume": 3035173
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-20",
+    "price": 33.46,
+    "volume": 2914803
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-16",
+    "price": 33.47,
+    "volume": 5005281
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-15",
+    "price": 32.63,
+    "volume": 2656196
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-14",
+    "price": 31.53,
+    "volume": 3290106
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-13",
+    "price": 32.15,
+    "volume": 1748452
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-12",
+    "price": 31.92,
+    "volume": 2355109
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-09",
+    "price": 31.79,
+    "volume": 1994753
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-08",
+    "price": 33.45,
+    "volume": 1206023
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-07",
+    "price": 33.59,
+    "volume": 1509300
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-06",
+    "price": 32.85,
+    "volume": 2732780
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-05",
+    "price": 32.68,
+    "volume": 2641108
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-02",
+    "price": 32.96,
+    "volume": 1639757
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-06-01",
+    "price": 32.24,
+    "volume": 2643371
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-31",
+    "price": 31.89,
+    "volume": 4423184
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-30",
+    "price": 32.98,
+    "volume": 1074424
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-26",
+    "price": 33.27,
+    "volume": 4652899
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-25",
+    "price": 32.95,
+    "volume": 1245058
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-24",
+    "price": 33.45,
+    "volume": 2646379
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-23",
+    "price": 34.11,
+    "volume": 3888594
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-22",
+    "price": 35.74,
+    "volume": 1674469
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-19",
+    "price": 35.4,
+    "volume": 1395503
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-18",
+    "price": 35.65,
+    "volume": 1661749
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-17",
+    "price": 34.75,
+    "volume": 1418603
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-16",
+    "price": 34.19,
+    "volume": 1452002
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-15",
+    "price": 34.24,
+    "volume": 2469203
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-12",
+    "price": 33.05,
+    "volume": 1579504
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-11",
+    "price": 33.14,
+    "volume": 2013269
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-10",
+    "price": 34,
+    "volume": 1742625
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-09",
+    "price": 34.51,
+    "volume": 2158117
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-08",
+    "price": 34.82,
+    "volume": 1622055
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-05",
+    "price": 35.34,
+    "volume": 1784080
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-04",
+    "price": 35.06,
+    "volume": 8235470
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-03",
+    "price": 37.64,
+    "volume": 3201400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-02",
+    "price": 37.47,
+    "volume": 1298127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-05-01",
+    "price": 38.41,
+    "volume": 1058460
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-28",
+    "price": 38.49,
+    "volume": 1060710
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-27",
+    "price": 37.93,
+    "volume": 894371
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-26",
+    "price": 37.99,
+    "volume": 785624
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-25",
+    "price": 38.21,
+    "volume": 1138956
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-24",
+    "price": 39.14,
+    "volume": 1034540
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-21",
+    "price": 38.94,
+    "volume": 2024438
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-20",
+    "price": 38.2,
+    "volume": 1070842
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-19",
+    "price": 38.26,
+    "volume": 2801749
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-18",
+    "price": 37.24,
+    "volume": 1550868
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-17",
+    "price": 37.65,
+    "volume": 1880115
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-14",
+    "price": 37.66,
+    "volume": 2068103
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-13",
+    "price": 38.51,
+    "volume": 2348050
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-12",
+    "price": 38.59,
+    "volume": 1179742
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-11",
+    "price": 39.22,
+    "volume": 1112981
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-10",
+    "price": 38.67,
+    "volume": 1052599
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-06",
+    "price": 38.49,
+    "volume": 2072707
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-05",
+    "price": 38.54,
+    "volume": 2751350
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-04",
+    "price": 38.73,
+    "volume": 2178537
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-04-03",
+    "price": 39.74,
+    "volume": 1540196
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-31",
+    "price": 40.88,
+    "volume": 1410680
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-30",
+    "price": 39.86,
+    "volume": 1666715
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-29",
+    "price": 39.26,
+    "volume": 1085581
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-28",
+    "price": 38.73,
+    "volume": 1599334
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-27",
+    "price": 38.33,
+    "volume": 1307567
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-24",
+    "price": 38.24,
+    "volume": 1044821
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-23",
+    "price": 37.77,
+    "volume": 1364689
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-22",
+    "price": 38.09,
+    "volume": 1263857
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-21",
+    "price": 39.12,
+    "volume": 3875919
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-20",
+    "price": 38.31,
+    "volume": 4231872
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-17",
+    "price": 37.6,
+    "volume": 3293783
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-16",
+    "price": 38.38,
+    "volume": 1327985
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-15",
+    "price": 37.79,
+    "volume": 2204912
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-14",
+    "price": 38.67,
+    "volume": 2236398
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-13",
+    "price": 37.61,
+    "volume": 1096837
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-10",
+    "price": 37.44,
+    "volume": 1710908
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-09",
+    "price": 37.93,
+    "volume": 846078
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-08",
+    "price": 38.73,
+    "volume": 1174043
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-07",
+    "price": 38.81,
+    "volume": 965581
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-06",
+    "price": 38.95,
+    "volume": 2330706
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-03",
+    "price": 39.69,
+    "volume": 1331185
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-02",
+    "price": 39.02,
+    "volume": 1256973
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-03-01",
+    "price": 38.61,
+    "volume": 2004382
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-28",
+    "price": 38.66,
+    "volume": 2847591
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-27",
+    "price": 38,
+    "volume": 1383631
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-24",
+    "price": 38.25,
+    "volume": 1489880
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-23",
+    "price": 38.67,
+    "volume": 2329347
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-22",
+    "price": 38.07,
+    "volume": 1524472
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-21",
+    "price": 37.98,
+    "volume": 1711270
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-17",
+    "price": 38.48,
+    "volume": 2113824
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-16",
+    "price": 39,
+    "volume": 1936227
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-15",
+    "price": 40.29,
+    "volume": 1394472
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-14",
+    "price": 40.29,
+    "volume": 3849664
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-13",
+    "price": 40.06,
+    "volume": 1571763
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-10",
+    "price": 39.93,
+    "volume": 2941127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-09",
+    "price": 40.25,
+    "volume": 5074911
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-08",
+    "price": 40.68,
+    "volume": 3064898
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-07",
+    "price": 41.5,
+    "volume": 1931123
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-06",
+    "price": 40.82,
+    "volume": 2085600
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-03",
+    "price": 41.21,
+    "volume": 2272234
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-02",
+    "price": 42.5,
+    "volume": 4379813
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-02-01",
+    "price": 39.72,
+    "volume": 1532434
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-31",
+    "price": 38.99,
+    "volume": 1476299
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-30",
+    "price": 37.95,
+    "volume": 1164436
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-27",
+    "price": 38.34,
+    "volume": 1021069
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-26",
+    "price": 37.84,
+    "volume": 2936345
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-25",
+    "price": 37.66,
+    "volume": 1407604
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-24",
+    "price": 36.94,
+    "volume": 1723678
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-23",
+    "price": 37.28,
+    "volume": 2007309
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-20",
+    "price": 36.82,
+    "volume": 1304061
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-19",
+    "price": 36.15,
+    "volume": 1342890
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-18",
+    "price": 35.41,
+    "volume": 1417265
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-17",
+    "price": 35.7,
+    "volume": 1007850
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-13",
+    "price": 35.63,
+    "volume": 1360207
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-12",
+    "price": 34.98,
+    "volume": 2533194
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-11",
+    "price": 35.36,
+    "volume": 2552410
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-10",
+    "price": 33.85,
+    "volume": 1713491
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-09",
+    "price": 32.95,
+    "volume": 1743642
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-06",
+    "price": 32.83,
+    "volume": 1159855
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-05",
+    "price": 32.93,
+    "volume": 1558984
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-04",
+    "price": 33.41,
+    "volume": 2772104
+  },
+  {
+    "symbol": "NVST",
+    "date": "2023-01-03",
+    "price": 33.96,
+    "volume": 1453258
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-30",
+    "price": 33.67,
+    "volume": 801247
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-29",
+    "price": 33.76,
+    "volume": 950621
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-28",
+    "price": 32.64,
+    "volume": 869842
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-27",
+    "price": 32.96,
+    "volume": 732528
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-23",
+    "price": 33.05,
+    "volume": 790489
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-22",
+    "price": 32.91,
+    "volume": 1214083
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-21",
+    "price": 32.95,
+    "volume": 1549555
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-20",
+    "price": 32.53,
+    "volume": 1756502
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-19",
+    "price": 32.64,
+    "volume": 1320988
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-16",
+    "price": 32.95,
+    "volume": 3103613
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-15",
+    "price": 33.54,
+    "volume": 2029458
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-14",
+    "price": 34.11,
+    "volume": 4282784
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-13",
+    "price": 33.85,
+    "volume": 2187908
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-12",
+    "price": 32.68,
+    "volume": 2284823
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-09",
+    "price": 32.84,
+    "volume": 958336
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-08",
+    "price": 32.87,
+    "volume": 1368566
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-07",
+    "price": 32.68,
+    "volume": 1833822
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-06",
+    "price": 32.86,
+    "volume": 1651069
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-05",
+    "price": 33.51,
+    "volume": 2327342
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-02",
+    "price": 34.82,
+    "volume": 1150137
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-12-01",
+    "price": 35.2,
+    "volume": 2365479
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-30",
+    "price": 34.12,
+    "volume": 6031275
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-29",
+    "price": 35.86,
+    "volume": 1752770
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-28",
+    "price": 36.21,
+    "volume": 1702411
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-25",
+    "price": 37.09,
+    "volume": 207827
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-23",
+    "price": 36.99,
+    "volume": 502743
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-22",
+    "price": 36.64,
+    "volume": 712661
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-21",
+    "price": 36.18,
+    "volume": 691252
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-18",
+    "price": 36.81,
+    "volume": 1154056
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-17",
+    "price": 36.27,
+    "volume": 1785681
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-16",
+    "price": 37.13,
+    "volume": 849713
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-15",
+    "price": 37.76,
+    "volume": 1121232
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-14",
+    "price": 37.41,
+    "volume": 1322746
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-11",
+    "price": 37.99,
+    "volume": 1455429
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-10",
+    "price": 36.04,
+    "volume": 1910351
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-09",
+    "price": 34.68,
+    "volume": 1533856
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-08",
+    "price": 34.62,
+    "volume": 1971908
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-07",
+    "price": 35.26,
+    "volume": 2423815
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-04",
+    "price": 34.4,
+    "volume": 3522087
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-03",
+    "price": 33.38,
+    "volume": 2356007
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-02",
+    "price": 33.47,
+    "volume": 2470056
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-11-01",
+    "price": 34.17,
+    "volume": 1580420
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-31",
+    "price": 33.01,
+    "volume": 1560189
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-28",
+    "price": 33.24,
+    "volume": 1101769
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-27",
+    "price": 33.38,
+    "volume": 2028102
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-26",
+    "price": 34.2,
+    "volume": 1247439
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-25",
+    "price": 33.67,
+    "volume": 2662802
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-24",
+    "price": 33.75,
+    "volume": 1465622
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-21",
+    "price": 33.74,
+    "volume": 3502043
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-20",
+    "price": 33.48,
+    "volume": 1456959
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-19",
+    "price": 33.2,
+    "volume": 1476016
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-18",
+    "price": 33.78,
+    "volume": 1243937
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-17",
+    "price": 33.42,
+    "volume": 1398088
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-14",
+    "price": 32.83,
+    "volume": 1031067
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-13",
+    "price": 33.67,
+    "volume": 2257860
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-12",
+    "price": 32.41,
+    "volume": 1090496
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-11",
+    "price": 32.96,
+    "volume": 1425445
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-10",
+    "price": 32.83,
+    "volume": 655113
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-07",
+    "price": 33.21,
+    "volume": 1424157
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-06",
+    "price": 34.12,
+    "volume": 1451016
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-05",
+    "price": 34.37,
+    "volume": 1340714
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-04",
+    "price": 34.27,
+    "volume": 1904119
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-10-03",
+    "price": 33.43,
+    "volume": 2237212
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-30",
+    "price": 32.81,
+    "volume": 2378001
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-29",
+    "price": 33.19,
+    "volume": 2538286
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-28",
+    "price": 33.78,
+    "volume": 4200022
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-27",
+    "price": 34.2,
+    "volume": 1344561
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-26",
+    "price": 34.06,
+    "volume": 1583266
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-23",
+    "price": 34.67,
+    "volume": 4400560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-22",
+    "price": 33.77,
+    "volume": 2359254
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-21",
+    "price": 33.51,
+    "volume": 1182245
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-20",
+    "price": 33.8,
+    "volume": 1448924
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-19",
+    "price": 34.83,
+    "volume": 1689784
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-16",
+    "price": 34.3,
+    "volume": 2888067
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-15",
+    "price": 35.73,
+    "volume": 1684360
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-14",
+    "price": 36.15,
+    "volume": 1067938
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-13",
+    "price": 36.54,
+    "volume": 1027870
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-12",
+    "price": 38.18,
+    "volume": 1793220
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-09",
+    "price": 37.89,
+    "volume": 1493458
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-08",
+    "price": 36.97,
+    "volume": 1597052
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-07",
+    "price": 36.6,
+    "volume": 1911548
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-06",
+    "price": 35.43,
+    "volume": 2596237
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-02",
+    "price": 35.77,
+    "volume": 2171060
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-09-01",
+    "price": 36.38,
+    "volume": 1532621
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-31",
+    "price": 37.09,
+    "volume": 1568712
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-30",
+    "price": 37.15,
+    "volume": 2704880
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-29",
+    "price": 37.2,
+    "volume": 2610745
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-26",
+    "price": 36.6,
+    "volume": 1319281
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-25",
+    "price": 38.25,
+    "volume": 1193001
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-24",
+    "price": 36.99,
+    "volume": 2316660
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-23",
+    "price": 36.74,
+    "volume": 1221447
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-22",
+    "price": 36.92,
+    "volume": 1417562
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-19",
+    "price": 38.54,
+    "volume": 1308779
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-18",
+    "price": 39.56,
+    "volume": 1040660
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-17",
+    "price": 39.55,
+    "volume": 1181956
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-16",
+    "price": 41.02,
+    "volume": 1342366
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-15",
+    "price": 41.41,
+    "volume": 742455
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-12",
+    "price": 41.51,
+    "volume": 946260
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-11",
+    "price": 40.57,
+    "volume": 931393
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-10",
+    "price": 40.81,
+    "volume": 1711135
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-09",
+    "price": 40.06,
+    "volume": 1169991
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-08",
+    "price": 40.91,
+    "volume": 1108762
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-05",
+    "price": 41.07,
+    "volume": 2063587
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-04",
+    "price": 40.85,
+    "volume": 4821103
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-03",
+    "price": 39.58,
+    "volume": 4206268
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-02",
+    "price": 40.34,
+    "volume": 1857187
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-08-01",
+    "price": 41.07,
+    "volume": 1480401
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-29",
+    "price": 40.65,
+    "volume": 1557630
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-28",
+    "price": 40.6,
+    "volume": 2283395
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-27",
+    "price": 39.7,
+    "volume": 2168557
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-26",
+    "price": 38.94,
+    "volume": 1066959
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-25",
+    "price": 39.12,
+    "volume": 1215498
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-22",
+    "price": 39.28,
+    "volume": 2038921
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-21",
+    "price": 41.2,
+    "volume": 1075985
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-20",
+    "price": 40.38,
+    "volume": 1367665
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-19",
+    "price": 40.01,
+    "volume": 1233868
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-18",
+    "price": 39.03,
+    "volume": 1552769
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-15",
+    "price": 38.79,
+    "volume": 1492262
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-14",
+    "price": 37.25,
+    "volume": 5236485
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-13",
+    "price": 37.22,
+    "volume": 1253113
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-12",
+    "price": 37.9,
+    "volume": 995453
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-11",
+    "price": 38.46,
+    "volume": 1145606
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-08",
+    "price": 39.07,
+    "volume": 1695615
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-07",
+    "price": 38.75,
+    "volume": 1224540
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-06",
+    "price": 38.25,
+    "volume": 1450979
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-05",
+    "price": 39.09,
+    "volume": 1662798
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-07-01",
+    "price": 39.14,
+    "volume": 1069583
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-30",
+    "price": 38.54,
+    "volume": 1812866
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-29",
+    "price": 38.92,
+    "volume": 1765621
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-28",
+    "price": 38.56,
+    "volume": 1950036
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-27",
+    "price": 38.99,
+    "volume": 1105531
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-24",
+    "price": 38.39,
+    "volume": 1854355
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-23",
+    "price": 37.29,
+    "volume": 1708949
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-22",
+    "price": 36.3,
+    "volume": 1875553
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-21",
+    "price": 36.03,
+    "volume": 1407744
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-17",
+    "price": 35.59,
+    "volume": 2504937
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-16",
+    "price": 35.72,
+    "volume": 1624460
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-15",
+    "price": 36.59,
+    "volume": 1399020
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-14",
+    "price": 37.09,
+    "volume": 3292107
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-13",
+    "price": 38.47,
+    "volume": 1344860
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-10",
+    "price": 40.2,
+    "volume": 1124854
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-09",
+    "price": 41.25,
+    "volume": 1234011
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-08",
+    "price": 42.21,
+    "volume": 755167
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-07",
+    "price": 43.75,
+    "volume": 1846986
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-06",
+    "price": 43.23,
+    "volume": 1166626
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-03",
+    "price": 43.18,
+    "volume": 2232497
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-02",
+    "price": 43.91,
+    "volume": 1593567
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-06-01",
+    "price": 42.01,
+    "volume": 3068492
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-31",
+    "price": 43.04,
+    "volume": 1373229
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-27",
+    "price": 42.99,
+    "volume": 863565
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-26",
+    "price": 42,
+    "volume": 1171556
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-25",
+    "price": 41.95,
+    "volume": 1844871
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-24",
+    "price": 41.75,
+    "volume": 1521248
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-23",
+    "price": 42.38,
+    "volume": 1549543
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-20",
+    "price": 42.03,
+    "volume": 1280983
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-19",
+    "price": 42.09,
+    "volume": 1260866
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-18",
+    "price": 41.33,
+    "volume": 1688529
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-17",
+    "price": 42.92,
+    "volume": 1709571
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-16",
+    "price": 41.78,
+    "volume": 836962
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-13",
+    "price": 41.75,
+    "volume": 1702838
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-12",
+    "price": 41.58,
+    "volume": 1133613
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-11",
+    "price": 41.29,
+    "volume": 1673186
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-10",
+    "price": 42.31,
+    "volume": 1887195
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-09",
+    "price": 42.87,
+    "volume": 2041423
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-06",
+    "price": 44.86,
+    "volume": 3017027
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-05",
+    "price": 43.73,
+    "volume": 4839091
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-04",
+    "price": 41.59,
+    "volume": 2618237
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-03",
+    "price": 40.67,
+    "volume": 2239159
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-05-02",
+    "price": 39.52,
+    "volume": 2007560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-29",
+    "price": 39.62,
+    "volume": 1899632
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-28",
+    "price": 40.65,
+    "volume": 3336965
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-27",
+    "price": 41.99,
+    "volume": 1418844
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-26",
+    "price": 42.52,
+    "volume": 1509683
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-25",
+    "price": 42.83,
+    "volume": 1402641
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-22",
+    "price": 43.16,
+    "volume": 1907129
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-21",
+    "price": 44.08,
+    "volume": 1300617
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-20",
+    "price": 45.34,
+    "volume": 1714677
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-19",
+    "price": 44.56,
+    "volume": 2918784
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-18",
+    "price": 45.72,
+    "volume": 819854
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-14",
+    "price": 45.84,
+    "volume": 797045
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-13",
+    "price": 46.25,
+    "volume": 1079561
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-12",
+    "price": 45.41,
+    "volume": 1141922
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-11",
+    "price": 46.22,
+    "volume": 1630352
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-08",
+    "price": 46.13,
+    "volume": 1190758
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-07",
+    "price": 46.49,
+    "volume": 1537472
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-06",
+    "price": 46.21,
+    "volume": 1479953
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-05",
+    "price": 46.96,
+    "volume": 2103196
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-04",
+    "price": 47.62,
+    "volume": 2285731
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-04-01",
+    "price": 48.1,
+    "volume": 3493143
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-31",
+    "price": 48.71,
+    "volume": 3083037
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-30",
+    "price": 48.87,
+    "volume": 2389136
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-29",
+    "price": 49.1,
+    "volume": 3946014
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-28",
+    "price": 50.56,
+    "volume": 1957643
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-25",
+    "price": 49.46,
+    "volume": 994386
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-24",
+    "price": 50.05,
+    "volume": 1719511
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-23",
+    "price": 49.74,
+    "volume": 1500129
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-22",
+    "price": 50.67,
+    "volume": 1673639
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-21",
+    "price": 50.9,
+    "volume": 2842574
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-18",
+    "price": 49.95,
+    "volume": 2659127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-17",
+    "price": 49.38,
+    "volume": 2090080
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-16",
+    "price": 47.87,
+    "volume": 2051669
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-15",
+    "price": 45.38,
+    "volume": 1297107
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-14",
+    "price": 44.26,
+    "volume": 2273915
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-11",
+    "price": 45.06,
+    "volume": 2712540
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-10",
+    "price": 47.01,
+    "volume": 1966543
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-09",
+    "price": 47.21,
+    "volume": 2963789
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-08",
+    "price": 45.25,
+    "volume": 3520424
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-07",
+    "price": 44.01,
+    "volume": 2256029
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-04",
+    "price": 46.42,
+    "volume": 1439571
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-03",
+    "price": 47.02,
+    "volume": 1863873
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-02",
+    "price": 47.68,
+    "volume": 1966909
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-03-01",
+    "price": 47.63,
+    "volume": 2305960
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-28",
+    "price": 48,
+    "volume": 2366146
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-25",
+    "price": 48.52,
+    "volume": 1687694
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-24",
+    "price": 47.36,
+    "volume": 2469476
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-23",
+    "price": 47.23,
+    "volume": 2183741
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-22",
+    "price": 47.16,
+    "volume": 1488606
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-18",
+    "price": 47.92,
+    "volume": 1375226
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-17",
+    "price": 49.01,
+    "volume": 1706874
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-16",
+    "price": 49.75,
+    "volume": 2457039
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-15",
+    "price": 48.23,
+    "volume": 1561206
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-14",
+    "price": 46.86,
+    "volume": 1694062
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-11",
+    "price": 46.76,
+    "volume": 2157398
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-10",
+    "price": 47.14,
+    "volume": 4424953
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-09",
+    "price": 44.04,
+    "volume": 1723298
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-08",
+    "price": 43.37,
+    "volume": 1490703
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-07",
+    "price": 42.46,
+    "volume": 1337605
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-04",
+    "price": 42.88,
+    "volume": 1176731
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-03",
+    "price": 43.18,
+    "volume": 784951
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-02",
+    "price": 43.82,
+    "volume": 1382127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-02-01",
+    "price": 43.4,
+    "volume": 1589937
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-31",
+    "price": 43.24,
+    "volume": 1450569
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-28",
+    "price": 42.45,
+    "volume": 1312515
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-27",
+    "price": 41.4,
+    "volume": 2828433
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-26",
+    "price": 42.76,
+    "volume": 2400985
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-25",
+    "price": 42.27,
+    "volume": 1394814
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-24",
+    "price": 43.22,
+    "volume": 1912494
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-21",
+    "price": 42.88,
+    "volume": 1533947
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-20",
+    "price": 43.14,
+    "volume": 918086
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-19",
+    "price": 43.81,
+    "volume": 1260513
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-18",
+    "price": 44.99,
+    "volume": 1232786
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-14",
+    "price": 46.31,
+    "volume": 2131363
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-13",
+    "price": 45.76,
+    "volume": 1290149
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-12",
+    "price": 45.34,
+    "volume": 696637
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-11",
+    "price": 45.87,
+    "volume": 1200332
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-10",
+    "price": 44.5,
+    "volume": 1581104
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-07",
+    "price": 44.42,
+    "volume": 1211146
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-06",
+    "price": 44.29,
+    "volume": 1291350
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-05",
+    "price": 44.23,
+    "volume": 1650834
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-04",
+    "price": 44.84,
+    "volume": 1934028
+  },
+  {
+    "symbol": "NVST",
+    "date": "2022-01-03",
+    "price": 45.14,
+    "volume": 721917
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-31",
+    "price": 45.06,
+    "volume": 779799
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-30",
+    "price": 45.04,
+    "volume": 1955065
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-29",
+    "price": 45.28,
+    "volume": 760047
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-28",
+    "price": 45.74,
+    "volume": 1151224
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-27",
+    "price": 46.74,
+    "volume": 1345688
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-23",
+    "price": 45.7,
+    "volume": 1488078
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-22",
+    "price": 44.75,
+    "volume": 2359903
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-21",
+    "price": 41.59,
+    "volume": 1021902
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-20",
+    "price": 40.13,
+    "volume": 813938
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-17",
+    "price": 40.93,
+    "volume": 1988390
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-16",
+    "price": 40.97,
+    "volume": 1795330
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-15",
+    "price": 41.24,
+    "volume": 1234454
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-14",
+    "price": 39.6,
+    "volume": 998339
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-13",
+    "price": 40.38,
+    "volume": 1376455
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-10",
+    "price": 41.11,
+    "volume": 762435
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-09",
+    "price": 41.05,
+    "volume": 1024372
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-08",
+    "price": 41.77,
+    "volume": 684785
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-07",
+    "price": 41.47,
+    "volume": 1075345
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-06",
+    "price": 40,
+    "volume": 1591976
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-03",
+    "price": 38.79,
+    "volume": 1372604
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-02",
+    "price": 39.01,
+    "volume": 716485
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-12-01",
+    "price": 38.15,
+    "volume": 1316439
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-30",
+    "price": 38.8,
+    "volume": 1198732
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-29",
+    "price": 39.37,
+    "volume": 1063852
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-26",
+    "price": 40.08,
+    "volume": 689202
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-24",
+    "price": 41.58,
+    "volume": 848310
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-23",
+    "price": 41.94,
+    "volume": 918966
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-22",
+    "price": 42.31,
+    "volume": 1047787
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-19",
+    "price": 42.1,
+    "volume": 1077319
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-18",
+    "price": 42.59,
+    "volume": 711040
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-17",
+    "price": 42.7,
+    "volume": 1799318
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-16",
+    "price": 42.7,
+    "volume": 1156342
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-15",
+    "price": 42.79,
+    "volume": 989748
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-12",
+    "price": 43.3,
+    "volume": 673052
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-11",
+    "price": 42.87,
+    "volume": 1434938
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-10",
+    "price": 43.1,
+    "volume": 1469996
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-09",
+    "price": 43.9,
+    "volume": 1583601
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-08",
+    "price": 42.85,
+    "volume": 1194477
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-05",
+    "price": 43.34,
+    "volume": 1661654
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-04",
+    "price": 42.53,
+    "volume": 3998433
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-03",
+    "price": 40.38,
+    "volume": 1061800
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-02",
+    "price": 40.37,
+    "volume": 1210634
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-11-01",
+    "price": 40.12,
+    "volume": 1148982
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-29",
+    "price": 39.1,
+    "volume": 1817817
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-28",
+    "price": 38.86,
+    "volume": 1071916
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-27",
+    "price": 37.73,
+    "volume": 1069975
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-26",
+    "price": 38.61,
+    "volume": 1193311
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-25",
+    "price": 38.46,
+    "volume": 1244503
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-22",
+    "price": 39.07,
+    "volume": 560035
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-21",
+    "price": 38.75,
+    "volume": 749268
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-20",
+    "price": 38.92,
+    "volume": 1205109
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-19",
+    "price": 38.78,
+    "volume": 643087
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-18",
+    "price": 38.4,
+    "volume": 1056805
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-15",
+    "price": 38.72,
+    "volume": 570133
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-14",
+    "price": 39.09,
+    "volume": 1263503
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-13",
+    "price": 38.38,
+    "volume": 1237184
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-12",
+    "price": 38.99,
+    "volume": 1168967
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-11",
+    "price": 39.25,
+    "volume": 833448
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-08",
+    "price": 39.97,
+    "volume": 822864
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-07",
+    "price": 40.29,
+    "volume": 1250143
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-06",
+    "price": 40.47,
+    "volume": 1829621
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-05",
+    "price": 41.16,
+    "volume": 1714057
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-04",
+    "price": 42.16,
+    "volume": 1181502
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-10-01",
+    "price": 42.78,
+    "volume": 828463
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-30",
+    "price": 41.81,
+    "volume": 1531783
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-29",
+    "price": 42.89,
+    "volume": 914937
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-28",
+    "price": 43,
+    "volume": 2024560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-27",
+    "price": 42.49,
+    "volume": 2681106
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-24",
+    "price": 43.28,
+    "volume": 1367739
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-23",
+    "price": 42.66,
+    "volume": 1911306
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-22",
+    "price": 41.8,
+    "volume": 2034933
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-21",
+    "price": 41.05,
+    "volume": 724087
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-20",
+    "price": 41.58,
+    "volume": 1465461
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-17",
+    "price": 42.53,
+    "volume": 2712591
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-16",
+    "price": 43.45,
+    "volume": 1579951
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-15",
+    "price": 43.68,
+    "volume": 1173708
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-14",
+    "price": 43.52,
+    "volume": 1290418
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-13",
+    "price": 43.44,
+    "volume": 1194655
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-10",
+    "price": 43.04,
+    "volume": 2047388
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-09",
+    "price": 43.33,
+    "volume": 6201016
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-08",
+    "price": 43.17,
+    "volume": 936336
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-07",
+    "price": 42.99,
+    "volume": 1605693
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-03",
+    "price": 43.37,
+    "volume": 552053
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-02",
+    "price": 43.96,
+    "volume": 1988371
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-09-01",
+    "price": 42.81,
+    "volume": 1013779
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-31",
+    "price": 42.79,
+    "volume": 844457
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-30",
+    "price": 42.74,
+    "volume": 2506901
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-27",
+    "price": 42.67,
+    "volume": 1361036
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-26",
+    "price": 41.4,
+    "volume": 1438353
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-25",
+    "price": 42.09,
+    "volume": 831210
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-24",
+    "price": 42.03,
+    "volume": 1708418
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-23",
+    "price": 41.07,
+    "volume": 2094756
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-20",
+    "price": 40.75,
+    "volume": 523200
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-19",
+    "price": 40.17,
+    "volume": 685753
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-18",
+    "price": 40.31,
+    "volume": 1077580
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-17",
+    "price": 41.16,
+    "volume": 2052482
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-16",
+    "price": 40.7,
+    "volume": 1147779
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-13",
+    "price": 40.01,
+    "volume": 500812
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-12",
+    "price": 40.02,
+    "volume": 1123146
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-11",
+    "price": 40.17,
+    "volume": 1243533
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-10",
+    "price": 39.75,
+    "volume": 1854658
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-09",
+    "price": 40.32,
+    "volume": 1116777
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-06",
+    "price": 41.17,
+    "volume": 1353715
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-05",
+    "price": 40.75,
+    "volume": 2467264
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-04",
+    "price": 40.54,
+    "volume": 5391884
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-03",
+    "price": 43.78,
+    "volume": 2203321
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-08-02",
+    "price": 43.83,
+    "volume": 2642531
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-30",
+    "price": 43.08,
+    "volume": 3534806
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-29",
+    "price": 42.62,
+    "volume": 1267464
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-28",
+    "price": 42.18,
+    "volume": 1915553
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-27",
+    "price": 41.92,
+    "volume": 952817
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-26",
+    "price": 41.77,
+    "volume": 1041040
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-23",
+    "price": 41.51,
+    "volume": 1325617
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-22",
+    "price": 41.82,
+    "volume": 1592385
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-21",
+    "price": 42.3,
+    "volume": 1235736
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-20",
+    "price": 40.86,
+    "volume": 1177323
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-19",
+    "price": 39.99,
+    "volume": 2421937
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-16",
+    "price": 40.95,
+    "volume": 1823656
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-15",
+    "price": 41.91,
+    "volume": 1056041
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-14",
+    "price": 42.55,
+    "volume": 1532572
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-13",
+    "price": 42.84,
+    "volume": 1124788
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-12",
+    "price": 44.09,
+    "volume": 1113935
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-09",
+    "price": 43.61,
+    "volume": 1134919
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-08",
+    "price": 42.79,
+    "volume": 975243
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-07",
+    "price": 43.69,
+    "volume": 1166393
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-06",
+    "price": 43.25,
+    "volume": 1148446
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-02",
+    "price": 43.33,
+    "volume": 1066327
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-07-01",
+    "price": 43.77,
+    "volume": 1035768
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-30",
+    "price": 43.21,
+    "volume": 1335548
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-29",
+    "price": 43.51,
+    "volume": 1790168
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-28",
+    "price": 43.63,
+    "volume": 871832
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-25",
+    "price": 43.92,
+    "volume": 1888231
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-24",
+    "price": 43.38,
+    "volume": 1857994
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-23",
+    "price": 42.85,
+    "volume": 1969445
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-22",
+    "price": 43.45,
+    "volume": 1676767
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-21",
+    "price": 43.55,
+    "volume": 1198273
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-18",
+    "price": 42.77,
+    "volume": 2559985
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-17",
+    "price": 43.68,
+    "volume": 1005124
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-16",
+    "price": 43.96,
+    "volume": 842763
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-15",
+    "price": 44.25,
+    "volume": 2081922
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-14",
+    "price": 43.5,
+    "volume": 840244
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-11",
+    "price": 44.06,
+    "volume": 1040221
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-10",
+    "price": 43.6,
+    "volume": 1276151
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-09",
+    "price": 43.15,
+    "volume": 900205
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-08",
+    "price": 42.98,
+    "volume": 1115909
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-07",
+    "price": 42.11,
+    "volume": 1737611
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-04",
+    "price": 42.12,
+    "volume": 700440
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-03",
+    "price": 42.06,
+    "volume": 1610646
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-02",
+    "price": 41.38,
+    "volume": 2504661
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-06-01",
+    "price": 42.92,
+    "volume": 1278757
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-28",
+    "price": 43.64,
+    "volume": 1204607
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-27",
+    "price": 44,
+    "volume": 1271094
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-26",
+    "price": 43.65,
+    "volume": 2342136
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-25",
+    "price": 43.56,
+    "volume": 1225052
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-24",
+    "price": 44.16,
+    "volume": 1070120
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-21",
+    "price": 44.01,
+    "volume": 1214312
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-20",
+    "price": 44.2,
+    "volume": 1379445
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-19",
+    "price": 44.25,
+    "volume": 1369039
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-18",
+    "price": 44.49,
+    "volume": 781799
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-17",
+    "price": 45.06,
+    "volume": 2214132
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-14",
+    "price": 45.23,
+    "volume": 1562820
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-13",
+    "price": 43.94,
+    "volume": 4470870
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-12",
+    "price": 44.02,
+    "volume": 1545806
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-11",
+    "price": 45.17,
+    "volume": 1598201
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-10",
+    "price": 45.28,
+    "volume": 2055299
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-07",
+    "price": 45.48,
+    "volume": 3181724
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-06",
+    "price": 44.84,
+    "volume": 3943976
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-05",
+    "price": 42.84,
+    "volume": 2615311
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-04",
+    "price": 43.92,
+    "volume": 2272664
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-05-03",
+    "price": 43.45,
+    "volume": 1389887
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-30",
+    "price": 43.28,
+    "volume": 1119656
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-29",
+    "price": 43.9,
+    "volume": 2141080
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-28",
+    "price": 44.15,
+    "volume": 1820830
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-27",
+    "price": 43.65,
+    "volume": 1072864
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-26",
+    "price": 43.87,
+    "volume": 1156213
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-23",
+    "price": 44.07,
+    "volume": 834199
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-22",
+    "price": 43.43,
+    "volume": 938266
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-21",
+    "price": 43.6,
+    "volume": 1134400
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-20",
+    "price": 42.29,
+    "volume": 1579775
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-19",
+    "price": 42.67,
+    "volume": 1527742
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-16",
+    "price": 42.52,
+    "volume": 1915766
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-15",
+    "price": 41.92,
+    "volume": 1192742
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-14",
+    "price": 41.56,
+    "volume": 1806226
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-13",
+    "price": 42.15,
+    "volume": 1919770
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-12",
+    "price": 41.76,
+    "volume": 2919558
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-09",
+    "price": 42.28,
+    "volume": 36590365
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-08",
+    "price": 43.35,
+    "volume": 7654317
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-07",
+    "price": 43.47,
+    "volume": 13702313
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-06",
+    "price": 40.91,
+    "volume": 1938798
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-05",
+    "price": 41.76,
+    "volume": 2022436
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-04-01",
+    "price": 40.83,
+    "volume": 1418739
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-31",
+    "price": 40.8,
+    "volume": 2713039
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-30",
+    "price": 40.86,
+    "volume": 1028423
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-29",
+    "price": 40.83,
+    "volume": 877931
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-26",
+    "price": 41.16,
+    "volume": 457058
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-25",
+    "price": 40.65,
+    "volume": 903408
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-24",
+    "price": 39.55,
+    "volume": 1137107
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-23",
+    "price": 39.64,
+    "volume": 2068441
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-22",
+    "price": 40.68,
+    "volume": 839628
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-19",
+    "price": 41.44,
+    "volume": 1509271
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-18",
+    "price": 40.66,
+    "volume": 672695
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-17",
+    "price": 41.04,
+    "volume": 723777
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-16",
+    "price": 40.56,
+    "volume": 760057
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-15",
+    "price": 41.63,
+    "volume": 773843
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-12",
+    "price": 40.75,
+    "volume": 739021
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-11",
+    "price": 40.3,
+    "volume": 1140475
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-10",
+    "price": 39.74,
+    "volume": 831070
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-09",
+    "price": 39.35,
+    "volume": 1008292
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-08",
+    "price": 38.47,
+    "volume": 2667039
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-05",
+    "price": 38.89,
+    "volume": 1118127
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-04",
+    "price": 37.86,
+    "volume": 1004560
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-03",
+    "price": 38.66,
+    "volume": 687316
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-02",
+    "price": 39.38,
+    "volume": 1254090
+  },
+  {
+    "symbol": "NVST",
+    "date": "2021-03-01",
+    "price": 39.47,
+    "volume": 1203360
+  }
+]

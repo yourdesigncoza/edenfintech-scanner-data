@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "HUM",
+    "date": "2026-02-27",
+    "price": 190.54,
+    "volume": 2346525
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-26",
+    "price": 186.83,
+    "volume": 1925600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-25",
+    "price": 176.06,
+    "volume": 1894500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-24",
+    "price": 174.64,
+    "volume": 2041824
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-23",
+    "price": 181.16,
+    "volume": 1259986
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-20",
+    "price": 189.83,
+    "volume": 1582500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-19",
+    "price": 190.5,
+    "volume": 1653800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-18",
+    "price": 187.12,
+    "volume": 1415872
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-17",
+    "price": 184.99,
+    "volume": 1988056
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-13",
+    "price": 184.1,
+    "volume": 2740732
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-12",
+    "price": 178.83,
+    "volume": 3327029
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-11",
+    "price": 175.4,
+    "volume": 6919300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-10",
+    "price": 181.3,
+    "volume": 4244800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-09",
+    "price": 189.49,
+    "volume": 2228200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-06",
+    "price": 193.94,
+    "volume": 1986400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-05",
+    "price": 193.55,
+    "volume": 2019800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-04",
+    "price": 192.07,
+    "volume": 2104100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-03",
+    "price": 193.02,
+    "volume": 2541806
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-02-02",
+    "price": 187.2,
+    "volume": 2819800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-30",
+    "price": 195.2,
+    "volume": 3220400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-29",
+    "price": 196.67,
+    "volume": 3255300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-28",
+    "price": 194.01,
+    "volume": 8300200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-27",
+    "price": 207.93,
+    "volume": 10459200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-26",
+    "price": 263.63,
+    "volume": 1707800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-23",
+    "price": 266.5,
+    "volume": 1268557
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-22",
+    "price": 266.29,
+    "volume": 1096100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-21",
+    "price": 270.67,
+    "volume": 1255500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-20",
+    "price": 268,
+    "volume": 1537272
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-16",
+    "price": 273.28,
+    "volume": 885654
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-15",
+    "price": 283.95,
+    "volume": 976925
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-14",
+    "price": 274.14,
+    "volume": 941603
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-13",
+    "price": 273.96,
+    "volume": 441603
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-12",
+    "price": 276.59,
+    "volume": 719029
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-09",
+    "price": 276.85,
+    "volume": 610616
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-08",
+    "price": 277.57,
+    "volume": 750394
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-07",
+    "price": 275.06,
+    "volume": 737159
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-06",
+    "price": 279.84,
+    "volume": 1014741
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-05",
+    "price": 275.8,
+    "volume": 1295384
+  },
+  {
+    "symbol": "HUM",
+    "date": "2026-01-02",
+    "price": 264.48,
+    "volume": 1443200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-31",
+    "price": 256.13,
+    "volume": 617617
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-30",
+    "price": 259.05,
+    "volume": 598720
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-29",
+    "price": 258.34,
+    "volume": 901448
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-26",
+    "price": 258.83,
+    "volume": 557276
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-24",
+    "price": 259.25,
+    "volume": 365429
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-23",
+    "price": 257.12,
+    "volume": 924800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-22",
+    "price": 257.68,
+    "volume": 1111718
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-19",
+    "price": 259.4,
+    "volume": 1860135
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-18",
+    "price": 260.67,
+    "volume": 1302000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-17",
+    "price": 260.28,
+    "volume": 1081930
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-16",
+    "price": 258.16,
+    "volume": 3000183
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-15",
+    "price": 274.74,
+    "volume": 2028861
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-12",
+    "price": 268.45,
+    "volume": 1130742
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-11",
+    "price": 266.49,
+    "volume": 1902247
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-10",
+    "price": 256.66,
+    "volume": 1046980
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-09",
+    "price": 250.39,
+    "volume": 970700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-08",
+    "price": 256.39,
+    "volume": 1282147
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-05",
+    "price": 257.85,
+    "volume": 1627163
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-04",
+    "price": 253.02,
+    "volume": 2097400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-03",
+    "price": 256.92,
+    "volume": 2531071
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-02",
+    "price": 241.96,
+    "volume": 1696598
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-12-01",
+    "price": 242.23,
+    "volume": 1623567
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-28",
+    "price": 245.77,
+    "volume": 621900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-26",
+    "price": 245.99,
+    "volume": 1993578
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-25",
+    "price": 237.88,
+    "volume": 2181993
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-24",
+    "price": 229.2,
+    "volume": 2121129
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-21",
+    "price": 227.1,
+    "volume": 1779659
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-20",
+    "price": 223.29,
+    "volume": 1442785
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-19",
+    "price": 228.9,
+    "volume": 1493304
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-18",
+    "price": 234.1,
+    "volume": 1423355
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-17",
+    "price": 234.11,
+    "volume": 1261715
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-14",
+    "price": 237.12,
+    "volume": 1540455
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-13",
+    "price": 236.74,
+    "volume": 1457142
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-12",
+    "price": 240.48,
+    "volume": 1829035
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-11",
+    "price": 243.47,
+    "volume": 1492141
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-10",
+    "price": 238.42,
+    "volume": 1974400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-07",
+    "price": 252.04,
+    "volume": 1472385
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-06",
+    "price": 251.11,
+    "volume": 2465900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-05",
+    "price": 264.94,
+    "volume": 3485442
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-04",
+    "price": 281.87,
+    "volume": 1413508
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-11-03",
+    "price": 279.92,
+    "volume": 1295263
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-31",
+    "price": 278.19,
+    "volume": 1782774
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-30",
+    "price": 285.61,
+    "volume": 1791132
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-29",
+    "price": 292.67,
+    "volume": 1337300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-28",
+    "price": 294.8,
+    "volume": 1329400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-27",
+    "price": 292.34,
+    "volume": 1027314
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-24",
+    "price": 290.65,
+    "volume": 791956
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-23",
+    "price": 291.3,
+    "volume": 881696
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-22",
+    "price": 287.72,
+    "volume": 972340
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-21",
+    "price": 295.2,
+    "volume": 1909959
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-20",
+    "price": 284,
+    "volume": 1071661
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-17",
+    "price": 275.01,
+    "volume": 2142812
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-16",
+    "price": 267.28,
+    "volume": 1521000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-15",
+    "price": 262.17,
+    "volume": 1422814
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-14",
+    "price": 261.61,
+    "volume": 2745356
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-13",
+    "price": 271,
+    "volume": 1671970
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-10",
+    "price": 280.22,
+    "volume": 1610519
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-09",
+    "price": 290.6,
+    "volume": 948279
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-08",
+    "price": 298.04,
+    "volume": 1551415
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-07",
+    "price": 295.25,
+    "volume": 1787426
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-06",
+    "price": 295.2,
+    "volume": 2777800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-03",
+    "price": 283.72,
+    "volume": 4476322
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-02",
+    "price": 256.62,
+    "volume": 5300539
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-10-01",
+    "price": 246.77,
+    "volume": 2802407
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-30",
+    "price": 260.17,
+    "volume": 1603191
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-29",
+    "price": 255.23,
+    "volume": 1184601
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-26",
+    "price": 254.95,
+    "volume": 1255938
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-25",
+    "price": 254.43,
+    "volume": 2208600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-24",
+    "price": 261.97,
+    "volume": 1569133
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-23",
+    "price": 258.32,
+    "volume": 1613056
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-22",
+    "price": 257.87,
+    "volume": 1927351
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-19",
+    "price": 252.66,
+    "volume": 4957837
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-18",
+    "price": 264.86,
+    "volume": 1355421
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-17",
+    "price": 269.39,
+    "volume": 1492349
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-16",
+    "price": 272.32,
+    "volume": 2637357
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-15",
+    "price": 275.42,
+    "volume": 1277628
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-12",
+    "price": 276.44,
+    "volume": 1138456
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-11",
+    "price": 278.72,
+    "volume": 2057357
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-10",
+    "price": 273.58,
+    "volume": 4315995
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-09",
+    "price": 273.02,
+    "volume": 4844000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-08",
+    "price": 310.38,
+    "volume": 1147615
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-05",
+    "price": 307.92,
+    "volume": 1504675
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-04",
+    "price": 312,
+    "volume": 1621339
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-03",
+    "price": 311.98,
+    "volume": 1739435
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-09-02",
+    "price": 310.06,
+    "volume": 1966100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-29",
+    "price": 303.66,
+    "volume": 1100151
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-28",
+    "price": 297.89,
+    "volume": 997500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-27",
+    "price": 297.26,
+    "volume": 859304
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-26",
+    "price": 298.87,
+    "volume": 1010565
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-25",
+    "price": 297.2,
+    "volume": 880150
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-22",
+    "price": 299.51,
+    "volume": 1615932
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-21",
+    "price": 294.47,
+    "volume": 1496200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-20",
+    "price": 290,
+    "volume": 1247813
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-19",
+    "price": 288.25,
+    "volume": 1534237
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-18",
+    "price": 287.19,
+    "volume": 1298136
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-15",
+    "price": 286.39,
+    "volume": 1738781
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-14",
+    "price": 281.34,
+    "volume": 1144800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-13",
+    "price": 281.99,
+    "volume": 2064536
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-12",
+    "price": 274.94,
+    "volume": 1547209
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-11",
+    "price": 266.67,
+    "volume": 1749500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-08",
+    "price": 266.68,
+    "volume": 1678450
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-07",
+    "price": 256.14,
+    "volume": 850519
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-06",
+    "price": 256.62,
+    "volume": 1263459
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-05",
+    "price": 254.47,
+    "volume": 1936939
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-04",
+    "price": 247.35,
+    "volume": 1316343
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-08-01",
+    "price": 247.26,
+    "volume": 1756131
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-31",
+    "price": 249.87,
+    "volume": 3140934
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-30",
+    "price": 261.47,
+    "volume": 6384024
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-29",
+    "price": 232.62,
+    "volume": 2089100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-28",
+    "price": 231.52,
+    "volume": 1791839
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-25",
+    "price": 237.98,
+    "volume": 1569800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-24",
+    "price": 229.21,
+    "volume": 1235000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-23",
+    "price": 237.12,
+    "volume": 1915250
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-22",
+    "price": 231.12,
+    "volume": 1622756
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-21",
+    "price": 223.43,
+    "volume": 2139349
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-18",
+    "price": 220.41,
+    "volume": 4320072
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-17",
+    "price": 223.55,
+    "volume": 1775756
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-16",
+    "price": 226.56,
+    "volume": 1097299
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-15",
+    "price": 221.9,
+    "volume": 1469616
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-14",
+    "price": 227.46,
+    "volume": 1234000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-11",
+    "price": 230.67,
+    "volume": 1077823
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-10",
+    "price": 232.18,
+    "volume": 1183997
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-09",
+    "price": 236.7,
+    "volume": 770682
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-08",
+    "price": 237.49,
+    "volume": 912200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-07",
+    "price": 237.21,
+    "volume": 1367228
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-03",
+    "price": 239.68,
+    "volume": 960833
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-02",
+    "price": 243.79,
+    "volume": 2587235
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-07-01",
+    "price": 252.58,
+    "volume": 1456000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-30",
+    "price": 244.48,
+    "volume": 1232934
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-27",
+    "price": 241.88,
+    "volume": 1755423
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-26",
+    "price": 239.9,
+    "volume": 1097062
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-25",
+    "price": 238.51,
+    "volume": 1346200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-24",
+    "price": 238.79,
+    "volume": 1281300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-23",
+    "price": 234.66,
+    "volume": 1826818
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-20",
+    "price": 239.62,
+    "volume": 2045560
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-18",
+    "price": 243.4,
+    "volume": 1686258
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-17",
+    "price": 241.45,
+    "volume": 3163986
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-16",
+    "price": 235.39,
+    "volume": 2307118
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-13",
+    "price": 235.26,
+    "volume": 1512932
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-12",
+    "price": 234.96,
+    "volume": 1419525
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-11",
+    "price": 231.74,
+    "volume": 1293531
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-10",
+    "price": 231.98,
+    "volume": 1137707
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-09",
+    "price": 233.07,
+    "volume": 1251927
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-06",
+    "price": 230.7,
+    "volume": 3453625
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-05",
+    "price": 227.16,
+    "volume": 1708863
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-04",
+    "price": 230.83,
+    "volume": 1106100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-03",
+    "price": 233.42,
+    "volume": 1129442
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-06-02",
+    "price": 231.39,
+    "volume": 1300502
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-30",
+    "price": 233.13,
+    "volume": 2524816
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-29",
+    "price": 230.08,
+    "volume": 1283603
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-28",
+    "price": 227.79,
+    "volume": 1581123
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-27",
+    "price": 226.61,
+    "volume": 1555476
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-23",
+    "price": 224.93,
+    "volume": 1674901
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-22",
+    "price": 227.14,
+    "volume": 3009100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-21",
+    "price": 245.77,
+    "volume": 1554600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-20",
+    "price": 255.31,
+    "volume": 1878852
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-19",
+    "price": 247.34,
+    "volume": 2095700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-16",
+    "price": 237.96,
+    "volume": 2572000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-15",
+    "price": 227.47,
+    "volume": 4230023
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-14",
+    "price": 230.47,
+    "volume": 2532322
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-13",
+    "price": 228.89,
+    "volume": 3848500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-12",
+    "price": 252.86,
+    "volume": 1425159
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-09",
+    "price": 249.53,
+    "volume": 1088225
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-08",
+    "price": 253.35,
+    "volume": 1234900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-07",
+    "price": 253.12,
+    "volume": 782900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-06",
+    "price": 251.77,
+    "volume": 985553
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-05",
+    "price": 256.69,
+    "volume": 1348335
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-02",
+    "price": 258.48,
+    "volume": 1740141
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-05-01",
+    "price": 256.04,
+    "volume": 1755610
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-30",
+    "price": 262.24,
+    "volume": 3489061
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-29",
+    "price": 259.36,
+    "volume": 2472514
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-28",
+    "price": 263.2,
+    "volume": 1717300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-25",
+    "price": 264.4,
+    "volume": 1097955
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-24",
+    "price": 267.83,
+    "volume": 1061170
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-23",
+    "price": 263.61,
+    "volume": 1092431
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-22",
+    "price": 258.92,
+    "volume": 1340743
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-21",
+    "price": 245.91,
+    "volume": 2050617
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-17",
+    "price": 264.48,
+    "volume": 3670510
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-16",
+    "price": 285.61,
+    "volume": 1338437
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-15",
+    "price": 286.78,
+    "volume": 1150900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-14",
+    "price": 284.82,
+    "volume": 1473643
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-11",
+    "price": 295.04,
+    "volume": 1674703
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-10",
+    "price": 290.25,
+    "volume": 2277711
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-09",
+    "price": 285.53,
+    "volume": 2653600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-08",
+    "price": 281.95,
+    "volume": 4637924
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-07",
+    "price": 254.71,
+    "volume": 1838800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-04",
+    "price": 253.77,
+    "volume": 2435104
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-03",
+    "price": 265.48,
+    "volume": 1808784
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-02",
+    "price": 265.8,
+    "volume": 1117484
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-04-01",
+    "price": 264.74,
+    "volume": 927243
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-31",
+    "price": 264.6,
+    "volume": 1201515
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-28",
+    "price": 264.58,
+    "volume": 967920
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-27",
+    "price": 270.38,
+    "volume": 1284400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-26",
+    "price": 270.48,
+    "volume": 822600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-25",
+    "price": 273.77,
+    "volume": 1392707
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-24",
+    "price": 271.72,
+    "volume": 1252837
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-21",
+    "price": 266.17,
+    "volume": 1963626
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-20",
+    "price": 266.83,
+    "volume": 1069984
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-19",
+    "price": 267.34,
+    "volume": 1614200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-18",
+    "price": 269.78,
+    "volume": 1632637
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-17",
+    "price": 264.41,
+    "volume": 1103942
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-14",
+    "price": 252.88,
+    "volume": 1331435
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-13",
+    "price": 251.73,
+    "volume": 1074953
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-12",
+    "price": 249.11,
+    "volume": 1150900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-11",
+    "price": 250.2,
+    "volume": 1387815
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-10",
+    "price": 251.25,
+    "volume": 2108547
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-07",
+    "price": 259.76,
+    "volume": 1553129
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-06",
+    "price": 265.76,
+    "volume": 1434814
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-05",
+    "price": 262.12,
+    "volume": 1033835
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-04",
+    "price": 262.78,
+    "volume": 1317000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-03-03",
+    "price": 261.54,
+    "volume": 1561165
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-28",
+    "price": 270.42,
+    "volume": 2250700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-27",
+    "price": 261.44,
+    "volume": 1448495
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-26",
+    "price": 255.07,
+    "volume": 1490924
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-25",
+    "price": 259.27,
+    "volume": 1770962
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-24",
+    "price": 255,
+    "volume": 1721542
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-21",
+    "price": 255.91,
+    "volume": 2863200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-20",
+    "price": 271.3,
+    "volume": 1037837
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-19",
+    "price": 265.52,
+    "volume": 1233336
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-18",
+    "price": 257.24,
+    "volume": 1419000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-14",
+    "price": 253.83,
+    "volume": 2386589
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-13",
+    "price": 252.88,
+    "volume": 1735000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-12",
+    "price": 260.03,
+    "volume": 2649884
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-11",
+    "price": 257.34,
+    "volume": 4535200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-10",
+    "price": 266.8,
+    "volume": 3030543
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-07",
+    "price": 274.33,
+    "volume": 985014
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-06",
+    "price": 279.58,
+    "volume": 1523500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-05",
+    "price": 290.53,
+    "volume": 1102600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-04",
+    "price": 295.53,
+    "volume": 1577055
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-02-03",
+    "price": 293,
+    "volume": 1555873
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-31",
+    "price": 293.23,
+    "volume": 1250800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-30",
+    "price": 296.91,
+    "volume": 1196022
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-29",
+    "price": 294.23,
+    "volume": 1252852
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-28",
+    "price": 303.11,
+    "volume": 1134420
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-27",
+    "price": 297.76,
+    "volume": 2177884
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-24",
+    "price": 294.63,
+    "volume": 1216100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-23",
+    "price": 293.8,
+    "volume": 5077615
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-22",
+    "price": 284.92,
+    "volume": 908380
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-21",
+    "price": 284.67,
+    "volume": 958727
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-17",
+    "price": 282.63,
+    "volume": 1835540
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-16",
+    "price": 275.8,
+    "volume": 1600290
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-15",
+    "price": 279.49,
+    "volume": 1204698
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-14",
+    "price": 282.63,
+    "volume": 1092777
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-13",
+    "price": 287.36,
+    "volume": 1989194
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-10",
+    "price": 269.04,
+    "volume": 1660800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-08",
+    "price": 268.13,
+    "volume": 892300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-07",
+    "price": 267.21,
+    "volume": 976848
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-06",
+    "price": 264.29,
+    "volume": 1736900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-03",
+    "price": 262.47,
+    "volume": 1373935
+  },
+  {
+    "symbol": "HUM",
+    "date": "2025-01-02",
+    "price": 252.65,
+    "volume": 878531
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-31",
+    "price": 253.71,
+    "volume": 873888
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-30",
+    "price": 254.26,
+    "volume": 951197
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-27",
+    "price": 255.64,
+    "volume": 1050064
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-26",
+    "price": 256.14,
+    "volume": 846910
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-24",
+    "price": 255.52,
+    "volume": 483239
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-23",
+    "price": 255.74,
+    "volume": 2089754
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-20",
+    "price": 247.1,
+    "volume": 4223637
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-19",
+    "price": 235.78,
+    "volume": 2424575
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-18",
+    "price": 239.85,
+    "volume": 2677900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-17",
+    "price": 233.89,
+    "volume": 5641336
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-16",
+    "price": 260.46,
+    "volume": 3129628
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-13",
+    "price": 274.12,
+    "volume": 1383466
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-12",
+    "price": 272.78,
+    "volume": 1666300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-11",
+    "price": 278.2,
+    "volume": 1812835
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-10",
+    "price": 285.82,
+    "volume": 1131446
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-09",
+    "price": 286.24,
+    "volume": 1125594
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-06",
+    "price": 281.73,
+    "volume": 1751061
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-05",
+    "price": 283.06,
+    "volume": 1081313
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-04",
+    "price": 288.08,
+    "volume": 1269710
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-03",
+    "price": 291.13,
+    "volume": 1046060
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-12-02",
+    "price": 293.13,
+    "volume": 1261300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-29",
+    "price": 296.38,
+    "volume": 533900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-27",
+    "price": 296.68,
+    "volume": 995819
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-26",
+    "price": 295.59,
+    "volume": 1556000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-25",
+    "price": 304.18,
+    "volume": 2656941
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-22",
+    "price": 298.11,
+    "volume": 1450600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-21",
+    "price": 295.71,
+    "volume": 1214847
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-20",
+    "price": 293.97,
+    "volume": 2286853
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-19",
+    "price": 277.78,
+    "volume": 1447500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-18",
+    "price": 271.35,
+    "volume": 1929880
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-15",
+    "price": 275.67,
+    "volume": 1842901
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-14",
+    "price": 283.14,
+    "volume": 2049047
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-13",
+    "price": 289.42,
+    "volume": 2191327
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-12",
+    "price": 280.06,
+    "volume": 1684661
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-11",
+    "price": 282.44,
+    "volume": 2213507
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-08",
+    "price": 288.12,
+    "volume": 1691700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-07",
+    "price": 287.76,
+    "volume": 2492848
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-06",
+    "price": 288.51,
+    "volume": 5199686
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-05",
+    "price": 260.6,
+    "volume": 1460900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-04",
+    "price": 255.55,
+    "volume": 1910965
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-11-01",
+    "price": 260.71,
+    "volume": 1424246
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-31",
+    "price": 257.83,
+    "volume": 1865168
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-30",
+    "price": 266.32,
+    "volume": 3358437
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-29",
+    "price": 257.77,
+    "volume": 1801000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-28",
+    "price": 261.09,
+    "volume": 1630820
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-25",
+    "price": 260.73,
+    "volume": 1824348
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-24",
+    "price": 258.58,
+    "volume": 1696287
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-23",
+    "price": 258.65,
+    "volume": 1518500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-22",
+    "price": 262.31,
+    "volume": 1859900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-21",
+    "price": 260.57,
+    "volume": 3500247
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-18",
+    "price": 267.14,
+    "volume": 4660847
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-17",
+    "price": 266.34,
+    "volume": 3694541
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-16",
+    "price": 255.57,
+    "volume": 1773412
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-15",
+    "price": 257.6,
+    "volume": 3151004
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-14",
+    "price": 267.6,
+    "volume": 2902340
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-11",
+    "price": 258.07,
+    "volume": 4020200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-10",
+    "price": 251.44,
+    "volume": 2494100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-09",
+    "price": 245.45,
+    "volume": 1841600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-08",
+    "price": 243.2,
+    "volume": 3205100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-07",
+    "price": 236.29,
+    "volume": 3253019
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-04",
+    "price": 240.03,
+    "volume": 3608699
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-03",
+    "price": 241.78,
+    "volume": 5396818
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-02",
+    "price": 246.49,
+    "volume": 19640535
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-10-01",
+    "price": 279.45,
+    "volume": 7056544
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-30",
+    "price": 316.74,
+    "volume": 1520864
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-27",
+    "price": 319.57,
+    "volume": 1217341
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-26",
+    "price": 313.04,
+    "volume": 1485200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-25",
+    "price": 311.95,
+    "volume": 911840
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-24",
+    "price": 312.23,
+    "volume": 1202843
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-23",
+    "price": 312.77,
+    "volume": 1533262
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-20",
+    "price": 310.41,
+    "volume": 1830233
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-19",
+    "price": 312,
+    "volume": 1100500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-18",
+    "price": 315.29,
+    "volume": 1785114
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-17",
+    "price": 311.8,
+    "volume": 1826411
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-16",
+    "price": 315.23,
+    "volume": 2692203
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-13",
+    "price": 321.56,
+    "volume": 2062614
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-12",
+    "price": 324.5,
+    "volume": 1635208
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-11",
+    "price": 328.19,
+    "volume": 2677100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-10",
+    "price": 346.42,
+    "volume": 1162974
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-09",
+    "price": 343.76,
+    "volume": 2058000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-06",
+    "price": 357.86,
+    "volume": 1080228
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-05",
+    "price": 365.14,
+    "volume": 1281572
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-04",
+    "price": 371.4,
+    "volume": 1473746
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-09-03",
+    "price": 363.53,
+    "volume": 956839
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-30",
+    "price": 354.47,
+    "volume": 1135132
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-29",
+    "price": 351.36,
+    "volume": 608500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-28",
+    "price": 352.43,
+    "volume": 595273
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-27",
+    "price": 353.45,
+    "volume": 794044
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-26",
+    "price": 353,
+    "volume": 678402
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-23",
+    "price": 352.9,
+    "volume": 999887
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-22",
+    "price": 354.75,
+    "volume": 970560
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-21",
+    "price": 358.57,
+    "volume": 768235
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-20",
+    "price": 356.98,
+    "volume": 1025915
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-19",
+    "price": 353.25,
+    "volume": 740600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-16",
+    "price": 350.36,
+    "volume": 755128
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-15",
+    "price": 357.23,
+    "volume": 730630
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-14",
+    "price": 356.38,
+    "volume": 541150
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-13",
+    "price": 356.84,
+    "volume": 526049
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-12",
+    "price": 348.29,
+    "volume": 485900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-09",
+    "price": 350.83,
+    "volume": 628100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-08",
+    "price": 350.32,
+    "volume": 908700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-07",
+    "price": 345.56,
+    "volume": 944066
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-06",
+    "price": 355.25,
+    "volume": 930754
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-05",
+    "price": 356.29,
+    "volume": 1304200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-02",
+    "price": 363.62,
+    "volume": 1076306
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-08-01",
+    "price": 358.98,
+    "volume": 1919169
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-31",
+    "price": 361.61,
+    "volume": 4378000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-30",
+    "price": 404.52,
+    "volume": 1715400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-29",
+    "price": 392.12,
+    "volume": 1297614
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-26",
+    "price": 392.63,
+    "volume": 1004000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-25",
+    "price": 386.4,
+    "volume": 1116600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-24",
+    "price": 386.3,
+    "volume": 866030
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-23",
+    "price": 385.87,
+    "volume": 816458
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-22",
+    "price": 384.96,
+    "volume": 702956
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-19",
+    "price": 387.38,
+    "volume": 1075210
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-18",
+    "price": 388.89,
+    "volume": 1873353
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-17",
+    "price": 402.17,
+    "volume": 1832524
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-16",
+    "price": 395.6,
+    "volume": 1773700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-15",
+    "price": 384.21,
+    "volume": 1567400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-12",
+    "price": 382.22,
+    "volume": 1071937
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-11",
+    "price": 379.73,
+    "volume": 939800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-10",
+    "price": 379.17,
+    "volume": 950452
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-09",
+    "price": 373.36,
+    "volume": 1352900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-08",
+    "price": 370.43,
+    "volume": 977758
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-05",
+    "price": 368.82,
+    "volume": 690242
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-03",
+    "price": 362.85,
+    "volume": 750723
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-02",
+    "price": 374.82,
+    "volume": 1136654
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-07-01",
+    "price": 373.49,
+    "volume": 1054027
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-28",
+    "price": 373.65,
+    "volume": 5489806
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-27",
+    "price": 362.98,
+    "volume": 664235
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-26",
+    "price": 361.09,
+    "volume": 642710
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-25",
+    "price": 355.8,
+    "volume": 616582
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-24",
+    "price": 358.04,
+    "volume": 1441708
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-21",
+    "price": 355.48,
+    "volume": 1633238
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-20",
+    "price": 357.42,
+    "volume": 1473600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-18",
+    "price": 349.55,
+    "volume": 693500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-17",
+    "price": 355.25,
+    "volume": 610020
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-14",
+    "price": 358.93,
+    "volume": 867077
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-13",
+    "price": 358.1,
+    "volume": 1480748
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-12",
+    "price": 352.38,
+    "volume": 1042161
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-11",
+    "price": 351.77,
+    "volume": 913029
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-10",
+    "price": 349.34,
+    "volume": 1168607
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-07",
+    "price": 351.8,
+    "volume": 875933
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-06",
+    "price": 355.43,
+    "volume": 1562540
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-05",
+    "price": 361,
+    "volume": 1275361
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-04",
+    "price": 360.87,
+    "volume": 1526609
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-06-03",
+    "price": 364.2,
+    "volume": 1285149
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-31",
+    "price": 358.12,
+    "volume": 1757939
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-30",
+    "price": 347.38,
+    "volume": 1350100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-29",
+    "price": 345.31,
+    "volume": 2159169
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-28",
+    "price": 349.21,
+    "volume": 1604300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-24",
+    "price": 349.3,
+    "volume": 1583481
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-23",
+    "price": 352.22,
+    "volume": 2132548
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-22",
+    "price": 356.6,
+    "volume": 795400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-21",
+    "price": 355.63,
+    "volume": 953622
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-20",
+    "price": 355.22,
+    "volume": 1430417
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-17",
+    "price": 356.2,
+    "volume": 1435649
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-16",
+    "price": 355.19,
+    "volume": 2168368
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-15",
+    "price": 347.15,
+    "volume": 1687115
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-14",
+    "price": 344.5,
+    "volume": 2037823
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-13",
+    "price": 339.58,
+    "volume": 1852988
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-10",
+    "price": 335.59,
+    "volume": 1340172
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-09",
+    "price": 334.68,
+    "volume": 1977618
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-08",
+    "price": 324.14,
+    "volume": 1500216
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-07",
+    "price": 324.63,
+    "volume": 1072329
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-06",
+    "price": 319.23,
+    "volume": 1420369
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-03",
+    "price": 320.54,
+    "volume": 1802675
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-02",
+    "price": 320.98,
+    "volume": 1677933
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-05-01",
+    "price": 314.21,
+    "volume": 2625787
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-30",
+    "price": 302.09,
+    "volume": 1879224
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-29",
+    "price": 303.15,
+    "volume": 1742572
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-26",
+    "price": 305.9,
+    "volume": 1213131
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-25",
+    "price": 311.41,
+    "volume": 1837737
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-24",
+    "price": 315.98,
+    "volume": 3489000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-23",
+    "price": 327.98,
+    "volume": 1624723
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-22",
+    "price": 325.3,
+    "volume": 1591100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-19",
+    "price": 328.33,
+    "volume": 1143745
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-18",
+    "price": 324.83,
+    "volume": 1557433
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-17",
+    "price": 323.46,
+    "volume": 1958800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-16",
+    "price": 317.52,
+    "volume": 1683413
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-15",
+    "price": 314.64,
+    "volume": 1184742
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-12",
+    "price": 312.59,
+    "volume": 1467617
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-11",
+    "price": 316.29,
+    "volume": 992400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-10",
+    "price": 319.17,
+    "volume": 1101245
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-09",
+    "price": 319.62,
+    "volume": 850394
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-08",
+    "price": 317,
+    "volume": 1299700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-05",
+    "price": 313.11,
+    "volume": 1238800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-04",
+    "price": 310.04,
+    "volume": 1845721
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-03",
+    "price": 308.06,
+    "volume": 2836082
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-02",
+    "price": 304.33,
+    "volume": 9517500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-04-01",
+    "price": 351.45,
+    "volume": 1074400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-28",
+    "price": 346.72,
+    "volume": 1583052
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-27",
+    "price": 349.5,
+    "volume": 1000315
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-26",
+    "price": 348.38,
+    "volume": 1498439
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-25",
+    "price": 347.09,
+    "volume": 1004056
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-22",
+    "price": 348.54,
+    "volume": 1116453
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-21",
+    "price": 347.39,
+    "volume": 1460663
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-20",
+    "price": 348.19,
+    "volume": 1464600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-19",
+    "price": 351.59,
+    "volume": 1445874
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-18",
+    "price": 347.19,
+    "volume": 1008342
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-15",
+    "price": 348.15,
+    "volume": 2469163
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-14",
+    "price": 348.89,
+    "volume": 947500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-13",
+    "price": 345.2,
+    "volume": 1056035
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-12",
+    "price": 345.15,
+    "volume": 1315848
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-11",
+    "price": 347,
+    "volume": 1165000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-08",
+    "price": 339.35,
+    "volume": 1164300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-07",
+    "price": 340.72,
+    "volume": 1576302
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-06",
+    "price": 339.08,
+    "volume": 1554813
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-05",
+    "price": 337.92,
+    "volume": 2569500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-04",
+    "price": 346.83,
+    "volume": 1792600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-03-01",
+    "price": 352.03,
+    "volume": 1640000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-29",
+    "price": 350.32,
+    "volume": 2291709
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-28",
+    "price": 351.16,
+    "volume": 2128500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-27",
+    "price": 362.7,
+    "volume": 1454649
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-26",
+    "price": 359.95,
+    "volume": 1217600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-23",
+    "price": 362.91,
+    "volume": 1371900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-22",
+    "price": 368.08,
+    "volume": 1226224
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-21",
+    "price": 367.6,
+    "volume": 876757
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-20",
+    "price": 367.14,
+    "volume": 1121073
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-16",
+    "price": 366.92,
+    "volume": 954781
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-15",
+    "price": 363.98,
+    "volume": 1245705
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-14",
+    "price": 362.29,
+    "volume": 1124747
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-13",
+    "price": 364.48,
+    "volume": 1255099
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-12",
+    "price": 369.14,
+    "volume": 990385
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-09",
+    "price": 370.28,
+    "volume": 1122477
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-08",
+    "price": 367.8,
+    "volume": 1579285
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-07",
+    "price": 368.57,
+    "volume": 2309589
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-06",
+    "price": 366.35,
+    "volume": 2271647
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-05",
+    "price": 361.02,
+    "volume": 3401900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-02",
+    "price": 378.87,
+    "volume": 1784755
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-02-01",
+    "price": 375.82,
+    "volume": 3045627
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-31",
+    "price": 378.06,
+    "volume": 2264300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-30",
+    "price": 376.83,
+    "volume": 3059400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-29",
+    "price": 365.94,
+    "volume": 2854131
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-26",
+    "price": 361.23,
+    "volume": 4460516
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-25",
+    "price": 355.36,
+    "volume": 10864902
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-24",
+    "price": 402.4,
+    "volume": 2120400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-23",
+    "price": 407.52,
+    "volume": 1615700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-22",
+    "price": 409.65,
+    "volume": 2447960
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-19",
+    "price": 401.53,
+    "volume": 3034000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-18",
+    "price": 411.98,
+    "volume": 9405300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-17",
+    "price": 447.76,
+    "volume": 2529700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-16",
+    "price": 438.79,
+    "volume": 1831300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-12",
+    "price": 438.71,
+    "volume": 2743600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-11",
+    "price": 454.99,
+    "volume": 1162272
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-10",
+    "price": 459.08,
+    "volume": 1151615
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-09",
+    "price": 459.3,
+    "volume": 1430343
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-08",
+    "price": 460.74,
+    "volume": 1584542
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-05",
+    "price": 458.27,
+    "volume": 1693121
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-04",
+    "price": 466.54,
+    "volume": 952030
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-03",
+    "price": 464.52,
+    "volume": 1307575
+  },
+  {
+    "symbol": "HUM",
+    "date": "2024-01-02",
+    "price": 470.1,
+    "volume": 1967118
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-29",
+    "price": 457.81,
+    "volume": 804109
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-28",
+    "price": 455.61,
+    "volume": 1035000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-27",
+    "price": 451.42,
+    "volume": 1517200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-26",
+    "price": 452.83,
+    "volume": 912731
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-22",
+    "price": 453.2,
+    "volume": 1054100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-21",
+    "price": 453.94,
+    "volume": 1554622
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-20",
+    "price": 451.89,
+    "volume": 1928000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-19",
+    "price": 463.58,
+    "volume": 1331406
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-18",
+    "price": 460.03,
+    "volume": 1803646
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-15",
+    "price": 461.46,
+    "volume": 2763232
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-14",
+    "price": 469.05,
+    "volume": 2396000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-13",
+    "price": 488.09,
+    "volume": 1036300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-12",
+    "price": 481.94,
+    "volume": 1645724
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-11",
+    "price": 476.61,
+    "volume": 2389600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-08",
+    "price": 481.62,
+    "volume": 1083135
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-07",
+    "price": 480.3,
+    "volume": 2022802
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-06",
+    "price": 483.8,
+    "volume": 1734122
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-05",
+    "price": 500.35,
+    "volume": 1197135
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-04",
+    "price": 491.98,
+    "volume": 1119400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-12-01",
+    "price": 495.21,
+    "volume": 2178657
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-30",
+    "price": 484.86,
+    "volume": 4128300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-29",
+    "price": 482.41,
+    "volume": 5041800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-28",
+    "price": 510.45,
+    "volume": 718133
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-27",
+    "price": 510.71,
+    "volume": 986348
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-24",
+    "price": 518.26,
+    "volume": 312001
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-22",
+    "price": 515.6,
+    "volume": 892112
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-21",
+    "price": 507.07,
+    "volume": 708546
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-20",
+    "price": 501.79,
+    "volume": 1066476
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-17",
+    "price": 498.09,
+    "volume": 1499664
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-16",
+    "price": 512.91,
+    "volume": 1053845
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-15",
+    "price": 506.79,
+    "volume": 1107300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-14",
+    "price": 501.95,
+    "volume": 1121100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-13",
+    "price": 497.15,
+    "volume": 550529
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-10",
+    "price": 493.11,
+    "volume": 691926
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-09",
+    "price": 495.18,
+    "volume": 1056581
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-08",
+    "price": 488.26,
+    "volume": 911446
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-07",
+    "price": 498.18,
+    "volume": 1845938
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-06",
+    "price": 487.31,
+    "volume": 1546525
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-03",
+    "price": 477.01,
+    "volume": 1453023
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-02",
+    "price": 481.4,
+    "volume": 2604626
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-11-01",
+    "price": 489.36,
+    "volume": 2752749
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-31",
+    "price": 523.69,
+    "volume": 1282828
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-30",
+    "price": 517.97,
+    "volume": 1093805
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-27",
+    "price": 510.19,
+    "volume": 758600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-26",
+    "price": 513.37,
+    "volume": 688250
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-25",
+    "price": 522.77,
+    "volume": 733893
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-24",
+    "price": 516.35,
+    "volume": 545614
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-23",
+    "price": 515.48,
+    "volume": 568901
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-20",
+    "price": 521.15,
+    "volume": 1008789
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-19",
+    "price": 522.72,
+    "volume": 836000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-18",
+    "price": 521.69,
+    "volume": 1047246
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-17",
+    "price": 519.87,
+    "volume": 714151
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-16",
+    "price": 524.21,
+    "volume": 1482900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-13",
+    "price": 505.97,
+    "volume": 1533961
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-12",
+    "price": 499.81,
+    "volume": 1167578
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-11",
+    "price": 493.42,
+    "volume": 1587300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-10",
+    "price": 500.4,
+    "volume": 1014900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-09",
+    "price": 501.54,
+    "volume": 716200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-06",
+    "price": 498.17,
+    "volume": 803857
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-05",
+    "price": 488.98,
+    "volume": 850043
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-04",
+    "price": 485.78,
+    "volume": 1140212
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-03",
+    "price": 488.44,
+    "volume": 625542
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-10-02",
+    "price": 491.74,
+    "volume": 1001081
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-29",
+    "price": 486.52,
+    "volume": 1005000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-28",
+    "price": 495.21,
+    "volume": 814396
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-27",
+    "price": 493.57,
+    "volume": 677936
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-26",
+    "price": 493,
+    "volume": 756735
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-25",
+    "price": 501.07,
+    "volume": 679200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-22",
+    "price": 494.06,
+    "volume": 946210
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-21",
+    "price": 494.06,
+    "volume": 2111600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-20",
+    "price": 484.77,
+    "volume": 1035072
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-19",
+    "price": 473.8,
+    "volume": 782800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-18",
+    "price": 474.02,
+    "volume": 649900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-15",
+    "price": 470.77,
+    "volume": 1183000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-14",
+    "price": 471.57,
+    "volume": 656900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-13",
+    "price": 472.5,
+    "volume": 1605900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-12",
+    "price": 469.07,
+    "volume": 808600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-11",
+    "price": 467.18,
+    "volume": 757818
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-08",
+    "price": 467.73,
+    "volume": 910018
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-07",
+    "price": 471.98,
+    "volume": 829617
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-06",
+    "price": 465.07,
+    "volume": 956509
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-05",
+    "price": 470.22,
+    "volume": 1159553
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-09-01",
+    "price": 460.61,
+    "volume": 991300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-31",
+    "price": 461.63,
+    "volume": 1541100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-30",
+    "price": 475.26,
+    "volume": 1107930
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-29",
+    "price": 481.3,
+    "volume": 513405
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-28",
+    "price": 480.64,
+    "volume": 491941
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-25",
+    "price": 478.94,
+    "volume": 579200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-24",
+    "price": 482.63,
+    "volume": 830930
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-23",
+    "price": 481.43,
+    "volume": 725227
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-22",
+    "price": 484.19,
+    "volume": 725734
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-21",
+    "price": 491.28,
+    "volume": 747749
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-18",
+    "price": 490.39,
+    "volume": 706635
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-17",
+    "price": 488.74,
+    "volume": 1128659
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-16",
+    "price": 494.66,
+    "volume": 817700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-15",
+    "price": 495.31,
+    "volume": 889900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-14",
+    "price": 497.21,
+    "volume": 632800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-11",
+    "price": 493.91,
+    "volume": 657857
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-10",
+    "price": 495.03,
+    "volume": 746900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-09",
+    "price": 493.38,
+    "volume": 876044
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-08",
+    "price": 493.22,
+    "volume": 976600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-07",
+    "price": 494.67,
+    "volume": 1643500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-04",
+    "price": 484.28,
+    "volume": 1425509
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-03",
+    "price": 487.15,
+    "volume": 1871707
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-02",
+    "price": 483.75,
+    "volume": 3298161
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-08-01",
+    "price": 458.11,
+    "volume": 1536851
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-31",
+    "price": 456.83,
+    "volume": 1151473
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-28",
+    "price": 453.3,
+    "volume": 1504200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-27",
+    "price": 451,
+    "volume": 1811815
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-26",
+    "price": 448.21,
+    "volume": 1226323
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-25",
+    "price": 454.34,
+    "volume": 1549512
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-24",
+    "price": 453.44,
+    "volume": 1440926
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-21",
+    "price": 456.89,
+    "volume": 3147100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-20",
+    "price": 447.41,
+    "volume": 1897741
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-19",
+    "price": 447.26,
+    "volume": 2068600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-18",
+    "price": 440.73,
+    "volume": 2232700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-17",
+    "price": 434.41,
+    "volume": 1188625
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-14",
+    "price": 434.93,
+    "volume": 3255603
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-13",
+    "price": 424.29,
+    "volume": 2387517
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-12",
+    "price": 425.08,
+    "volume": 3183700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-11",
+    "price": 437.22,
+    "volume": 1215909
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-10",
+    "price": 434.7,
+    "volume": 1578500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-07",
+    "price": 430.14,
+    "volume": 2189400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-06",
+    "price": 440.99,
+    "volume": 1360113
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-05",
+    "price": 444.99,
+    "volume": 1346596
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-07-03",
+    "price": 446.27,
+    "volume": 569700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-30",
+    "price": 447.13,
+    "volume": 1295877
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-29",
+    "price": 443.86,
+    "volume": 769101
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-28",
+    "price": 444.83,
+    "volume": 820009
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-27",
+    "price": 445.92,
+    "volume": 1025500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-26",
+    "price": 446.4,
+    "volume": 998267
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-23",
+    "price": 445.95,
+    "volume": 1986032
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-22",
+    "price": 456.44,
+    "volume": 1190979
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-21",
+    "price": 452.71,
+    "volume": 1586800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-20",
+    "price": 446.71,
+    "volume": 2219144
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-16",
+    "price": 445.65,
+    "volume": 5301400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-15",
+    "price": 463.85,
+    "volume": 2885902
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-14",
+    "price": 455,
+    "volume": 6917327
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-13",
+    "price": 512.63,
+    "volume": 792600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-12",
+    "price": 513.23,
+    "volume": 486971
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-09",
+    "price": 513.34,
+    "volume": 661231
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-08",
+    "price": 509.83,
+    "volume": 561445
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-07",
+    "price": 504.69,
+    "volume": 924272
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-06",
+    "price": 511.12,
+    "volume": 1005400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-05",
+    "price": 523.94,
+    "volume": 629666
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-02",
+    "price": 520.78,
+    "volume": 785200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-06-01",
+    "price": 515.15,
+    "volume": 786502
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-31",
+    "price": 501.87,
+    "volume": 1992755
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-30",
+    "price": 495.1,
+    "volume": 705425
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-26",
+    "price": 496.6,
+    "volume": 648843
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-25",
+    "price": 500.07,
+    "volume": 722900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-24",
+    "price": 506.63,
+    "volume": 651000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-23",
+    "price": 506.93,
+    "volume": 944900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-22",
+    "price": 513.98,
+    "volume": 439400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-19",
+    "price": 513.52,
+    "volume": 1034351
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-18",
+    "price": 513.87,
+    "volume": 874500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-17",
+    "price": 520.29,
+    "volume": 637500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-16",
+    "price": 518.35,
+    "volume": 630716
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-15",
+    "price": 522.5,
+    "volume": 447000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-12",
+    "price": 527.35,
+    "volume": 460057
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-11",
+    "price": 528.99,
+    "volume": 559040
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-10",
+    "price": 529.63,
+    "volume": 646900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-09",
+    "price": 530.2,
+    "volume": 941100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-08",
+    "price": 535.96,
+    "volume": 672400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-05",
+    "price": 535.02,
+    "volume": 549954
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-04",
+    "price": 528.5,
+    "volume": 549307
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-03",
+    "price": 529.79,
+    "volume": 676224
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-02",
+    "price": 533.06,
+    "volume": 1026700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-05-01",
+    "price": 535.13,
+    "volume": 792636
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-28",
+    "price": 530.49,
+    "volume": 806100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-27",
+    "price": 525.28,
+    "volume": 1039365
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-26",
+    "price": 505.47,
+    "volume": 1487855
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-25",
+    "price": 501.69,
+    "volume": 867147
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-24",
+    "price": 501.73,
+    "volume": 1040800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-21",
+    "price": 491.21,
+    "volume": 1096982
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-20",
+    "price": 490.31,
+    "volume": 1074224
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-19",
+    "price": 492.9,
+    "volume": 1389863
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-18",
+    "price": 512.68,
+    "volume": 610140
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-17",
+    "price": 518.82,
+    "volume": 708601
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-14",
+    "price": 523.83,
+    "volume": 1007553
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-13",
+    "price": 535.26,
+    "volume": 864900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-12",
+    "price": 532.05,
+    "volume": 751830
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-11",
+    "price": 533.76,
+    "volume": 856652
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-10",
+    "price": 524.56,
+    "volume": 809400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-06",
+    "price": 519.97,
+    "volume": 1082100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-05",
+    "price": 516.23,
+    "volume": 1546135
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-04",
+    "price": 503.31,
+    "volume": 957400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-04-03",
+    "price": 510.25,
+    "volume": 1479168
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-31",
+    "price": 485.46,
+    "volume": 1274600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-30",
+    "price": 488.36,
+    "volume": 717700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-29",
+    "price": 485.75,
+    "volume": 1228745
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-28",
+    "price": 483.41,
+    "volume": 1688900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-27",
+    "price": 506.99,
+    "volume": 665548
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-24",
+    "price": 502.43,
+    "volume": 659816
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-23",
+    "price": 491.35,
+    "volume": 853215
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-22",
+    "price": 498.33,
+    "volume": 618611
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-21",
+    "price": 500.87,
+    "volume": 944221
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-20",
+    "price": 494.39,
+    "volume": 1102302
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-17",
+    "price": 495.55,
+    "volume": 1962747
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-16",
+    "price": 494.38,
+    "volume": 1086200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-15",
+    "price": 483.87,
+    "volume": 867529
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-14",
+    "price": 481.97,
+    "volume": 902500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-13",
+    "price": 482.48,
+    "volume": 1017520
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-10",
+    "price": 479.66,
+    "volume": 887431
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-09",
+    "price": 486.33,
+    "volume": 642549
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-08",
+    "price": 489.31,
+    "volume": 637800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-07",
+    "price": 496.04,
+    "volume": 647339
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-06",
+    "price": 499.07,
+    "volume": 819534
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-03",
+    "price": 500.21,
+    "volume": 842627
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-02",
+    "price": 495.76,
+    "volume": 815138
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-03-01",
+    "price": 496.15,
+    "volume": 507902
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-28",
+    "price": 495.02,
+    "volume": 1240450
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-27",
+    "price": 506.51,
+    "volume": 849455
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-24",
+    "price": 507.42,
+    "volume": 1205335
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-23",
+    "price": 510.65,
+    "volume": 998300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-22",
+    "price": 503.59,
+    "volume": 576560
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-21",
+    "price": 503.38,
+    "volume": 1136476
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-17",
+    "price": 510.14,
+    "volume": 1352347
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-16",
+    "price": 505.69,
+    "volume": 713349
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-15",
+    "price": 498.32,
+    "volume": 662700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-14",
+    "price": 501.68,
+    "volume": 516700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-13",
+    "price": 501.94,
+    "volume": 567800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-10",
+    "price": 498.62,
+    "volume": 832556
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-09",
+    "price": 491.93,
+    "volume": 979836
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-08",
+    "price": 494.21,
+    "volume": 1208860
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-07",
+    "price": 481,
+    "volume": 1301536
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-06",
+    "price": 486.22,
+    "volume": 1518272
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-03",
+    "price": 476.57,
+    "volume": 1519701
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-02",
+    "price": 489.77,
+    "volume": 2594258
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-02-01",
+    "price": 513.28,
+    "volume": 1995700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-31",
+    "price": 511.7,
+    "volume": 2266312
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-30",
+    "price": 484.91,
+    "volume": 1569400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-27",
+    "price": 481.69,
+    "volume": 1387900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-26",
+    "price": 499.36,
+    "volume": 821956
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-25",
+    "price": 502.22,
+    "volume": 852108
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-24",
+    "price": 500.35,
+    "volume": 723706
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-23",
+    "price": 494.55,
+    "volume": 806605
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-20",
+    "price": 497.3,
+    "volume": 1882665
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-19",
+    "price": 491.72,
+    "volume": 675117
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-18",
+    "price": 484.75,
+    "volume": 845107
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-17",
+    "price": 490.46,
+    "volume": 816678
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-13",
+    "price": 491.36,
+    "volume": 1280429
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-12",
+    "price": 494.29,
+    "volume": 1092117
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-11",
+    "price": 493,
+    "volume": 941967
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-10",
+    "price": 481.59,
+    "volume": 997792
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-09",
+    "price": 481.71,
+    "volume": 1065441
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-06",
+    "price": 492.54,
+    "volume": 977600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-05",
+    "price": 488.02,
+    "volume": 1273841
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-04",
+    "price": 492.12,
+    "volume": 1137100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2023-01-03",
+    "price": 500.49,
+    "volume": 1089620
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-30",
+    "price": 512.19,
+    "volume": 398600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-29",
+    "price": 513.2,
+    "volume": 303300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-28",
+    "price": 515.31,
+    "volume": 603515
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-27",
+    "price": 514.38,
+    "volume": 423334
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-23",
+    "price": 513.96,
+    "volume": 357945
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-22",
+    "price": 512.43,
+    "volume": 661763
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-21",
+    "price": 508.11,
+    "volume": 656885
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-20",
+    "price": 501.72,
+    "volume": 637620
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-19",
+    "price": 504.84,
+    "volume": 824973
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-16",
+    "price": 503.53,
+    "volume": 1918331
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-15",
+    "price": 508.44,
+    "volume": 1487358
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-14",
+    "price": 521.51,
+    "volume": 1068314
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-13",
+    "price": 523.06,
+    "volume": 1658341
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-12",
+    "price": 529.99,
+    "volume": 1543900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-09",
+    "price": 533.42,
+    "volume": 1068947
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-08",
+    "price": 547.36,
+    "volume": 628900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-07",
+    "price": 549.18,
+    "volume": 718436
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-06",
+    "price": 546.35,
+    "volume": 898336
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-05",
+    "price": 547.42,
+    "volume": 548600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-02",
+    "price": 546.78,
+    "volume": 517000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-12-01",
+    "price": 548.37,
+    "volume": 1251144
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-30",
+    "price": 549.9,
+    "volume": 2162926
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-29",
+    "price": 533.14,
+    "volume": 919014
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-28",
+    "price": 534.29,
+    "volume": 766257
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-25",
+    "price": 540.95,
+    "volume": 339402
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-23",
+    "price": 538.3,
+    "volume": 839500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-22",
+    "price": 530.8,
+    "volume": 817600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-21",
+    "price": 525.18,
+    "volume": 1020406
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-18",
+    "price": 529.9,
+    "volume": 953043
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-17",
+    "price": 520.26,
+    "volume": 963328
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-16",
+    "price": 517.6,
+    "volume": 1040400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-15",
+    "price": 512.9,
+    "volume": 1943426
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-14",
+    "price": 530,
+    "volume": 1034600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-11",
+    "price": 528.53,
+    "volume": 2193138
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-10",
+    "price": 558.3,
+    "volume": 1150910
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-09",
+    "price": 553.47,
+    "volume": 842058
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-08",
+    "price": 557.74,
+    "volume": 777002
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-07",
+    "price": 554.93,
+    "volume": 1390000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-04",
+    "price": 552.05,
+    "volume": 1519516
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-03",
+    "price": 563,
+    "volume": 1566323
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-02",
+    "price": 559.58,
+    "volume": 1491805
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-11-01",
+    "price": 554.49,
+    "volume": 1635600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-31",
+    "price": 558.08,
+    "volume": 1166700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-28",
+    "price": 554.83,
+    "volume": 1169400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-27",
+    "price": 544.5,
+    "volume": 953200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-26",
+    "price": 539.1,
+    "volume": 1080673
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-25",
+    "price": 529.46,
+    "volume": 1179278
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-24",
+    "price": 521.94,
+    "volume": 713900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-21",
+    "price": 510.54,
+    "volume": 1479100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-20",
+    "price": 505.35,
+    "volume": 923248
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-19",
+    "price": 500.21,
+    "volume": 695022
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-18",
+    "price": 501.68,
+    "volume": 724240
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-17",
+    "price": 498.79,
+    "volume": 734917
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-14",
+    "price": 500,
+    "volume": 992151
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-13",
+    "price": 500.16,
+    "volume": 1071752
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-12",
+    "price": 494.19,
+    "volume": 573031
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-11",
+    "price": 498.49,
+    "volume": 752300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-10",
+    "price": 497.04,
+    "volume": 1043800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-07",
+    "price": 503.46,
+    "volume": 871100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-06",
+    "price": 499.3,
+    "volume": 729400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-05",
+    "price": 504.71,
+    "volume": 675442
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-04",
+    "price": 503.78,
+    "volume": 944673
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-10-03",
+    "price": 499.52,
+    "volume": 712018
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-30",
+    "price": 485.19,
+    "volume": 1611533
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-29",
+    "price": 491.06,
+    "volume": 684611
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-28",
+    "price": 493.81,
+    "volume": 1279405
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-27",
+    "price": 487.31,
+    "volume": 944222
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-26",
+    "price": 482.63,
+    "volume": 863621
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-23",
+    "price": 486.9,
+    "volume": 1758320
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-22",
+    "price": 493.91,
+    "volume": 1005800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-21",
+    "price": 490.63,
+    "volume": 927949
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-20",
+    "price": 502.89,
+    "volume": 1641344
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-19",
+    "price": 501.07,
+    "volume": 679729
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-16",
+    "price": 499.79,
+    "volume": 1511930
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-15",
+    "price": 497.24,
+    "volume": 2671800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-14",
+    "price": 458.85,
+    "volume": 1099573
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-13",
+    "price": 468.29,
+    "volume": 733400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-12",
+    "price": 486.14,
+    "volume": 779525
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-09",
+    "price": 478.5,
+    "volume": 798200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-08",
+    "price": 486.36,
+    "volume": 598700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-07",
+    "price": 481.67,
+    "volume": 946446
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-06",
+    "price": 479.53,
+    "volume": 564134
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-02",
+    "price": 484.4,
+    "volume": 597300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-09-01",
+    "price": 486.98,
+    "volume": 574903
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-31",
+    "price": 481.78,
+    "volume": 1161929
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-30",
+    "price": 485.66,
+    "volume": 402719
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-29",
+    "price": 488.19,
+    "volume": 540200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-26",
+    "price": 486.71,
+    "volume": 589000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-25",
+    "price": 495.27,
+    "volume": 555744
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-24",
+    "price": 495.64,
+    "volume": 411900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-23",
+    "price": 493.19,
+    "volume": 571575
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-22",
+    "price": 500.92,
+    "volume": 477100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-19",
+    "price": 499.86,
+    "volume": 551614
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-18",
+    "price": 495.89,
+    "volume": 568854
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-17",
+    "price": 495.72,
+    "volume": 404500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-16",
+    "price": 495.22,
+    "volume": 531166
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-15",
+    "price": 498.61,
+    "volume": 472700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-12",
+    "price": 496.88,
+    "volume": 556657
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-11",
+    "price": 484.07,
+    "volume": 664409
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-10",
+    "price": 486,
+    "volume": 381116
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-09",
+    "price": 487.74,
+    "volume": 354041
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-08",
+    "price": 482.53,
+    "volume": 427636
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-05",
+    "price": 484.02,
+    "volume": 552030
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-04",
+    "price": 479.93,
+    "volume": 411200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-03",
+    "price": 481.8,
+    "volume": 670900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-02",
+    "price": 478.39,
+    "volume": 752900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-08-01",
+    "price": 474.64,
+    "volume": 1047228
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-29",
+    "price": 482,
+    "volume": 823200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-28",
+    "price": 484.01,
+    "volume": 1077246
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-27",
+    "price": 478.35,
+    "volume": 1749300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-26",
+    "price": 492.28,
+    "volume": 862518
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-25",
+    "price": 491.79,
+    "volume": 896747
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-22",
+    "price": 488.97,
+    "volume": 504936
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-21",
+    "price": 485.7,
+    "volume": 708942
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-20",
+    "price": 483.69,
+    "volume": 1079734
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-19",
+    "price": 495.31,
+    "volume": 622935
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-18",
+    "price": 484.46,
+    "volume": 774863
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-15",
+    "price": 487.54,
+    "volume": 2043849
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-14",
+    "price": 472.6,
+    "volume": 868848
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-13",
+    "price": 473.56,
+    "volume": 849915
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-12",
+    "price": 483.17,
+    "volume": 696531
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-11",
+    "price": 487.03,
+    "volume": 805750
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-08",
+    "price": 483.38,
+    "volume": 914335
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-07",
+    "price": 476.35,
+    "volume": 667814
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-06",
+    "price": 477.48,
+    "volume": 926700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-05",
+    "price": 472.92,
+    "volume": 877717
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-07-01",
+    "price": 478.96,
+    "volume": 902300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-30",
+    "price": 468.07,
+    "volume": 1210000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-29",
+    "price": 468.33,
+    "volume": 719477
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-28",
+    "price": 462.19,
+    "volume": 912261
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-27",
+    "price": 464.39,
+    "volume": 856347
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-24",
+    "price": 456.81,
+    "volume": 2498369
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-23",
+    "price": 454.64,
+    "volume": 1021404
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-22",
+    "price": 448.05,
+    "volume": 932193
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-21",
+    "price": 448.98,
+    "volume": 1063066
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-17",
+    "price": 428.44,
+    "volume": 1693465
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-16",
+    "price": 423.21,
+    "volume": 982600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-15",
+    "price": 433.22,
+    "volume": 820697
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-14",
+    "price": 423.93,
+    "volume": 686845
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-13",
+    "price": 426.28,
+    "volume": 984800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-10",
+    "price": 444.19,
+    "volume": 627212
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-09",
+    "price": 449.62,
+    "volume": 693000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-08",
+    "price": 450.52,
+    "volume": 424149
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-07",
+    "price": 449.78,
+    "volume": 400294
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-06",
+    "price": 444.1,
+    "volume": 365700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-03",
+    "price": 442.41,
+    "volume": 256400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-02",
+    "price": 449.55,
+    "volume": 474300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-06-01",
+    "price": 447.59,
+    "volume": 521700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-31",
+    "price": 454.23,
+    "volume": 1028600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-27",
+    "price": 461.21,
+    "volume": 522514
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-26",
+    "price": 452.22,
+    "volume": 496500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-25",
+    "price": 444.69,
+    "volume": 534715
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-24",
+    "price": 440.42,
+    "volume": 629606
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-23",
+    "price": 441.39,
+    "volume": 596845
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-20",
+    "price": 439.62,
+    "volume": 646808
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-19",
+    "price": 432,
+    "volume": 1065700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-18",
+    "price": 420.04,
+    "volume": 948852
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-17",
+    "price": 440.59,
+    "volume": 564039
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-16",
+    "price": 440.98,
+    "volume": 461000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-13",
+    "price": 438.89,
+    "volume": 838500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-12",
+    "price": 428.94,
+    "volume": 1065727
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-11",
+    "price": 431.73,
+    "volume": 925137
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-10",
+    "price": 432.8,
+    "volume": 1047203
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-09",
+    "price": 424.51,
+    "volume": 896734
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-06",
+    "price": 430.66,
+    "volume": 784208
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-05",
+    "price": 434,
+    "volume": 679400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-04",
+    "price": 442.34,
+    "volume": 669600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-03",
+    "price": 433.78,
+    "volume": 597100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-05-02",
+    "price": 433.51,
+    "volume": 1031480
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-29",
+    "price": 444.56,
+    "volume": 986508
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-28",
+    "price": 458.99,
+    "volume": 1258420
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-27",
+    "price": 443.37,
+    "volume": 1184534
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-26",
+    "price": 430.5,
+    "volume": 969964
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-25",
+    "price": 441.53,
+    "volume": 1052740
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-22",
+    "price": 444.48,
+    "volume": 715500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-21",
+    "price": 455.92,
+    "volume": 839331
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-20",
+    "price": 465.49,
+    "volume": 852215
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-19",
+    "price": 458.69,
+    "volume": 1148700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-18",
+    "price": 453.97,
+    "volume": 563211
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-14",
+    "price": 460.56,
+    "volume": 1602537
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-13",
+    "price": 458.78,
+    "volume": 1146700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-12",
+    "price": 449.04,
+    "volume": 905562
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-11",
+    "price": 451.33,
+    "volume": 853453
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-08",
+    "price": 457.81,
+    "volume": 968511
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-07",
+    "price": 457.6,
+    "volume": 1527000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-06",
+    "price": 449.05,
+    "volume": 834200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-05",
+    "price": 443.22,
+    "volume": 786191
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-04",
+    "price": 437.69,
+    "volume": 669300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-04-01",
+    "price": 441.41,
+    "volume": 750300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-31",
+    "price": 435.17,
+    "volume": 1412723
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-30",
+    "price": 439.39,
+    "volume": 1093700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-29",
+    "price": 438.95,
+    "volume": 619739
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-28",
+    "price": 435.05,
+    "volume": 600800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-25",
+    "price": 435.54,
+    "volume": 702800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-24",
+    "price": 437.42,
+    "volume": 819500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-23",
+    "price": 430.61,
+    "volume": 906801
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-22",
+    "price": 438.43,
+    "volume": 1251500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-21",
+    "price": 436.87,
+    "volume": 1095122
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-18",
+    "price": 440.61,
+    "volume": 2086100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-17",
+    "price": 441.09,
+    "volume": 1241200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-16",
+    "price": 442.82,
+    "volume": 800603
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-15",
+    "price": 439.87,
+    "volume": 1144500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-14",
+    "price": 431.94,
+    "volume": 1021311
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-11",
+    "price": 426.12,
+    "volume": 618800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-10",
+    "price": 431.3,
+    "volume": 828744
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-09",
+    "price": 429.17,
+    "volume": 725802
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-08",
+    "price": 424.66,
+    "volume": 782808
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-07",
+    "price": 426.83,
+    "volume": 867000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-04",
+    "price": 441.39,
+    "volume": 900300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-03",
+    "price": 436.01,
+    "volume": 736210
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-02",
+    "price": 436.45,
+    "volume": 904400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-03-01",
+    "price": 431,
+    "volume": 691809
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-28",
+    "price": 434.32,
+    "volume": 721200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-25",
+    "price": 432.66,
+    "volume": 795825
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-24",
+    "price": 421.3,
+    "volume": 1059533
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-23",
+    "price": 413.76,
+    "volume": 946602
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-22",
+    "price": 420.57,
+    "volume": 937900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-18",
+    "price": 421.75,
+    "volume": 836219
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-17",
+    "price": 424.71,
+    "volume": 530600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-16",
+    "price": 428.77,
+    "volume": 1017400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-15",
+    "price": 422.1,
+    "volume": 1098600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-14",
+    "price": 419.64,
+    "volume": 749400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-11",
+    "price": 423.97,
+    "volume": 1254412
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-10",
+    "price": 432.17,
+    "volume": 921500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-09",
+    "price": 436.54,
+    "volume": 1632329
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-08",
+    "price": 433,
+    "volume": 1277545
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-07",
+    "price": 430.35,
+    "volume": 1180900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-04",
+    "price": 429.85,
+    "volume": 1912411
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-03",
+    "price": 426.21,
+    "volume": 3772300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-02",
+    "price": 401.22,
+    "volume": 1873100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-02-01",
+    "price": 390.68,
+    "volume": 1580230
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-31",
+    "price": 392.5,
+    "volume": 1471800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-28",
+    "price": 386.18,
+    "volume": 1233123
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-27",
+    "price": 383.05,
+    "volume": 1335606
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-26",
+    "price": 377.09,
+    "volume": 1718041
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-25",
+    "price": 375.04,
+    "volume": 1154906
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-24",
+    "price": 379.1,
+    "volume": 1555184
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-21",
+    "price": 375.25,
+    "volume": 2621300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-20",
+    "price": 383.01,
+    "volume": 1267750
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-19",
+    "price": 377.84,
+    "volume": 1827600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-18",
+    "price": 387.88,
+    "volume": 1512500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-14",
+    "price": 391.66,
+    "volume": 1113600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-13",
+    "price": 393.59,
+    "volume": 1615300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-12",
+    "price": 395.28,
+    "volume": 1602631
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-11",
+    "price": 391.66,
+    "volume": 1878063
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-10",
+    "price": 385.18,
+    "volume": 3131986
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-07",
+    "price": 363.17,
+    "volume": 5517367
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-06",
+    "price": 367.53,
+    "volume": 7652206
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-05",
+    "price": 455.83,
+    "volume": 725900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-04",
+    "price": 458.99,
+    "volume": 650100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2022-01-03",
+    "price": 465.45,
+    "volume": 627043
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-31",
+    "price": 463.86,
+    "volume": 347602
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-30",
+    "price": 466.28,
+    "volume": 804327
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-29",
+    "price": 469.02,
+    "volume": 321300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-28",
+    "price": 466.5,
+    "volume": 315706
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-27",
+    "price": 464.23,
+    "volume": 259349
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-23",
+    "price": 460.54,
+    "volume": 352507
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-22",
+    "price": 456.04,
+    "volume": 477429
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-21",
+    "price": 450.14,
+    "volume": 508000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-20",
+    "price": 451.1,
+    "volume": 878733
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-17",
+    "price": 453.33,
+    "volume": 1329535
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-16",
+    "price": 457.47,
+    "volume": 1005982
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-15",
+    "price": 461.8,
+    "volume": 767301
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-14",
+    "price": 461.86,
+    "volume": 985400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-13",
+    "price": 464.37,
+    "volume": 709600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-10",
+    "price": 461.19,
+    "volume": 905600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-09",
+    "price": 452.28,
+    "volume": 1120300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-08",
+    "price": 440,
+    "volume": 898528
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-07",
+    "price": 433.01,
+    "volume": 468221
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-06",
+    "price": 432.5,
+    "volume": 680900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-03",
+    "price": 421.7,
+    "volume": 545843
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-02",
+    "price": 421.44,
+    "volume": 790130
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-12-01",
+    "price": 417.62,
+    "volume": 664818
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-30",
+    "price": 419.71,
+    "volume": 1184600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-29",
+    "price": 428.07,
+    "volume": 463226
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-26",
+    "price": 428.49,
+    "volume": 651000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-24",
+    "price": 436.19,
+    "volume": 476600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-23",
+    "price": 437.23,
+    "volume": 452910
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-22",
+    "price": 432.39,
+    "volume": 443200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-19",
+    "price": 434.87,
+    "volume": 675900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-18",
+    "price": 445.97,
+    "volume": 774500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-17",
+    "price": 438.4,
+    "volume": 609511
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-16",
+    "price": 444.13,
+    "volume": 720632
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-15",
+    "price": 438.19,
+    "volume": 610400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-12",
+    "price": 445.42,
+    "volume": 497327
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-11",
+    "price": 446.5,
+    "volume": 463100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-10",
+    "price": 448.51,
+    "volume": 457400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-09",
+    "price": 450.4,
+    "volume": 611839
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-08",
+    "price": 454.5,
+    "volume": 713807
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-05",
+    "price": 453.43,
+    "volume": 725133
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-04",
+    "price": 453.55,
+    "volume": 993249
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-03",
+    "price": 459.45,
+    "volume": 1517216
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-02",
+    "price": 457.11,
+    "volume": 740632
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-11-01",
+    "price": 459.51,
+    "volume": 924400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-29",
+    "price": 463.16,
+    "volume": 1079609
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-28",
+    "price": 467.6,
+    "volume": 805500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-27",
+    "price": 458.64,
+    "volume": 699900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-26",
+    "price": 467.1,
+    "volume": 602000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-25",
+    "price": 463.42,
+    "volume": 583800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-22",
+    "price": 461.85,
+    "volume": 423900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-21",
+    "price": 460.81,
+    "volume": 507700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-20",
+    "price": 454.48,
+    "volume": 1063331
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-19",
+    "price": 441.5,
+    "volume": 657400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-18",
+    "price": 438.55,
+    "volume": 796132
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-15",
+    "price": 441,
+    "volume": 1833000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-14",
+    "price": 434.98,
+    "volume": 1696255
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-13",
+    "price": 420.69,
+    "volume": 1039300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-12",
+    "price": 420.42,
+    "volume": 1112200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-11",
+    "price": 414.87,
+    "volume": 893800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-08",
+    "price": 412.76,
+    "volume": 943014
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-07",
+    "price": 403.86,
+    "volume": 753277
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-06",
+    "price": 392.5,
+    "volume": 760524
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-05",
+    "price": 388.31,
+    "volume": 624300
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-04",
+    "price": 384.96,
+    "volume": 622752
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-10-01",
+    "price": 391.55,
+    "volume": 614600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-30",
+    "price": 389.15,
+    "volume": 836136
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-29",
+    "price": 395.35,
+    "volume": 513500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-28",
+    "price": 395,
+    "volume": 569100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-27",
+    "price": 401,
+    "volume": 432600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-24",
+    "price": 398.91,
+    "volume": 550803
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-23",
+    "price": 401.45,
+    "volume": 612416
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-22",
+    "price": 400.35,
+    "volume": 592800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-21",
+    "price": 400.75,
+    "volume": 455348
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-20",
+    "price": 404.11,
+    "volume": 656500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-17",
+    "price": 407.79,
+    "volume": 1363600
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-16",
+    "price": 399.17,
+    "volume": 1090400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-15",
+    "price": 401,
+    "volume": 1206638
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-14",
+    "price": 401.99,
+    "volume": 742354
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-13",
+    "price": 409.05,
+    "volume": 908014
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-10",
+    "price": 401.98,
+    "volume": 1276302
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-09",
+    "price": 417.12,
+    "volume": 608970
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-08",
+    "price": 413.5,
+    "volume": 1004000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-07",
+    "price": 413.71,
+    "volume": 549092
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-03",
+    "price": 415.56,
+    "volume": 566836
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-02",
+    "price": 416.16,
+    "volume": 666138
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-09-01",
+    "price": 405.6,
+    "volume": 502766
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-31",
+    "price": 405.42,
+    "volume": 618903
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-30",
+    "price": 405.51,
+    "volume": 724100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-27",
+    "price": 405.76,
+    "volume": 673242
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-26",
+    "price": 402.75,
+    "volume": 750000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-25",
+    "price": 406.6,
+    "volume": 547707
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-24",
+    "price": 412.34,
+    "volume": 318021
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-23",
+    "price": 414.47,
+    "volume": 390335
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-20",
+    "price": 413.61,
+    "volume": 454800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-19",
+    "price": 413.69,
+    "volume": 675500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-18",
+    "price": 408.16,
+    "volume": 607804
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-17",
+    "price": 413.36,
+    "volume": 721816
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-16",
+    "price": 412.16,
+    "volume": 588404
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-13",
+    "price": 410.77,
+    "volume": 486015
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-12",
+    "price": 405.74,
+    "volume": 652833
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-11",
+    "price": 408.8,
+    "volume": 1075000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-10",
+    "price": 414.8,
+    "volume": 1015701
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-09",
+    "price": 416.65,
+    "volume": 667659
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-06",
+    "price": 419.21,
+    "volume": 832134
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-05",
+    "price": 415.9,
+    "volume": 1871957
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-04",
+    "price": 426.21,
+    "volume": 951100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-03",
+    "price": 425.49,
+    "volume": 945363
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-08-02",
+    "price": 429.58,
+    "volume": 957500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-30",
+    "price": 425.86,
+    "volume": 1193844
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-29",
+    "price": 430.75,
+    "volume": 1381946
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-28",
+    "price": 440.81,
+    "volume": 2405623
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-27",
+    "price": 467.5,
+    "volume": 621216
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-26",
+    "price": 467.31,
+    "volume": 652700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-23",
+    "price": 471.22,
+    "volume": 542106
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-22",
+    "price": 463.7,
+    "volume": 467148
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-21",
+    "price": 463.48,
+    "volume": 592310
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-20",
+    "price": 460.5,
+    "volume": 720800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-19",
+    "price": 460.93,
+    "volume": 866141
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-16",
+    "price": 470.9,
+    "volume": 771623
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-15",
+    "price": 466.93,
+    "volume": 824400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-14",
+    "price": 460.11,
+    "volume": 586919
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-13",
+    "price": 460.31,
+    "volume": 794532
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-12",
+    "price": 458.31,
+    "volume": 454402
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-09",
+    "price": 455.65,
+    "volume": 416900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-08",
+    "price": 454.5,
+    "volume": 466230
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-07",
+    "price": 457.48,
+    "volume": 496103
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-06",
+    "price": 453.59,
+    "volume": 557200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-02",
+    "price": 451.77,
+    "volume": 504500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-07-01",
+    "price": 447.63,
+    "volume": 590102
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-30",
+    "price": 442.72,
+    "volume": 438700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-29",
+    "price": 442.29,
+    "volume": 675400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-28",
+    "price": 444.88,
+    "volume": 822426
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-25",
+    "price": 441.71,
+    "volume": 1649400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-24",
+    "price": 440.73,
+    "volume": 671700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-23",
+    "price": 438.46,
+    "volume": 697700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-22",
+    "price": 435.73,
+    "volume": 671200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-21",
+    "price": 435.55,
+    "volume": 797342
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-18",
+    "price": 423.5,
+    "volume": 1433574
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-17",
+    "price": 428.94,
+    "volume": 782664
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-16",
+    "price": 428.12,
+    "volume": 1295839
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-15",
+    "price": 424.66,
+    "volume": 1072147
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-14",
+    "price": 415.12,
+    "volume": 930716
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-11",
+    "price": 419.18,
+    "volume": 719400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-10",
+    "price": 420.96,
+    "volume": 539722
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-09",
+    "price": 422.75,
+    "volume": 580924
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-08",
+    "price": 422.33,
+    "volume": 1206635
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-07",
+    "price": 416,
+    "volume": 1368767
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-04",
+    "price": 426.33,
+    "volume": 572000
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-03",
+    "price": 430.65,
+    "volume": 784122
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-02",
+    "price": 428.9,
+    "volume": 857100
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-06-01",
+    "price": 431.25,
+    "volume": 723200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-28",
+    "price": 437.7,
+    "volume": 486627
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-27",
+    "price": 439.36,
+    "volume": 1639004
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-26",
+    "price": 438.84,
+    "volume": 1004500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-25",
+    "price": 441.88,
+    "volume": 803614
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-24",
+    "price": 442.79,
+    "volume": 773038
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-21",
+    "price": 446,
+    "volume": 935569
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-20",
+    "price": 439.75,
+    "volume": 1108917
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-19",
+    "price": 444.6,
+    "volume": 580644
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-18",
+    "price": 449.46,
+    "volume": 1214700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-17",
+    "price": 450.46,
+    "volume": 529428
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-14",
+    "price": 452.75,
+    "volume": 571900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-13",
+    "price": 455.95,
+    "volume": 472211
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-12",
+    "price": 453.75,
+    "volume": 748537
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-11",
+    "price": 455.76,
+    "volume": 827817
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-10",
+    "price": 469.97,
+    "volume": 636347
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-07",
+    "price": 465.08,
+    "volume": 635405
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-06",
+    "price": 465.62,
+    "volume": 729500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-05",
+    "price": 460.09,
+    "volume": 781327
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-04",
+    "price": 463,
+    "volume": 1016201
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-05-03",
+    "price": 450.6,
+    "volume": 539800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-30",
+    "price": 445.24,
+    "volume": 830206
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-29",
+    "price": 447.64,
+    "volume": 703329
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-28",
+    "price": 438.62,
+    "volume": 1104748
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-27",
+    "price": 448.8,
+    "volume": 760559
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-26",
+    "price": 446.14,
+    "volume": 549462
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-23",
+    "price": 448.64,
+    "volume": 462133
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-22",
+    "price": 444.66,
+    "volume": 740800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-21",
+    "price": 444.45,
+    "volume": 885900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-20",
+    "price": 443,
+    "volume": 679700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-19",
+    "price": 439.92,
+    "volume": 781800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-16",
+    "price": 435.28,
+    "volume": 1941009
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-15",
+    "price": 433.94,
+    "volume": 1151400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-14",
+    "price": 422.75,
+    "volume": 640200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-13",
+    "price": 417.11,
+    "volume": 687611
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-12",
+    "price": 413.21,
+    "volume": 790047
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-09",
+    "price": 417.74,
+    "volume": 757298
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-08",
+    "price": 407.15,
+    "volume": 913400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-07",
+    "price": 411.73,
+    "volume": 554983
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-06",
+    "price": 407.33,
+    "volume": 1265738
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-05",
+    "price": 413.15,
+    "volume": 760800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-04-01",
+    "price": 412.82,
+    "volume": 776486
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-31",
+    "price": 419.25,
+    "volume": 829400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-30",
+    "price": 425.71,
+    "volume": 810931
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-29",
+    "price": 425.27,
+    "volume": 749400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-26",
+    "price": 423.6,
+    "volume": 762599
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-25",
+    "price": 416.45,
+    "volume": 763212
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-24",
+    "price": 414.66,
+    "volume": 1104400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-23",
+    "price": 404.01,
+    "volume": 843200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-22",
+    "price": 404.37,
+    "volume": 1163400
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-19",
+    "price": 409.82,
+    "volume": 1923200
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-18",
+    "price": 407.75,
+    "volume": 1019843
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-17",
+    "price": 403.13,
+    "volume": 921500
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-16",
+    "price": 403.12,
+    "volume": 871700
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-15",
+    "price": 406.06,
+    "volume": 637900
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-12",
+    "price": 406.53,
+    "volume": 723218
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-11",
+    "price": 401.41,
+    "volume": 928165
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-10",
+    "price": 403.01,
+    "volume": 841036
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-09",
+    "price": 402.85,
+    "volume": 1029303
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-08",
+    "price": 401.07,
+    "volume": 1101800
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-05",
+    "price": 399.39,
+    "volume": 1495184
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-04",
+    "price": 388.56,
+    "volume": 1453744
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-03",
+    "price": 382.61,
+    "volume": 548917
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-02",
+    "price": 386.3,
+    "volume": 845419
+  },
+  {
+    "symbol": "HUM",
+    "date": "2021-03-01",
+    "price": 384.92,
+    "volume": 942810
+  }
+]

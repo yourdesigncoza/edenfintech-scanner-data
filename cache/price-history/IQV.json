@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "IQV",
+    "date": "2026-02-27",
+    "price": 178.81,
+    "volume": 5206427
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-26",
+    "price": 170.64,
+    "volume": 4139444
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-25",
+    "price": 161.91,
+    "volume": 3192000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-24",
+    "price": 164.88,
+    "volume": 2643411
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-23",
+    "price": 162.31,
+    "volume": 2620442
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-20",
+    "price": 165.62,
+    "volume": 2581848
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-19",
+    "price": 169.36,
+    "volume": 3586613
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-18",
+    "price": 171.06,
+    "volume": 2597833
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-17",
+    "price": 164.44,
+    "volume": 2212500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-13",
+    "price": 166.94,
+    "volume": 4265627
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-12",
+    "price": 168.85,
+    "volume": 7055519
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-11",
+    "price": 177.18,
+    "volume": 4558900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-10",
+    "price": 182.45,
+    "volume": 3647315
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-09",
+    "price": 192.67,
+    "volume": 2045149
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-06",
+    "price": 187.49,
+    "volume": 3443048
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-05",
+    "price": 180.96,
+    "volume": 4424805
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-04",
+    "price": 202.54,
+    "volume": 3392614
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-03",
+    "price": 203.77,
+    "volume": 4933376
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-02-02",
+    "price": 231.23,
+    "volume": 806159
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-30",
+    "price": 230.15,
+    "volume": 1463900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-29",
+    "price": 235.62,
+    "volume": 1450223
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-28",
+    "price": 239.76,
+    "volume": 1590856
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-27",
+    "price": 241.04,
+    "volume": 1315937
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-26",
+    "price": 239.43,
+    "volume": 945826
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-23",
+    "price": 235.31,
+    "volume": 683326
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-22",
+    "price": 239.05,
+    "volume": 1327125
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-21",
+    "price": 241.4,
+    "volume": 1016739
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-20",
+    "price": 233.69,
+    "volume": 1231242
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-16",
+    "price": 237.68,
+    "volume": 1350717
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-15",
+    "price": 241.28,
+    "volume": 723500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-14",
+    "price": 241.35,
+    "volume": 882297
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-13",
+    "price": 241.57,
+    "volume": 1120653
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-12",
+    "price": 240.86,
+    "volume": 930177
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-09",
+    "price": 242.41,
+    "volume": 1291435
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-08",
+    "price": 243.19,
+    "volume": 1832200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-07",
+    "price": 244.29,
+    "volume": 1935600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-06",
+    "price": 240.53,
+    "volume": 1636536
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-05",
+    "price": 234.59,
+    "volume": 1508700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-01-02",
+    "price": 225.37,
+    "volume": 774886
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-31",
+    "price": 225.41,
+    "volume": 502215
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-30",
+    "price": 227.69,
+    "volume": 535200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-29",
+    "price": 227.11,
+    "volume": 467000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-26",
+    "price": 226.92,
+    "volume": 426100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-24",
+    "price": 226.02,
+    "volume": 344845
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-23",
+    "price": 225.15,
+    "volume": 711800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-22",
+    "price": 224.37,
+    "volume": 1277000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-19",
+    "price": 220.69,
+    "volume": 4467400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-18",
+    "price": 222.52,
+    "volume": 1251442
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-17",
+    "price": 221.43,
+    "volume": 1409221
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-16",
+    "price": 221.68,
+    "volume": 1424710
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-15",
+    "price": 223.63,
+    "volume": 1383300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-12",
+    "price": 222.26,
+    "volume": 1007215
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-11",
+    "price": 225.98,
+    "volume": 994358
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-10",
+    "price": 222.92,
+    "volume": 1458900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-09",
+    "price": 218.06,
+    "volume": 1185500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-08",
+    "price": 223.57,
+    "volume": 1269946
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-05",
+    "price": 225.85,
+    "volume": 1690026
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-04",
+    "price": 224.92,
+    "volume": 3298900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-03",
+    "price": 227.24,
+    "volume": 1225130
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-02",
+    "price": 225.63,
+    "volume": 1566100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-12-01",
+    "price": 228.47,
+    "volume": 1266879
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-28",
+    "price": 230.01,
+    "volume": 471421
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-26",
+    "price": 231.8,
+    "volume": 1265214
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-25",
+    "price": 231.92,
+    "volume": 1439078
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-24",
+    "price": 228.18,
+    "volume": 1666129
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-21",
+    "price": 224.9,
+    "volume": 1446612
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-20",
+    "price": 217.11,
+    "volume": 980661
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-19",
+    "price": 217.48,
+    "volume": 866308
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-18",
+    "price": 217.28,
+    "volume": 1135347
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-17",
+    "price": 216.12,
+    "volume": 1564100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-14",
+    "price": 220.61,
+    "volume": 1426400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-13",
+    "price": 223.55,
+    "volume": 2405956
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-12",
+    "price": 220.88,
+    "volume": 1421322
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-11",
+    "price": 218.53,
+    "volume": 1445884
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-10",
+    "price": 213.05,
+    "volume": 1061285
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-07",
+    "price": 210.46,
+    "volume": 1160632
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-06",
+    "price": 210.86,
+    "volume": 1987593
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-05",
+    "price": 210.12,
+    "volume": 1514236
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-04",
+    "price": 210.96,
+    "volume": 1447328
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-11-03",
+    "price": 213.88,
+    "volume": 2070662
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-31",
+    "price": 216.46,
+    "volume": 1531400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-30",
+    "price": 216.47,
+    "volume": 1755924
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-29",
+    "price": 217.83,
+    "volume": 2781519
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-28",
+    "price": 218.13,
+    "volume": 2009900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-27",
+    "price": 217.43,
+    "volume": 2698863
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-24",
+    "price": 220.52,
+    "volume": 1293600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-23",
+    "price": 219.91,
+    "volume": 2027101
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-22",
+    "price": 217.86,
+    "volume": 1658193
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-21",
+    "price": 218.67,
+    "volume": 2708330
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-20",
+    "price": 212.05,
+    "volume": 1671920
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-17",
+    "price": 204.55,
+    "volume": 1496876
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-16",
+    "price": 205.75,
+    "volume": 1987000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-15",
+    "price": 203.12,
+    "volume": 1359279
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-14",
+    "price": 204.76,
+    "volume": 1427202
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-13",
+    "price": 203.77,
+    "volume": 1487600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-10",
+    "price": 198.17,
+    "volume": 1989622
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-09",
+    "price": 203,
+    "volume": 1159269
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-08",
+    "price": 200.6,
+    "volume": 1073652
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-07",
+    "price": 200.86,
+    "volume": 1183820
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-06",
+    "price": 205.02,
+    "volume": 1363501
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-03",
+    "price": 206.63,
+    "volume": 1727801
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-02",
+    "price": 204.34,
+    "volume": 2387176
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-01",
+    "price": 203.79,
+    "volume": 2577762
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-30",
+    "price": 189.94,
+    "volume": 1607200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-29",
+    "price": 180.72,
+    "volume": 858200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-26",
+    "price": 179.56,
+    "volume": 926819
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-25",
+    "price": 176.69,
+    "volume": 1199723
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-24",
+    "price": 181.24,
+    "volume": 954234
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-23",
+    "price": 186.45,
+    "volume": 1072335
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-22",
+    "price": 187.83,
+    "volume": 865200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-19",
+    "price": 187.22,
+    "volume": 2104123
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-18",
+    "price": 190.2,
+    "volume": 988588
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-17",
+    "price": 186.69,
+    "volume": 955436
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-16",
+    "price": 186.81,
+    "volume": 1005536
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-15",
+    "price": 185.97,
+    "volume": 1195188
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-12",
+    "price": 187.22,
+    "volume": 946300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-11",
+    "price": 190.69,
+    "volume": 1378609
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-10",
+    "price": 183.87,
+    "volume": 1087980
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-09",
+    "price": 189.64,
+    "volume": 1201446
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-08",
+    "price": 187.68,
+    "volume": 1329347
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-05",
+    "price": 187.68,
+    "volume": 1263215
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-04",
+    "price": 184.08,
+    "volume": 1240400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-03",
+    "price": 184.62,
+    "volume": 1194100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-09-02",
+    "price": 183.74,
+    "volume": 1258900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-29",
+    "price": 190.81,
+    "volume": 1089400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-28",
+    "price": 188.73,
+    "volume": 1161600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-27",
+    "price": 188.8,
+    "volume": 1014446
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-26",
+    "price": 187.76,
+    "volume": 1505905
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-25",
+    "price": 188.02,
+    "volume": 1056134
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-22",
+    "price": 191.15,
+    "volume": 1619419
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-21",
+    "price": 185.39,
+    "volume": 1064244
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-20",
+    "price": 192.04,
+    "volume": 860800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-19",
+    "price": 192.35,
+    "volume": 1266800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-18",
+    "price": 192.54,
+    "volume": 1341039
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-15",
+    "price": 191.09,
+    "volume": 950700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-14",
+    "price": 189.4,
+    "volume": 946620
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-13",
+    "price": 190.23,
+    "volume": 1564821
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-12",
+    "price": 185.91,
+    "volume": 1488030
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-11",
+    "price": 180.09,
+    "volume": 1072900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-08",
+    "price": 179.86,
+    "volume": 877748
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-07",
+    "price": 178.95,
+    "volume": 1031425
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-06",
+    "price": 177.49,
+    "volume": 1663500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-05",
+    "price": 183.93,
+    "volume": 2522883
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-04",
+    "price": 182.75,
+    "volume": 1100500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-08-01",
+    "price": 182.45,
+    "volume": 1644135
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-31",
+    "price": 185.86,
+    "volume": 1887359
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-30",
+    "price": 191.54,
+    "volume": 1277957
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-29",
+    "price": 194.55,
+    "volume": 2158748
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-28",
+    "price": 197.76,
+    "volume": 1966386
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-25",
+    "price": 199.17,
+    "volume": 2138936
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-24",
+    "price": 200.82,
+    "volume": 5460128
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-23",
+    "price": 194.24,
+    "volume": 5027916
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-22",
+    "price": 187.38,
+    "volume": 6857001
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-21",
+    "price": 158.96,
+    "volume": 2338000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-18",
+    "price": 160.63,
+    "volume": 2312800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-17",
+    "price": 163.25,
+    "volume": 2194900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-16",
+    "price": 158.64,
+    "volume": 1498303
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-15",
+    "price": 157.68,
+    "volume": 2406158
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-14",
+    "price": 160.13,
+    "volume": 1365000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-11",
+    "price": 162.8,
+    "volume": 1156700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-10",
+    "price": 165.53,
+    "volume": 1612124
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-09",
+    "price": 162.02,
+    "volume": 1289745
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-08",
+    "price": 164.47,
+    "volume": 1987723
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-07",
+    "price": 162.45,
+    "volume": 1489122
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-03",
+    "price": 164.24,
+    "volume": 674106
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-02",
+    "price": 164.65,
+    "volume": 1278000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-07-01",
+    "price": 162.61,
+    "volume": 1497761
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-30",
+    "price": 157.59,
+    "volume": 2920642
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-27",
+    "price": 157.47,
+    "volume": 2309431
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-26",
+    "price": 158.16,
+    "volume": 2551725
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-25",
+    "price": 158.71,
+    "volume": 2093330
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-24",
+    "price": 158.58,
+    "volume": 1606759
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-23",
+    "price": 155.17,
+    "volume": 4537400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-20",
+    "price": 154.73,
+    "volume": 2905654
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-18",
+    "price": 154.61,
+    "volume": 1667200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-17",
+    "price": 154.1,
+    "volume": 2631082
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-16",
+    "price": 159.25,
+    "volume": 1643862
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-13",
+    "price": 156.89,
+    "volume": 1473900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-12",
+    "price": 159.13,
+    "volume": 1584575
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-11",
+    "price": 158.83,
+    "volume": 2739962
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-10",
+    "price": 159.77,
+    "volume": 2845140
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-09",
+    "price": 154.15,
+    "volume": 2410414
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-06",
+    "price": 152.32,
+    "volume": 2750098
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-05",
+    "price": 147.37,
+    "volume": 3359217
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-04",
+    "price": 147.9,
+    "volume": 2684614
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-03",
+    "price": 142.78,
+    "volume": 3270021
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-06-02",
+    "price": 139.1,
+    "volume": 1537000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-30",
+    "price": 140.33,
+    "volume": 2874700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-29",
+    "price": 141.02,
+    "volume": 2250200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-28",
+    "price": 138.78,
+    "volume": 1601591
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-27",
+    "price": 140.54,
+    "volume": 2960055
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-23",
+    "price": 137,
+    "volume": 2248710
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-22",
+    "price": 138.04,
+    "volume": 3036024
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-21",
+    "price": 137.29,
+    "volume": 2870745
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-20",
+    "price": 144.95,
+    "volume": 4613530
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-19",
+    "price": 143.54,
+    "volume": 3088300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-16",
+    "price": 142.82,
+    "volume": 2227301
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-15",
+    "price": 140.43,
+    "volume": 2595900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-14",
+    "price": 141.82,
+    "volume": 2739503
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-13",
+    "price": 150.68,
+    "volume": 2499704
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-12",
+    "price": 156.13,
+    "volume": 5398700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-09",
+    "price": 148.99,
+    "volume": 1677256
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-08",
+    "price": 153.29,
+    "volume": 2667928
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-07",
+    "price": 153.3,
+    "volume": 2879600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-06",
+    "price": 146.2,
+    "volume": 2920300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-05",
+    "price": 152.3,
+    "volume": 2024297
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-02",
+    "price": 153.48,
+    "volume": 1697045
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-05-01",
+    "price": 151.1,
+    "volume": 1841714
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-30",
+    "price": 155.07,
+    "volume": 2232519
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-29",
+    "price": 153.45,
+    "volume": 1269300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-28",
+    "price": 150.13,
+    "volume": 1458400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-25",
+    "price": 150.28,
+    "volume": 1333100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-24",
+    "price": 150.68,
+    "volume": 1457650
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-23",
+    "price": 147.06,
+    "volume": 2295000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-22",
+    "price": 143.61,
+    "volume": 1734183
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-21",
+    "price": 141.22,
+    "volume": 1967500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-17",
+    "price": 143.91,
+    "volume": 3302600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-16",
+    "price": 148.44,
+    "volume": 1322238
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-15",
+    "price": 149.15,
+    "volume": 1282100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-14",
+    "price": 150.92,
+    "volume": 2446448
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-11",
+    "price": 145.55,
+    "volume": 2601636
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-10",
+    "price": 143.22,
+    "volume": 3283511
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-09",
+    "price": 157.02,
+    "volume": 6397453
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-08",
+    "price": 144.49,
+    "volume": 2697762
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-07",
+    "price": 153.01,
+    "volume": 3736500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-04",
+    "price": 154.73,
+    "volume": 2558200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-03",
+    "price": 167.69,
+    "volume": 2170733
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-02",
+    "price": 174.37,
+    "volume": 1499426
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-04-01",
+    "price": 171.24,
+    "volume": 1226508
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-31",
+    "price": 176.3,
+    "volume": 2234728
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-28",
+    "price": 177.39,
+    "volume": 1583153
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-27",
+    "price": 179.36,
+    "volume": 1394207
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-26",
+    "price": 180.02,
+    "volume": 1316700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-25",
+    "price": 181.39,
+    "volume": 1566034
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-24",
+    "price": 186.11,
+    "volume": 1477631
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-21",
+    "price": 185.89,
+    "volume": 3242789
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-20",
+    "price": 184.26,
+    "volume": 1344524
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-19",
+    "price": 186.94,
+    "volume": 1008400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-18",
+    "price": 188.54,
+    "volume": 1344800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-17",
+    "price": 184.9,
+    "volume": 1368400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-14",
+    "price": 185.19,
+    "volume": 1100338
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-13",
+    "price": 181.43,
+    "volume": 1289100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-12",
+    "price": 185.42,
+    "volume": 1531765
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-11",
+    "price": 183.48,
+    "volume": 1671942
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-10",
+    "price": 188.78,
+    "volume": 1890969
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-07",
+    "price": 191.63,
+    "volume": 1971826
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-06",
+    "price": 185.47,
+    "volume": 1215606
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-05",
+    "price": 185.85,
+    "volume": 1050048
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-04",
+    "price": 183.57,
+    "volume": 1649539
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-03-03",
+    "price": 184.85,
+    "volume": 1421324
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-28",
+    "price": 188.8,
+    "volume": 1741200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-27",
+    "price": 186.5,
+    "volume": 1405309
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-26",
+    "price": 190.95,
+    "volume": 1345705
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-25",
+    "price": 190.97,
+    "volume": 2174306
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-24",
+    "price": 194.75,
+    "volume": 1857100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-21",
+    "price": 191.04,
+    "volume": 1550413
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-20",
+    "price": 194.01,
+    "volume": 1081200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-19",
+    "price": 196.51,
+    "volume": 1702964
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-18",
+    "price": 193.15,
+    "volume": 1539803
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-14",
+    "price": 193.44,
+    "volume": 1527629
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-13",
+    "price": 196.05,
+    "volume": 905690
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-12",
+    "price": 197.82,
+    "volume": 1044006
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-11",
+    "price": 200.89,
+    "volume": 1380704
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-10",
+    "price": 206.97,
+    "volume": 1076200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-07",
+    "price": 208.14,
+    "volume": 1748702
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-06",
+    "price": 209.96,
+    "volume": 1811907
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-05",
+    "price": 205.44,
+    "volume": 1692116
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-04",
+    "price": 200.04,
+    "volume": 1413703
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-02-03",
+    "price": 199.11,
+    "volume": 1602700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-31",
+    "price": 201.36,
+    "volume": 1107845
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-30",
+    "price": 201.78,
+    "volume": 2124611
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-29",
+    "price": 198.07,
+    "volume": 1925320
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-28",
+    "price": 203.43,
+    "volume": 1258400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-27",
+    "price": 207.05,
+    "volume": 1363118
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-24",
+    "price": 204.33,
+    "volume": 673000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-23",
+    "price": 206,
+    "volume": 1256300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-22",
+    "price": 205.42,
+    "volume": 2233336
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-21",
+    "price": 205.69,
+    "volume": 1590247
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-17",
+    "price": 197.36,
+    "volume": 1253302
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-16",
+    "price": 197.66,
+    "volume": 1208113
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-15",
+    "price": 196.1,
+    "volume": 1711367
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-14",
+    "price": 197.96,
+    "volume": 2138900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-13",
+    "price": 204.64,
+    "volume": 1085322
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-10",
+    "price": 203.27,
+    "volume": 1633825
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-08",
+    "price": 204.32,
+    "volume": 1056507
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-07",
+    "price": 202.65,
+    "volume": 1127600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-06",
+    "price": 199.28,
+    "volume": 1462923
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-03",
+    "price": 197.39,
+    "volume": 849619
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-01-02",
+    "price": 195.12,
+    "volume": 702848
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-31",
+    "price": 196.51,
+    "volume": 718940
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-30",
+    "price": 197.45,
+    "volume": 610687
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-27",
+    "price": 199.39,
+    "volume": 503225
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-26",
+    "price": 200.25,
+    "volume": 680000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-24",
+    "price": 199.99,
+    "volume": 398015
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-23",
+    "price": 199.11,
+    "volume": 1315044
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-20",
+    "price": 197.27,
+    "volume": 3346312
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-19",
+    "price": 191.52,
+    "volume": 2016340
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-18",
+    "price": 190.97,
+    "volume": 1751102
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-17",
+    "price": 196.64,
+    "volume": 1652327
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-16",
+    "price": 197.09,
+    "volume": 1804812
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-13",
+    "price": 199.06,
+    "volume": 1161543
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-12",
+    "price": 200.37,
+    "volume": 1156300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-11",
+    "price": 201.07,
+    "volume": 1457936
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-10",
+    "price": 203.2,
+    "volume": 1791750
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-09",
+    "price": 206.44,
+    "volume": 1749000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-06",
+    "price": 202.63,
+    "volume": 1388128
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-05",
+    "price": 199.93,
+    "volume": 1287571
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-04",
+    "price": 203.17,
+    "volume": 1042200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-03",
+    "price": 200.58,
+    "volume": 1609305
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-12-02",
+    "price": 201.79,
+    "volume": 1869600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-29",
+    "price": 200.84,
+    "volume": 513717
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-27",
+    "price": 201.43,
+    "volume": 822837
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-26",
+    "price": 201.23,
+    "volume": 1370076
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-25",
+    "price": 204.02,
+    "volume": 2222306
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-22",
+    "price": 201.82,
+    "volume": 1887846
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-21",
+    "price": 197.6,
+    "volume": 1858637
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-20",
+    "price": 194.38,
+    "volume": 2639858
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-19",
+    "price": 191.33,
+    "volume": 3035600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-18",
+    "price": 191.04,
+    "volume": 3144500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-15",
+    "price": 192.68,
+    "volume": 4579136
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-14",
+    "price": 202.94,
+    "volume": 3287959
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-13",
+    "price": 211.51,
+    "volume": 3191000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-12",
+    "price": 213.57,
+    "volume": 2045600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-11",
+    "price": 216.99,
+    "volume": 1729700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-08",
+    "price": 219.23,
+    "volume": 1418430
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-07",
+    "price": 217.68,
+    "volume": 1774648
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-06",
+    "price": 221.25,
+    "volume": 2064230
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-05",
+    "price": 212.87,
+    "volume": 1125730
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-04",
+    "price": 210.19,
+    "volume": 2098747
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-11-01",
+    "price": 209.16,
+    "volume": 1791900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-31",
+    "price": 205.82,
+    "volume": 3271600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-30",
+    "price": 216.04,
+    "volume": 1409962
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-29",
+    "price": 216.34,
+    "volume": 1579200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-28",
+    "price": 217.54,
+    "volume": 1073306
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-25",
+    "price": 214.63,
+    "volume": 1012728
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-24",
+    "price": 211.71,
+    "volume": 2286500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-23",
+    "price": 228.31,
+    "volume": 865503
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-22",
+    "price": 228.3,
+    "volume": 953972
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-21",
+    "price": 231.19,
+    "volume": 846236
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-18",
+    "price": 236.69,
+    "volume": 810936
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-17",
+    "price": 233.89,
+    "volume": 914636
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-16",
+    "price": 233.06,
+    "volume": 870108
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-15",
+    "price": 232.98,
+    "volume": 1087500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-14",
+    "price": 233.22,
+    "volume": 711744
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-11",
+    "price": 229.26,
+    "volume": 971331
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-10",
+    "price": 230.25,
+    "volume": 718719
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-09",
+    "price": 228.79,
+    "volume": 673945
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-08",
+    "price": 226.72,
+    "volume": 885110
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-07",
+    "price": 225.36,
+    "volume": 975739
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-04",
+    "price": 229.84,
+    "volume": 591239
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-03",
+    "price": 227.4,
+    "volume": 854300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-02",
+    "price": 231.76,
+    "volume": 795600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-10-01",
+    "price": 231.37,
+    "volume": 803658
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-30",
+    "price": 236.97,
+    "volume": 724025
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-27",
+    "price": 234.79,
+    "volume": 858579
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-26",
+    "price": 236.23,
+    "volume": 718100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-25",
+    "price": 231.71,
+    "volume": 1302100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-24",
+    "price": 239.57,
+    "volume": 1053800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-23",
+    "price": 240.73,
+    "volume": 742109
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-20",
+    "price": 242.12,
+    "volume": 3159620
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-19",
+    "price": 244.62,
+    "volume": 1168500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-18",
+    "price": 242.67,
+    "volume": 1584417
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-17",
+    "price": 239.98,
+    "volume": 1427204
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-16",
+    "price": 239.38,
+    "volume": 1031700
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-13",
+    "price": 238.7,
+    "volume": 1144738
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-12",
+    "price": 238.4,
+    "volume": 1406500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-11",
+    "price": 237.3,
+    "volume": 1227500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-10",
+    "price": 235.2,
+    "volume": 2371420
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-09",
+    "price": 240.87,
+    "volume": 2118910
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-06",
+    "price": 243.07,
+    "volume": 919808
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-05",
+    "price": 248.14,
+    "volume": 786400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-04",
+    "price": 248.84,
+    "volume": 1059848
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-09-03",
+    "price": 248.81,
+    "volume": 1229911
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-30",
+    "price": 251.55,
+    "volume": 1194435
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-29",
+    "price": 250.79,
+    "volume": 754100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-28",
+    "price": 247.55,
+    "volume": 727038
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-27",
+    "price": 248.6,
+    "volume": 911637
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-26",
+    "price": 247.86,
+    "volume": 407800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-23",
+    "price": 248.93,
+    "volume": 557532
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-22",
+    "price": 244.96,
+    "volume": 523900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-21",
+    "price": 247,
+    "volume": 717433
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-20",
+    "price": 246.94,
+    "volume": 1197130
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-19",
+    "price": 243.11,
+    "volume": 797600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-16",
+    "price": 239.63,
+    "volume": 438400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-15",
+    "price": 240.91,
+    "volume": 837438
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-14",
+    "price": 236.21,
+    "volume": 517600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-13",
+    "price": 238.44,
+    "volume": 964200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-12",
+    "price": 231.46,
+    "volume": 761200
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-09",
+    "price": 237.47,
+    "volume": 552600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-08",
+    "price": 236.07,
+    "volume": 635207
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-07",
+    "price": 229.62,
+    "volume": 1431943
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-06",
+    "price": 237.26,
+    "volume": 921732
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-05",
+    "price": 233.65,
+    "volume": 1195327
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-02",
+    "price": 241.78,
+    "volume": 1141400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-08-01",
+    "price": 248.36,
+    "volume": 975000
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-31",
+    "price": 246.23,
+    "volume": 1287406
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-30",
+    "price": 245.57,
+    "volume": 1309300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-29",
+    "price": 237.25,
+    "volume": 948640
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-26",
+    "price": 239.67,
+    "volume": 1195238
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-25",
+    "price": 232.29,
+    "volume": 1967800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-24",
+    "price": 238.75,
+    "volume": 1339330
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-23",
+    "price": 238.79,
+    "volume": 1918151
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-22",
+    "price": 245.23,
+    "volume": 2496343
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-19",
+    "price": 224.57,
+    "volume": 1093584
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-18",
+    "price": 224.85,
+    "volume": 873958
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-17",
+    "price": 230.29,
+    "volume": 1025140
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-16",
+    "price": 232.97,
+    "volume": 1315010
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-15",
+    "price": 225.89,
+    "volume": 1056482
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-12",
+    "price": 224.17,
+    "volume": 1362151
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-11",
+    "price": 219.44,
+    "volume": 1124660
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-10",
+    "price": 211.98,
+    "volume": 888236
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-09",
+    "price": 213.05,
+    "volume": 1123299
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-08",
+    "price": 208.94,
+    "volume": 1287096
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-05",
+    "price": 208.1,
+    "volume": 1108787
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-03",
+    "price": 206.81,
+    "volume": 929729
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-02",
+    "price": 207.47,
+    "volume": 936449
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-07-01",
+    "price": 208.49,
+    "volume": 1125342
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-28",
+    "price": 211.44,
+    "volume": 5448174
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-27",
+    "price": 212.75,
+    "volume": 1014494
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-26",
+    "price": 211.18,
+    "volume": 1658075
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-25",
+    "price": 211.42,
+    "volume": 1449800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-24",
+    "price": 214.09,
+    "volume": 1464315
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-21",
+    "price": 216.25,
+    "volume": 1590610
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-20",
+    "price": 214.19,
+    "volume": 975219
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-18",
+    "price": 212.83,
+    "volume": 1099382
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-17",
+    "price": 213.32,
+    "volume": 1014155
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-14",
+    "price": 212.75,
+    "volume": 845033
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-13",
+    "price": 213.96,
+    "volume": 904371
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-12",
+    "price": 217.46,
+    "volume": 1233606
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-11",
+    "price": 215.51,
+    "volume": 1613709
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-10",
+    "price": 215.83,
+    "volume": 1670182
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-07",
+    "price": 219.23,
+    "volume": 1305265
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-06",
+    "price": 220.49,
+    "volume": 1146698
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-05",
+    "price": 218.9,
+    "volume": 1164796
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-04",
+    "price": 217.18,
+    "volume": 1153654
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-06-03",
+    "price": 216.47,
+    "volume": 1393242
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-31",
+    "price": 219.09,
+    "volume": 3503962
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-30",
+    "price": 222.45,
+    "volume": 1150065
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-29",
+    "price": 225,
+    "volume": 1411697
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-28",
+    "price": 226.71,
+    "volume": 1160238
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-24",
+    "price": 229.6,
+    "volume": 751380
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-23",
+    "price": 227.09,
+    "volume": 788115
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-22",
+    "price": 226.03,
+    "volume": 1155690
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-21",
+    "price": 229.38,
+    "volume": 1060619
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-20",
+    "price": 230.09,
+    "volume": 701389
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-17",
+    "price": 231.18,
+    "volume": 723943
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-16",
+    "price": 235,
+    "volume": 1008991
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-15",
+    "price": 233.69,
+    "volume": 963405
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-14",
+    "price": 231.14,
+    "volume": 699573
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-13",
+    "price": 229.04,
+    "volume": 867399
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-10",
+    "price": 234.08,
+    "volume": 1261997
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-09",
+    "price": 229.2,
+    "volume": 643740
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-08",
+    "price": 227.88,
+    "volume": 579536
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-07",
+    "price": 229.14,
+    "volume": 849873
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-06",
+    "price": 227.04,
+    "volume": 684926
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-03",
+    "price": 223.37,
+    "volume": 1052929
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-02",
+    "price": 222.14,
+    "volume": 1697682
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-05-01",
+    "price": 232.94,
+    "volume": 1025521
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-30",
+    "price": 231.77,
+    "volume": 674185
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-29",
+    "price": 235.48,
+    "volume": 740094
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-26",
+    "price": 234.88,
+    "volume": 697640
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-25",
+    "price": 233.98,
+    "volume": 1061417
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-24",
+    "price": 240.84,
+    "volume": 1505728
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-23",
+    "price": 238.62,
+    "volume": 1112773
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-22",
+    "price": 231.34,
+    "volume": 737099
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-19",
+    "price": 228.09,
+    "volume": 776957
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-18",
+    "price": 227.17,
+    "volume": 631234
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-17",
+    "price": 227.25,
+    "volume": 705876
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-16",
+    "price": 229.14,
+    "volume": 920953
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-15",
+    "price": 231.16,
+    "volume": 609477
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-12",
+    "price": 234.23,
+    "volume": 932313
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-11",
+    "price": 238.02,
+    "volume": 658356
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-10",
+    "price": 239.41,
+    "volume": 534636
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-09",
+    "price": 245.33,
+    "volume": 548706
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-08",
+    "price": 241.5,
+    "volume": 495441
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-05",
+    "price": 241.45,
+    "volume": 556638
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-04",
+    "price": 238.53,
+    "volume": 939792
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-03",
+    "price": 242.98,
+    "volume": 880154
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-02",
+    "price": 245.51,
+    "volume": 997506
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-04-01",
+    "price": 248.87,
+    "volume": 633299
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-28",
+    "price": 252.89,
+    "volume": 771448
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-27",
+    "price": 252.57,
+    "volume": 747004
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-26",
+    "price": 247.74,
+    "volume": 880372
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-25",
+    "price": 248.88,
+    "volume": 688367
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-22",
+    "price": 252.41,
+    "volume": 646270
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-21",
+    "price": 254.56,
+    "volume": 1122234
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-20",
+    "price": 252.72,
+    "volume": 1242528
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-19",
+    "price": 254.16,
+    "volume": 797580
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-18",
+    "price": 253.87,
+    "volume": 734346
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-15",
+    "price": 252.71,
+    "volume": 1139793
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-14",
+    "price": 254.26,
+    "volume": 989184
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-13",
+    "price": 255.65,
+    "volume": 812997
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-12",
+    "price": 259.1,
+    "volume": 839113
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-11",
+    "price": 258.58,
+    "volume": 994048
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-08",
+    "price": 257.18,
+    "volume": 842757
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-07",
+    "price": 258.59,
+    "volume": 872385
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-06",
+    "price": 252.97,
+    "volume": 843606
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-05",
+    "price": 250.2,
+    "volume": 655803
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-04",
+    "price": 251.56,
+    "volume": 642060
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-03-01",
+    "price": 252.45,
+    "volume": 1144452
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-29",
+    "price": 247.16,
+    "volume": 1393553
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-28",
+    "price": 250.31,
+    "volume": 975028
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-27",
+    "price": 248.84,
+    "volume": 629452
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-26",
+    "price": 247.48,
+    "volume": 618355
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-23",
+    "price": 247.26,
+    "volume": 973678
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-22",
+    "price": 247.33,
+    "volume": 1936813
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-21",
+    "price": 237.28,
+    "volume": 1186096
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-20",
+    "price": 234.76,
+    "volume": 1015300
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-16",
+    "price": 238.6,
+    "volume": 1021421
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-15",
+    "price": 241.47,
+    "volume": 1677758
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-14",
+    "price": 243.47,
+    "volume": 2798244
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-13",
+    "price": 215.27,
+    "volume": 1353937
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-12",
+    "price": 217.88,
+    "volume": 1034344
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-09",
+    "price": 218.2,
+    "volume": 1143902
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-08",
+    "price": 217,
+    "volume": 984172
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-07",
+    "price": 214.34,
+    "volume": 965513
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-06",
+    "price": 215.41,
+    "volume": 1239295
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-05",
+    "price": 210.71,
+    "volume": 1162178
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-02",
+    "price": 210.75,
+    "volume": 586472
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-02-01",
+    "price": 211.3,
+    "volume": 920991
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-31",
+    "price": 208.23,
+    "volume": 1716733
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-30",
+    "price": 217.08,
+    "volume": 665137
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-29",
+    "price": 218.02,
+    "volume": 611830
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-26",
+    "price": 216.09,
+    "volume": 1040293
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-25",
+    "price": 215.5,
+    "volume": 849838
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-24",
+    "price": 212.88,
+    "volume": 1219426
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-23",
+    "price": 213.53,
+    "volume": 980772
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-22",
+    "price": 217.75,
+    "volume": 1047366
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-19",
+    "price": 215.39,
+    "volume": 1370094
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-18",
+    "price": 213.19,
+    "volume": 1008532
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-17",
+    "price": 210.91,
+    "volume": 996905
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-16",
+    "price": 212.7,
+    "volume": 767720
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-12",
+    "price": 213.85,
+    "volume": 1053610
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-11",
+    "price": 213.95,
+    "volume": 2035969
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-10",
+    "price": 217.13,
+    "volume": 1590513
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-09",
+    "price": 221.75,
+    "volume": 649621
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-08",
+    "price": 224.06,
+    "volume": 603149
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-05",
+    "price": 220.52,
+    "volume": 557977
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-04",
+    "price": 220.08,
+    "volume": 839753
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-03",
+    "price": 220.01,
+    "volume": 1201351
+  },
+  {
+    "symbol": "IQV",
+    "date": "2024-01-02",
+    "price": 230.39,
+    "volume": 812346
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-29",
+    "price": 231.38,
+    "volume": 517183
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-28",
+    "price": 232.73,
+    "volume": 511604
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-27",
+    "price": 231.92,
+    "volume": 574122
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-26",
+    "price": 231.03,
+    "volume": 408765
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-22",
+    "price": 229.38,
+    "volume": 621636
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-21",
+    "price": 229.33,
+    "volume": 835395
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-20",
+    "price": 225,
+    "volume": 1163512
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-19",
+    "price": 228.86,
+    "volume": 1194876
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-18",
+    "price": 225.97,
+    "volume": 955046
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-15",
+    "price": 226.72,
+    "volume": 1654970
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-14",
+    "price": 230.55,
+    "volume": 1501738
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-13",
+    "price": 225.95,
+    "volume": 1593863
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-12",
+    "price": 217.43,
+    "volume": 1119298
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-11",
+    "price": 216.31,
+    "volume": 726481
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-08",
+    "price": 215.28,
+    "volume": 603944
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-07",
+    "price": 214.99,
+    "volume": 773631
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-06",
+    "price": 215.59,
+    "volume": 1110388
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-05",
+    "price": 214.31,
+    "volume": 1435550
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-04",
+    "price": 216.27,
+    "volume": 1336585
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-12-01",
+    "price": 216.91,
+    "volume": 1195374
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-30",
+    "price": 214.1,
+    "volume": 1854498
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-29",
+    "price": 213.81,
+    "volume": 1204504
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-28",
+    "price": 211,
+    "volume": 1204820
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-27",
+    "price": 210.73,
+    "volume": 1783164
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-24",
+    "price": 212.01,
+    "volume": 427923
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-22",
+    "price": 209.52,
+    "volume": 999997
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-21",
+    "price": 207.45,
+    "volume": 1290664
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-20",
+    "price": 205.29,
+    "volume": 1335064
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-17",
+    "price": 204.79,
+    "volume": 693583
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-16",
+    "price": 204.79,
+    "volume": 1274424
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-15",
+    "price": 205.83,
+    "volume": 1284180
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-14",
+    "price": 200.48,
+    "volume": 1400410
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-13",
+    "price": 193.67,
+    "volume": 767252
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-10",
+    "price": 195.98,
+    "volume": 1045872
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-09",
+    "price": 191.91,
+    "volume": 1613306
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-08",
+    "price": 199.76,
+    "volume": 1089582
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-07",
+    "price": 200.08,
+    "volume": 1612604
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-06",
+    "price": 198.4,
+    "volume": 1906366
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-03",
+    "price": 197.2,
+    "volume": 3691581
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-02",
+    "price": 190.46,
+    "volume": 4531226
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-11-01",
+    "price": 180.01,
+    "volume": 2652136
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-31",
+    "price": 180.83,
+    "volume": 1533928
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-30",
+    "price": 177.16,
+    "volume": 1572043
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-27",
+    "price": 179.94,
+    "volume": 933468
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-26",
+    "price": 184.42,
+    "volume": 1515233
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-25",
+    "price": 181.22,
+    "volume": 1507231
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-24",
+    "price": 186.69,
+    "volume": 1239544
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-23",
+    "price": 183.71,
+    "volume": 1037142
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-20",
+    "price": 184.36,
+    "volume": 1626359
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-19",
+    "price": 186.75,
+    "volume": 1631790
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-18",
+    "price": 188.95,
+    "volume": 1575546
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-17",
+    "price": 199,
+    "volume": 1130270
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-16",
+    "price": 198.98,
+    "volume": 955264
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-13",
+    "price": 199.36,
+    "volume": 1144467
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-12",
+    "price": 197.61,
+    "volume": 1081927
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-11",
+    "price": 204.56,
+    "volume": 871968
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-10",
+    "price": 201.51,
+    "volume": 1051564
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-09",
+    "price": 199.54,
+    "volume": 803582
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-06",
+    "price": 198.64,
+    "volume": 876834
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-05",
+    "price": 197.82,
+    "volume": 1101580
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-04",
+    "price": 196.43,
+    "volume": 1697101
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-03",
+    "price": 190.73,
+    "volume": 849560
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-10-02",
+    "price": 193.88,
+    "volume": 1117895
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-29",
+    "price": 196.75,
+    "volume": 1489556
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-28",
+    "price": 197.7,
+    "volume": 1978311
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-27",
+    "price": 202.21,
+    "volume": 1061431
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-26",
+    "price": 200.98,
+    "volume": 1782113
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-25",
+    "price": 202.39,
+    "volume": 1068584
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-22",
+    "price": 198.75,
+    "volume": 1090186
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-21",
+    "price": 199.18,
+    "volume": 1595500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-20",
+    "price": 205.42,
+    "volume": 967832
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-19",
+    "price": 208.88,
+    "volume": 1013898
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-18",
+    "price": 209.35,
+    "volume": 871307
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-15",
+    "price": 211.71,
+    "volume": 2027171
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-14",
+    "price": 212.96,
+    "volume": 1344528
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-13",
+    "price": 216.6,
+    "volume": 937915
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-12",
+    "price": 216.77,
+    "volume": 995548
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-11",
+    "price": 215.33,
+    "volume": 976299
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-08",
+    "price": 213.53,
+    "volume": 1302605
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-07",
+    "price": 219,
+    "volume": 1028320
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-06",
+    "price": 218.82,
+    "volume": 860043
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-05",
+    "price": 220.89,
+    "volume": 746431
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-09-01",
+    "price": 224.33,
+    "volume": 682681
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-31",
+    "price": 222.63,
+    "volume": 849314
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-30",
+    "price": 224.55,
+    "volume": 864018
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-29",
+    "price": 225.14,
+    "volume": 489571
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-28",
+    "price": 221.79,
+    "volume": 765885
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-25",
+    "price": 219.01,
+    "volume": 552305
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-24",
+    "price": 215.51,
+    "volume": 605047
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-23",
+    "price": 216.14,
+    "volume": 474808
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-22",
+    "price": 214.02,
+    "volume": 828215
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-21",
+    "price": 214.36,
+    "volume": 860739
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-18",
+    "price": 213.98,
+    "volume": 1077823
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-17",
+    "price": 214.21,
+    "volume": 611235
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-16",
+    "price": 215.2,
+    "volume": 737576
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-15",
+    "price": 217.66,
+    "volume": 885089
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-14",
+    "price": 220.12,
+    "volume": 736865
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-11",
+    "price": 219.84,
+    "volume": 687857
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-10",
+    "price": 221.78,
+    "volume": 775817
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-09",
+    "price": 218.68,
+    "volume": 661880
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-08",
+    "price": 218.86,
+    "volume": 869155
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-07",
+    "price": 219.3,
+    "volume": 739305
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-04",
+    "price": 216.93,
+    "volume": 738706
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-03",
+    "price": 216.29,
+    "volume": 766017
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-02",
+    "price": 219.09,
+    "volume": 1119583
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-08-01",
+    "price": 219.13,
+    "volume": 2059568
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-31",
+    "price": 223.76,
+    "volume": 1262044
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-28",
+    "price": 226.15,
+    "volume": 872233
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-27",
+    "price": 224.56,
+    "volume": 1215010
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-26",
+    "price": 231.96,
+    "volume": 684722
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-25",
+    "price": 231.57,
+    "volume": 841887
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-24",
+    "price": 228.16,
+    "volume": 1220760
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-21",
+    "price": 228.26,
+    "volume": 1078386
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-20",
+    "price": 226.37,
+    "volume": 650182
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-19",
+    "price": 225.46,
+    "volume": 763518
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-18",
+    "price": 224.23,
+    "volume": 873894
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-17",
+    "price": 221.37,
+    "volume": 712768
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-14",
+    "price": 221.1,
+    "volume": 687848
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-13",
+    "price": 219.63,
+    "volume": 1287798
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-12",
+    "price": 219.01,
+    "volume": 894275
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-11",
+    "price": 216.27,
+    "volume": 1423763
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-10",
+    "price": 219.43,
+    "volume": 997158
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-07",
+    "price": 216.81,
+    "volume": 966350
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-06",
+    "price": 217.65,
+    "volume": 1206827
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-05",
+    "price": 220.9,
+    "volume": 979591
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-07-03",
+    "price": 221.07,
+    "volume": 462049
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-30",
+    "price": 224.77,
+    "volume": 1092916
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-29",
+    "price": 221.42,
+    "volume": 869794
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-28",
+    "price": 219.22,
+    "volume": 1063337
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-27",
+    "price": 214.66,
+    "volume": 699870
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-26",
+    "price": 213.82,
+    "volume": 712264
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-23",
+    "price": 214.06,
+    "volume": 1361477
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-22",
+    "price": 213.62,
+    "volume": 1194546
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-21",
+    "price": 213.83,
+    "volume": 1272504
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-20",
+    "price": 214.93,
+    "volume": 1517658
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-16",
+    "price": 216.02,
+    "volume": 1182586
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-15",
+    "price": 216.78,
+    "volume": 835778
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-14",
+    "price": 212.72,
+    "volume": 1253588
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-13",
+    "price": 215.13,
+    "volume": 1183712
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-12",
+    "price": 211.9,
+    "volume": 1002381
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-09",
+    "price": 206.59,
+    "volume": 984747
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-08",
+    "price": 206.19,
+    "volume": 790954
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-07",
+    "price": 208.57,
+    "volume": 920683
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-06",
+    "price": 205.48,
+    "volume": 1001597
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-05",
+    "price": 204.01,
+    "volume": 921419
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-02",
+    "price": 201.37,
+    "volume": 1052594
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-06-01",
+    "price": 198.97,
+    "volume": 786590
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-31",
+    "price": 196.91,
+    "volume": 1447646
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-30",
+    "price": 201.65,
+    "volume": 54307
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-26",
+    "price": 199.45,
+    "volume": 750196
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-25",
+    "price": 197.47,
+    "volume": 1147568
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-24",
+    "price": 198.03,
+    "volume": 1540777
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-23",
+    "price": 201.78,
+    "volume": 1759844
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-22",
+    "price": 201.77,
+    "volume": 1437616
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-19",
+    "price": 199.44,
+    "volume": 1566676
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-18",
+    "price": 195.45,
+    "volume": 1244368
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-17",
+    "price": 193.05,
+    "volume": 1262908
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-16",
+    "price": 191.21,
+    "volume": 1114383
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-15",
+    "price": 191.47,
+    "volume": 1305037
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-12",
+    "price": 188.18,
+    "volume": 1050988
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-11",
+    "price": 189.87,
+    "volume": 1217916
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-10",
+    "price": 188.08,
+    "volume": 958579
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-09",
+    "price": 186.01,
+    "volume": 1286397
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-08",
+    "price": 189.82,
+    "volume": 1178370
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-05",
+    "price": 188.52,
+    "volume": 960558
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-04",
+    "price": 184.4,
+    "volume": 1340085
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-03",
+    "price": 187.02,
+    "volume": 1292475
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-02",
+    "price": 185.6,
+    "volume": 1356539
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-05-01",
+    "price": 190,
+    "volume": 1706846
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-28",
+    "price": 188.23,
+    "volume": 1798980
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-27",
+    "price": 183.66,
+    "volume": 3621439
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-26",
+    "price": 189.98,
+    "volume": 2386805
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-25",
+    "price": 191.71,
+    "volume": 2008727
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-24",
+    "price": 202.99,
+    "volume": 963494
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-21",
+    "price": 202.31,
+    "volume": 663517
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-20",
+    "price": 198.59,
+    "volume": 916375
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-19",
+    "price": 201.86,
+    "volume": 705344
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-18",
+    "price": 202.73,
+    "volume": 733726
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-17",
+    "price": 202.62,
+    "volume": 698493
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-14",
+    "price": 200.35,
+    "volume": 453032
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-13",
+    "price": 202.75,
+    "volume": 803694
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-12",
+    "price": 197.99,
+    "volume": 800267
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-11",
+    "price": 199.69,
+    "volume": 730683
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-10",
+    "price": 196.89,
+    "volume": 589100
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-06",
+    "price": 195.83,
+    "volume": 632530
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-05",
+    "price": 197.09,
+    "volume": 837989
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-04",
+    "price": 196.7,
+    "volume": 669074
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-04-03",
+    "price": 199.93,
+    "volume": 1268592
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-31",
+    "price": 198.89,
+    "volume": 972395
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-30",
+    "price": 194.95,
+    "volume": 1241272
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-29",
+    "price": 192.91,
+    "volume": 843119
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-28",
+    "price": 189.87,
+    "volume": 718472
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-27",
+    "price": 190.91,
+    "volume": 746910
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-24",
+    "price": 188.35,
+    "volume": 1560228
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-23",
+    "price": 188,
+    "volume": 2267566
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-22",
+    "price": 190.01,
+    "volume": 983724
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-21",
+    "price": 196.76,
+    "volume": 1071354
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-20",
+    "price": 191.81,
+    "volume": 1357387
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-17",
+    "price": 190.89,
+    "volume": 1638466
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-16",
+    "price": 196.43,
+    "volume": 1125164
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-15",
+    "price": 195.27,
+    "volume": 1804586
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-14",
+    "price": 200.71,
+    "volume": 1227728
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-13",
+    "price": 198.12,
+    "volume": 2152318
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-10",
+    "price": 197.26,
+    "volume": 2650181
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-09",
+    "price": 202.93,
+    "volume": 1273327
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-08",
+    "price": 211.6,
+    "volume": 588403
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-07",
+    "price": 212.59,
+    "volume": 446519
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-06",
+    "price": 219.57,
+    "volume": 750457
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-03",
+    "price": 220.82,
+    "volume": 963970
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-02",
+    "price": 215.83,
+    "volume": 797060
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-03-01",
+    "price": 210.77,
+    "volume": 867098
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-28",
+    "price": 208.47,
+    "volume": 843101
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-27",
+    "price": 208.88,
+    "volume": 727949
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-24",
+    "price": 209.54,
+    "volume": 543546
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-23",
+    "price": 213.37,
+    "volume": 642930
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-22",
+    "price": 210.99,
+    "volume": 1037215
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-21",
+    "price": 212.98,
+    "volume": 977019
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-17",
+    "price": 219.73,
+    "volume": 1032031
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-16",
+    "price": 224,
+    "volume": 787796
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-15",
+    "price": 227.03,
+    "volume": 841942
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-14",
+    "price": 227.07,
+    "volume": 1151150
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-13",
+    "price": 232.11,
+    "volume": 1521644
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-10",
+    "price": 222.84,
+    "volume": 2008279
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-09",
+    "price": 230.31,
+    "volume": 953773
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-08",
+    "price": 235.51,
+    "volume": 706202
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-07",
+    "price": 235.84,
+    "volume": 714455
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-06",
+    "price": 232.31,
+    "volume": 793917
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-03",
+    "price": 237.18,
+    "volume": 680692
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-02",
+    "price": 240.65,
+    "volume": 1249311
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-02-01",
+    "price": 233.49,
+    "volume": 575365
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-31",
+    "price": 229.41,
+    "volume": 535050
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-30",
+    "price": 226.28,
+    "volume": 634393
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-27",
+    "price": 229.47,
+    "volume": 616440
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-26",
+    "price": 228.52,
+    "volume": 580369
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-25",
+    "price": 226.5,
+    "volume": 392370
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-24",
+    "price": 225.78,
+    "volume": 723678
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-23",
+    "price": 228.75,
+    "volume": 840134
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-20",
+    "price": 223.61,
+    "volume": 786335
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-19",
+    "price": 222.29,
+    "volume": 837379
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-18",
+    "price": 220.55,
+    "volume": 738004
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-17",
+    "price": 221.54,
+    "volume": 607060
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-13",
+    "price": 222.14,
+    "volume": 554022
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-12",
+    "price": 219.5,
+    "volume": 675869
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-11",
+    "price": 221.53,
+    "volume": 1071584
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-10",
+    "price": 215.51,
+    "volume": 934362
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-09",
+    "price": 208.49,
+    "volume": 840164
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-06",
+    "price": 205.36,
+    "volume": 875720
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-05",
+    "price": 207.05,
+    "volume": 1278250
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-04",
+    "price": 207.78,
+    "volume": 860880
+  },
+  {
+    "symbol": "IQV",
+    "date": "2023-01-03",
+    "price": 203.86,
+    "volume": 754899
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-30",
+    "price": 204.89,
+    "volume": 514507
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-29",
+    "price": 207.81,
+    "volume": 456250
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-28",
+    "price": 201.87,
+    "volume": 346211
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-27",
+    "price": 202.94,
+    "volume": 493395
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-23",
+    "price": 203.84,
+    "volume": 368273
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-22",
+    "price": 203.14,
+    "volume": 592812
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-21",
+    "price": 204.55,
+    "volume": 811572
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-20",
+    "price": 201.38,
+    "volume": 967124
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-19",
+    "price": 199.84,
+    "volume": 815977
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-16",
+    "price": 203.78,
+    "volume": 1346121
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-15",
+    "price": 208.41,
+    "volume": 1087870
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-14",
+    "price": 214.21,
+    "volume": 1347412
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-13",
+    "price": 216.8,
+    "volume": 1136592
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-12",
+    "price": 213.14,
+    "volume": 772102
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-09",
+    "price": 208.53,
+    "volume": 791527
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-08",
+    "price": 210.41,
+    "volume": 1124044
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-07",
+    "price": 207.69,
+    "volume": 1298526
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-06",
+    "price": 209.87,
+    "volume": 867048
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-05",
+    "price": 211.93,
+    "volume": 987804
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-02",
+    "price": 217.73,
+    "volume": 880475
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-12-01",
+    "price": 220.55,
+    "volume": 846057
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-30",
+    "price": 218.02,
+    "volume": 2027490
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-29",
+    "price": 212.5,
+    "volume": 1682041
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-28",
+    "price": 214.45,
+    "volume": 901554
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-25",
+    "price": 219.98,
+    "volume": 253521
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-23",
+    "price": 217.72,
+    "volume": 318583
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-22",
+    "price": 215.9,
+    "volume": 1038171
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-21",
+    "price": 214.9,
+    "volume": 755165
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-18",
+    "price": 213.78,
+    "volume": 891813
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-17",
+    "price": 211.42,
+    "volume": 1497576
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-16",
+    "price": 224.02,
+    "volume": 592635
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-15",
+    "price": 224.31,
+    "volume": 809402
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-14",
+    "price": 222.36,
+    "volume": 828330
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-11",
+    "price": 226.53,
+    "volume": 1011075
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-10",
+    "price": 222.58,
+    "volume": 799676
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-09",
+    "price": 204.31,
+    "volume": 577189
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-08",
+    "price": 207.92,
+    "volume": 636521
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-07",
+    "price": 207.99,
+    "volume": 738311
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-04",
+    "price": 204.1,
+    "volume": 1096809
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-03",
+    "price": 203.86,
+    "volume": 918881
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-02",
+    "price": 204.35,
+    "volume": 1040309
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-11-01",
+    "price": 209.39,
+    "volume": 881969
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-31",
+    "price": 209.67,
+    "volume": 1812990
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-28",
+    "price": 208.16,
+    "volume": 1580011
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-27",
+    "price": 200.42,
+    "volume": 1804076
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-26",
+    "price": 202.1,
+    "volume": 2410419
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-25",
+    "price": 197.65,
+    "volume": 2616619
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-24",
+    "price": 179.56,
+    "volume": 1156125
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-21",
+    "price": 178.15,
+    "volume": 1409796
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-20",
+    "price": 174.58,
+    "volume": 1045373
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-19",
+    "price": 178.39,
+    "volume": 967124
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-18",
+    "price": 184.33,
+    "volume": 962522
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-17",
+    "price": 181.18,
+    "volume": 1093637
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-14",
+    "price": 173.41,
+    "volume": 1018500
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-13",
+    "price": 176.21,
+    "volume": 1266221
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-12",
+    "price": 171.86,
+    "volume": 864660
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-11",
+    "price": 172.45,
+    "volume": 1373105
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-10",
+    "price": 175.91,
+    "volume": 946156
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-07",
+    "price": 180.34,
+    "volume": 1200474
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-06",
+    "price": 187.54,
+    "volume": 1082495
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-05",
+    "price": 192.49,
+    "volume": 952729
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-04",
+    "price": 193.1,
+    "volume": 1072927
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-10-03",
+    "price": 186.2,
+    "volume": 1036005
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-30",
+    "price": 181.14,
+    "volume": 2043323
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-29",
+    "price": 181.61,
+    "volume": 1648978
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-28",
+    "price": 185.69,
+    "volume": 1652721
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-27",
+    "price": 182.89,
+    "volume": 1968601
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-26",
+    "price": 186.08,
+    "volume": 1262629
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-23",
+    "price": 189.43,
+    "volume": 1244179
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-22",
+    "price": 190.62,
+    "volume": 956315
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-21",
+    "price": 195.52,
+    "volume": 733456
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-20",
+    "price": 199.66,
+    "volume": 740371
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-19",
+    "price": 203.7,
+    "volume": 916120
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-16",
+    "price": 205.04,
+    "volume": 1516085
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-15",
+    "price": 207.37,
+    "volume": 762159
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-14",
+    "price": 209.13,
+    "volume": 864111
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-13",
+    "price": 212.51,
+    "volume": 1169080
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-12",
+    "price": 226.74,
+    "volume": 563148
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-09",
+    "price": 223.17,
+    "volume": 623765
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-08",
+    "price": 221.12,
+    "volume": 932807
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-07",
+    "price": 215.14,
+    "volume": 757499
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-06",
+    "price": 209.66,
+    "volume": 891174
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-02",
+    "price": 207.26,
+    "volume": 862836
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-09-01",
+    "price": 211.62,
+    "volume": 921874
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-31",
+    "price": 212.66,
+    "volume": 1116575
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-30",
+    "price": 215.99,
+    "volume": 613159
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-29",
+    "price": 218.21,
+    "volume": 712285
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-26",
+    "price": 219.67,
+    "volume": 857708
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-25",
+    "price": 234.73,
+    "volume": 536165
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-24",
+    "price": 231.83,
+    "volume": 467576
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-23",
+    "price": 229.24,
+    "volume": 806048
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-22",
+    "price": 231.57,
+    "volume": 702132
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-19",
+    "price": 239.02,
+    "volume": 573489
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-18",
+    "price": 238.82,
+    "volume": 422242
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-17",
+    "price": 240.62,
+    "volume": 521081
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-16",
+    "price": 244.71,
+    "volume": 884863
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-15",
+    "price": 248.26,
+    "volume": 959607
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-12",
+    "price": 245.81,
+    "volume": 878893
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-11",
+    "price": 242,
+    "volume": 1995168
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-10",
+    "price": 239.69,
+    "volume": 572747
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-09",
+    "price": 232.6,
+    "volume": 562335
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-08",
+    "price": 233.66,
+    "volume": 498330
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-05",
+    "price": 234.74,
+    "volume": 678106
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-04",
+    "price": 234.34,
+    "volume": 637747
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-03",
+    "price": 233.21,
+    "volume": 864147
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-02",
+    "price": 233.41,
+    "volume": 989816
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-08-01",
+    "price": 238.37,
+    "volume": 1415053
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-29",
+    "price": 240.27,
+    "volume": 2125206
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-28",
+    "price": 236.01,
+    "volume": 1315396
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-27",
+    "price": 225.13,
+    "volume": 907799
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-26",
+    "price": 219.68,
+    "volume": 995853
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-25",
+    "price": 221.62,
+    "volume": 747785
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-22",
+    "price": 221.74,
+    "volume": 839919
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-21",
+    "price": 225.63,
+    "volume": 1639506
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-20",
+    "price": 220.6,
+    "volume": 1089729
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-19",
+    "price": 220.5,
+    "volume": 1076363
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-18",
+    "price": 212.87,
+    "volume": 863653
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-15",
+    "price": 219.08,
+    "volume": 1016717
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-14",
+    "price": 212,
+    "volume": 877064
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-13",
+    "price": 211.83,
+    "volume": 533078
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-12",
+    "price": 213.53,
+    "volume": 613167
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-11",
+    "price": 217.4,
+    "volume": 517521
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-08",
+    "price": 219.34,
+    "volume": 580910
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-07",
+    "price": 218.85,
+    "volume": 809264
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-06",
+    "price": 216,
+    "volume": 758431
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-05",
+    "price": 215.31,
+    "volume": 775334
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-07-01",
+    "price": 215.05,
+    "volume": 856325
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-30",
+    "price": 216.99,
+    "volume": 1811578
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-29",
+    "price": 214.11,
+    "volume": 1143234
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-28",
+    "price": 212.21,
+    "volume": 747310
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-27",
+    "price": 216.51,
+    "volume": 746288
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-24",
+    "price": 213.8,
+    "volume": 2735773
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-23",
+    "price": 211.54,
+    "volume": 1418827
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-22",
+    "price": 201.74,
+    "volume": 1620946
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-21",
+    "price": 198.77,
+    "volume": 1543884
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-17",
+    "price": 196.95,
+    "volume": 1785717
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-16",
+    "price": 196.45,
+    "volume": 1535895
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-15",
+    "price": 202.13,
+    "volume": 1234038
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-14",
+    "price": 200.88,
+    "volume": 1182722
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-13",
+    "price": 200.3,
+    "volume": 1219772
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-10",
+    "price": 207.37,
+    "volume": 959669
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-09",
+    "price": 216.65,
+    "volume": 800683
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-08",
+    "price": 220.71,
+    "volume": 636026
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-07",
+    "price": 225.23,
+    "volume": 761548
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-06",
+    "price": 220.79,
+    "volume": 585204
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-03",
+    "price": 219.44,
+    "volume": 987244
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-02",
+    "price": 220.06,
+    "volume": 871511
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-06-01",
+    "price": 210.11,
+    "volume": 910474
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-31",
+    "price": 215.25,
+    "volume": 1604317
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-27",
+    "price": 220.5,
+    "volume": 1713093
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-26",
+    "price": 207.73,
+    "volume": 850077
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-25",
+    "price": 203.34,
+    "volume": 866675
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-24",
+    "price": 201.99,
+    "volume": 779845
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-23",
+    "price": 203.39,
+    "volume": 723053
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-20",
+    "price": 201.83,
+    "volume": 861542
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-19",
+    "price": 201.74,
+    "volume": 1398588
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-18",
+    "price": 197.26,
+    "volume": 1217510
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-17",
+    "price": 206.69,
+    "volume": 1025233
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-16",
+    "price": 206.45,
+    "volume": 619231
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-13",
+    "price": 208.71,
+    "volume": 695400
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-12",
+    "price": 202.53,
+    "volume": 1066979
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-11",
+    "price": 200.96,
+    "volume": 1097881
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-10",
+    "price": 203.21,
+    "volume": 1309427
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-09",
+    "price": 204.07,
+    "volume": 1239742
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-06",
+    "price": 213.82,
+    "volume": 936224
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-05",
+    "price": 215.32,
+    "volume": 859096
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-04",
+    "price": 222.79,
+    "volume": 1282835
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-03",
+    "price": 215.2,
+    "volume": 1093534
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-05-02",
+    "price": 217.06,
+    "volume": 1327502
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-29",
+    "price": 217.99,
+    "volume": 1818450
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-28",
+    "price": 219.4,
+    "volume": 2300013
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-27",
+    "price": 210.24,
+    "volume": 2570408
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-26",
+    "price": 206.73,
+    "volume": 2123389
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-25",
+    "price": 219.86,
+    "volume": 1480126
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-22",
+    "price": 228.16,
+    "volume": 1010656
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-21",
+    "price": 236.17,
+    "volume": 733839
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-20",
+    "price": 242.77,
+    "volume": 765147
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-19",
+    "price": 237.87,
+    "volume": 687103
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-18",
+    "price": 234.39,
+    "volume": 653877
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-14",
+    "price": 238.48,
+    "volume": 931214
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-13",
+    "price": 239.31,
+    "volume": 897169
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-12",
+    "price": 237.67,
+    "volume": 1237684
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-11",
+    "price": 242.98,
+    "volume": 1015826
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-08",
+    "price": 252.29,
+    "volume": 1501760
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-07",
+    "price": 249.28,
+    "volume": 1396242
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-06",
+    "price": 240.3,
+    "volume": 947733
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-05",
+    "price": 238.36,
+    "volume": 950527
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-04",
+    "price": 238.5,
+    "volume": 1262247
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-04-01",
+    "price": 240.31,
+    "volume": 1399562
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-31",
+    "price": 231.21,
+    "volume": 1191750
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-30",
+    "price": 231.32,
+    "volume": 1108442
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-29",
+    "price": 233.59,
+    "volume": 994545
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-28",
+    "price": 226.69,
+    "volume": 562621
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-25",
+    "price": 224.76,
+    "volume": 704622
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-24",
+    "price": 224.62,
+    "volume": 664026
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-23",
+    "price": 220.31,
+    "volume": 849051
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-22",
+    "price": 228.93,
+    "volume": 964084
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-21",
+    "price": 226.97,
+    "volume": 1255059
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-18",
+    "price": 227.66,
+    "volume": 1368017
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-17",
+    "price": 223.24,
+    "volume": 909473
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-16",
+    "price": 220.27,
+    "volume": 1280546
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-15",
+    "price": 215.01,
+    "volume": 748154
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-14",
+    "price": 211.09,
+    "volume": 994418
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-11",
+    "price": 213.61,
+    "volume": 572504
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-10",
+    "price": 216.94,
+    "volume": 795354
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-09",
+    "price": 219.21,
+    "volume": 1440060
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-08",
+    "price": 210.56,
+    "volume": 2040822
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-07",
+    "price": 216.66,
+    "volume": 1388836
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-04",
+    "price": 227,
+    "volume": 1149232
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-03",
+    "price": 233.37,
+    "volume": 923855
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-02",
+    "price": 232.37,
+    "volume": 912908
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-03-01",
+    "price": 227.83,
+    "volume": 1077806
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-28",
+    "price": 230.12,
+    "volume": 1275730
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-25",
+    "price": 233.99,
+    "volume": 1257649
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-24",
+    "price": 228.47,
+    "volume": 2053032
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-23",
+    "price": 223.08,
+    "volume": 1172802
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-22",
+    "price": 226.46,
+    "volume": 1624585
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-18",
+    "price": 228.27,
+    "volume": 1288466
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-17",
+    "price": 226.36,
+    "volume": 1561106
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-16",
+    "price": 232.18,
+    "volume": 2573663
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-15",
+    "price": 228.64,
+    "volume": 3098099
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-14",
+    "price": 239.9,
+    "volume": 1347896
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-11",
+    "price": 244.28,
+    "volume": 1398155
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-10",
+    "price": 250.43,
+    "volume": 1457796
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-09",
+    "price": 255.57,
+    "volume": 1119552
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-08",
+    "price": 247.37,
+    "volume": 1135688
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-07",
+    "price": 245.92,
+    "volume": 697576
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-04",
+    "price": 249.89,
+    "volume": 762806
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-03",
+    "price": 250.19,
+    "volume": 797825
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-02",
+    "price": 254.45,
+    "volume": 1033157
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-02-01",
+    "price": 247.1,
+    "volume": 1028736
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-31",
+    "price": 244.9,
+    "volume": 1106506
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-28",
+    "price": 238.82,
+    "volume": 819802
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-27",
+    "price": 232,
+    "volume": 679046
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-26",
+    "price": 232.64,
+    "volume": 1141072
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-25",
+    "price": 236.23,
+    "volume": 874824
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-24",
+    "price": 243.7,
+    "volume": 1346078
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-21",
+    "price": 240.95,
+    "volume": 1108070
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-20",
+    "price": 244.4,
+    "volume": 1762345
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-19",
+    "price": 240.28,
+    "volume": 715687
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-18",
+    "price": 242.32,
+    "volume": 846157
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-14",
+    "price": 247.34,
+    "volume": 1217123
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-13",
+    "price": 252.07,
+    "volume": 574984
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-12",
+    "price": 260.85,
+    "volume": 629291
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-11",
+    "price": 260.29,
+    "volume": 667721
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-10",
+    "price": 257.23,
+    "volume": 979132
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-07",
+    "price": 256.91,
+    "volume": 1364857
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-06",
+    "price": 262.51,
+    "volume": 798119
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-05",
+    "price": 261.61,
+    "volume": 1195420
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-04",
+    "price": 268.17,
+    "volume": 1111993
+  },
+  {
+    "symbol": "IQV",
+    "date": "2022-01-03",
+    "price": 273.58,
+    "volume": 927978
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-31",
+    "price": 282.14,
+    "volume": 441574
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-30",
+    "price": 282.61,
+    "volume": 459556
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-29",
+    "price": 282.24,
+    "volume": 477379
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-28",
+    "price": 280.61,
+    "volume": 420076
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-27",
+    "price": 282.06,
+    "volume": 489378
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-23",
+    "price": 278.01,
+    "volume": 500438
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-22",
+    "price": 276.76,
+    "volume": 926914
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-21",
+    "price": 268.63,
+    "volume": 722227
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-20",
+    "price": 264.88,
+    "volume": 794743
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-17",
+    "price": 267.43,
+    "volume": 1242171
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-16",
+    "price": 266.45,
+    "volume": 906157
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-15",
+    "price": 268.1,
+    "volume": 836383
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-14",
+    "price": 262.65,
+    "volume": 789972
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-13",
+    "price": 269.74,
+    "volume": 800671
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-10",
+    "price": 270.32,
+    "volume": 713444
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-09",
+    "price": 269.16,
+    "volume": 563921
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-08",
+    "price": 272.19,
+    "volume": 888419
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-07",
+    "price": 270.3,
+    "volume": 1086087
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-06",
+    "price": 263.1,
+    "volume": 766295
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-03",
+    "price": 261.68,
+    "volume": 864153
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-02",
+    "price": 262.73,
+    "volume": 1115763
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-12-01",
+    "price": 259.25,
+    "volume": 1090205
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-30",
+    "price": 259.13,
+    "volume": 1972791
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-29",
+    "price": 266.69,
+    "volume": 1341458
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-26",
+    "price": 262.06,
+    "volume": 745398
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-24",
+    "price": 265.36,
+    "volume": 526623
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-23",
+    "price": 265.27,
+    "volume": 692919
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-22",
+    "price": 267.49,
+    "volume": 779875
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-19",
+    "price": 268.17,
+    "volume": 942954
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-18",
+    "price": 266.6,
+    "volume": 1225055
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-17",
+    "price": 264.45,
+    "volume": 920149
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-16",
+    "price": 267.54,
+    "volume": 1264034
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-15",
+    "price": 251.81,
+    "volume": 956157
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-12",
+    "price": 254.68,
+    "volume": 867818
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-11",
+    "price": 252.58,
+    "volume": 680896
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-10",
+    "price": 252.12,
+    "volume": 570889
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-09",
+    "price": 251.8,
+    "volume": 688170
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-08",
+    "price": 251.5,
+    "volume": 683985
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-05",
+    "price": 247.19,
+    "volume": 1344437
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-04",
+    "price": 253.86,
+    "volume": 808274
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-03",
+    "price": 254.6,
+    "volume": 1021791
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-02",
+    "price": 257.83,
+    "volume": 591380
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-11-01",
+    "price": 258.89,
+    "volume": 553105
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-29",
+    "price": 261.42,
+    "volume": 676987
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-28",
+    "price": 257.19,
+    "volume": 487262
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-27",
+    "price": 254.29,
+    "volume": 548493
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-26",
+    "price": 256.09,
+    "volume": 566262
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-25",
+    "price": 257.25,
+    "volume": 701138
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-22",
+    "price": 256.89,
+    "volume": 987574
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-21",
+    "price": 254.84,
+    "volume": 1308326
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-20",
+    "price": 251.52,
+    "volume": 768046
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-19",
+    "price": 249.02,
+    "volume": 616207
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-18",
+    "price": 248.46,
+    "volume": 550009
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-15",
+    "price": 248.85,
+    "volume": 567322
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-14",
+    "price": 246.82,
+    "volume": 534824
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-13",
+    "price": 241.51,
+    "volume": 750977
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-12",
+    "price": 238.37,
+    "volume": 309829
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-11",
+    "price": 240.28,
+    "volume": 317997
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-08",
+    "price": 242.23,
+    "volume": 553060
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-07",
+    "price": 243.82,
+    "volume": 528871
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-06",
+    "price": 239.4,
+    "volume": 539931
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-05",
+    "price": 239.36,
+    "volume": 649077
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-04",
+    "price": 238.57,
+    "volume": 901795
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-10-01",
+    "price": 241.55,
+    "volume": 674611
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-30",
+    "price": 239.54,
+    "volume": 874900
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-29",
+    "price": 242.91,
+    "volume": 758419
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-28",
+    "price": 241.59,
+    "volume": 1403909
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-27",
+    "price": 248.14,
+    "volume": 1242312
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-24",
+    "price": 261.61,
+    "volume": 715939
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-23",
+    "price": 262.27,
+    "volume": 748104
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-22",
+    "price": 259.75,
+    "volume": 545456
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-21",
+    "price": 256.26,
+    "volume": 619822
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-20",
+    "price": 253.17,
+    "volume": 488174
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-17",
+    "price": 256.33,
+    "volume": 929123
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-16",
+    "price": 257.85,
+    "volume": 508535
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-15",
+    "price": 258.55,
+    "volume": 538688
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-14",
+    "price": 257.55,
+    "volume": 718033
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-13",
+    "price": 255.57,
+    "volume": 680274
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-10",
+    "price": 260.5,
+    "volume": 455614
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-09",
+    "price": 261.28,
+    "volume": 480831
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-08",
+    "price": 261.91,
+    "volume": 611800
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-07",
+    "price": 264.45,
+    "volume": 484174
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-03",
+    "price": 263.22,
+    "volume": 509689
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-02",
+    "price": 265.23,
+    "volume": 476814
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-09-01",
+    "price": 262.23,
+    "volume": 514499
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-31",
+    "price": 259.73,
+    "volume": 638778
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-30",
+    "price": 261.6,
+    "volume": 509027
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-27",
+    "price": 259.55,
+    "volume": 459122
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-26",
+    "price": 258.49,
+    "volume": 442599
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-25",
+    "price": 258.71,
+    "volume": 383352
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-24",
+    "price": 256.86,
+    "volume": 675274
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-23",
+    "price": 254.38,
+    "volume": 707182
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-20",
+    "price": 254.7,
+    "volume": 555600
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-19",
+    "price": 256.66,
+    "volume": 865675
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-18",
+    "price": 255,
+    "volume": 801880
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-17",
+    "price": 257.04,
+    "volume": 859991
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-16",
+    "price": 255.29,
+    "volume": 677690
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-13",
+    "price": 248.14,
+    "volume": 265601
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-12",
+    "price": 246.25,
+    "volume": 553727
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-11",
+    "price": 244.55,
+    "volume": 530724
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-10",
+    "price": 247.39,
+    "volume": 543726
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-09",
+    "price": 247.66,
+    "volume": 541872
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-06",
+    "price": 248.96,
+    "volume": 670918
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-05",
+    "price": 248.41,
+    "volume": 508771
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-04",
+    "price": 249.86,
+    "volume": 727655
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-03",
+    "price": 249.98,
+    "volume": 1049872
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-08-02",
+    "price": 247.3,
+    "volume": 807041
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-30",
+    "price": 247.7,
+    "volume": 966961
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-29",
+    "price": 248.71,
+    "volume": 585789
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-28",
+    "price": 245.37,
+    "volume": 1180859
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-27",
+    "price": 243.18,
+    "volume": 1572635
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-26",
+    "price": 247.29,
+    "volume": 1303457
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-23",
+    "price": 249.08,
+    "volume": 844674
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-22",
+    "price": 244.91,
+    "volume": 723562
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-21",
+    "price": 243.03,
+    "volume": 1153271
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-20",
+    "price": 247.07,
+    "volume": 1132749
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-19",
+    "price": 241.69,
+    "volume": 918854
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-16",
+    "price": 247.7,
+    "volume": 516479
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-15",
+    "price": 246.5,
+    "volume": 729985
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-14",
+    "price": 246,
+    "volume": 688750
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-13",
+    "price": 249.63,
+    "volume": 744174
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-12",
+    "price": 248.62,
+    "volume": 780737
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-09",
+    "price": 251.16,
+    "volume": 474931
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-08",
+    "price": 248.81,
+    "volume": 759184
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-07",
+    "price": 253.94,
+    "volume": 838512
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-06",
+    "price": 250.95,
+    "volume": 1123913
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-02",
+    "price": 249.15,
+    "volume": 547897
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-07-01",
+    "price": 247.14,
+    "volume": 918451
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-30",
+    "price": 242.32,
+    "volume": 1061096
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-29",
+    "price": 244.09,
+    "volume": 553655
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-28",
+    "price": 243.39,
+    "volume": 643240
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-25",
+    "price": 245.34,
+    "volume": 1851922
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-24",
+    "price": 240.89,
+    "volume": 932386
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-23",
+    "price": 242.31,
+    "volume": 996725
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-22",
+    "price": 243.98,
+    "volume": 1058340
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-21",
+    "price": 243.45,
+    "volume": 1076594
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-18",
+    "price": 239.66,
+    "volume": 4170651
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-17",
+    "price": 246.3,
+    "volume": 1142125
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-16",
+    "price": 244.23,
+    "volume": 1008746
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-15",
+    "price": 246.77,
+    "volume": 964981
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-14",
+    "price": 244.47,
+    "volume": 735588
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-11",
+    "price": 243.44,
+    "volume": 1098518
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-10",
+    "price": 242.8,
+    "volume": 806851
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-09",
+    "price": 239.38,
+    "volume": 1061511
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-08",
+    "price": 234.82,
+    "volume": 789491
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-07",
+    "price": 233.2,
+    "volume": 1621164
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-04",
+    "price": 233.84,
+    "volume": 928997
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-03",
+    "price": 233.34,
+    "volume": 1497765
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-02",
+    "price": 235,
+    "volume": 955438
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-06-01",
+    "price": 237.25,
+    "volume": 863984
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-28",
+    "price": 240.16,
+    "volume": 1295876
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-27",
+    "price": 237.46,
+    "volume": 2477555
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-26",
+    "price": 239.6,
+    "volume": 672317
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-25",
+    "price": 242.13,
+    "volume": 835649
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-24",
+    "price": 242.58,
+    "volume": 748483
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-21",
+    "price": 238.96,
+    "volume": 1026599
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-20",
+    "price": 236.74,
+    "volume": 664558
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-19",
+    "price": 232.7,
+    "volume": 951910
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-18",
+    "price": 230.58,
+    "volume": 1056347
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-17",
+    "price": 231.48,
+    "volume": 577313
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-14",
+    "price": 234.04,
+    "volume": 801834
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-13",
+    "price": 229.66,
+    "volume": 976550
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-12",
+    "price": 228,
+    "volume": 789615
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-11",
+    "price": 232.07,
+    "volume": 1142967
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-10",
+    "price": 231.49,
+    "volume": 1034308
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-07",
+    "price": 234.39,
+    "volume": 965497
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-06",
+    "price": 231.22,
+    "volume": 1260416
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-05",
+    "price": 231.94,
+    "volume": 1263793
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-04",
+    "price": 232.69,
+    "volume": 1078030
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-05-03",
+    "price": 233.96,
+    "volume": 805973
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-30",
+    "price": 234.69,
+    "volume": 786420
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-29",
+    "price": 235.45,
+    "volume": 1059379
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-28",
+    "price": 236.02,
+    "volume": 1181989
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-27",
+    "price": 234.41,
+    "volume": 1349643
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-26",
+    "price": 233.42,
+    "volume": 1314883
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-23",
+    "price": 232.3,
+    "volume": 1613545
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-22",
+    "price": 225.94,
+    "volume": 1846480
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-21",
+    "price": 219,
+    "volume": 999981
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-20",
+    "price": 217.12,
+    "volume": 1867927
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-19",
+    "price": 216.22,
+    "volume": 1215804
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-16",
+    "price": 215.56,
+    "volume": 1481055
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-15",
+    "price": 214.13,
+    "volume": 1140759
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-14",
+    "price": 208.9,
+    "volume": 828899
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-13",
+    "price": 207.49,
+    "volume": 517813
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-12",
+    "price": 208.21,
+    "volume": 944363
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-09",
+    "price": 207.66,
+    "volume": 578734
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-08",
+    "price": 204.34,
+    "volume": 649230
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-07",
+    "price": 201.6,
+    "volume": 652443
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-06",
+    "price": 203.57,
+    "volume": 862614
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-05",
+    "price": 200.37,
+    "volume": 616189
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-04-01",
+    "price": 198.06,
+    "volume": 1014009
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-31",
+    "price": 193.14,
+    "volume": 873540
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-30",
+    "price": 190.79,
+    "volume": 765935
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-29",
+    "price": 191,
+    "volume": 604488
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-26",
+    "price": 192.86,
+    "volume": 611375
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-25",
+    "price": 186.55,
+    "volume": 908608
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-24",
+    "price": 186.11,
+    "volume": 593025
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-23",
+    "price": 186.99,
+    "volume": 816308
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-22",
+    "price": 189.73,
+    "volume": 889382
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-19",
+    "price": 188.33,
+    "volume": 1188987
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-18",
+    "price": 186.5,
+    "volume": 777145
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-17",
+    "price": 189.71,
+    "volume": 743896
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-16",
+    "price": 189.39,
+    "volume": 857507
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-15",
+    "price": 190.65,
+    "volume": 818192
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-12",
+    "price": 186.81,
+    "volume": 898728
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-11",
+    "price": 189.37,
+    "volume": 686583
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-10",
+    "price": 189.74,
+    "volume": 692872
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-09",
+    "price": 189.39,
+    "volume": 873991
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-08",
+    "price": 187.8,
+    "volume": 930857
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-05",
+    "price": 188.78,
+    "volume": 1231180
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-04",
+    "price": 186.58,
+    "volume": 867316
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-03",
+    "price": 190.59,
+    "volume": 648193
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-02",
+    "price": 192.74,
+    "volume": 623230
+  },
+  {
+    "symbol": "IQV",
+    "date": "2021-03-01",
+    "price": 194.39,
+    "volume": 838065
+  }
+]

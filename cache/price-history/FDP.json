@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "FDP",
+    "date": "2026-02-27",
+    "price": 42.93,
+    "volume": 348466
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-26",
+    "price": 42.09,
+    "volume": 160610
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-25",
+    "price": 42.23,
+    "volume": 199600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-24",
+    "price": 42.49,
+    "volume": 226800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-23",
+    "price": 41.7,
+    "volume": 304426
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-20",
+    "price": 41.45,
+    "volume": 405800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-19",
+    "price": 42.35,
+    "volume": 251700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-18",
+    "price": 42.55,
+    "volume": 358146
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-17",
+    "price": 40.32,
+    "volume": 291825
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-13",
+    "price": 40.45,
+    "volume": 246546
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-12",
+    "price": 39.88,
+    "volume": 158900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-11",
+    "price": 39.92,
+    "volume": 249739
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-10",
+    "price": 39.08,
+    "volume": 206700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-09",
+    "price": 38.26,
+    "volume": 218232
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-06",
+    "price": 38.47,
+    "volume": 271843
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-05",
+    "price": 39.52,
+    "volume": 271525
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-04",
+    "price": 39.1,
+    "volume": 240200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-03",
+    "price": 39.21,
+    "volume": 199008
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-02",
+    "price": 39.6,
+    "volume": 179733
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-30",
+    "price": 39.66,
+    "volume": 238440
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-29",
+    "price": 39.2,
+    "volume": 187500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-28",
+    "price": 39.01,
+    "volume": 165500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-27",
+    "price": 39.33,
+    "volume": 186400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-26",
+    "price": 38.57,
+    "volume": 160357
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-23",
+    "price": 38.12,
+    "volume": 203800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-22",
+    "price": 38.24,
+    "volume": 187838
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-21",
+    "price": 37.67,
+    "volume": 162017
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-20",
+    "price": 37.3,
+    "volume": 187300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-16",
+    "price": 36.94,
+    "volume": 287300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-15",
+    "price": 38.43,
+    "volume": 206900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-14",
+    "price": 36.99,
+    "volume": 183307
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-13",
+    "price": 36.58,
+    "volume": 146301
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-12",
+    "price": 36.51,
+    "volume": 282800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-09",
+    "price": 36.01,
+    "volume": 171700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-08",
+    "price": 35.66,
+    "volume": 268200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-07",
+    "price": 34.73,
+    "volume": 258800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-06",
+    "price": 35.11,
+    "volume": 374400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-05",
+    "price": 34.76,
+    "volume": 388300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-01-02",
+    "price": 35.32,
+    "volume": 298600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-31",
+    "price": 35.63,
+    "volume": 170743
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-30",
+    "price": 35.48,
+    "volume": 157300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-29",
+    "price": 35.78,
+    "volume": 185722
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-26",
+    "price": 35.86,
+    "volume": 206200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-24",
+    "price": 35.97,
+    "volume": 105200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-23",
+    "price": 35.89,
+    "volume": 278400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-22",
+    "price": 36.07,
+    "volume": 625928
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-19",
+    "price": 37.55,
+    "volume": 754909
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-18",
+    "price": 38.65,
+    "volume": 213412
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-17",
+    "price": 38.29,
+    "volume": 284300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-16",
+    "price": 38.01,
+    "volume": 339100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-15",
+    "price": 38.54,
+    "volume": 375900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-12",
+    "price": 38.11,
+    "volume": 207200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-11",
+    "price": 38.21,
+    "volume": 333235
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-10",
+    "price": 36.55,
+    "volume": 508200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-09",
+    "price": 36.77,
+    "volume": 231143
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-08",
+    "price": 36.65,
+    "volume": 271900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-05",
+    "price": 37.14,
+    "volume": 195900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-04",
+    "price": 36.94,
+    "volume": 201100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-03",
+    "price": 37.52,
+    "volume": 230206
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-02",
+    "price": 36.82,
+    "volume": 207638
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-12-01",
+    "price": 36.46,
+    "volume": 245700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-28",
+    "price": 36.14,
+    "volume": 121500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-26",
+    "price": 36.17,
+    "volume": 410900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-25",
+    "price": 35.51,
+    "volume": 242400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-24",
+    "price": 34.75,
+    "volume": 281100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-21",
+    "price": 35.03,
+    "volume": 312100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-20",
+    "price": 34.52,
+    "volume": 287633
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-19",
+    "price": 34.5,
+    "volume": 232223
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-18",
+    "price": 35.41,
+    "volume": 262559
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-17",
+    "price": 34.91,
+    "volume": 210300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-14",
+    "price": 35.45,
+    "volume": 253100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-13",
+    "price": 35.94,
+    "volume": 247825
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-12",
+    "price": 36.73,
+    "volume": 205000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-11",
+    "price": 37.46,
+    "volume": 243739
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-10",
+    "price": 37.63,
+    "volume": 279844
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-07",
+    "price": 37.29,
+    "volume": 375411
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-06",
+    "price": 36.51,
+    "volume": 357812
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-05",
+    "price": 36.42,
+    "volume": 309200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-04",
+    "price": 36.14,
+    "volume": 470600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-11-03",
+    "price": 35.94,
+    "volume": 722400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-31",
+    "price": 35.35,
+    "volume": 524598
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-30",
+    "price": 34.98,
+    "volume": 450903
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-29",
+    "price": 34.31,
+    "volume": 502800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-28",
+    "price": 34.36,
+    "volume": 219608
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-27",
+    "price": 34.17,
+    "volume": 202318
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-24",
+    "price": 34.37,
+    "volume": 189226
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-23",
+    "price": 34.45,
+    "volume": 202643
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-22",
+    "price": 34.85,
+    "volume": 324326
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-21",
+    "price": 34.45,
+    "volume": 454800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-20",
+    "price": 35.46,
+    "volume": 414280
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-17",
+    "price": 34.5,
+    "volume": 303088
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-16",
+    "price": 33.08,
+    "volume": 195199
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-15",
+    "price": 33.58,
+    "volume": 182418
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-14",
+    "price": 33.55,
+    "volume": 168337
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-13",
+    "price": 33.16,
+    "volume": 180884
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-10",
+    "price": 33.4,
+    "volume": 201854
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-09",
+    "price": 33.3,
+    "volume": 274100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-08",
+    "price": 33.54,
+    "volume": 193735
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-07",
+    "price": 34.07,
+    "volume": 207602
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-06",
+    "price": 34.18,
+    "volume": 437403
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-03",
+    "price": 35.37,
+    "volume": 325246
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-02",
+    "price": 34.82,
+    "volume": 239735
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-10-01",
+    "price": 35.08,
+    "volume": 204937
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-30",
+    "price": 34.72,
+    "volume": 249941
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-29",
+    "price": 34.54,
+    "volume": 404200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-26",
+    "price": 35.03,
+    "volume": 272618
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-25",
+    "price": 34.35,
+    "volume": 232600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-24",
+    "price": 34.81,
+    "volume": 317900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-23",
+    "price": 35.52,
+    "volume": 301400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-22",
+    "price": 35.79,
+    "volume": 357528
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-19",
+    "price": 35.69,
+    "volume": 1085500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-18",
+    "price": 36.27,
+    "volume": 424822
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-17",
+    "price": 35.69,
+    "volume": 265920
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-16",
+    "price": 35.61,
+    "volume": 265003
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-15",
+    "price": 35.42,
+    "volume": 268300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-12",
+    "price": 35.61,
+    "volume": 239100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-11",
+    "price": 35.8,
+    "volume": 287300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-10",
+    "price": 35.37,
+    "volume": 361029
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-09",
+    "price": 35.16,
+    "volume": 229628
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-08",
+    "price": 35.5,
+    "volume": 308933
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-05",
+    "price": 35.9,
+    "volume": 271120
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-04",
+    "price": 35.71,
+    "volume": 227448
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-03",
+    "price": 36.12,
+    "volume": 494600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-09-02",
+    "price": 36.13,
+    "volume": 211200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-29",
+    "price": 36.28,
+    "volume": 282900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-28",
+    "price": 35.63,
+    "volume": 295448
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-27",
+    "price": 36.53,
+    "volume": 250508
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-26",
+    "price": 36.16,
+    "volume": 369006
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-25",
+    "price": 36.74,
+    "volume": 316800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-22",
+    "price": 36.66,
+    "volume": 256610
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-21",
+    "price": 35.8,
+    "volume": 201978
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-20",
+    "price": 36.1,
+    "volume": 444447
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-19",
+    "price": 36.6,
+    "volume": 385569
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-18",
+    "price": 35.82,
+    "volume": 236359
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-15",
+    "price": 35.57,
+    "volume": 320925
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-14",
+    "price": 35.49,
+    "volume": 315019
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-13",
+    "price": 36.87,
+    "volume": 311100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-12",
+    "price": 37.16,
+    "volume": 299706
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-11",
+    "price": 36.35,
+    "volume": 509012
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-08",
+    "price": 36.5,
+    "volume": 237532
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-07",
+    "price": 36.06,
+    "volume": 322709
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-06",
+    "price": 36.15,
+    "volume": 361100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-05",
+    "price": 35.8,
+    "volume": 373702
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-04",
+    "price": 36.55,
+    "volume": 446045
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-08-01",
+    "price": 37.29,
+    "volume": 525700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-31",
+    "price": 37.59,
+    "volume": 536339
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-30",
+    "price": 39.43,
+    "volume": 926419
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-29",
+    "price": 36.07,
+    "volume": 358704
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-28",
+    "price": 35.63,
+    "volume": 371789
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-25",
+    "price": 35.63,
+    "volume": 234228
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-24",
+    "price": 35.26,
+    "volume": 306905
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-23",
+    "price": 35.71,
+    "volume": 350322
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-22",
+    "price": 35.44,
+    "volume": 435315
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-21",
+    "price": 34.66,
+    "volume": 414044
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-18",
+    "price": 33.8,
+    "volume": 314200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-17",
+    "price": 33.75,
+    "volume": 263335
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-16",
+    "price": 33.49,
+    "volume": 260400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-15",
+    "price": 33.17,
+    "volume": 295800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-14",
+    "price": 33.72,
+    "volume": 219004
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-11",
+    "price": 33.79,
+    "volume": 204100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-10",
+    "price": 33.53,
+    "volume": 303425
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-09",
+    "price": 33.13,
+    "volume": 238900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-08",
+    "price": 33.01,
+    "volume": 316500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-07",
+    "price": 32.8,
+    "volume": 249214
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-03",
+    "price": 33.13,
+    "volume": 142900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-02",
+    "price": 33.24,
+    "volume": 561300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-07-01",
+    "price": 33.27,
+    "volume": 454084
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-30",
+    "price": 32.42,
+    "volume": 282500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-27",
+    "price": 32.06,
+    "volume": 444116
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-26",
+    "price": 32.23,
+    "volume": 192700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-25",
+    "price": 31.76,
+    "volume": 267700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-24",
+    "price": 32.72,
+    "volume": 293100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-23",
+    "price": 33.08,
+    "volume": 284545
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-20",
+    "price": 33.03,
+    "volume": 1113735
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-18",
+    "price": 33.36,
+    "volume": 393345
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-17",
+    "price": 33.1,
+    "volume": 312915
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-16",
+    "price": 32.51,
+    "volume": 299822
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-13",
+    "price": 32.82,
+    "volume": 362100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-12",
+    "price": 33.12,
+    "volume": 393300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-11",
+    "price": 32.6,
+    "volume": 417521
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-10",
+    "price": 32.29,
+    "volume": 289807
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-09",
+    "price": 32.76,
+    "volume": 291334
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-06",
+    "price": 32.45,
+    "volume": 408026
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-05",
+    "price": 32.77,
+    "volume": 384800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-04",
+    "price": 33.13,
+    "volume": 545000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-03",
+    "price": 35.02,
+    "volume": 574700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-06-02",
+    "price": 35.29,
+    "volume": 452839
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-30",
+    "price": 35.32,
+    "volume": 444729
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-29",
+    "price": 34.78,
+    "volume": 326300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-28",
+    "price": 34.48,
+    "volume": 344600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-27",
+    "price": 34.69,
+    "volume": 452916
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-23",
+    "price": 34.43,
+    "volume": 322400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-22",
+    "price": 33.82,
+    "volume": 343300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-21",
+    "price": 33.71,
+    "volume": 382000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-20",
+    "price": 34.01,
+    "volume": 404316
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-19",
+    "price": 33.8,
+    "volume": 416400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-16",
+    "price": 33.43,
+    "volume": 387922
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-15",
+    "price": 32.67,
+    "volume": 269745
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-14",
+    "price": 31.69,
+    "volume": 407800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-13",
+    "price": 32.77,
+    "volume": 267219
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-12",
+    "price": 32.76,
+    "volume": 385025
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-09",
+    "price": 32.9,
+    "volume": 290400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-08",
+    "price": 33.06,
+    "volume": 394754
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-07",
+    "price": 33.01,
+    "volume": 473935
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-06",
+    "price": 33.35,
+    "volume": 361300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-05",
+    "price": 33.41,
+    "volume": 272924
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-02",
+    "price": 33.4,
+    "volume": 408463
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-05-01",
+    "price": 33.62,
+    "volume": 389840
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-30",
+    "price": 34.01,
+    "volume": 600715
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-29",
+    "price": 34.77,
+    "volume": 412649
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-28",
+    "price": 34.49,
+    "volume": 495305
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-25",
+    "price": 34.43,
+    "volume": 343300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-24",
+    "price": 34.68,
+    "volume": 482326
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-23",
+    "price": 34.28,
+    "volume": 499063
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-22",
+    "price": 33.78,
+    "volume": 538700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-21",
+    "price": 33.31,
+    "volume": 491100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-17",
+    "price": 32.42,
+    "volume": 631000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-16",
+    "price": 31.78,
+    "volume": 524027
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-15",
+    "price": 31.33,
+    "volume": 275200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-14",
+    "price": 31.48,
+    "volume": 258100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-11",
+    "price": 30.96,
+    "volume": 237500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-10",
+    "price": 30.41,
+    "volume": 337700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-09",
+    "price": 30.57,
+    "volume": 488936
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-08",
+    "price": 29.61,
+    "volume": 337305
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-07",
+    "price": 29.92,
+    "volume": 448445
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-04",
+    "price": 30.55,
+    "volume": 478100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-03",
+    "price": 31.39,
+    "volume": 283400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-02",
+    "price": 31.37,
+    "volume": 560000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-04-01",
+    "price": 31.07,
+    "volume": 299807
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-31",
+    "price": 30.83,
+    "volume": 389800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-28",
+    "price": 30.39,
+    "volume": 327608
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-27",
+    "price": 30.45,
+    "volume": 508500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-26",
+    "price": 29.58,
+    "volume": 278802
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-25",
+    "price": 29.2,
+    "volume": 366600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-24",
+    "price": 29.23,
+    "volume": 600000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-21",
+    "price": 29.65,
+    "volume": 1771146
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-20",
+    "price": 29.93,
+    "volume": 293954
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-19",
+    "price": 30.2,
+    "volume": 326200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-18",
+    "price": 29.9,
+    "volume": 327800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-17",
+    "price": 30.28,
+    "volume": 319700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-14",
+    "price": 30.05,
+    "volume": 321700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-13",
+    "price": 30.11,
+    "volume": 344234
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-12",
+    "price": 30.07,
+    "volume": 622002
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-11",
+    "price": 29.98,
+    "volume": 359462
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-10",
+    "price": 30.68,
+    "volume": 408300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-07",
+    "price": 31.27,
+    "volume": 426930
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-06",
+    "price": 30.51,
+    "volume": 333594
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-05",
+    "price": 29.99,
+    "volume": 466120
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-04",
+    "price": 29.96,
+    "volume": 388400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-03-03",
+    "price": 30.27,
+    "volume": 1059331
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-28",
+    "price": 30.49,
+    "volume": 612628
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-27",
+    "price": 30.14,
+    "volume": 352535
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-26",
+    "price": 29.95,
+    "volume": 444830
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-25",
+    "price": 30.19,
+    "volume": 523945
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-24",
+    "price": 29.95,
+    "volume": 646798
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-21",
+    "price": 30.88,
+    "volume": 520700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-20",
+    "price": 30.61,
+    "volume": 263941
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-19",
+    "price": 30.47,
+    "volume": 313641
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-18",
+    "price": 30.19,
+    "volume": 403200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-14",
+    "price": 30.21,
+    "volume": 198600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-13",
+    "price": 30.78,
+    "volume": 302600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-12",
+    "price": 30.61,
+    "volume": 305826
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-11",
+    "price": 30.85,
+    "volume": 344305
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-10",
+    "price": 30.58,
+    "volume": 237663
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-07",
+    "price": 30.87,
+    "volume": 259631
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-06",
+    "price": 31.24,
+    "volume": 231700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-05",
+    "price": 31,
+    "volume": 313014
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-04",
+    "price": 30.75,
+    "volume": 315228
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-02-03",
+    "price": 30.91,
+    "volume": 414926
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-31",
+    "price": 30.49,
+    "volume": 529184
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-30",
+    "price": 31.08,
+    "volume": 262153
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-29",
+    "price": 31.43,
+    "volume": 156021
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-28",
+    "price": 31.54,
+    "volume": 226849
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-27",
+    "price": 31.69,
+    "volume": 312741
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-24",
+    "price": 31.34,
+    "volume": 233229
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-23",
+    "price": 31.1,
+    "volume": 207000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-22",
+    "price": 30.7,
+    "volume": 316000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-21",
+    "price": 31.69,
+    "volume": 279208
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-17",
+    "price": 31.68,
+    "volume": 195400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-16",
+    "price": 31.57,
+    "volume": 187200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-15",
+    "price": 31.44,
+    "volume": 209701
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-14",
+    "price": 31.53,
+    "volume": 194800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-13",
+    "price": 31.09,
+    "volume": 254200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-10",
+    "price": 30.52,
+    "volume": 250808
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-08",
+    "price": 31.11,
+    "volume": 265100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-07",
+    "price": 31.08,
+    "volume": 358100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-06",
+    "price": 31.34,
+    "volume": 291143
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-03",
+    "price": 32.84,
+    "volume": 208613
+  },
+  {
+    "symbol": "FDP",
+    "date": "2025-01-02",
+    "price": 32.92,
+    "volume": 166946
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-31",
+    "price": 33.21,
+    "volume": 234116
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-30",
+    "price": 33.22,
+    "volume": 268225
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-27",
+    "price": 33.08,
+    "volume": 274300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-26",
+    "price": 33.73,
+    "volume": 349200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-24",
+    "price": 33.35,
+    "volume": 140328
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-23",
+    "price": 33.38,
+    "volume": 306100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-20",
+    "price": 33.32,
+    "volume": 2532441
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-19",
+    "price": 33.03,
+    "volume": 425506
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-18",
+    "price": 33.32,
+    "volume": 304900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-17",
+    "price": 33.88,
+    "volume": 287833
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-16",
+    "price": 34.06,
+    "volume": 289800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-13",
+    "price": 33.99,
+    "volume": 159800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-12",
+    "price": 33.95,
+    "volume": 173207
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-11",
+    "price": 33.95,
+    "volume": 240641
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-10",
+    "price": 33.67,
+    "volume": 223336
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-09",
+    "price": 33.42,
+    "volume": 231048
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-06",
+    "price": 33.55,
+    "volume": 187750
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-05",
+    "price": 34.07,
+    "volume": 272425
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-04",
+    "price": 34.28,
+    "volume": 261018
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-03",
+    "price": 34.44,
+    "volume": 330500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-12-02",
+    "price": 34.92,
+    "volume": 744443
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-29",
+    "price": 33.75,
+    "volume": 166136
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-27",
+    "price": 33.97,
+    "volume": 207200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-26",
+    "price": 33.98,
+    "volume": 277519
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-25",
+    "price": 33.57,
+    "volume": 279914
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-22",
+    "price": 33.8,
+    "volume": 207800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-21",
+    "price": 33.6,
+    "volume": 198900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-20",
+    "price": 33.86,
+    "volume": 156755
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-19",
+    "price": 33.78,
+    "volume": 158900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-18",
+    "price": 33.82,
+    "volume": 264814
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-15",
+    "price": 33.78,
+    "volume": 389300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-14",
+    "price": 33.45,
+    "volume": 304409
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-13",
+    "price": 33.72,
+    "volume": 313700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-12",
+    "price": 34.4,
+    "volume": 342942
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-11",
+    "price": 34.52,
+    "volume": 346900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-08",
+    "price": 34.26,
+    "volume": 315954
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-07",
+    "price": 33.83,
+    "volume": 313700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-06",
+    "price": 34.08,
+    "volume": 349000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-05",
+    "price": 33.32,
+    "volume": 290100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-04",
+    "price": 33.03,
+    "volume": 294700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-11-01",
+    "price": 31.66,
+    "volume": 298100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-31",
+    "price": 32.11,
+    "volume": 560100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-30",
+    "price": 29.09,
+    "volume": 195022
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-29",
+    "price": 29.1,
+    "volume": 167100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-28",
+    "price": 29.26,
+    "volume": 174001
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-25",
+    "price": 28.73,
+    "volume": 133800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-24",
+    "price": 28.95,
+    "volume": 128400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-23",
+    "price": 28.97,
+    "volume": 121314
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-22",
+    "price": 28.86,
+    "volume": 125757
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-21",
+    "price": 28.98,
+    "volume": 222742
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-18",
+    "price": 29.53,
+    "volume": 326400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-17",
+    "price": 30.05,
+    "volume": 203400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-16",
+    "price": 29.87,
+    "volume": 195124
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-15",
+    "price": 29.2,
+    "volume": 207306
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-14",
+    "price": 29.03,
+    "volume": 112700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-11",
+    "price": 28.88,
+    "volume": 144227
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-10",
+    "price": 28.77,
+    "volume": 177108
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-09",
+    "price": 28.89,
+    "volume": 152800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-08",
+    "price": 29.02,
+    "volume": 128800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-07",
+    "price": 28.9,
+    "volume": 161705
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-04",
+    "price": 28.96,
+    "volume": 163100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-03",
+    "price": 28.6,
+    "volume": 185026
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-02",
+    "price": 29.21,
+    "volume": 187100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-10-01",
+    "price": 29.74,
+    "volume": 233700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-30",
+    "price": 29.54,
+    "volume": 283000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-27",
+    "price": 29.27,
+    "volume": 203844
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-26",
+    "price": 29.31,
+    "volume": 236600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-25",
+    "price": 28.96,
+    "volume": 222700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-24",
+    "price": 29.33,
+    "volume": 232116
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-23",
+    "price": 29.38,
+    "volume": 171200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-20",
+    "price": 29.18,
+    "volume": 985600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-19",
+    "price": 29.47,
+    "volume": 162649
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-18",
+    "price": 29.55,
+    "volume": 193334
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-17",
+    "price": 29.45,
+    "volume": 270035
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-16",
+    "price": 29.15,
+    "volume": 306631
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-13",
+    "price": 28.82,
+    "volume": 192200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-12",
+    "price": 28.48,
+    "volume": 231426
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-11",
+    "price": 28.07,
+    "volume": 228200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-10",
+    "price": 28.29,
+    "volume": 296835
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-09",
+    "price": 28.51,
+    "volume": 474800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-06",
+    "price": 29.18,
+    "volume": 327300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-05",
+    "price": 29.83,
+    "volume": 403206
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-04",
+    "price": 30.25,
+    "volume": 533137
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-09-03",
+    "price": 29.65,
+    "volume": 590751
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-30",
+    "price": 29.24,
+    "volume": 343329
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-29",
+    "price": 28.99,
+    "volume": 184011
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-28",
+    "price": 28.91,
+    "volume": 213741
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-27",
+    "price": 29.06,
+    "volume": 205052
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-26",
+    "price": 28.85,
+    "volume": 402200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-23",
+    "price": 28.42,
+    "volume": 237624
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-22",
+    "price": 28.02,
+    "volume": 197900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-21",
+    "price": 27.72,
+    "volume": 238225
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-20",
+    "price": 27.8,
+    "volume": 206700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-19",
+    "price": 27.85,
+    "volume": 273900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-16",
+    "price": 27.57,
+    "volume": 240600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-15",
+    "price": 27.45,
+    "volume": 241202
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-14",
+    "price": 27.56,
+    "volume": 251752
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-13",
+    "price": 27.13,
+    "volume": 366029
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-12",
+    "price": 26.74,
+    "volume": 215400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-09",
+    "price": 27.02,
+    "volume": 345543
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-08",
+    "price": 27.15,
+    "volume": 319446
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-07",
+    "price": 27.67,
+    "volume": 289237
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-06",
+    "price": 26.86,
+    "volume": 497000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-05",
+    "price": 26.76,
+    "volume": 551300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-02",
+    "price": 27.27,
+    "volume": 605861
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-08-01",
+    "price": 24.61,
+    "volume": 278428
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-31",
+    "price": 25.05,
+    "volume": 221822
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-30",
+    "price": 24.72,
+    "volume": 256207
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-29",
+    "price": 24.41,
+    "volume": 243549
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-26",
+    "price": 24.36,
+    "volume": 222000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-25",
+    "price": 23.88,
+    "volume": 155235
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-24",
+    "price": 23.55,
+    "volume": 165504
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-23",
+    "price": 23.64,
+    "volume": 196200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-22",
+    "price": 23.63,
+    "volume": 202342
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-19",
+    "price": 23.46,
+    "volume": 188034
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-18",
+    "price": 23.78,
+    "volume": 406700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-17",
+    "price": 23.58,
+    "volume": 389236
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-16",
+    "price": 22.38,
+    "volume": 334531
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-15",
+    "price": 22.07,
+    "volume": 229536
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-12",
+    "price": 22.21,
+    "volume": 213837
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-11",
+    "price": 22.03,
+    "volume": 259200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-10",
+    "price": 21.43,
+    "volume": 206800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-09",
+    "price": 21.25,
+    "volume": 216445
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-08",
+    "price": 21.32,
+    "volume": 231300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-05",
+    "price": 21.41,
+    "volume": 271540
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-03",
+    "price": 21.78,
+    "volume": 112300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-02",
+    "price": 22.11,
+    "volume": 340113
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-07-01",
+    "price": 21.72,
+    "volume": 374472
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-28",
+    "price": 21.85,
+    "volume": 598936
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-27",
+    "price": 21.98,
+    "volume": 159909
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-26",
+    "price": 22.1,
+    "volume": 225216
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-25",
+    "price": 22.06,
+    "volume": 225138
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-24",
+    "price": 22.34,
+    "volume": 278300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-21",
+    "price": 22.24,
+    "volume": 1289722
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-20",
+    "price": 21.98,
+    "volume": 350720
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-18",
+    "price": 21.5,
+    "volume": 374500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-17",
+    "price": 21.77,
+    "volume": 487243
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-14",
+    "price": 21.86,
+    "volume": 222900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-13",
+    "price": 22.11,
+    "volume": 260406
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-12",
+    "price": 22.47,
+    "volume": 262219
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-11",
+    "price": 22.58,
+    "volume": 237332
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-10",
+    "price": 22.43,
+    "volume": 250200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-07",
+    "price": 22.62,
+    "volume": 225172
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-06",
+    "price": 22.96,
+    "volume": 233900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-05",
+    "price": 22.8,
+    "volume": 569645
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-04",
+    "price": 23.24,
+    "volume": 377614
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-06-03",
+    "price": 23.27,
+    "volume": 321340
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-31",
+    "price": 23.36,
+    "volume": 270300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-30",
+    "price": 22.97,
+    "volume": 180100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-29",
+    "price": 22.79,
+    "volume": 263625
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-28",
+    "price": 23.15,
+    "volume": 172500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-24",
+    "price": 23.26,
+    "volume": 141700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-23",
+    "price": 23.28,
+    "volume": 224500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-22",
+    "price": 23.72,
+    "volume": 280900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-21",
+    "price": 23.64,
+    "volume": 188717
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-20",
+    "price": 23.59,
+    "volume": 254300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-17",
+    "price": 24.31,
+    "volume": 137100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-16",
+    "price": 24.48,
+    "volume": 175200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-15",
+    "price": 24.18,
+    "volume": 195509
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-14",
+    "price": 24.48,
+    "volume": 160700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-13",
+    "price": 24.48,
+    "volume": 175639
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-10",
+    "price": 24.47,
+    "volume": 166800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-09",
+    "price": 24.35,
+    "volume": 153000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-08",
+    "price": 24.13,
+    "volume": 151100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-07",
+    "price": 24.34,
+    "volume": 203100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-06",
+    "price": 24.53,
+    "volume": 211500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-03",
+    "price": 24.52,
+    "volume": 334400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-02",
+    "price": 26.03,
+    "volume": 147200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-05-01",
+    "price": 25.92,
+    "volume": 151712
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-30",
+    "price": 25.57,
+    "volume": 222424
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-29",
+    "price": 25.71,
+    "volume": 136800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-26",
+    "price": 25.62,
+    "volume": 139700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-25",
+    "price": 25.74,
+    "volume": 136500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-24",
+    "price": 26.03,
+    "volume": 161600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-23",
+    "price": 25.98,
+    "volume": 143335
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-22",
+    "price": 25.86,
+    "volume": 171041
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-19",
+    "price": 25.78,
+    "volume": 201100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-18",
+    "price": 25.36,
+    "volume": 149739
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-17",
+    "price": 24.84,
+    "volume": 124200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-16",
+    "price": 24.91,
+    "volume": 147511
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-15",
+    "price": 24.93,
+    "volume": 109103
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-12",
+    "price": 24.93,
+    "volume": 133420
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-11",
+    "price": 25.23,
+    "volume": 145633
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-10",
+    "price": 25.12,
+    "volume": 170542
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-09",
+    "price": 25.67,
+    "volume": 133600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-08",
+    "price": 25.66,
+    "volume": 171800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-05",
+    "price": 25.38,
+    "volume": 254447
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-04",
+    "price": 25.43,
+    "volume": 169800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-03",
+    "price": 25.37,
+    "volume": 203924
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-02",
+    "price": 25.49,
+    "volume": 214746
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-04-01",
+    "price": 25.45,
+    "volume": 195600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-28",
+    "price": 25.91,
+    "volume": 309617
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-27",
+    "price": 26.03,
+    "volume": 196400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-26",
+    "price": 25.5,
+    "volume": 206217
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-25",
+    "price": 25.37,
+    "volume": 187000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-22",
+    "price": 25.21,
+    "volume": 129800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-21",
+    "price": 25.19,
+    "volume": 244000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-20",
+    "price": 25.12,
+    "volume": 224100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-19",
+    "price": 25.02,
+    "volume": 203400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-18",
+    "price": 24.6,
+    "volume": 297146
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-15",
+    "price": 24.89,
+    "volume": 1109500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-14",
+    "price": 24.26,
+    "volume": 226600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-13",
+    "price": 24.7,
+    "volume": 186800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-12",
+    "price": 24.76,
+    "volume": 151100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-11",
+    "price": 24.63,
+    "volume": 187413
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-08",
+    "price": 24.76,
+    "volume": 162203
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-07",
+    "price": 24.47,
+    "volume": 186339
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-06",
+    "price": 24.25,
+    "volume": 254317
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-05",
+    "price": 24.22,
+    "volume": 270721
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-04",
+    "price": 24.53,
+    "volume": 206800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-03-01",
+    "price": 24.37,
+    "volume": 225932
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-29",
+    "price": 23.93,
+    "volume": 327211
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-28",
+    "price": 23.64,
+    "volume": 257501
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-27",
+    "price": 23.28,
+    "volume": 302400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-26",
+    "price": 23.18,
+    "volume": 428802
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-23",
+    "price": 23.92,
+    "volume": 184600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-22",
+    "price": 23.97,
+    "volume": 193298
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-21",
+    "price": 24.06,
+    "volume": 132700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-20",
+    "price": 23.92,
+    "volume": 209432
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-16",
+    "price": 23.77,
+    "volume": 186347
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-15",
+    "price": 24.16,
+    "volume": 177012
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-14",
+    "price": 23.8,
+    "volume": 181500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-13",
+    "price": 23.51,
+    "volume": 203318
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-12",
+    "price": 24.2,
+    "volume": 189946
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-09",
+    "price": 23.78,
+    "volume": 287500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-08",
+    "price": 23.91,
+    "volume": 194668
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-07",
+    "price": 23.92,
+    "volume": 176400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-06",
+    "price": 24.27,
+    "volume": 164500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-05",
+    "price": 23.79,
+    "volume": 179519
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-02",
+    "price": 24.53,
+    "volume": 293822
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-02-01",
+    "price": 24.64,
+    "volume": 332608
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-31",
+    "price": 24.58,
+    "volume": 207600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-30",
+    "price": 25.04,
+    "volume": 111100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-29",
+    "price": 25.04,
+    "volume": 131719
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-26",
+    "price": 25.11,
+    "volume": 108300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-25",
+    "price": 25.19,
+    "volume": 143000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-24",
+    "price": 24.94,
+    "volume": 151100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-23",
+    "price": 25.12,
+    "volume": 194700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-22",
+    "price": 25.1,
+    "volume": 212200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-19",
+    "price": 25,
+    "volume": 208010
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-18",
+    "price": 25.15,
+    "volume": 200000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-17",
+    "price": 25.17,
+    "volume": 245500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-16",
+    "price": 25.12,
+    "volume": 290902
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-12",
+    "price": 25.64,
+    "volume": 222500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-11",
+    "price": 25.8,
+    "volume": 292105
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-10",
+    "price": 25.77,
+    "volume": 222834
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-09",
+    "price": 25.7,
+    "volume": 417279
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-08",
+    "price": 27.15,
+    "volume": 161000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-05",
+    "price": 27.1,
+    "volume": 193700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-04",
+    "price": 27.31,
+    "volume": 203324
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-03",
+    "price": 27.31,
+    "volume": 319213
+  },
+  {
+    "symbol": "FDP",
+    "date": "2024-01-02",
+    "price": 27.6,
+    "volume": 451620
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-29",
+    "price": 26.25,
+    "volume": 174544
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-28",
+    "price": 26.32,
+    "volume": 109638
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-27",
+    "price": 26.27,
+    "volume": 144737
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-26",
+    "price": 26.4,
+    "volume": 98047
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-22",
+    "price": 26.04,
+    "volume": 100917
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-21",
+    "price": 25.87,
+    "volume": 150600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-20",
+    "price": 25.5,
+    "volume": 320400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-19",
+    "price": 25.73,
+    "volume": 175545
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-18",
+    "price": 25.11,
+    "volume": 179400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-15",
+    "price": 24.97,
+    "volume": 693500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-14",
+    "price": 25.14,
+    "volume": 227000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-13",
+    "price": 25.32,
+    "volume": 209712
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-12",
+    "price": 24.39,
+    "volume": 209743
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-11",
+    "price": 24.2,
+    "volume": 182400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-08",
+    "price": 23.85,
+    "volume": 167431
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-07",
+    "price": 24.31,
+    "volume": 182048
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-06",
+    "price": 23.65,
+    "volume": 192135
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-05",
+    "price": 23.83,
+    "volume": 215900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-04",
+    "price": 23.83,
+    "volume": 390300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-12-01",
+    "price": 23.22,
+    "volume": 369625
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-30",
+    "price": 22.8,
+    "volume": 304709
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-29",
+    "price": 23.01,
+    "volume": 170042
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-28",
+    "price": 23.29,
+    "volume": 125013
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-27",
+    "price": 23.35,
+    "volume": 228800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-24",
+    "price": 23.45,
+    "volume": 39046
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-22",
+    "price": 23.33,
+    "volume": 89146
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-21",
+    "price": 23.19,
+    "volume": 151318
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-20",
+    "price": 23.43,
+    "volume": 207200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-17",
+    "price": 23.33,
+    "volume": 264500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-16",
+    "price": 23.46,
+    "volume": 233446
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-15",
+    "price": 24.1,
+    "volume": 252700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-14",
+    "price": 24.13,
+    "volume": 495517
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-13",
+    "price": 23.54,
+    "volume": 326816
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-10",
+    "price": 23.58,
+    "volume": 268308
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-09",
+    "price": 23.69,
+    "volume": 345900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-08",
+    "price": 23.53,
+    "volume": 304500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-07",
+    "price": 23.81,
+    "volume": 421936
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-06",
+    "price": 23.5,
+    "volume": 519520
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-03",
+    "price": 23,
+    "volume": 764729
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-02",
+    "price": 22.75,
+    "volume": 532029
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-11-01",
+    "price": 21.48,
+    "volume": 741620
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-31",
+    "price": 25,
+    "volume": 160500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-30",
+    "price": 25.28,
+    "volume": 144817
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-27",
+    "price": 25.01,
+    "volume": 190343
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-26",
+    "price": 25.41,
+    "volume": 165019
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-25",
+    "price": 25.32,
+    "volume": 160221
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-24",
+    "price": 25.1,
+    "volume": 306125
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-23",
+    "price": 25.03,
+    "volume": 245400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-20",
+    "price": 25.42,
+    "volume": 142000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-19",
+    "price": 25.4,
+    "volume": 110500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-18",
+    "price": 25.85,
+    "volume": 180300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-17",
+    "price": 25.85,
+    "volume": 185515
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-16",
+    "price": 25.7,
+    "volume": 169500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-13",
+    "price": 25.35,
+    "volume": 146700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-12",
+    "price": 25.46,
+    "volume": 198300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-11",
+    "price": 26.01,
+    "volume": 235533
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-10",
+    "price": 25.68,
+    "volume": 116504
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-09",
+    "price": 25.83,
+    "volume": 108641
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-06",
+    "price": 25.62,
+    "volume": 172800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-05",
+    "price": 25.83,
+    "volume": 177416
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-04",
+    "price": 25.69,
+    "volume": 121400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-03",
+    "price": 25.59,
+    "volume": 145300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-10-02",
+    "price": 25.73,
+    "volume": 251331
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-29",
+    "price": 25.84,
+    "volume": 186000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-28",
+    "price": 26.01,
+    "volume": 256807
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-27",
+    "price": 26.1,
+    "volume": 279300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-26",
+    "price": 25.75,
+    "volume": 335700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-25",
+    "price": 25.84,
+    "volume": 114602
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-22",
+    "price": 25.77,
+    "volume": 159400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-21",
+    "price": 25.95,
+    "volume": 196800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-20",
+    "price": 25.5,
+    "volume": 372400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-19",
+    "price": 25.24,
+    "volume": 162642
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-18",
+    "price": 25.37,
+    "volume": 191700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-15",
+    "price": 25.45,
+    "volume": 766700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-14",
+    "price": 25.49,
+    "volume": 298600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-13",
+    "price": 25.26,
+    "volume": 272300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-12",
+    "price": 25.04,
+    "volume": 168900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-11",
+    "price": 25.04,
+    "volume": 191100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-08",
+    "price": 25.22,
+    "volume": 212245
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-07",
+    "price": 24.99,
+    "volume": 364545
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-06",
+    "price": 25.15,
+    "volume": 170533
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-05",
+    "price": 25,
+    "volume": 295200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-09-01",
+    "price": 26.49,
+    "volume": 543928
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-31",
+    "price": 25.55,
+    "volume": 151200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-30",
+    "price": 26.01,
+    "volume": 114649
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-29",
+    "price": 25.88,
+    "volume": 102800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-28",
+    "price": 25.79,
+    "volume": 66500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-25",
+    "price": 26,
+    "volume": 70600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-24",
+    "price": 25.92,
+    "volume": 141400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-23",
+    "price": 26.1,
+    "volume": 135814
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-22",
+    "price": 25.77,
+    "volume": 154033
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-21",
+    "price": 26.29,
+    "volume": 115317
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-18",
+    "price": 26.67,
+    "volume": 230500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-17",
+    "price": 26.73,
+    "volume": 253500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-16",
+    "price": 26.19,
+    "volume": 99624
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-15",
+    "price": 26.64,
+    "volume": 95108
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-14",
+    "price": 27.21,
+    "volume": 151200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-11",
+    "price": 27.88,
+    "volume": 131800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-10",
+    "price": 27.52,
+    "volume": 132906
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-09",
+    "price": 27.61,
+    "volume": 217300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-08",
+    "price": 28.5,
+    "volume": 234700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-07",
+    "price": 28.49,
+    "volume": 188934
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-04",
+    "price": 27.9,
+    "volume": 172900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-03",
+    "price": 27.69,
+    "volume": 255047
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-02",
+    "price": 27.7,
+    "volume": 463600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-08-01",
+    "price": 26.46,
+    "volume": 123300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-31",
+    "price": 26.58,
+    "volume": 183800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-28",
+    "price": 26.35,
+    "volume": 115700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-27",
+    "price": 26.45,
+    "volume": 130233
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-26",
+    "price": 26.75,
+    "volume": 108300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-25",
+    "price": 26.55,
+    "volume": 106200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-24",
+    "price": 26.42,
+    "volume": 106000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-21",
+    "price": 26.33,
+    "volume": 137700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-20",
+    "price": 26.6,
+    "volume": 101200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-19",
+    "price": 26.35,
+    "volume": 163803
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-18",
+    "price": 25.96,
+    "volume": 113100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-17",
+    "price": 25.75,
+    "volume": 129343
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-14",
+    "price": 25.75,
+    "volume": 112049
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-13",
+    "price": 25.71,
+    "volume": 120400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-12",
+    "price": 25.69,
+    "volume": 128800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-11",
+    "price": 25.48,
+    "volume": 172240
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-10",
+    "price": 25.2,
+    "volume": 166110
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-07",
+    "price": 25.48,
+    "volume": 142400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-06",
+    "price": 25.51,
+    "volume": 188196
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-05",
+    "price": 25.61,
+    "volume": 178628
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-07-03",
+    "price": 25.73,
+    "volume": 97935
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-30",
+    "price": 25.71,
+    "volume": 132177
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-29",
+    "price": 25.51,
+    "volume": 183613
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-28",
+    "price": 25.15,
+    "volume": 103913
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-27",
+    "price": 25.66,
+    "volume": 138113
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-26",
+    "price": 25.84,
+    "volume": 174925
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-23",
+    "price": 25.74,
+    "volume": 824000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-22",
+    "price": 26.68,
+    "volume": 156738
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-21",
+    "price": 27.08,
+    "volume": 147000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-20",
+    "price": 26.87,
+    "volume": 169800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-16",
+    "price": 26.88,
+    "volume": 653305
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-15",
+    "price": 27.16,
+    "volume": 183833
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-14",
+    "price": 27,
+    "volume": 151410
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-13",
+    "price": 27,
+    "volume": 229548
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-12",
+    "price": 26.96,
+    "volume": 143306
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-09",
+    "price": 26.89,
+    "volume": 119800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-08",
+    "price": 27.34,
+    "volume": 153500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-07",
+    "price": 27.18,
+    "volume": 277730
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-06",
+    "price": 26.47,
+    "volume": 173349
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-05",
+    "price": 25.83,
+    "volume": 255155
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-02",
+    "price": 26.85,
+    "volume": 167224
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-06-01",
+    "price": 26.14,
+    "volume": 118300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-31",
+    "price": 26.36,
+    "volume": 187626
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-30",
+    "price": 26.33,
+    "volume": 135800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-26",
+    "price": 26.54,
+    "volume": 142400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-25",
+    "price": 26.64,
+    "volume": 130100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-24",
+    "price": 26.71,
+    "volume": 126508
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-23",
+    "price": 27.1,
+    "volume": 218717
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-22",
+    "price": 26.5,
+    "volume": 182814
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-19",
+    "price": 26.59,
+    "volume": 270100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-18",
+    "price": 26.59,
+    "volume": 145100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-17",
+    "price": 26.38,
+    "volume": 152000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-16",
+    "price": 26.25,
+    "volume": 105330
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-15",
+    "price": 26.7,
+    "volume": 151843
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-12",
+    "price": 26.99,
+    "volume": 137008
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-11",
+    "price": 27.37,
+    "volume": 160243
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-10",
+    "price": 27.4,
+    "volume": 213100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-09",
+    "price": 27.35,
+    "volume": 229200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-08",
+    "price": 27.48,
+    "volume": 297219
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-05",
+    "price": 27,
+    "volume": 315300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-04",
+    "price": 26.51,
+    "volume": 231406
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-03",
+    "price": 26.47,
+    "volume": 388500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-02",
+    "price": 28.58,
+    "volume": 235170
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-05-01",
+    "price": 28.7,
+    "volume": 185025
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-28",
+    "price": 28.71,
+    "volume": 118700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-27",
+    "price": 28.63,
+    "volume": 112006
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-26",
+    "price": 28.48,
+    "volume": 94500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-25",
+    "price": 28.89,
+    "volume": 139706
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-24",
+    "price": 29.14,
+    "volume": 135900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-21",
+    "price": 29.44,
+    "volume": 124900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-20",
+    "price": 29.27,
+    "volume": 304907
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-19",
+    "price": 29.57,
+    "volume": 93500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-18",
+    "price": 29.6,
+    "volume": 141018
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-17",
+    "price": 29.72,
+    "volume": 134820
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-14",
+    "price": 29.64,
+    "volume": 110133
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-13",
+    "price": 30.15,
+    "volume": 154200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-12",
+    "price": 30.25,
+    "volume": 208311
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-11",
+    "price": 29.94,
+    "volume": 129200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-10",
+    "price": 30.11,
+    "volume": 162145
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-06",
+    "price": 30.26,
+    "volume": 144500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-05",
+    "price": 30.5,
+    "volume": 689114
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-04",
+    "price": 30.04,
+    "volume": 251800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-04-03",
+    "price": 30.35,
+    "volume": 258912
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-31",
+    "price": 30.11,
+    "volume": 217438
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-30",
+    "price": 30.1,
+    "volume": 104543
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-29",
+    "price": 30.04,
+    "volume": 132620
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-28",
+    "price": 30.19,
+    "volume": 79100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-27",
+    "price": 30.25,
+    "volume": 95044
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-24",
+    "price": 29.8,
+    "volume": 121237
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-23",
+    "price": 29.1,
+    "volume": 132944
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-22",
+    "price": 29.47,
+    "volume": 108300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-21",
+    "price": 29.86,
+    "volume": 170020
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-20",
+    "price": 29.91,
+    "volume": 238129
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-17",
+    "price": 29.34,
+    "volume": 743610
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-16",
+    "price": 30.28,
+    "volume": 171634
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-15",
+    "price": 30.25,
+    "volume": 329700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-14",
+    "price": 30.5,
+    "volume": 207600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-13",
+    "price": 29.74,
+    "volume": 207600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-10",
+    "price": 30.49,
+    "volume": 134300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-09",
+    "price": 30.81,
+    "volume": 131000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-08",
+    "price": 31.21,
+    "volume": 243600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-07",
+    "price": 31.29,
+    "volume": 150200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-06",
+    "price": 31.59,
+    "volume": 233500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-03",
+    "price": 32.09,
+    "volume": 203645
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-02",
+    "price": 32.13,
+    "volume": 200741
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-03-01",
+    "price": 31.69,
+    "volume": 168439
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-28",
+    "price": 31.28,
+    "volume": 269410
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-27",
+    "price": 31.07,
+    "volume": 144700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-24",
+    "price": 31.04,
+    "volume": 208422
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-23",
+    "price": 30.83,
+    "volume": 277400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-22",
+    "price": 31.5,
+    "volume": 456624
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-21",
+    "price": 28.63,
+    "volume": 179240
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-17",
+    "price": 28.84,
+    "volume": 416530
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-16",
+    "price": 28.2,
+    "volume": 178940
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-15",
+    "price": 28.57,
+    "volume": 208176
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-14",
+    "price": 28.24,
+    "volume": 217622
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-13",
+    "price": 28.62,
+    "volume": 124200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-10",
+    "price": 28.49,
+    "volume": 124600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-09",
+    "price": 28.41,
+    "volume": 110322
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-08",
+    "price": 28.21,
+    "volume": 102700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-07",
+    "price": 28.75,
+    "volume": 167100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-06",
+    "price": 28.85,
+    "volume": 194400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-03",
+    "price": 28.88,
+    "volume": 213817
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-02",
+    "price": 28.7,
+    "volume": 164099
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-02-01",
+    "price": 28.52,
+    "volume": 142149
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-31",
+    "price": 28.6,
+    "volume": 159063
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-30",
+    "price": 27.66,
+    "volume": 78900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-27",
+    "price": 27.29,
+    "volume": 81045
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-26",
+    "price": 27.31,
+    "volume": 106600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-25",
+    "price": 27.49,
+    "volume": 69428
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-24",
+    "price": 27.17,
+    "volume": 80400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-23",
+    "price": 27.04,
+    "volume": 108917
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-20",
+    "price": 27.25,
+    "volume": 126800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-19",
+    "price": 27.19,
+    "volume": 98800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-18",
+    "price": 27.11,
+    "volume": 132500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-17",
+    "price": 28.06,
+    "volume": 123000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-13",
+    "price": 27.99,
+    "volume": 105300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-12",
+    "price": 27.58,
+    "volume": 150214
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-11",
+    "price": 27.07,
+    "volume": 168624
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-10",
+    "price": 26.81,
+    "volume": 181900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-09",
+    "price": 26.67,
+    "volume": 133600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-06",
+    "price": 26.89,
+    "volume": 94500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-05",
+    "price": 26.57,
+    "volume": 110704
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-04",
+    "price": 26.69,
+    "volume": 173116
+  },
+  {
+    "symbol": "FDP",
+    "date": "2023-01-03",
+    "price": 26.45,
+    "volume": 181808
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-30",
+    "price": 26.19,
+    "volume": 167100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-29",
+    "price": 26.38,
+    "volume": 120000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-28",
+    "price": 25.99,
+    "volume": 108334
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-27",
+    "price": 26.45,
+    "volume": 88300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-23",
+    "price": 26.13,
+    "volume": 86733
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-22",
+    "price": 26.07,
+    "volume": 132600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-21",
+    "price": 26.36,
+    "volume": 128927
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-20",
+    "price": 26.21,
+    "volume": 168928
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-19",
+    "price": 26.07,
+    "volume": 187030
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-16",
+    "price": 25.17,
+    "volume": 994700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-15",
+    "price": 25.52,
+    "volume": 212300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-14",
+    "price": 26.54,
+    "volume": 259947
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-13",
+    "price": 26.39,
+    "volume": 235221
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-12",
+    "price": 26.71,
+    "volume": 164823
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-09",
+    "price": 26.79,
+    "volume": 151900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-08",
+    "price": 26.94,
+    "volume": 153400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-07",
+    "price": 27.05,
+    "volume": 142420
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-06",
+    "price": 27.1,
+    "volume": 165500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-05",
+    "price": 27.12,
+    "volume": 139947
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-02",
+    "price": 27.21,
+    "volume": 117800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-12-01",
+    "price": 27.33,
+    "volume": 134600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-30",
+    "price": 27.68,
+    "volume": 348103
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-29",
+    "price": 26.78,
+    "volume": 924400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-28",
+    "price": 27.23,
+    "volume": 301033
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-25",
+    "price": 27.42,
+    "volume": 274900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-23",
+    "price": 27.38,
+    "volume": 287738
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-22",
+    "price": 27.47,
+    "volume": 470646
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-21",
+    "price": 27.39,
+    "volume": 312100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-18",
+    "price": 27.37,
+    "volume": 269300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-17",
+    "price": 27.26,
+    "volume": 107645
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-16",
+    "price": 27.72,
+    "volume": 120727
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-15",
+    "price": 27.86,
+    "volume": 142649
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-14",
+    "price": 27.93,
+    "volume": 117600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-11",
+    "price": 28.03,
+    "volume": 163200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-10",
+    "price": 28.43,
+    "volume": 185700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-09",
+    "price": 27.99,
+    "volume": 204400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-08",
+    "price": 28.06,
+    "volume": 158500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-07",
+    "price": 27.85,
+    "volume": 177830
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-04",
+    "price": 27.47,
+    "volume": 179626
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-03",
+    "price": 26.65,
+    "volume": 166900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-02",
+    "price": 27.08,
+    "volume": 355047
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-11-01",
+    "price": 26,
+    "volume": 143801
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-31",
+    "price": 26.08,
+    "volume": 158803
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-28",
+    "price": 26.27,
+    "volume": 144340
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-27",
+    "price": 25.9,
+    "volume": 95600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-26",
+    "price": 25.85,
+    "volume": 123408
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-25",
+    "price": 25.88,
+    "volume": 100300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-24",
+    "price": 25.89,
+    "volume": 100644
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-21",
+    "price": 25.63,
+    "volume": 114600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-20",
+    "price": 25.03,
+    "volume": 125800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-19",
+    "price": 25.39,
+    "volume": 96310
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-18",
+    "price": 25.33,
+    "volume": 158700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-17",
+    "price": 25.05,
+    "volume": 97326
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-14",
+    "price": 25.1,
+    "volume": 158634
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-13",
+    "price": 25.62,
+    "volume": 150400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-12",
+    "price": 24.56,
+    "volume": 144301
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-11",
+    "price": 24.75,
+    "volume": 149018
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-10",
+    "price": 24.23,
+    "volume": 116700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-07",
+    "price": 23.67,
+    "volume": 244643
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-06",
+    "price": 23.79,
+    "volume": 87714
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-05",
+    "price": 24.3,
+    "volume": 132100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-04",
+    "price": 24.64,
+    "volume": 206400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-10-03",
+    "price": 23.64,
+    "volume": 222700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-30",
+    "price": 23.24,
+    "volume": 187300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-29",
+    "price": 23.54,
+    "volume": 185300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-28",
+    "price": 24.09,
+    "volume": 149941
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-27",
+    "price": 24.04,
+    "volume": 120626
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-26",
+    "price": 24.45,
+    "volume": 227800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-23",
+    "price": 24.4,
+    "volume": 281540
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-22",
+    "price": 25.32,
+    "volume": 116708
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-21",
+    "price": 25.65,
+    "volume": 203300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-20",
+    "price": 25.52,
+    "volume": 247403
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-19",
+    "price": 25.37,
+    "volume": 176045
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-16",
+    "price": 24.9,
+    "volume": 981924
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-15",
+    "price": 24.58,
+    "volume": 252936
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-14",
+    "price": 24.82,
+    "volume": 280630
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-13",
+    "price": 25.4,
+    "volume": 305200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-12",
+    "price": 25.38,
+    "volume": 664240
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-09",
+    "price": 25.64,
+    "volume": 124723
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-08",
+    "price": 25.49,
+    "volume": 146800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-07",
+    "price": 25.85,
+    "volume": 262446
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-06",
+    "price": 24.74,
+    "volume": 318100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-02",
+    "price": 26.93,
+    "volume": 169329
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-09-01",
+    "price": 26.93,
+    "volume": 173900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-31",
+    "price": 27.34,
+    "volume": 145317
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-30",
+    "price": 27.5,
+    "volume": 139003
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-29",
+    "price": 28.06,
+    "volume": 97800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-26",
+    "price": 27.89,
+    "volume": 146143
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-25",
+    "price": 28.43,
+    "volume": 141448
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-24",
+    "price": 28.19,
+    "volume": 110237
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-23",
+    "price": 28.31,
+    "volume": 139200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-22",
+    "price": 28.56,
+    "volume": 159314
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-19",
+    "price": 28.96,
+    "volume": 132800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-18",
+    "price": 29.27,
+    "volume": 82500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-17",
+    "price": 29.14,
+    "volume": 91500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-16",
+    "price": 29.28,
+    "volume": 146600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-15",
+    "price": 28.91,
+    "volume": 258600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-12",
+    "price": 29.1,
+    "volume": 118700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-11",
+    "price": 28.75,
+    "volume": 167200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-10",
+    "price": 28.1,
+    "volume": 493836
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-09",
+    "price": 28.1,
+    "volume": 188313
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-08",
+    "price": 28.29,
+    "volume": 260000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-05",
+    "price": 29.34,
+    "volume": 220133
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-04",
+    "price": 28.82,
+    "volume": 204600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-03",
+    "price": 28.88,
+    "volume": 191720
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-02",
+    "price": 30.02,
+    "volume": 157400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-08-01",
+    "price": 30.34,
+    "volume": 163300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-29",
+    "price": 29.71,
+    "volume": 183913
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-28",
+    "price": 30.29,
+    "volume": 79437
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-27",
+    "price": 29.7,
+    "volume": 128243
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-26",
+    "price": 29.06,
+    "volume": 174528
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-25",
+    "price": 28.98,
+    "volume": 143336
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-22",
+    "price": 29.21,
+    "volume": 249916
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-21",
+    "price": 28.47,
+    "volume": 359900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-20",
+    "price": 29.77,
+    "volume": 224200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-19",
+    "price": 29.9,
+    "volume": 229803
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-18",
+    "price": 29.82,
+    "volume": 338100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-15",
+    "price": 30.24,
+    "volume": 170100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-14",
+    "price": 29.69,
+    "volume": 102700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-13",
+    "price": 29.94,
+    "volume": 103800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-12",
+    "price": 29.73,
+    "volume": 124833
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-11",
+    "price": 30.16,
+    "volume": 115900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-08",
+    "price": 30.4,
+    "volume": 132000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-07",
+    "price": 30.08,
+    "volume": 191326
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-06",
+    "price": 31.27,
+    "volume": 551309
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-05",
+    "price": 30.49,
+    "volume": 317500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-07-01",
+    "price": 30.41,
+    "volume": 363820
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-30",
+    "price": 29.53,
+    "volume": 444440
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-29",
+    "price": 29.22,
+    "volume": 577838
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-28",
+    "price": 28.05,
+    "volume": 692100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-27",
+    "price": 27.53,
+    "volume": 517915
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-24",
+    "price": 27.45,
+    "volume": 1210538
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-23",
+    "price": 26,
+    "volume": 793825
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-22",
+    "price": 24.44,
+    "volume": 358225
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-21",
+    "price": 23.84,
+    "volume": 275700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-17",
+    "price": 22.82,
+    "volume": 525100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-16",
+    "price": 22.99,
+    "volume": 231212
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-15",
+    "price": 23.71,
+    "volume": 191616
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-14",
+    "price": 23.8,
+    "volume": 152806
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-13",
+    "price": 23.68,
+    "volume": 184140
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-10",
+    "price": 24.32,
+    "volume": 151400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-09",
+    "price": 24.66,
+    "volume": 137700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-08",
+    "price": 24.98,
+    "volume": 171829
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-07",
+    "price": 25.3,
+    "volume": 506700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-06",
+    "price": 25.02,
+    "volume": 261716
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-03",
+    "price": 24.92,
+    "volume": 111103
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-02",
+    "price": 25.27,
+    "volume": 183909
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-06-01",
+    "price": 25.42,
+    "volume": 142825
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-31",
+    "price": 25.54,
+    "volume": 260900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-27",
+    "price": 25.36,
+    "volume": 149500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-26",
+    "price": 25.27,
+    "volume": 113200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-25",
+    "price": 24.67,
+    "volume": 215025
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-24",
+    "price": 23.73,
+    "volume": 239500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-23",
+    "price": 23.74,
+    "volume": 249300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-20",
+    "price": 23.54,
+    "volume": 199300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-19",
+    "price": 24.27,
+    "volume": 164238
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-18",
+    "price": 24.59,
+    "volume": 267800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-17",
+    "price": 25.33,
+    "volume": 139100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-16",
+    "price": 25.04,
+    "volume": 135233
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-13",
+    "price": 24.81,
+    "volume": 104200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-12",
+    "price": 24.6,
+    "volume": 143400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-11",
+    "price": 24.54,
+    "volume": 131200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-10",
+    "price": 24.41,
+    "volume": 111313
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-09",
+    "price": 24.56,
+    "volume": 245129
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-06",
+    "price": 24.11,
+    "volume": 159600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-05",
+    "price": 24.07,
+    "volume": 282200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-04",
+    "price": 24.75,
+    "volume": 215222
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-03",
+    "price": 25.47,
+    "volume": 117844
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-05-02",
+    "price": 25.53,
+    "volume": 117900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-29",
+    "price": 26.05,
+    "volume": 130847
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-28",
+    "price": 26.87,
+    "volume": 166800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-27",
+    "price": 26.13,
+    "volume": 142516
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-26",
+    "price": 25.88,
+    "volume": 142349
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-25",
+    "price": 26.11,
+    "volume": 183231
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-22",
+    "price": 26.84,
+    "volume": 86719
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-21",
+    "price": 27.13,
+    "volume": 128200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-20",
+    "price": 27.81,
+    "volume": 141300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-19",
+    "price": 27.58,
+    "volume": 95400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-18",
+    "price": 26.76,
+    "volume": 121114
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-14",
+    "price": 26.58,
+    "volume": 181437
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-13",
+    "price": 26.87,
+    "volume": 186325
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-12",
+    "price": 26.35,
+    "volume": 103839
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-11",
+    "price": 26.21,
+    "volume": 124101
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-08",
+    "price": 26.21,
+    "volume": 122500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-07",
+    "price": 26.38,
+    "volume": 385943
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-06",
+    "price": 25.78,
+    "volume": 192500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-05",
+    "price": 25.55,
+    "volume": 231700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-04",
+    "price": 26.27,
+    "volume": 250600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-04-01",
+    "price": 26.5,
+    "volume": 185300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-31",
+    "price": 25.91,
+    "volume": 179400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-30",
+    "price": 26,
+    "volume": 137134
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-29",
+    "price": 26.11,
+    "volume": 149343
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-28",
+    "price": 26.45,
+    "volume": 195147
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-25",
+    "price": 26.52,
+    "volume": 123411
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-24",
+    "price": 25.73,
+    "volume": 84400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-23",
+    "price": 25.4,
+    "volume": 113300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-22",
+    "price": 25.42,
+    "volume": 90000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-21",
+    "price": 25.76,
+    "volume": 147042
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-18",
+    "price": 26.25,
+    "volume": 569500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-17",
+    "price": 26.29,
+    "volume": 141300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-16",
+    "price": 26.06,
+    "volume": 144804
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-15",
+    "price": 25.51,
+    "volume": 127400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-14",
+    "price": 24.92,
+    "volume": 163612
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-11",
+    "price": 24.51,
+    "volume": 98437
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-10",
+    "price": 25.09,
+    "volume": 152500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-09",
+    "price": 25.9,
+    "volume": 129700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-08",
+    "price": 26.02,
+    "volume": 136300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-07",
+    "price": 26.79,
+    "volume": 158900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-04",
+    "price": 26.59,
+    "volume": 132632
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-03",
+    "price": 26.53,
+    "volume": 110333
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-02",
+    "price": 26.49,
+    "volume": 121026
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-03-01",
+    "price": 26.25,
+    "volume": 153300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-28",
+    "price": 25.88,
+    "volume": 189201
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-25",
+    "price": 26.25,
+    "volume": 117600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-24",
+    "price": 25.38,
+    "volume": 182110
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-23",
+    "price": 25.46,
+    "volume": 264900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-22",
+    "price": 28.16,
+    "volume": 225127
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-18",
+    "price": 28.81,
+    "volume": 151301
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-17",
+    "price": 28.9,
+    "volume": 126129
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-16",
+    "price": 28.73,
+    "volume": 125239
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-15",
+    "price": 28.07,
+    "volume": 88700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-14",
+    "price": 27.71,
+    "volume": 101221
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-11",
+    "price": 27.81,
+    "volume": 102700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-10",
+    "price": 27.29,
+    "volume": 75539
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-09",
+    "price": 27.61,
+    "volume": 70600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-08",
+    "price": 28.03,
+    "volume": 74600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-07",
+    "price": 27.49,
+    "volume": 73921
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-04",
+    "price": 27.49,
+    "volume": 96700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-03",
+    "price": 27.71,
+    "volume": 72500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-02",
+    "price": 27.88,
+    "volume": 164244
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-02-01",
+    "price": 27.94,
+    "volume": 135800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-31",
+    "price": 27.83,
+    "volume": 125000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-28",
+    "price": 27.61,
+    "volume": 96106
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-27",
+    "price": 27.4,
+    "volume": 96727
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-26",
+    "price": 27.48,
+    "volume": 110514
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-25",
+    "price": 27.82,
+    "volume": 113000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-24",
+    "price": 28.16,
+    "volume": 129622
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-21",
+    "price": 28.08,
+    "volume": 136705
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-20",
+    "price": 28.01,
+    "volume": 74300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-19",
+    "price": 28.67,
+    "volume": 133708
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-18",
+    "price": 28.43,
+    "volume": 63847
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-14",
+    "price": 28.99,
+    "volume": 103300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-13",
+    "price": 28.87,
+    "volume": 71500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-12",
+    "price": 28.06,
+    "volume": 88215
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-11",
+    "price": 28.42,
+    "volume": 77120
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-10",
+    "price": 28.47,
+    "volume": 111943
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-07",
+    "price": 29.07,
+    "volume": 130211
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-06",
+    "price": 28.59,
+    "volume": 93100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-05",
+    "price": 28.63,
+    "volume": 104322
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-04",
+    "price": 28.22,
+    "volume": 111530
+  },
+  {
+    "symbol": "FDP",
+    "date": "2022-01-03",
+    "price": 27.66,
+    "volume": 112809
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-31",
+    "price": 27.6,
+    "volume": 72400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-30",
+    "price": 27.42,
+    "volume": 79249
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-29",
+    "price": 27.73,
+    "volume": 101000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-28",
+    "price": 27.87,
+    "volume": 113500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-27",
+    "price": 27.46,
+    "volume": 111500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-23",
+    "price": 27.41,
+    "volume": 125841
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-22",
+    "price": 26.88,
+    "volume": 86945
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-21",
+    "price": 26.59,
+    "volume": 186503
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-20",
+    "price": 26.91,
+    "volume": 169600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-17",
+    "price": 26.92,
+    "volume": 915833
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-16",
+    "price": 26.46,
+    "volume": 150135
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-15",
+    "price": 26.94,
+    "volume": 215806
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-14",
+    "price": 26.33,
+    "volume": 98317
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-13",
+    "price": 26.15,
+    "volume": 116411
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-10",
+    "price": 26.09,
+    "volume": 91331
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-09",
+    "price": 26.2,
+    "volume": 155500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-08",
+    "price": 26.26,
+    "volume": 166600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-07",
+    "price": 26.34,
+    "volume": 130500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-06",
+    "price": 26.11,
+    "volume": 197100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-03",
+    "price": 24.5,
+    "volume": 103741
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-02",
+    "price": 24.58,
+    "volume": 164000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-12-01",
+    "price": 24.14,
+    "volume": 177100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-30",
+    "price": 24.76,
+    "volume": 291338
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-29",
+    "price": 25.89,
+    "volume": 129300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-26",
+    "price": 26.49,
+    "volume": 119400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-24",
+    "price": 27.3,
+    "volume": 76400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-23",
+    "price": 27.28,
+    "volume": 124100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-22",
+    "price": 27.47,
+    "volume": 104545
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-19",
+    "price": 26.9,
+    "volume": 102100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-18",
+    "price": 27.42,
+    "volume": 103800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-17",
+    "price": 27.75,
+    "volume": 123616
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-16",
+    "price": 28.5,
+    "volume": 131900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-15",
+    "price": 29.06,
+    "volume": 120800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-12",
+    "price": 28.98,
+    "volume": 109241
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-11",
+    "price": 29.27,
+    "volume": 72600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-10",
+    "price": 29.32,
+    "volume": 90500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-09",
+    "price": 29.05,
+    "volume": 111000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-08",
+    "price": 29.16,
+    "volume": 161249
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-05",
+    "price": 29.72,
+    "volume": 210400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-04",
+    "price": 28.85,
+    "volume": 312408
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-03",
+    "price": 29.81,
+    "volume": 548227
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-02",
+    "price": 33.8,
+    "volume": 78547
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-11-01",
+    "price": 33.95,
+    "volume": 83732
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-29",
+    "price": 33.49,
+    "volume": 79432
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-28",
+    "price": 33.44,
+    "volume": 60900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-27",
+    "price": 33.13,
+    "volume": 72300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-26",
+    "price": 33.49,
+    "volume": 74000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-25",
+    "price": 33.99,
+    "volume": 62314
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-22",
+    "price": 33.86,
+    "volume": 62500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-21",
+    "price": 33.83,
+    "volume": 84900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-20",
+    "price": 33.95,
+    "volume": 116100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-19",
+    "price": 33.35,
+    "volume": 84419
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-18",
+    "price": 33.19,
+    "volume": 82900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-15",
+    "price": 33.52,
+    "volume": 109300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-14",
+    "price": 33.77,
+    "volume": 69138
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-13",
+    "price": 33.37,
+    "volume": 69826
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-12",
+    "price": 33.48,
+    "volume": 88226
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-11",
+    "price": 33.36,
+    "volume": 58845
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-08",
+    "price": 33.39,
+    "volume": 82213
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-07",
+    "price": 33.59,
+    "volume": 206531
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-06",
+    "price": 33.5,
+    "volume": 110205
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-05",
+    "price": 33.27,
+    "volume": 114700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-04",
+    "price": 32.65,
+    "volume": 78619
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-10-01",
+    "price": 32.49,
+    "volume": 182500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-30",
+    "price": 32.22,
+    "volume": 126600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-29",
+    "price": 32.53,
+    "volume": 123100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-28",
+    "price": 31.88,
+    "volume": 142536
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-27",
+    "price": 32.22,
+    "volume": 140009
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-24",
+    "price": 31.07,
+    "volume": 102500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-23",
+    "price": 30.78,
+    "volume": 118300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-22",
+    "price": 30.2,
+    "volume": 106000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-21",
+    "price": 30.13,
+    "volume": 94130
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-20",
+    "price": 30.42,
+    "volume": 133700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-17",
+    "price": 31.01,
+    "volume": 690500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-16",
+    "price": 30.72,
+    "volume": 112300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-15",
+    "price": 30.79,
+    "volume": 131200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-14",
+    "price": 30.44,
+    "volume": 90400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-13",
+    "price": 30.8,
+    "volume": 108000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-10",
+    "price": 30.31,
+    "volume": 127607
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-09",
+    "price": 30.43,
+    "volume": 199347
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-08",
+    "price": 30.4,
+    "volume": 197600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-07",
+    "price": 30.13,
+    "volume": 336843
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-03",
+    "price": 32.4,
+    "volume": 102100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-02",
+    "price": 32.58,
+    "volume": 99800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-09-01",
+    "price": 32.55,
+    "volume": 101000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-31",
+    "price": 32.88,
+    "volume": 199600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-30",
+    "price": 32.32,
+    "volume": 132800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-27",
+    "price": 33.13,
+    "volume": 166108
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-26",
+    "price": 32.08,
+    "volume": 174244
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-25",
+    "price": 32.1,
+    "volume": 135400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-24",
+    "price": 31.7,
+    "volume": 108700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-23",
+    "price": 31.9,
+    "volume": 112900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-20",
+    "price": 31.58,
+    "volume": 546618
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-19",
+    "price": 31.01,
+    "volume": 138000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-18",
+    "price": 31.59,
+    "volume": 126600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-17",
+    "price": 31.89,
+    "volume": 148700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-16",
+    "price": 32.73,
+    "volume": 151500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-13",
+    "price": 32.12,
+    "volume": 87620
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-12",
+    "price": 31.71,
+    "volume": 88000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-11",
+    "price": 32.22,
+    "volume": 113928
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-10",
+    "price": 32.41,
+    "volume": 140700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-09",
+    "price": 31.69,
+    "volume": 125400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-06",
+    "price": 31.1,
+    "volume": 147000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-05",
+    "price": 30.8,
+    "volume": 162600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-04",
+    "price": 30.88,
+    "volume": 139607
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-03",
+    "price": 31.28,
+    "volume": 201200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-08-02",
+    "price": 30.68,
+    "volume": 196422
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-30",
+    "price": 30.86,
+    "volume": 192946
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-29",
+    "price": 30.6,
+    "volume": 271535
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-28",
+    "price": 30.35,
+    "volume": 219900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-27",
+    "price": 30.61,
+    "volume": 146400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-26",
+    "price": 31.45,
+    "volume": 74600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-23",
+    "price": 31.25,
+    "volume": 211700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-22",
+    "price": 30.48,
+    "volume": 85716
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-21",
+    "price": 31.62,
+    "volume": 106300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-20",
+    "price": 31.59,
+    "volume": 211129
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-19",
+    "price": 31.4,
+    "volume": 160016
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-16",
+    "price": 31.94,
+    "volume": 87702
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-15",
+    "price": 32.03,
+    "volume": 84800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-14",
+    "price": 31.73,
+    "volume": 83800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-13",
+    "price": 31.88,
+    "volume": 146644
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-12",
+    "price": 32.42,
+    "volume": 119426
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-09",
+    "price": 32.27,
+    "volume": 127800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-08",
+    "price": 31.36,
+    "volume": 151900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-07",
+    "price": 31.84,
+    "volume": 116900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-06",
+    "price": 32.15,
+    "volume": 126844
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-02",
+    "price": 32.54,
+    "volume": 70248
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-07-01",
+    "price": 33.14,
+    "volume": 122407
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-30",
+    "price": 32.88,
+    "volume": 122600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-29",
+    "price": 32.3,
+    "volume": 114700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-28",
+    "price": 32.79,
+    "volume": 113646
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-25",
+    "price": 33.28,
+    "volume": 383330
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-24",
+    "price": 33.66,
+    "volume": 69800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-23",
+    "price": 33.09,
+    "volume": 89131
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-22",
+    "price": 33.03,
+    "volume": 86440
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-21",
+    "price": 32.89,
+    "volume": 277408
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-18",
+    "price": 32.39,
+    "volume": 229829
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-17",
+    "price": 33.37,
+    "volume": 118100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-16",
+    "price": 34.15,
+    "volume": 105400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-15",
+    "price": 34.55,
+    "volume": 144200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-14",
+    "price": 34.52,
+    "volume": 110926
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-11",
+    "price": 34.82,
+    "volume": 152644
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-10",
+    "price": 34.67,
+    "volume": 112600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-09",
+    "price": 34.87,
+    "volume": 120134
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-08",
+    "price": 35.07,
+    "volume": 135737
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-07",
+    "price": 35.11,
+    "volume": 122618
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-04",
+    "price": 35.03,
+    "volume": 109546
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-03",
+    "price": 34.95,
+    "volume": 140525
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-02",
+    "price": 34.8,
+    "volume": 255338
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-06-01",
+    "price": 34.26,
+    "volume": 144400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-28",
+    "price": 33.47,
+    "volume": 103824
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-27",
+    "price": 33.23,
+    "volume": 239134
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-26",
+    "price": 33.84,
+    "volume": 119601
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-25",
+    "price": 34.13,
+    "volume": 153810
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-24",
+    "price": 34.76,
+    "volume": 137135
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-21",
+    "price": 34.77,
+    "volume": 421013
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-20",
+    "price": 34.57,
+    "volume": 123939
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-19",
+    "price": 35.38,
+    "volume": 149400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-18",
+    "price": 35.35,
+    "volume": 214035
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-17",
+    "price": 36.42,
+    "volume": 225500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-14",
+    "price": 35.74,
+    "volume": 222120
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-13",
+    "price": 35.38,
+    "volume": 239100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-12",
+    "price": 33.21,
+    "volume": 163447
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-11",
+    "price": 33.56,
+    "volume": 272600
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-10",
+    "price": 33.97,
+    "volume": 226500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-07",
+    "price": 34.35,
+    "volume": 163237
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-06",
+    "price": 34.57,
+    "volume": 257030
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-05",
+    "price": 34.63,
+    "volume": 510424
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-04",
+    "price": 28.86,
+    "volume": 135300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-05-03",
+    "price": 29.17,
+    "volume": 193800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-30",
+    "price": 28.2,
+    "volume": 134628
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-29",
+    "price": 28.53,
+    "volume": 70331
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-28",
+    "price": 28.36,
+    "volume": 95041
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-27",
+    "price": 28.8,
+    "volume": 167500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-26",
+    "price": 29.01,
+    "volume": 89100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-23",
+    "price": 29.65,
+    "volume": 151000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-22",
+    "price": 29.32,
+    "volume": 110242
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-21",
+    "price": 29.71,
+    "volume": 100200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-20",
+    "price": 28.9,
+    "volume": 125400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-19",
+    "price": 29.22,
+    "volume": 78538
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-16",
+    "price": 29.3,
+    "volume": 125300
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-15",
+    "price": 28.97,
+    "volume": 75000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-14",
+    "price": 28.91,
+    "volume": 92900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-13",
+    "price": 28.35,
+    "volume": 101200
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-12",
+    "price": 28.64,
+    "volume": 93100
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-09",
+    "price": 28.64,
+    "volume": 152423
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-08",
+    "price": 28.39,
+    "volume": 145136
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-07",
+    "price": 28.26,
+    "volume": 126121
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-06",
+    "price": 29.15,
+    "volume": 121800
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-05",
+    "price": 29.06,
+    "volume": 103506
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-04-01",
+    "price": 28.8,
+    "volume": 123500
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-31",
+    "price": 28.63,
+    "volume": 192700
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-30",
+    "price": 28.67,
+    "volume": 106129
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-29",
+    "price": 28.81,
+    "volume": 198202
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-26",
+    "price": 28.73,
+    "volume": 147117
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-25",
+    "price": 28.06,
+    "volume": 118900
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-24",
+    "price": 27.75,
+    "volume": 181347
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-23",
+    "price": 28.02,
+    "volume": 162400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-22",
+    "price": 28.6,
+    "volume": 131122
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-19",
+    "price": 30.45,
+    "volume": 526400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-18",
+    "price": 29.87,
+    "volume": 122748
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-17",
+    "price": 29.83,
+    "volume": 105746
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-16",
+    "price": 29.88,
+    "volume": 88639
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-15",
+    "price": 30.25,
+    "volume": 117999
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-12",
+    "price": 30.58,
+    "volume": 145851
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-11",
+    "price": 30.2,
+    "volume": 137336
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-10",
+    "price": 29.86,
+    "volume": 223531
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-09",
+    "price": 29.34,
+    "volume": 215400
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-08",
+    "price": 29.78,
+    "volume": 238000
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-05",
+    "price": 28.47,
+    "volume": 210715
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-04",
+    "price": 27.1,
+    "volume": 243222
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-03",
+    "price": 27.02,
+    "volume": 159320
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-02",
+    "price": 26.31,
+    "volume": 271321
+  },
+  {
+    "symbol": "FDP",
+    "date": "2021-03-01",
+    "price": 25.85,
+    "volume": 175500
+  }
+]

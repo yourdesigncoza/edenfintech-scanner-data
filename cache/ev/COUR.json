@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "COUR",
+    "date": "2025-12-31",
+    "stockPrice": 7.36,
+    "numberOfShares": 163800000,
+    "marketCapitalization": 1205568000,
+    "minusCashAndCashEquivalents": 792600000,
+    "addTotalDebt": 5000000,
+    "enterpriseValue": 417968000
+  },
+  {
+    "symbol": "COUR",
+    "date": "2024-12-31",
+    "stockPrice": 8.5,
+    "numberOfShares": 157371000,
+    "marketCapitalization": 1337653500,
+    "minusCashAndCashEquivalents": 727699000,
+    "addTotalDebt": 3064000,
+    "enterpriseValue": 613018500
+  },
+  {
+    "symbol": "COUR",
+    "date": "2023-12-31",
+    "stockPrice": 19.37,
+    "numberOfShares": 150957814,
+    "marketCapitalization": 2924052857,
+    "minusCashAndCashEquivalents": 656321000,
+    "addTotalDebt": 6596000,
+    "enterpriseValue": 2274327857
+  },
+  {
+    "symbol": "COUR",
+    "date": "2022-12-31",
+    "stockPrice": 11.83,
+    "numberOfShares": 145263726,
+    "marketCapitalization": 1718469878,
+    "minusCashAndCashEquivalents": 321304000,
+    "addTotalDebt": 14449000,
+    "enterpriseValue": 1411614878
+  },
+  {
+    "symbol": "COUR",
+    "date": "2021-12-31",
+    "stockPrice": 24.44,
+    "numberOfShares": 113587523,
+    "marketCapitalization": 2776079062,
+    "minusCashAndCashEquivalents": 580658000,
+    "addTotalDebt": 19895000,
+    "enterpriseValue": 2215316062
+  },
+  {
+    "symbol": "COUR",
+    "date": "2020-12-31",
+    "stockPrice": 45,
+    "numberOfShares": 132630966,
+    "marketCapitalization": 5968393470,
+    "minusCashAndCashEquivalents": 79878000,
+    "addTotalDebt": 26231000,
+    "enterpriseValue": 5914746470
+  },
+  {
+    "symbol": "COUR",
+    "date": "2019-12-31",
+    "stockPrice": 45,
+    "numberOfShares": 41218355,
+    "marketCapitalization": 1854825975,
+    "minusCashAndCashEquivalents": 56755000,
+    "addTotalDebt": 0,
+    "enterpriseValue": 1798070975
+  }
+]

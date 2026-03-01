@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "WAT",
+    "date": "2026-02-27",
+    "price": 319.38,
+    "volume": 2117400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-26",
+    "price": 322.83,
+    "volume": 1233343
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-25",
+    "price": 319.44,
+    "volume": 1033200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-24",
+    "price": 326.3,
+    "volume": 1370900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-23",
+    "price": 327.78,
+    "volume": 875900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-20",
+    "price": 333.33,
+    "volume": 1355600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-19",
+    "price": 328.66,
+    "volume": 1310400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-18",
+    "price": 327.53,
+    "volume": 1423154
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-17",
+    "price": 321.43,
+    "volume": 2012500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-13",
+    "price": 323.37,
+    "volume": 2532400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-12",
+    "price": 319.83,
+    "volume": 3478700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-11",
+    "price": 329.21,
+    "volume": 4046126
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-10",
+    "price": 327.02,
+    "volume": 3754500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-09",
+    "price": 328.14,
+    "volume": 2554286
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-06",
+    "price": 381.29,
+    "volume": 785343
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-05",
+    "price": 376.89,
+    "volume": 697433
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-04",
+    "price": 384.33,
+    "volume": 688500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-03",
+    "price": 378.95,
+    "volume": 907742
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-02-02",
+    "price": 379.31,
+    "volume": 532900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-30",
+    "price": 370.72,
+    "volume": 865220
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-29",
+    "price": 375.18,
+    "volume": 673200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-28",
+    "price": 385.03,
+    "volume": 382817
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-27",
+    "price": 390.09,
+    "volume": 367900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-26",
+    "price": 390.9,
+    "volume": 308500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-23",
+    "price": 392.31,
+    "volume": 581400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-22",
+    "price": 400.42,
+    "volume": 521300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-21",
+    "price": 396.71,
+    "volume": 519000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-20",
+    "price": 383.86,
+    "volume": 395100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-16",
+    "price": 387.37,
+    "volume": 550800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-15",
+    "price": 394.59,
+    "volume": 393000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-14",
+    "price": 393.2,
+    "volume": 518018
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-13",
+    "price": 394.03,
+    "volume": 770300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-12",
+    "price": 393.68,
+    "volume": 331900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-09",
+    "price": 396.75,
+    "volume": 493600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-08",
+    "price": 396.65,
+    "volume": 413600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-07",
+    "price": 399.41,
+    "volume": 553800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-06",
+    "price": 400.54,
+    "volume": 466111
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-05",
+    "price": 394.97,
+    "volume": 433400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2026-01-02",
+    "price": 381.96,
+    "volume": 461800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-31",
+    "price": 379.83,
+    "volume": 217600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-30",
+    "price": 383.99,
+    "volume": 267905
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-29",
+    "price": 385.1,
+    "volume": 365500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-26",
+    "price": 386.06,
+    "volume": 231500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-24",
+    "price": 384.83,
+    "volume": 116100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-23",
+    "price": 383.21,
+    "volume": 346300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-22",
+    "price": 384.14,
+    "volume": 471143
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-19",
+    "price": 378.03,
+    "volume": 1910722
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-18",
+    "price": 376.31,
+    "volume": 593400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-17",
+    "price": 377.12,
+    "volume": 504400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-16",
+    "price": 378.53,
+    "volume": 672520
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-15",
+    "price": 385.42,
+    "volume": 699300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-12",
+    "price": 385.33,
+    "volume": 620241
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-11",
+    "price": 392.21,
+    "volume": 565750
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-10",
+    "price": 395.82,
+    "volume": 541077
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-09",
+    "price": 386.16,
+    "volume": 413900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-08",
+    "price": 392.75,
+    "volume": 675900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-05",
+    "price": 394.81,
+    "volume": 468800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-04",
+    "price": 396.37,
+    "volume": 626545
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-03",
+    "price": 397.62,
+    "volume": 468917
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-02",
+    "price": 398.62,
+    "volume": 442800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-12-01",
+    "price": 397.79,
+    "volume": 413243
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-28",
+    "price": 403.42,
+    "volume": 211044
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-26",
+    "price": 407.14,
+    "volume": 628613
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-25",
+    "price": 412.54,
+    "volume": 574700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-24",
+    "price": 399.54,
+    "volume": 1108608
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-21",
+    "price": 393.99,
+    "volume": 596624
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-20",
+    "price": 378.62,
+    "volume": 361964
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-19",
+    "price": 376.25,
+    "volume": 585900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-18",
+    "price": 376.63,
+    "volume": 446024
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-17",
+    "price": 377.98,
+    "volume": 563800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-14",
+    "price": 379.4,
+    "volume": 630732
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-13",
+    "price": 379.3,
+    "volume": 637000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-12",
+    "price": 387.37,
+    "volume": 502132
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-11",
+    "price": 386.14,
+    "volume": 536709
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-10",
+    "price": 376.57,
+    "volume": 511900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-07",
+    "price": 371.69,
+    "volume": 408122
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-06",
+    "price": 371.16,
+    "volume": 1144043
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-05",
+    "price": 371.97,
+    "volume": 779100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-04",
+    "price": 367.34,
+    "volume": 1421400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-11-03",
+    "price": 345.59,
+    "volume": 852700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-31",
+    "price": 349.6,
+    "volume": 606746
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-30",
+    "price": 342.9,
+    "volume": 603820
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-29",
+    "price": 343.47,
+    "volume": 528100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-28",
+    "price": 345.95,
+    "volume": 467529
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-27",
+    "price": 351.75,
+    "volume": 520747
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-24",
+    "price": 359.5,
+    "volume": 545108
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-23",
+    "price": 355.68,
+    "volume": 544806
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-22",
+    "price": 348.67,
+    "volume": 573993
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-21",
+    "price": 349.23,
+    "volume": 642306
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-20",
+    "price": 343.18,
+    "volume": 601600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-17",
+    "price": 334.59,
+    "volume": 446600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-16",
+    "price": 334.87,
+    "volume": 731300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-15",
+    "price": 332.41,
+    "volume": 581942
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-14",
+    "price": 333.14,
+    "volume": 649800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-13",
+    "price": 336.33,
+    "volume": 755162
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-10",
+    "price": 331,
+    "volume": 1647743
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-09",
+    "price": 330.45,
+    "volume": 744545
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-08",
+    "price": 327.65,
+    "volume": 603923
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-07",
+    "price": 318.35,
+    "volume": 491244
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-06",
+    "price": 327.62,
+    "volume": 433041
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-03",
+    "price": 328.39,
+    "volume": 731945
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-02",
+    "price": 321.92,
+    "volume": 616700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-10-01",
+    "price": 319.81,
+    "volume": 1209600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-30",
+    "price": 299.81,
+    "volume": 848700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-29",
+    "price": 289.43,
+    "volume": 626300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-26",
+    "price": 291.71,
+    "volume": 396800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-25",
+    "price": 287.79,
+    "volume": 470955
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-24",
+    "price": 292.65,
+    "volume": 702433
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-23",
+    "price": 299.22,
+    "volume": 474400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-22",
+    "price": 302.48,
+    "volume": 746510
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-19",
+    "price": 300.87,
+    "volume": 2012717
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-18",
+    "price": 306.38,
+    "volume": 792737
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-17",
+    "price": 303.68,
+    "volume": 1052800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-16",
+    "price": 303.08,
+    "volume": 515128
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-15",
+    "price": 299.04,
+    "volume": 539700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-12",
+    "price": 295.39,
+    "volume": 326700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-11",
+    "price": 302.45,
+    "volume": 384213
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-10",
+    "price": 293.03,
+    "volume": 865681
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-09",
+    "price": 300.52,
+    "volume": 1083717
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-08",
+    "price": 309.37,
+    "volume": 641231
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-05",
+    "price": 306.32,
+    "volume": 504612
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-04",
+    "price": 299.69,
+    "volume": 661700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-03",
+    "price": 290.06,
+    "volume": 541212
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-09-02",
+    "price": 296.48,
+    "volume": 541513
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-29",
+    "price": 301.8,
+    "volume": 721700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-28",
+    "price": 297.65,
+    "volume": 707200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-27",
+    "price": 294.63,
+    "volume": 361000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-26",
+    "price": 296.14,
+    "volume": 466032
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-25",
+    "price": 298.95,
+    "volume": 515449
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-22",
+    "price": 302.19,
+    "volume": 500300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-21",
+    "price": 290.44,
+    "volume": 650600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-20",
+    "price": 296.73,
+    "volume": 565645
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-19",
+    "price": 297.72,
+    "volume": 646082
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-18",
+    "price": 289.4,
+    "volume": 632500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-15",
+    "price": 291.55,
+    "volume": 414543
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-14",
+    "price": 293.52,
+    "volume": 710932
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-13",
+    "price": 296.83,
+    "volume": 623116
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-12",
+    "price": 285.52,
+    "volume": 602000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-11",
+    "price": 279.29,
+    "volume": 548007
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-08",
+    "price": 281.2,
+    "volume": 789200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-07",
+    "price": 278,
+    "volume": 707900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-06",
+    "price": 277.72,
+    "volume": 942703
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-05",
+    "price": 281.19,
+    "volume": 1393600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-04",
+    "price": 285.59,
+    "volume": 1285533
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-08-01",
+    "price": 290.31,
+    "volume": 1201347
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-31",
+    "price": 288.76,
+    "volume": 1374530
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-30",
+    "price": 299.07,
+    "volume": 1099355
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-29",
+    "price": 303.19,
+    "volume": 823808
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-28",
+    "price": 302.36,
+    "volume": 788333
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-25",
+    "price": 302.95,
+    "volume": 1039206
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-24",
+    "price": 298.47,
+    "volume": 905036
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-23",
+    "price": 295.63,
+    "volume": 1362400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-22",
+    "price": 287.46,
+    "volume": 1939508
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-21",
+    "price": 281.66,
+    "volume": 1818464
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-18",
+    "price": 287.53,
+    "volume": 717337
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-17",
+    "price": 296.92,
+    "volume": 1033702
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-16",
+    "price": 289.56,
+    "volume": 1383798
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-15",
+    "price": 289.56,
+    "volume": 2596123
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-14",
+    "price": 304.18,
+    "volume": 3292804
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-11",
+    "price": 352.91,
+    "volume": 565100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-10",
+    "price": 353.28,
+    "volume": 389500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-09",
+    "price": 349.21,
+    "volume": 324500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-08",
+    "price": 347.78,
+    "volume": 431600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-07",
+    "price": 346.73,
+    "volume": 444894
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-03",
+    "price": 350.22,
+    "volume": 251700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-02",
+    "price": 351.92,
+    "volume": 528343
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-07-01",
+    "price": 357.04,
+    "volume": 487700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-30",
+    "price": 349.04,
+    "volume": 429414
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-27",
+    "price": 352.41,
+    "volume": 807503
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-26",
+    "price": 354.91,
+    "volume": 859430
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-25",
+    "price": 350.01,
+    "volume": 363307
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-24",
+    "price": 346.8,
+    "volume": 403033
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-23",
+    "price": 342.83,
+    "volume": 443945
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-20",
+    "price": 342.63,
+    "volume": 926234
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-18",
+    "price": 339.36,
+    "volume": 359907
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-17",
+    "price": 341.1,
+    "volume": 322335
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-16",
+    "price": 347.81,
+    "volume": 294903
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-13",
+    "price": 342.3,
+    "volume": 347200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-12",
+    "price": 349.57,
+    "volume": 393020
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-11",
+    "price": 346.05,
+    "volume": 459300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-10",
+    "price": 349.84,
+    "volume": 1025423
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-09",
+    "price": 348.33,
+    "volume": 344746
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-06",
+    "price": 351.17,
+    "volume": 303900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-05",
+    "price": 346.33,
+    "volume": 383400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-04",
+    "price": 353.15,
+    "volume": 296649
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-03",
+    "price": 349.39,
+    "volume": 308500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-06-02",
+    "price": 343.68,
+    "volume": 374904
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-30",
+    "price": 349.24,
+    "volume": 869104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-29",
+    "price": 355.3,
+    "volume": 341700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-28",
+    "price": 354.59,
+    "volume": 383910
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-27",
+    "price": 358.36,
+    "volume": 626137
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-23",
+    "price": 346.37,
+    "volume": 412720
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-22",
+    "price": 348.46,
+    "volume": 435634
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-21",
+    "price": 347.36,
+    "volume": 766320
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-20",
+    "price": 362.1,
+    "volume": 694743
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-19",
+    "price": 358.53,
+    "volume": 392501
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-16",
+    "price": 359.48,
+    "volume": 364333
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-15",
+    "price": 351.6,
+    "volume": 533300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-14",
+    "price": 345.38,
+    "volume": 621010
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-13",
+    "price": 359.02,
+    "volume": 481026
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-12",
+    "price": 366.67,
+    "volume": 634200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-09",
+    "price": 344.06,
+    "volume": 355902
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-08",
+    "price": 350.88,
+    "volume": 518336
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-07",
+    "price": 345.46,
+    "volume": 739100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-06",
+    "price": 339.02,
+    "volume": 1025006
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-05",
+    "price": 348.38,
+    "volume": 698015
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-02",
+    "price": 350.45,
+    "volume": 456600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-05-01",
+    "price": 341.83,
+    "volume": 538444
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-30",
+    "price": 347.73,
+    "volume": 589819
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-29",
+    "price": 340.82,
+    "volume": 278025
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-28",
+    "price": 339.88,
+    "volume": 308200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-25",
+    "price": 337.89,
+    "volume": 252623
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-24",
+    "price": 340.7,
+    "volume": 434700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-23",
+    "price": 334.86,
+    "volume": 570027
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-22",
+    "price": 330.71,
+    "volume": 517400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-21",
+    "price": 316.23,
+    "volume": 496900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-17",
+    "price": 321.01,
+    "volume": 430200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-16",
+    "price": 321.1,
+    "volume": 382738
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-15",
+    "price": 323.44,
+    "volume": 468300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-14",
+    "price": 333.77,
+    "volume": 309708
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-11",
+    "price": 325.22,
+    "volume": 612020
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-10",
+    "price": 314.66,
+    "volume": 858230
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-09",
+    "price": 336.52,
+    "volume": 1254600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-08",
+    "price": 307.71,
+    "volume": 1162007
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-07",
+    "price": 325.8,
+    "volume": 1073802
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-04",
+    "price": 324.92,
+    "volume": 933628
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-03",
+    "price": 345.12,
+    "volume": 1014500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-02",
+    "price": 362.64,
+    "volume": 526417
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-04-01",
+    "price": 356,
+    "volume": 561000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-31",
+    "price": 368.57,
+    "volume": 513009
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-28",
+    "price": 362.16,
+    "volume": 277718
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-27",
+    "price": 370.59,
+    "volume": 343847
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-26",
+    "price": 367.79,
+    "volume": 280001
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-25",
+    "price": 368.53,
+    "volume": 456900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-24",
+    "price": 373.3,
+    "volume": 383400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-21",
+    "price": 365.46,
+    "volume": 865027
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-20",
+    "price": 363.22,
+    "volume": 462800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-19",
+    "price": 371.34,
+    "volume": 458700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-18",
+    "price": 382.15,
+    "volume": 484915
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-17",
+    "price": 378.92,
+    "volume": 359800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-14",
+    "price": 377.15,
+    "volume": 379000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-13",
+    "price": 364.44,
+    "volume": 425247
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-12",
+    "price": 373.13,
+    "volume": 371935
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-11",
+    "price": 378.85,
+    "volume": 656503
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-10",
+    "price": 390.29,
+    "volume": 531708
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-07",
+    "price": 392.99,
+    "volume": 502100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-06",
+    "price": 386.33,
+    "volume": 645708
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-05",
+    "price": 378.89,
+    "volume": 648200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-04",
+    "price": 368.05,
+    "volume": 610200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-03-03",
+    "price": 371.79,
+    "volume": 487026
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-28",
+    "price": 377.34,
+    "volume": 699545
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-27",
+    "price": 373.06,
+    "volume": 531846
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-26",
+    "price": 384.98,
+    "volume": 660800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-25",
+    "price": 380.83,
+    "volume": 519600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-24",
+    "price": 379.27,
+    "volume": 395424
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-21",
+    "price": 374.82,
+    "volume": 272138
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-20",
+    "price": 380.81,
+    "volume": 311500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-19",
+    "price": 377.97,
+    "volume": 553528
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-18",
+    "price": 376.29,
+    "volume": 590243
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-14",
+    "price": 369.73,
+    "volume": 471600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-13",
+    "price": 379.11,
+    "volume": 790045
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-12",
+    "price": 381.91,
+    "volume": 1176364
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-11",
+    "price": 405.29,
+    "volume": 624074
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-10",
+    "price": 407.58,
+    "volume": 391147
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-07",
+    "price": 409.5,
+    "volume": 377220
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-06",
+    "price": 410.95,
+    "volume": 365200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-05",
+    "price": 414.09,
+    "volume": 279801
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-04",
+    "price": 410.4,
+    "volume": 303800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-02-03",
+    "price": 411.19,
+    "volume": 354200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-31",
+    "price": 415.48,
+    "volume": 330000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-30",
+    "price": 417.28,
+    "volume": 401126
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-29",
+    "price": 404.17,
+    "volume": 352343
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-28",
+    "price": 413.48,
+    "volume": 398500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-27",
+    "price": 414.44,
+    "volume": 269942
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-24",
+    "price": 411.3,
+    "volume": 278513
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-23",
+    "price": 412.8,
+    "volume": 323521
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-22",
+    "price": 408.35,
+    "volume": 500900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-21",
+    "price": 413.81,
+    "volume": 670200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-17",
+    "price": 404,
+    "volume": 447800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-16",
+    "price": 405.43,
+    "volume": 344079
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-15",
+    "price": 397.7,
+    "volume": 683538
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-14",
+    "price": 404.93,
+    "volume": 656139
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-13",
+    "price": 399.87,
+    "volume": 621600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-10",
+    "price": 380.35,
+    "volume": 585553
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-08",
+    "price": 374.2,
+    "volume": 452600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-07",
+    "price": 377.03,
+    "volume": 250241
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-06",
+    "price": 377.1,
+    "volume": 346300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-03",
+    "price": 371.76,
+    "volume": 285000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2025-01-02",
+    "price": 368.26,
+    "volume": 343624
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-31",
+    "price": 370.98,
+    "volume": 180131
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-30",
+    "price": 370.94,
+    "volume": 204500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-27",
+    "price": 374.6,
+    "volume": 220300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-26",
+    "price": 376.78,
+    "volume": 310800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-24",
+    "price": 373.15,
+    "volume": 105600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-23",
+    "price": 369.76,
+    "volume": 300000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-20",
+    "price": 368.16,
+    "volume": 1737300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-19",
+    "price": 360.63,
+    "volume": 452059
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-18",
+    "price": 360.43,
+    "volume": 577000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-17",
+    "price": 373.72,
+    "volume": 599392
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-16",
+    "price": 374.01,
+    "volume": 577855
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-13",
+    "price": 378.26,
+    "volume": 307928
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-12",
+    "price": 383.03,
+    "volume": 343424
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-11",
+    "price": 385.27,
+    "volume": 295400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-10",
+    "price": 390.35,
+    "volume": 490100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-09",
+    "price": 392.01,
+    "volume": 345217
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-06",
+    "price": 384.05,
+    "volume": 416800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-05",
+    "price": 381.33,
+    "volume": 415900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-04",
+    "price": 391.35,
+    "volume": 663530
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-03",
+    "price": 387,
+    "volume": 416104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-12-02",
+    "price": 387.1,
+    "volume": 327000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-29",
+    "price": 384.72,
+    "volume": 238300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-27",
+    "price": 386.57,
+    "volume": 914100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-26",
+    "price": 388.15,
+    "volume": 1017528
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-25",
+    "price": 378.16,
+    "volume": 861407
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-22",
+    "price": 373.47,
+    "volume": 366300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-21",
+    "price": 368.5,
+    "volume": 430300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-20",
+    "price": 357.77,
+    "volume": 688900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-19",
+    "price": 344.71,
+    "volume": 761037
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-18",
+    "price": 355.47,
+    "volume": 463130
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-15",
+    "price": 358.46,
+    "volume": 689700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-14",
+    "price": 376.72,
+    "volume": 473800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-13",
+    "price": 385.62,
+    "volume": 352800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-12",
+    "price": 385.79,
+    "volume": 462140
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-11",
+    "price": 380.74,
+    "volume": 432409
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-08",
+    "price": 384.51,
+    "volume": 361916
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-07",
+    "price": 386.12,
+    "volume": 401800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-06",
+    "price": 386.69,
+    "volume": 669008
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-05",
+    "price": 387.17,
+    "volume": 533064
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-04",
+    "price": 387.34,
+    "volume": 890400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-11-01",
+    "price": 387.21,
+    "volume": 1905943
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-31",
+    "price": 323.11,
+    "volume": 660243
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-30",
+    "price": 326.59,
+    "volume": 459125
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-29",
+    "price": 324.67,
+    "volume": 298000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-28",
+    "price": 325.51,
+    "volume": 373700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-25",
+    "price": 324.55,
+    "volume": 206826
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-24",
+    "price": 327.3,
+    "volume": 271300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-23",
+    "price": 333.28,
+    "volume": 386700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-22",
+    "price": 339.43,
+    "volume": 324401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-21",
+    "price": 345.5,
+    "volume": 400800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-18",
+    "price": 348.45,
+    "volume": 418826
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-17",
+    "price": 347.31,
+    "volume": 542652
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-16",
+    "price": 353.97,
+    "volume": 470200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-15",
+    "price": 360,
+    "volume": 394508
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-14",
+    "price": 357.25,
+    "volume": 182300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-11",
+    "price": 357.97,
+    "volume": 270500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-10",
+    "price": 352.64,
+    "volume": 249700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-09",
+    "price": 356.83,
+    "volume": 240417
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-08",
+    "price": 358.91,
+    "volume": 519808
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-07",
+    "price": 349.92,
+    "volume": 279900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-04",
+    "price": 352.51,
+    "volume": 576400
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-03",
+    "price": 354.4,
+    "volume": 435704
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-02",
+    "price": 355.05,
+    "volume": 349300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-10-01",
+    "price": 358.33,
+    "volume": 460231
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-30",
+    "price": 359.89,
+    "volume": 418642
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-27",
+    "price": 357.33,
+    "volume": 689500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-26",
+    "price": 355.68,
+    "volume": 465242
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-25",
+    "price": 340,
+    "volume": 553900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-24",
+    "price": 343.84,
+    "volume": 419725
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-23",
+    "price": 339.71,
+    "volume": 258905
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-20",
+    "price": 336.56,
+    "volume": 610142
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-19",
+    "price": 338.45,
+    "volume": 283007
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-18",
+    "price": 333.37,
+    "volume": 284500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-17",
+    "price": 328.97,
+    "volume": 269500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-16",
+    "price": 328.65,
+    "volume": 268000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-13",
+    "price": 325.86,
+    "volume": 292903
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-12",
+    "price": 322.08,
+    "volume": 372700
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-11",
+    "price": 326.73,
+    "volume": 350249
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-10",
+    "price": 328.16,
+    "volume": 369900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-09",
+    "price": 332.1,
+    "volume": 347000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-06",
+    "price": 328.84,
+    "volume": 337808
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-05",
+    "price": 331.31,
+    "volume": 301310
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-04",
+    "price": 331.56,
+    "volume": 355815
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-09-03",
+    "price": 339.75,
+    "volume": 240500
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-30",
+    "price": 346.35,
+    "volume": 307800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-29",
+    "price": 344.71,
+    "volume": 209800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-28",
+    "price": 340.94,
+    "volume": 209900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-27",
+    "price": 336.77,
+    "volume": 208025
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-26",
+    "price": 336.59,
+    "volume": 189725
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-23",
+    "price": 342.42,
+    "volume": 157175
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-22",
+    "price": 336.09,
+    "volume": 309334
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-21",
+    "price": 337.34,
+    "volume": 218715
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-20",
+    "price": 336.16,
+    "volume": 264509
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-19",
+    "price": 340.26,
+    "volume": 329501
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-16",
+    "price": 339.98,
+    "volume": 301327
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-15",
+    "price": 340.68,
+    "volume": 311628
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-14",
+    "price": 336.49,
+    "volume": 219000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-13",
+    "price": 338.83,
+    "volume": 338600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-12",
+    "price": 333.42,
+    "volume": 331800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-09",
+    "price": 332.7,
+    "volume": 212900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-08",
+    "price": 333.34,
+    "volume": 298431
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-07",
+    "price": 321.85,
+    "volume": 359728
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-06",
+    "price": 330.89,
+    "volume": 394730
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-05",
+    "price": 328.83,
+    "volume": 560300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-02",
+    "price": 345.66,
+    "volume": 696600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-08-01",
+    "price": 352.53,
+    "volume": 801638
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-31",
+    "price": 336.28,
+    "volume": 985113
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-30",
+    "price": 327.66,
+    "volume": 713025
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-29",
+    "price": 321.54,
+    "volume": 556600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-26",
+    "price": 317.96,
+    "volume": 277122
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-25",
+    "price": 310.29,
+    "volume": 364900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-24",
+    "price": 305.31,
+    "volume": 401414
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-23",
+    "price": 300.83,
+    "volume": 341707
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-22",
+    "price": 307.22,
+    "volume": 447049
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-19",
+    "price": 302.72,
+    "volume": 386853
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-18",
+    "price": 308.98,
+    "volume": 355279
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-17",
+    "price": 314.38,
+    "volume": 421325
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-16",
+    "price": 316.73,
+    "volume": 519194
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-15",
+    "price": 302.93,
+    "volume": 276324
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-12",
+    "price": 302.4,
+    "volume": 277217
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-11",
+    "price": 301.48,
+    "volume": 534825
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-10",
+    "price": 288.31,
+    "volume": 302576
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-09",
+    "price": 282.97,
+    "volume": 337739
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-08",
+    "price": 285.57,
+    "volume": 411874
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-05",
+    "price": 286.21,
+    "volume": 224451
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-03",
+    "price": 287.5,
+    "volume": 260940
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-02",
+    "price": 284.49,
+    "volume": 323313
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-07-01",
+    "price": 282.7,
+    "volume": 627508
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-28",
+    "price": 290.12,
+    "volume": 1130356
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-27",
+    "price": 286.47,
+    "volume": 520474
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-26",
+    "price": 290.3,
+    "volume": 475911
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-25",
+    "price": 286.97,
+    "volume": 276795
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-24",
+    "price": 289.27,
+    "volume": 304097
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-21",
+    "price": 290.27,
+    "volume": 1053085
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-20",
+    "price": 290,
+    "volume": 664042
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-18",
+    "price": 294.4,
+    "volume": 552985
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-17",
+    "price": 294.25,
+    "volume": 613707
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-14",
+    "price": 294.94,
+    "volume": 251821
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-13",
+    "price": 295.51,
+    "volume": 365349
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-12",
+    "price": 300.96,
+    "volume": 569602
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-11",
+    "price": 300.5,
+    "volume": 451588
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-10",
+    "price": 301.47,
+    "volume": 370692
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-07",
+    "price": 302.09,
+    "volume": 453576
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-06",
+    "price": 300.55,
+    "volume": 649128
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-05",
+    "price": 307.19,
+    "volume": 699902
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-04",
+    "price": 307.26,
+    "volume": 376285
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-06-03",
+    "price": 309.9,
+    "volume": 513016
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-31",
+    "price": 308.9,
+    "volume": 1069955
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-30",
+    "price": 307.62,
+    "volume": 1008610
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-29",
+    "price": 327.65,
+    "volume": 411804
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-28",
+    "price": 331.84,
+    "volume": 389273
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-24",
+    "price": 336.46,
+    "volume": 458674
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-23",
+    "price": 336.79,
+    "volume": 787508
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-22",
+    "price": 348.8,
+    "volume": 460724
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-21",
+    "price": 351.65,
+    "volume": 363678
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-20",
+    "price": 354.02,
+    "volume": 413008
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-17",
+    "price": 355.95,
+    "volume": 387752
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-16",
+    "price": 360.51,
+    "volume": 388842
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-15",
+    "price": 361.79,
+    "volume": 421272
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-14",
+    "price": 358.99,
+    "volume": 344104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-13",
+    "price": 349.28,
+    "volume": 437115
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-10",
+    "price": 351.11,
+    "volume": 791251
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-09",
+    "price": 336.42,
+    "volume": 431018
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-08",
+    "price": 323.8,
+    "volume": 399532
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-07",
+    "price": 326.06,
+    "volume": 997389
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-06",
+    "price": 319.86,
+    "volume": 768492
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-03",
+    "price": 321.25,
+    "volume": 507996
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-02",
+    "price": 315.58,
+    "volume": 428430
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-05-01",
+    "price": 315.92,
+    "volume": 493908
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-30",
+    "price": 309.04,
+    "volume": 370283
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-29",
+    "price": 315.09,
+    "volume": 313991
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-26",
+    "price": 311.3,
+    "volume": 270575
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-25",
+    "price": 308.35,
+    "volume": 381559
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-24",
+    "price": 310.25,
+    "volume": 530956
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-23",
+    "price": 313.3,
+    "volume": 561559
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-22",
+    "price": 299.23,
+    "volume": 358283
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-19",
+    "price": 296.1,
+    "volume": 466327
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-18",
+    "price": 294.23,
+    "volume": 687011
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-17",
+    "price": 304.18,
+    "volume": 614608
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-16",
+    "price": 313.72,
+    "volume": 441693
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-15",
+    "price": 319.59,
+    "volume": 312519
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-12",
+    "price": 322.66,
+    "volume": 392727
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-11",
+    "price": 337.89,
+    "volume": 378868
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-10",
+    "price": 337.15,
+    "volume": 222108
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-09",
+    "price": 345.03,
+    "volume": 295550
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-08",
+    "price": 339.04,
+    "volume": 286356
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-05",
+    "price": 335.94,
+    "volume": 304419
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-04",
+    "price": 334.26,
+    "volume": 329401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-03",
+    "price": 341.1,
+    "volume": 258234
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-02",
+    "price": 339.73,
+    "volume": 278830
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-04-01",
+    "price": 344.51,
+    "volume": 246496
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-28",
+    "price": 344.23,
+    "volume": 262487
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-27",
+    "price": 345.19,
+    "volume": 449324
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-26",
+    "price": 338.1,
+    "volume": 367291
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-25",
+    "price": 342.72,
+    "volume": 309481
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-22",
+    "price": 347.31,
+    "volume": 370434
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-21",
+    "price": 352.45,
+    "volume": 383146
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-20",
+    "price": 348.36,
+    "volume": 314828
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-19",
+    "price": 348.96,
+    "volume": 358037
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-18",
+    "price": 347.27,
+    "volume": 480081
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-15",
+    "price": 352.9,
+    "volume": 837727
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-14",
+    "price": 343.57,
+    "volume": 473994
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-13",
+    "price": 351.73,
+    "volume": 311305
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-12",
+    "price": 353.3,
+    "volume": 301509
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-11",
+    "price": 353.86,
+    "volume": 316071
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-08",
+    "price": 355.94,
+    "volume": 518037
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-07",
+    "price": 361,
+    "volume": 618606
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-06",
+    "price": 349,
+    "volume": 217405
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-05",
+    "price": 343.41,
+    "volume": 355712
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-04",
+    "price": 346.76,
+    "volume": 528020
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-03-01",
+    "price": 346.04,
+    "volume": 449580
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-29",
+    "price": 337.42,
+    "volume": 693268
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-28",
+    "price": 337.68,
+    "volume": 583228
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-27",
+    "price": 332.65,
+    "volume": 219216
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-26",
+    "price": 327.03,
+    "volume": 329660
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-23",
+    "price": 331.25,
+    "volume": 241827
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-22",
+    "price": 330.55,
+    "volume": 364859
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-21",
+    "price": 329.52,
+    "volume": 251348
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-20",
+    "price": 323.95,
+    "volume": 301941
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-16",
+    "price": 325.21,
+    "volume": 540563
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-15",
+    "price": 322.87,
+    "volume": 276568
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-14",
+    "price": 317.52,
+    "volume": 534119
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-13",
+    "price": 311.58,
+    "volume": 447659
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-12",
+    "price": 320.2,
+    "volume": 362647
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-09",
+    "price": 322.82,
+    "volume": 409223
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-08",
+    "price": 326.69,
+    "volume": 348917
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-07",
+    "price": 323.54,
+    "volume": 587379
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-06",
+    "price": 330.38,
+    "volume": 923250
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-05",
+    "price": 324.85,
+    "volume": 754054
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-02",
+    "price": 320.74,
+    "volume": 516551
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-02-01",
+    "price": 324.45,
+    "volume": 245675
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-31",
+    "price": 317.71,
+    "volume": 402432
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-30",
+    "price": 328.38,
+    "volume": 419268
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-29",
+    "price": 324.36,
+    "volume": 383100
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-26",
+    "price": 316.12,
+    "volume": 351946
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-25",
+    "price": 312,
+    "volume": 215623
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-24",
+    "price": 312.42,
+    "volume": 330147
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-23",
+    "price": 316.44,
+    "volume": 286401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-22",
+    "price": 317.05,
+    "volume": 355689
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-19",
+    "price": 312.45,
+    "volume": 698300
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-18",
+    "price": 310.16,
+    "volume": 345551
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-17",
+    "price": 302.51,
+    "volume": 306994
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-16",
+    "price": 308.13,
+    "volume": 376970
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-12",
+    "price": 307.96,
+    "volume": 398809
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-11",
+    "price": 304.43,
+    "volume": 334573
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-10",
+    "price": 307.6,
+    "volume": 491899
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-09",
+    "price": 302.58,
+    "volume": 470169
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-08",
+    "price": 311.74,
+    "volume": 462610
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-05",
+    "price": 305.07,
+    "volume": 358793
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-04",
+    "price": 307.37,
+    "volume": 374413
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-03",
+    "price": 305.88,
+    "volume": 654893
+  },
+  {
+    "symbol": "WAT",
+    "date": "2024-01-02",
+    "price": 328.62,
+    "volume": 343403
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-29",
+    "price": 329.23,
+    "volume": 282911
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-28",
+    "price": 332.77,
+    "volume": 158951
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-27",
+    "price": 333.04,
+    "volume": 214905
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-26",
+    "price": 331.97,
+    "volume": 203874
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-22",
+    "price": 329.74,
+    "volume": 268439
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-21",
+    "price": 328.79,
+    "volume": 326832
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-20",
+    "price": 323.25,
+    "volume": 464685
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-19",
+    "price": 328.97,
+    "volume": 382216
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-18",
+    "price": 322.28,
+    "volume": 528508
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-15",
+    "price": 320.14,
+    "volume": 1364199
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-14",
+    "price": 321.34,
+    "volume": 932140
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-13",
+    "price": 312.13,
+    "volume": 552736
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-12",
+    "price": 297.79,
+    "volume": 388865
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-11",
+    "price": 296.37,
+    "volume": 315622
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-08",
+    "price": 292.14,
+    "volume": 473010
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-07",
+    "price": 293.38,
+    "volume": 310434
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-06",
+    "price": 289.52,
+    "volume": 354990
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-05",
+    "price": 284.95,
+    "volume": 463764
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-04",
+    "price": 288.79,
+    "volume": 413983
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-12-01",
+    "price": 288.85,
+    "volume": 478726
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-30",
+    "price": 280.61,
+    "volume": 588517
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-29",
+    "price": 279.74,
+    "volume": 302991
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-28",
+    "price": 275.95,
+    "volume": 319721
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-27",
+    "price": 277,
+    "volume": 514299
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-24",
+    "price": 280.39,
+    "volume": 264140
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-22",
+    "price": 276.33,
+    "volume": 350135
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-21",
+    "price": 274.65,
+    "volume": 708705
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-20",
+    "price": 260.93,
+    "volume": 548547
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-17",
+    "price": 261.88,
+    "volume": 622844
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-16",
+    "price": 266.2,
+    "volume": 450281
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-15",
+    "price": 266.94,
+    "volume": 591470
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-14",
+    "price": 258.67,
+    "volume": 655555
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-13",
+    "price": 250.98,
+    "volume": 550854
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-10",
+    "price": 255.92,
+    "volume": 539453
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-09",
+    "price": 253.08,
+    "volume": 448907
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-08",
+    "price": 255.82,
+    "volume": 732521
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-07",
+    "price": 260.67,
+    "volume": 1259547
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-06",
+    "price": 252.15,
+    "volume": 1007792
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-03",
+    "price": 260.49,
+    "volume": 841630
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-02",
+    "price": 245.41,
+    "volume": 531338
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-11-01",
+    "price": 240.84,
+    "volume": 595476
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-31",
+    "price": 238.53,
+    "volume": 825392
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-30",
+    "price": 236.7,
+    "volume": 1075345
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-27",
+    "price": 244.76,
+    "volume": 855535
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-26",
+    "price": 244.45,
+    "volume": 906673
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-25",
+    "price": 242.3,
+    "volume": 905524
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-24",
+    "price": 249.18,
+    "volume": 959401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-23",
+    "price": 255.66,
+    "volume": 512427
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-20",
+    "price": 253.64,
+    "volume": 618784
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-19",
+    "price": 252.33,
+    "volume": 586106
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-18",
+    "price": 248.51,
+    "volume": 292487
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-17",
+    "price": 256.62,
+    "volume": 267616
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-16",
+    "price": 255.17,
+    "volume": 293294
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-13",
+    "price": 252.61,
+    "volume": 451313
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-12",
+    "price": 251,
+    "volume": 862216
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-11",
+    "price": 266.2,
+    "volume": 239034
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-10",
+    "price": 268.8,
+    "volume": 340880
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-09",
+    "price": 266.99,
+    "volume": 201714
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-06",
+    "price": 267.4,
+    "volume": 263426
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-05",
+    "price": 265.99,
+    "volume": 252478
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-04",
+    "price": 267.76,
+    "volume": 356067
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-03",
+    "price": 265.01,
+    "volume": 460252
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-10-02",
+    "price": 270.52,
+    "volume": 408565
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-29",
+    "price": 274.21,
+    "volume": 416512
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-28",
+    "price": 275.35,
+    "volume": 847301
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-27",
+    "price": 272.34,
+    "volume": 351787
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-26",
+    "price": 268.04,
+    "volume": 331586
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-25",
+    "price": 270.96,
+    "volume": 232513
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-22",
+    "price": 269,
+    "volume": 242607
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-21",
+    "price": 268.87,
+    "volume": 302214
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-20",
+    "price": 274.11,
+    "volume": 310801
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-19",
+    "price": 275.29,
+    "volume": 269030
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-18",
+    "price": 273.39,
+    "volume": 393849
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-15",
+    "price": 275.8,
+    "volume": 1773817
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-14",
+    "price": 272.01,
+    "volume": 322524
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-13",
+    "price": 267.23,
+    "volume": 460728
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-12",
+    "price": 260.36,
+    "volume": 326766
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-11",
+    "price": 263.3,
+    "volume": 403082
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-08",
+    "price": 263.57,
+    "volume": 561155
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-07",
+    "price": 270.3,
+    "volume": 317253
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-06",
+    "price": 272.86,
+    "volume": 382067
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-05",
+    "price": 276.35,
+    "volume": 324224
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-09-01",
+    "price": 281.02,
+    "volume": 315094
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-31",
+    "price": 280.8,
+    "volume": 541285
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-30",
+    "price": 287.19,
+    "volume": 328901
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-29",
+    "price": 287.81,
+    "volume": 369094
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-28",
+    "price": 281.45,
+    "volume": 456152
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-25",
+    "price": 273.37,
+    "volume": 187829
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-24",
+    "price": 271.17,
+    "volume": 338238
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-23",
+    "price": 271.03,
+    "volume": 262297
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-22",
+    "price": 267.97,
+    "volume": 330016
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-21",
+    "price": 267.17,
+    "volume": 358582
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-18",
+    "price": 270,
+    "volume": 385716
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-17",
+    "price": 273.16,
+    "volume": 428730
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-16",
+    "price": 274.86,
+    "volume": 670233
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-15",
+    "price": 285.47,
+    "volume": 345066
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-14",
+    "price": 288.37,
+    "volume": 355723
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-11",
+    "price": 291.66,
+    "volume": 330778
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-10",
+    "price": 289.3,
+    "volume": 540157
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-09",
+    "price": 292.02,
+    "volume": 346640
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-08",
+    "price": 296.73,
+    "volume": 682930
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-07",
+    "price": 289.72,
+    "volume": 519502
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-04",
+    "price": 289.89,
+    "volume": 754375
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-03",
+    "price": 291.41,
+    "volume": 938849
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-02",
+    "price": 291.77,
+    "volume": 1414002
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-08-01",
+    "price": 274.4,
+    "volume": 884667
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-31",
+    "price": 276.21,
+    "volume": 600253
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-28",
+    "price": 285.77,
+    "volume": 498730
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-27",
+    "price": 285.22,
+    "volume": 675866
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-26",
+    "price": 289.92,
+    "volume": 711651
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-25",
+    "price": 286.54,
+    "volume": 713046
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-24",
+    "price": 286.97,
+    "volume": 635129
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-21",
+    "price": 288.72,
+    "volume": 880585
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-20",
+    "price": 279.77,
+    "volume": 512484
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-19",
+    "price": 280.08,
+    "volume": 926434
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-18",
+    "price": 271.88,
+    "volume": 445931
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-17",
+    "price": 269.83,
+    "volume": 522492
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-14",
+    "price": 270.77,
+    "volume": 326332
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-13",
+    "price": 269.26,
+    "volume": 420819
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-12",
+    "price": 268.94,
+    "volume": 474793
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-11",
+    "price": 263.53,
+    "volume": 332309
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-10",
+    "price": 264.66,
+    "volume": 499679
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-07",
+    "price": 264.15,
+    "volume": 456414
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-06",
+    "price": 264.99,
+    "volume": 630961
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-05",
+    "price": 266.56,
+    "volume": 591357
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-07-03",
+    "price": 264.77,
+    "volume": 235949
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-30",
+    "price": 266.54,
+    "volume": 882765
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-29",
+    "price": 261.95,
+    "volume": 389433
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-28",
+    "price": 257.44,
+    "volume": 432249
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-27",
+    "price": 257.74,
+    "volume": 452670
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-26",
+    "price": 259.74,
+    "volume": 340375
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-23",
+    "price": 259.84,
+    "volume": 538829
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-22",
+    "price": 260.27,
+    "volume": 402946
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-21",
+    "price": 264.48,
+    "volume": 466832
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-20",
+    "price": 263.27,
+    "volume": 691138
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-16",
+    "price": 269.2,
+    "volume": 1648918
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-15",
+    "price": 268.09,
+    "volume": 512483
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-14",
+    "price": 262.08,
+    "volume": 1003729
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-13",
+    "price": 263.27,
+    "volume": 861454
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-12",
+    "price": 256.93,
+    "volume": 526217
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-09",
+    "price": 249.28,
+    "volume": 452800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-08",
+    "price": 249.96,
+    "volume": 570121
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-07",
+    "price": 257.14,
+    "volume": 556427
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-06",
+    "price": 256.63,
+    "volume": 293613
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-05",
+    "price": 259.54,
+    "volume": 448118
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-02",
+    "price": 258.77,
+    "volume": 423345
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-06-01",
+    "price": 256.04,
+    "volume": 488930
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-31",
+    "price": 251.22,
+    "volume": 1232074
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-30",
+    "price": 255.57,
+    "volume": 455269
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-26",
+    "price": 260.61,
+    "volume": 398933
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-25",
+    "price": 259.56,
+    "volume": 584398
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-24",
+    "price": 256.99,
+    "volume": 687201
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-23",
+    "price": 265.92,
+    "volume": 440564
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-22",
+    "price": 267.81,
+    "volume": 460408
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-19",
+    "price": 267.48,
+    "volume": 468479
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-18",
+    "price": 268.05,
+    "volume": 518007
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-17",
+    "price": 263.93,
+    "volume": 653190
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-16",
+    "price": 266.2,
+    "volume": 674334
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-15",
+    "price": 273.3,
+    "volume": 709242
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-12",
+    "price": 271,
+    "volume": 618088
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-11",
+    "price": 268.97,
+    "volume": 829287
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-10",
+    "price": 272.43,
+    "volume": 951442
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-09",
+    "price": 276.76,
+    "volume": 1600401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-08",
+    "price": 296.5,
+    "volume": 887283
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-05",
+    "price": 296.79,
+    "volume": 564484
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-04",
+    "price": 296,
+    "volume": 730267
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-03",
+    "price": 296.5,
+    "volume": 560868
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-02",
+    "price": 298.01,
+    "volume": 527636
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-05-01",
+    "price": 298.22,
+    "volume": 467879
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-28",
+    "price": 300.36,
+    "volume": 592474
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-27",
+    "price": 298.34,
+    "volume": 436134
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-26",
+    "price": 296.72,
+    "volume": 614138
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-25",
+    "price": 292.71,
+    "volume": 562586
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-24",
+    "price": 310.13,
+    "volume": 388559
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-21",
+    "price": 306.9,
+    "volume": 430640
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-20",
+    "price": 299.61,
+    "volume": 441658
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-19",
+    "price": 308.45,
+    "volume": 319552
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-18",
+    "price": 308.39,
+    "volume": 276457
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-17",
+    "price": 309.6,
+    "volume": 369246
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-14",
+    "price": 307.17,
+    "volume": 233873
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-13",
+    "price": 312.38,
+    "volume": 421838
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-12",
+    "price": 303.27,
+    "volume": 355667
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-11",
+    "price": 302.18,
+    "volume": 452232
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-10",
+    "price": 299.42,
+    "volume": 300510
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-06",
+    "price": 300,
+    "volume": 313658
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-05",
+    "price": 302.66,
+    "volume": 381567
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-04",
+    "price": 302.73,
+    "volume": 334050
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-04-03",
+    "price": 307.46,
+    "volume": 248594
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-31",
+    "price": 309.63,
+    "volume": 318536
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-30",
+    "price": 304.67,
+    "volume": 238900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-29",
+    "price": 300.47,
+    "volume": 259547
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-28",
+    "price": 299.53,
+    "volume": 183305
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-27",
+    "price": 302.74,
+    "volume": 246908
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-24",
+    "price": 299.96,
+    "volume": 367213
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-23",
+    "price": 298.17,
+    "volume": 318849
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-22",
+    "price": 302.26,
+    "volume": 361648
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-21",
+    "price": 308.63,
+    "volume": 364629
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-20",
+    "price": 300.51,
+    "volume": 324715
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-17",
+    "price": 298.97,
+    "volume": 740698
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-16",
+    "price": 307.28,
+    "volume": 433644
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-15",
+    "price": 301.85,
+    "volume": 526299
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-14",
+    "price": 311.73,
+    "volume": 497435
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-13",
+    "price": 306.34,
+    "volume": 366812
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-10",
+    "price": 304.96,
+    "volume": 451898
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-09",
+    "price": 309.35,
+    "volume": 310973
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-08",
+    "price": 309.82,
+    "volume": 324093
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-07",
+    "price": 309.13,
+    "volume": 489751
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-06",
+    "price": 321.59,
+    "volume": 365716
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-03",
+    "price": 326.89,
+    "volume": 347657
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-02",
+    "price": 321.36,
+    "volume": 548930
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-03-01",
+    "price": 309.25,
+    "volume": 642318
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-28",
+    "price": 310.89,
+    "volume": 516752
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-27",
+    "price": 310.04,
+    "volume": 338426
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-24",
+    "price": 314.05,
+    "volume": 357388
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-23",
+    "price": 323.06,
+    "volume": 380535
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-22",
+    "price": 321.1,
+    "volume": 427459
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-21",
+    "price": 320.2,
+    "volume": 524485
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-17",
+    "price": 328.73,
+    "volume": 600471
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-16",
+    "price": 327.33,
+    "volume": 478710
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-15",
+    "price": 336.9,
+    "volume": 887633
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-14",
+    "price": 339.32,
+    "volume": 358791
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-13",
+    "price": 339.05,
+    "volume": 305398
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-10",
+    "price": 333.78,
+    "volume": 196737
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-09",
+    "price": 336.67,
+    "volume": 204563
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-08",
+    "price": 342.29,
+    "volume": 226084
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-07",
+    "price": 343.63,
+    "volume": 241606
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-06",
+    "price": 337.04,
+    "volume": 248277
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-03",
+    "price": 341.39,
+    "volume": 205933
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-02",
+    "price": 344.24,
+    "volume": 313047
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-02-01",
+    "price": 338.03,
+    "volume": 307469
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-31",
+    "price": 328.58,
+    "volume": 357823
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-30",
+    "price": 324.32,
+    "volume": 356044
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-27",
+    "price": 333.13,
+    "volume": 218455
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-26",
+    "price": 333.54,
+    "volume": 247365
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-25",
+    "price": 334.36,
+    "volume": 140471
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-24",
+    "price": 334.03,
+    "volume": 232600
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-23",
+    "price": 343.7,
+    "volume": 342525
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-20",
+    "price": 338.75,
+    "volume": 266799
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-19",
+    "price": 332.04,
+    "volume": 269444
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-18",
+    "price": 328.89,
+    "volume": 264761
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-17",
+    "price": 332.25,
+    "volume": 216031
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-13",
+    "price": 339.08,
+    "volume": 182668
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-12",
+    "price": 335.7,
+    "volume": 243042
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-11",
+    "price": 342.66,
+    "volume": 311562
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-10",
+    "price": 335.93,
+    "volume": 493728
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-09",
+    "price": 320.4,
+    "volume": 594682
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-06",
+    "price": 322.21,
+    "volume": 1270132
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-05",
+    "price": 347.03,
+    "volume": 407350
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-04",
+    "price": 349.77,
+    "volume": 239016
+  },
+  {
+    "symbol": "WAT",
+    "date": "2023-01-03",
+    "price": 345.59,
+    "volume": 240861
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-30",
+    "price": 342.58,
+    "volume": 231202
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-29",
+    "price": 345.88,
+    "volume": 207958
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-28",
+    "price": 340.71,
+    "volume": 184827
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-27",
+    "price": 346.53,
+    "volume": 137279
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-23",
+    "price": 346.66,
+    "volume": 179156
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-22",
+    "price": 344.3,
+    "volume": 173311
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-21",
+    "price": 346.78,
+    "volume": 263244
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-20",
+    "price": 339.14,
+    "volume": 393671
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-19",
+    "price": 337.3,
+    "volume": 282422
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-16",
+    "price": 338.48,
+    "volume": 913277
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-15",
+    "price": 342.43,
+    "volume": 505303
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-14",
+    "price": 343.97,
+    "volume": 494395
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-13",
+    "price": 344.62,
+    "volume": 232242
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-12",
+    "price": 340.86,
+    "volume": 322695
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-09",
+    "price": 336.53,
+    "volume": 262801
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-08",
+    "price": 343.04,
+    "volume": 210797
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-07",
+    "price": 340.64,
+    "volume": 289617
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-06",
+    "price": 337.59,
+    "volume": 263636
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-05",
+    "price": 340.29,
+    "volume": 300923
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-02",
+    "price": 347.37,
+    "volume": 275837
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-12-01",
+    "price": 346.93,
+    "volume": 269561
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-30",
+    "price": 346.6,
+    "volume": 666507
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-29",
+    "price": 330.16,
+    "volume": 266565
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-28",
+    "price": 331.6,
+    "volume": 294395
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-25",
+    "price": 338.03,
+    "volume": 86165
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-23",
+    "price": 334.57,
+    "volume": 196940
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-22",
+    "price": 336.97,
+    "volume": 293412
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-21",
+    "price": 322.89,
+    "volume": 287992
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-18",
+    "price": 321.16,
+    "volume": 331165
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-17",
+    "price": 319.81,
+    "volume": 298167
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-16",
+    "price": 329.53,
+    "volume": 354222
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-15",
+    "price": 329.79,
+    "volume": 233755
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-14",
+    "price": 325.88,
+    "volume": 331426
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-11",
+    "price": 331.85,
+    "volume": 349789
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-10",
+    "price": 331.85,
+    "volume": 396124
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-09",
+    "price": 309.52,
+    "volume": 387526
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-08",
+    "price": 312.56,
+    "volume": 523995
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-07",
+    "price": 306.47,
+    "volume": 224515
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-04",
+    "price": 305.07,
+    "volume": 387217
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-03",
+    "price": 298.93,
+    "volume": 332690
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-02",
+    "price": 295.74,
+    "volume": 484847
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-11-01",
+    "price": 307.44,
+    "volume": 604243
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-31",
+    "price": 299.17,
+    "volume": 568958
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-28",
+    "price": 302.68,
+    "volume": 350577
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-27",
+    "price": 300.96,
+    "volume": 312103
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-26",
+    "price": 301.73,
+    "volume": 384719
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-25",
+    "price": 296.81,
+    "volume": 469982
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-24",
+    "price": 287.41,
+    "volume": 286482
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-21",
+    "price": 282.12,
+    "volume": 357158
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-20",
+    "price": 275.01,
+    "volume": 417604
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-19",
+    "price": 277.36,
+    "volume": 469647
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-18",
+    "price": 283.94,
+    "volume": 416591
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-17",
+    "price": 279.6,
+    "volume": 464200
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-14",
+    "price": 272.19,
+    "volume": 313867
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-13",
+    "price": 276.79,
+    "volume": 399965
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-12",
+    "price": 270.72,
+    "volume": 231533
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-11",
+    "price": 271.99,
+    "volume": 492484
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-10",
+    "price": 272.26,
+    "volume": 300890
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-07",
+    "price": 276.5,
+    "volume": 385865
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-06",
+    "price": 287.55,
+    "volume": 308297
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-05",
+    "price": 290.84,
+    "volume": 373486
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-04",
+    "price": 288.2,
+    "volume": 353621
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-10-03",
+    "price": 277.35,
+    "volume": 234027
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-30",
+    "price": 269.53,
+    "volume": 444203
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-29",
+    "price": 274.56,
+    "volume": 362692
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-28",
+    "price": 272.75,
+    "volume": 288318
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-27",
+    "price": 270.49,
+    "volume": 396800
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-26",
+    "price": 273.65,
+    "volume": 315797
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-23",
+    "price": 275.5,
+    "volume": 304739
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-22",
+    "price": 275.12,
+    "volume": 409157
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-21",
+    "price": 280.94,
+    "volume": 330963
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-20",
+    "price": 281.98,
+    "volume": 354058
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-19",
+    "price": 290.46,
+    "volume": 418802
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-16",
+    "price": 283.93,
+    "volume": 889381
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-15",
+    "price": 295.76,
+    "volume": 402143
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-14",
+    "price": 298.04,
+    "volume": 502651
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-13",
+    "price": 299.93,
+    "volume": 412378
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-12",
+    "price": 316.02,
+    "volume": 431907
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-09",
+    "price": 312.28,
+    "volume": 350726
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-08",
+    "price": 308.62,
+    "volume": 288809
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-07",
+    "price": 302.58,
+    "volume": 207914
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-06",
+    "price": 297.89,
+    "volume": 366206
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-02",
+    "price": 298.32,
+    "volume": 253591
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-09-01",
+    "price": 300.35,
+    "volume": 252416
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-31",
+    "price": 298.6,
+    "volume": 686072
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-30",
+    "price": 299.39,
+    "volume": 295797
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-29",
+    "price": 302.19,
+    "volume": 368917
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-26",
+    "price": 300.81,
+    "volume": 316971
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-25",
+    "price": 320.32,
+    "volume": 219435
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-24",
+    "price": 316.88,
+    "volume": 195792
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-23",
+    "price": 314.83,
+    "volume": 301835
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-22",
+    "price": 317.61,
+    "volume": 256695
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-19",
+    "price": 327.98,
+    "volume": 198910
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-18",
+    "price": 331.19,
+    "volume": 194650
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-17",
+    "price": 335.42,
+    "volume": 431230
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-16",
+    "price": 329.2,
+    "volume": 245999
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-15",
+    "price": 331.76,
+    "volume": 302507
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-12",
+    "price": 335.23,
+    "volume": 204789
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-11",
+    "price": 331.62,
+    "volume": 249650
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-10",
+    "price": 330.79,
+    "volume": 322213
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-09",
+    "price": 323.81,
+    "volume": 299635
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-08",
+    "price": 332.15,
+    "volume": 321451
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-05",
+    "price": 337.87,
+    "volume": 283819
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-04",
+    "price": 334.56,
+    "volume": 300887
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-03",
+    "price": 338.88,
+    "volume": 425414
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-02",
+    "price": 340.55,
+    "volume": 954755
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-08-01",
+    "price": 365.55,
+    "volume": 504172
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-29",
+    "price": 364.03,
+    "volume": 336610
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-28",
+    "price": 362,
+    "volume": 318267
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-27",
+    "price": 355.33,
+    "volume": 352382
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-26",
+    "price": 349.14,
+    "volume": 247534
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-25",
+    "price": 344.94,
+    "volume": 171234
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-22",
+    "price": 345.68,
+    "volume": 253757
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-21",
+    "price": 349.48,
+    "volume": 428128
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-20",
+    "price": 329.9,
+    "volume": 226063
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-19",
+    "price": 330.76,
+    "volume": 363576
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-18",
+    "price": 323.39,
+    "volume": 404163
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-15",
+    "price": 334.01,
+    "volume": 418571
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-14",
+    "price": 328.55,
+    "volume": 391041
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-13",
+    "price": 336.44,
+    "volume": 327813
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-12",
+    "price": 341.41,
+    "volume": 418405
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-11",
+    "price": 349.94,
+    "volume": 237266
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-08",
+    "price": 346.25,
+    "volume": 379233
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-07",
+    "price": 342.94,
+    "volume": 388087
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-06",
+    "price": 342.27,
+    "volume": 438915
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-05",
+    "price": 339.66,
+    "volume": 379151
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-07-01",
+    "price": 336.89,
+    "volume": 311936
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-30",
+    "price": 330.98,
+    "volume": 342616
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-29",
+    "price": 329.6,
+    "volume": 171026
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-28",
+    "price": 329.44,
+    "volume": 375221
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-27",
+    "price": 330.24,
+    "volume": 239699
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-24",
+    "price": 328.58,
+    "volume": 532296
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-23",
+    "price": 321.44,
+    "volume": 297715
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-22",
+    "price": 312,
+    "volume": 344916
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-21",
+    "price": 308.51,
+    "volume": 548673
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-17",
+    "price": 310.83,
+    "volume": 932986
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-16",
+    "price": 318.09,
+    "volume": 392168
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-15",
+    "price": 324.26,
+    "volume": 439536
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-14",
+    "price": 321.49,
+    "volume": 482069
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-13",
+    "price": 320.45,
+    "volume": 623487
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-10",
+    "price": 329.71,
+    "volume": 468968
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-09",
+    "price": 336.98,
+    "volume": 266208
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-08",
+    "price": 338.74,
+    "volume": 299969
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-07",
+    "price": 342.75,
+    "volume": 284689
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-06",
+    "price": 337.16,
+    "volume": 366198
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-03",
+    "price": 339.01,
+    "volume": 642963
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-02",
+    "price": 333.03,
+    "volume": 265107
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-06-01",
+    "price": 321.8,
+    "volume": 240635
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-31",
+    "price": 327.95,
+    "volume": 686621
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-27",
+    "price": 335.06,
+    "volume": 412238
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-26",
+    "price": 319.89,
+    "volume": 381637
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-25",
+    "price": 307.81,
+    "volume": 486434
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-24",
+    "price": 317.45,
+    "volume": 293810
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-23",
+    "price": 321.16,
+    "volume": 272048
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-20",
+    "price": 318.95,
+    "volume": 515007
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-19",
+    "price": 323.83,
+    "volume": 485679
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-18",
+    "price": 330.19,
+    "volume": 347631
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-17",
+    "price": 331.86,
+    "volume": 433049
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-16",
+    "price": 320.93,
+    "volume": 258868
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-13",
+    "price": 320.42,
+    "volume": 254027
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-12",
+    "price": 313.95,
+    "volume": 343425
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-11",
+    "price": 311.66,
+    "volume": 308460
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-10",
+    "price": 321.43,
+    "volume": 426167
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-09",
+    "price": 316.29,
+    "volume": 550582
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-06",
+    "price": 327.93,
+    "volume": 397965
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-05",
+    "price": 333.24,
+    "volume": 641546
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-04",
+    "price": 342.47,
+    "volume": 652940
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-03",
+    "price": 326.93,
+    "volume": 906743
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-05-02",
+    "price": 302.38,
+    "volume": 666819
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-29",
+    "price": 303.02,
+    "volume": 705379
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-28",
+    "price": 306.12,
+    "volume": 576051
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-27",
+    "price": 293.76,
+    "volume": 449325
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-26",
+    "price": 288.88,
+    "volume": 555934
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-25",
+    "price": 296.2,
+    "volume": 322049
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-22",
+    "price": 296.44,
+    "volume": 354589
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-21",
+    "price": 307.38,
+    "volume": 344610
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-20",
+    "price": 313.64,
+    "volume": 390696
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-19",
+    "price": 300.8,
+    "volume": 415020
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-18",
+    "price": 292.39,
+    "volume": 306476
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-14",
+    "price": 295.39,
+    "volume": 273834
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-13",
+    "price": 298.59,
+    "volume": 409094
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-12",
+    "price": 293.93,
+    "volume": 376426
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-11",
+    "price": 302.58,
+    "volume": 219804
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-08",
+    "price": 312.12,
+    "volume": 286891
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-07",
+    "price": 313.75,
+    "volume": 392869
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-06",
+    "price": 304.14,
+    "volume": 575686
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-05",
+    "price": 305.35,
+    "volume": 446041
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-04",
+    "price": 310.31,
+    "volume": 346777
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-04-01",
+    "price": 308.58,
+    "volume": 359984
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-31",
+    "price": 310.39,
+    "volume": 440698
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-30",
+    "price": 321.66,
+    "volume": 502589
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-29",
+    "price": 326.83,
+    "volume": 480927
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-28",
+    "price": 327.81,
+    "volume": 246296
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-25",
+    "price": 325.97,
+    "volume": 177369
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-24",
+    "price": 325.11,
+    "volume": 261818
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-23",
+    "price": 323.86,
+    "volume": 380372
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-22",
+    "price": 339.8,
+    "volume": 381591
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-21",
+    "price": 338.08,
+    "volume": 394279
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-18",
+    "price": 338.14,
+    "volume": 925626
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-17",
+    "price": 330.79,
+    "volume": 297826
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-16",
+    "price": 327.04,
+    "volume": 309171
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-15",
+    "price": 317.34,
+    "volume": 290650
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-14",
+    "price": 311,
+    "volume": 402995
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-11",
+    "price": 312.97,
+    "volume": 286832
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-10",
+    "price": 319.59,
+    "volume": 262186
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-09",
+    "price": 321.08,
+    "volume": 324551
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-08",
+    "price": 307.11,
+    "volume": 422880
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-07",
+    "price": 315.29,
+    "volume": 480894
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-04",
+    "price": 323.01,
+    "volume": 319370
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-03",
+    "price": 321.49,
+    "volume": 286696
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-02",
+    "price": 315.78,
+    "volume": 230873
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-03-01",
+    "price": 313.59,
+    "volume": 261960
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-28",
+    "price": 316.73,
+    "volume": 464776
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-25",
+    "price": 323.65,
+    "volume": 404277
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-24",
+    "price": 312.44,
+    "volume": 454619
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-23",
+    "price": 306.54,
+    "volume": 321084
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-22",
+    "price": 314.48,
+    "volume": 252748
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-18",
+    "price": 316.18,
+    "volume": 311252
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-17",
+    "price": 314.98,
+    "volume": 392470
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-16",
+    "price": 319.56,
+    "volume": 297062
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-15",
+    "price": 319.9,
+    "volume": 316045
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-14",
+    "price": 318.05,
+    "volume": 307514
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-11",
+    "price": 321.77,
+    "volume": 450132
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-10",
+    "price": 328.64,
+    "volume": 298556
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-09",
+    "price": 335.16,
+    "volume": 266991
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-08",
+    "price": 328.94,
+    "volume": 295544
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-07",
+    "price": 325.88,
+    "volume": 376657
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-04",
+    "price": 325.91,
+    "volume": 282190
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-03",
+    "price": 328.63,
+    "volume": 495211
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-02",
+    "price": 330.17,
+    "volume": 469153
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-02-01",
+    "price": 323.72,
+    "volume": 699106
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-31",
+    "price": 320.12,
+    "volume": 489195
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-28",
+    "price": 316.94,
+    "volume": 360104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-27",
+    "price": 306.54,
+    "volume": 349897
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-26",
+    "price": 308.51,
+    "volume": 298672
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-25",
+    "price": 310.38,
+    "volume": 400256
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-24",
+    "price": 322.88,
+    "volume": 392138
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-21",
+    "price": 319.23,
+    "volume": 442570
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-20",
+    "price": 316.42,
+    "volume": 459487
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-19",
+    "price": 324.46,
+    "volume": 316415
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-18",
+    "price": 325.4,
+    "volume": 312768
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-14",
+    "price": 333.73,
+    "volume": 285221
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-13",
+    "price": 337.94,
+    "volume": 361949
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-12",
+    "price": 343.82,
+    "volume": 316786
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-11",
+    "price": 344.42,
+    "volume": 424465
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-10",
+    "price": 345.03,
+    "volume": 582380
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-07",
+    "price": 347.03,
+    "volume": 559987
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-06",
+    "price": 352.56,
+    "volume": 516856
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-05",
+    "price": 350.72,
+    "volume": 630624
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-04",
+    "price": 356.41,
+    "volume": 460053
+  },
+  {
+    "symbol": "WAT",
+    "date": "2022-01-03",
+    "price": 364.59,
+    "volume": 445539
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-31",
+    "price": 372.6,
+    "volume": 222165
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-30",
+    "price": 372.01,
+    "volume": 250341
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-29",
+    "price": 370.82,
+    "volume": 305302
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-28",
+    "price": 367.53,
+    "volume": 181369
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-27",
+    "price": 367.61,
+    "volume": 275458
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-23",
+    "price": 361.71,
+    "volume": 333192
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-22",
+    "price": 361.06,
+    "volume": 306755
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-21",
+    "price": 349.42,
+    "volume": 465514
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-20",
+    "price": 347.22,
+    "volume": 594763
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-17",
+    "price": 348.35,
+    "volume": 998726
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-16",
+    "price": 350.08,
+    "volume": 382261
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-15",
+    "price": 351.05,
+    "volume": 593276
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-14",
+    "price": 342.04,
+    "volume": 664425
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-13",
+    "price": 344.53,
+    "volume": 284302
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-10",
+    "price": 340.96,
+    "volume": 285519
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-09",
+    "price": 343.72,
+    "volume": 186328
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-08",
+    "price": 346.55,
+    "volume": 250802
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-07",
+    "price": 344.1,
+    "volume": 264156
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-06",
+    "price": 336.33,
+    "volume": 315268
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-03",
+    "price": 331.35,
+    "volume": 363664
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-02",
+    "price": 334,
+    "volume": 353025
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-12-01",
+    "price": 328.5,
+    "volume": 339955
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-30",
+    "price": 328.07,
+    "volume": 835580
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-29",
+    "price": 341.22,
+    "volume": 415269
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-26",
+    "price": 338.43,
+    "volume": 230114
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-24",
+    "price": 343.87,
+    "volume": 344070
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-23",
+    "price": 342.64,
+    "volume": 299203
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-22",
+    "price": 346.46,
+    "volume": 303950
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-19",
+    "price": 349.71,
+    "volume": 311518
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-18",
+    "price": 342.36,
+    "volume": 263226
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-17",
+    "price": 343.23,
+    "volume": 300003
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-16",
+    "price": 349.01,
+    "volume": 323020
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-15",
+    "price": 345.64,
+    "volume": 305249
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-12",
+    "price": 356.84,
+    "volume": 274853
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-11",
+    "price": 350.5,
+    "volume": 224838
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-10",
+    "price": 351.49,
+    "volume": 194302
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-09",
+    "price": 350.15,
+    "volume": 213547
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-08",
+    "price": 349.92,
+    "volume": 333775
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-05",
+    "price": 343.06,
+    "volume": 440393
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-04",
+    "price": 346.48,
+    "volume": 266459
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-03",
+    "price": 347.51,
+    "volume": 550483
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-02",
+    "price": 348.88,
+    "volume": 659545
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-11-01",
+    "price": 364.6,
+    "volume": 482497
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-29",
+    "price": 367.55,
+    "volume": 305184
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-28",
+    "price": 361.34,
+    "volume": 264670
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-27",
+    "price": 361.17,
+    "volume": 264551
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-26",
+    "price": 362.06,
+    "volume": 330476
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-25",
+    "price": 366.58,
+    "volume": 500759
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-22",
+    "price": 364.49,
+    "volume": 285707
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-21",
+    "price": 361.01,
+    "volume": 385832
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-20",
+    "price": 356.05,
+    "volume": 436005
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-19",
+    "price": 349.54,
+    "volume": 254757
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-18",
+    "price": 347.68,
+    "volume": 272856
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-15",
+    "price": 344.71,
+    "volume": 294480
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-14",
+    "price": 344.94,
+    "volume": 249561
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-13",
+    "price": 341.42,
+    "volume": 338981
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-12",
+    "price": 338.73,
+    "volume": 404295
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-11",
+    "price": 341.38,
+    "volume": 219188
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-08",
+    "price": 343.4,
+    "volume": 450419
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-07",
+    "price": 346.31,
+    "volume": 320376
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-06",
+    "price": 343.64,
+    "volume": 460940
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-05",
+    "price": 349.32,
+    "volume": 501340
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-04",
+    "price": 347.54,
+    "volume": 470363
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-10-01",
+    "price": 355.7,
+    "volume": 461931
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-30",
+    "price": 357.3,
+    "volume": 543217
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-29",
+    "price": 365.17,
+    "volume": 390861
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-28",
+    "price": 366.88,
+    "volume": 576372
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-27",
+    "price": 380.75,
+    "volume": 446764
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-24",
+    "price": 393.58,
+    "volume": 316992
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-23",
+    "price": 402.11,
+    "volume": 420587
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-22",
+    "price": 395.58,
+    "volume": 263976
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-21",
+    "price": 392.14,
+    "volume": 308163
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-20",
+    "price": 395.81,
+    "volume": 487816
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-17",
+    "price": 396.58,
+    "volume": 715106
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-16",
+    "price": 399.73,
+    "volume": 539692
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-15",
+    "price": 409.84,
+    "volume": 324854
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-14",
+    "price": 409.49,
+    "volume": 307602
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-13",
+    "price": 403.21,
+    "volume": 412324
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-10",
+    "price": 420.18,
+    "volume": 289176
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-09",
+    "price": 422.02,
+    "volume": 229521
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-08",
+    "price": 424.7,
+    "volume": 259780
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-07",
+    "price": 422.98,
+    "volume": 307461
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-03",
+    "price": 423.4,
+    "volume": 213074
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-02",
+    "price": 421.25,
+    "volume": 271673
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-09-01",
+    "price": 416.12,
+    "volume": 288820
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-31",
+    "price": 414.02,
+    "volume": 542401
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-30",
+    "price": 413.06,
+    "volume": 210958
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-27",
+    "price": 407.35,
+    "volume": 136404
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-26",
+    "price": 407.35,
+    "volume": 256104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-25",
+    "price": 407.1,
+    "volume": 189282
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-24",
+    "price": 402.27,
+    "volume": 165738
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-23",
+    "price": 402.78,
+    "volume": 243866
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-20",
+    "price": 402.25,
+    "volume": 285458
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-19",
+    "price": 404.86,
+    "volume": 198699
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-18",
+    "price": 400.74,
+    "volume": 203582
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-17",
+    "price": 406.12,
+    "volume": 187880
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-16",
+    "price": 408.13,
+    "volume": 308670
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-13",
+    "price": 405.27,
+    "volume": 189339
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-12",
+    "price": 401.33,
+    "volume": 166344
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-11",
+    "price": 397.78,
+    "volume": 210110
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-10",
+    "price": 394.88,
+    "volume": 163354
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-09",
+    "price": 393.62,
+    "volume": 223629
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-06",
+    "price": 395.47,
+    "volume": 251793
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-05",
+    "price": 397.34,
+    "volume": 306038
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-04",
+    "price": 394.25,
+    "volume": 351335
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-03",
+    "price": 391.75,
+    "volume": 631437
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-08-02",
+    "price": 388.85,
+    "volume": 490104
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-30",
+    "price": 389.81,
+    "volume": 421961
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-29",
+    "price": 391.02,
+    "volume": 305277
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-28",
+    "price": 386.22,
+    "volume": 377634
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-27",
+    "price": 378.52,
+    "volume": 339229
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-26",
+    "price": 382.31,
+    "volume": 247308
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-23",
+    "price": 384.7,
+    "volume": 203384
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-22",
+    "price": 377.17,
+    "volume": 287159
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-21",
+    "price": 370.67,
+    "volume": 313032
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-20",
+    "price": 372.12,
+    "volume": 420658
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-19",
+    "price": 362.99,
+    "volume": 630541
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-16",
+    "price": 370.69,
+    "volume": 293473
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-15",
+    "price": 372.26,
+    "volume": 419753
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-14",
+    "price": 371.64,
+    "volume": 300921
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-13",
+    "price": 368.44,
+    "volume": 284133
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-12",
+    "price": 369.67,
+    "volume": 251226
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-09",
+    "price": 369.4,
+    "volume": 271546
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-08",
+    "price": 365.68,
+    "volume": 405567
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-07",
+    "price": 365.4,
+    "volume": 387041
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-06",
+    "price": 359.07,
+    "volume": 500144
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-02",
+    "price": 355.49,
+    "volume": 310638
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-07-01",
+    "price": 351.18,
+    "volume": 370985
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-30",
+    "price": 345.61,
+    "volume": 396185
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-29",
+    "price": 345.15,
+    "volume": 359817
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-28",
+    "price": 343.96,
+    "volume": 301315
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-25",
+    "price": 337.78,
+    "volume": 1704152
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-24",
+    "price": 344.58,
+    "volume": 507819
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-23",
+    "price": 346.95,
+    "volume": 350168
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-22",
+    "price": 345.62,
+    "volume": 340565
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-21",
+    "price": 342.44,
+    "volume": 487570
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-18",
+    "price": 342.71,
+    "volume": 1620672
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-17",
+    "price": 346.56,
+    "volume": 655516
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-16",
+    "price": 343.07,
+    "volume": 380796
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-15",
+    "price": 341.8,
+    "volume": 408191
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-14",
+    "price": 336.18,
+    "volume": 567963
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-11",
+    "price": 336.58,
+    "volume": 340242
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-10",
+    "price": 333.77,
+    "volume": 304174
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-09",
+    "price": 328,
+    "volume": 276253
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-08",
+    "price": 323.09,
+    "volume": 231673
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-07",
+    "price": 318.71,
+    "volume": 218281
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-04",
+    "price": 319.26,
+    "volume": 282066
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-03",
+    "price": 316.28,
+    "volume": 386297
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-02",
+    "price": 317.21,
+    "volume": 305407
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-06-01",
+    "price": 318.5,
+    "volume": 350729
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-28",
+    "price": 322.25,
+    "volume": 388406
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-27",
+    "price": 323.74,
+    "volume": 787274
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-26",
+    "price": 319.74,
+    "volume": 441546
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-25",
+    "price": 321.14,
+    "volume": 298818
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-24",
+    "price": 317.2,
+    "volume": 345979
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-21",
+    "price": 312.22,
+    "volume": 728160
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-20",
+    "price": 311.46,
+    "volume": 259063
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-19",
+    "price": 306.45,
+    "volume": 306837
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-18",
+    "price": 305.07,
+    "volume": 348335
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-17",
+    "price": 308.94,
+    "volume": 249207
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-14",
+    "price": 312.24,
+    "volume": 397159
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-13",
+    "price": 315.48,
+    "volume": 419345
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-12",
+    "price": 303.64,
+    "volume": 482183
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-11",
+    "price": 315.89,
+    "volume": 320321
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-10",
+    "price": 317.63,
+    "volume": 387141
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-07",
+    "price": 314.65,
+    "volume": 359906
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-06",
+    "price": 309.01,
+    "volume": 334655
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-05",
+    "price": 308.46,
+    "volume": 554036
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-04",
+    "price": 299.75,
+    "volume": 371750
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-05-03",
+    "price": 301.67,
+    "volume": 613249
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-30",
+    "price": 299.87,
+    "volume": 410718
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-29",
+    "price": 302.11,
+    "volume": 240002
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-28",
+    "price": 300.44,
+    "volume": 245673
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-27",
+    "price": 304.27,
+    "volume": 347008
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-26",
+    "price": 304.35,
+    "volume": 221837
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-23",
+    "price": 306.5,
+    "volume": 212450
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-22",
+    "price": 304.64,
+    "volume": 345607
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-21",
+    "price": 301.22,
+    "volume": 317262
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-20",
+    "price": 296.27,
+    "volume": 308198
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-19",
+    "price": 298.81,
+    "volume": 312412
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-16",
+    "price": 299.9,
+    "volume": 363314
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-15",
+    "price": 299.65,
+    "volume": 424406
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-14",
+    "price": 296.67,
+    "volume": 618313
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-13",
+    "price": 307.91,
+    "volume": 373272
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-12",
+    "price": 307.04,
+    "volume": 303527
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-09",
+    "price": 307.14,
+    "volume": 468122
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-08",
+    "price": 304.13,
+    "volume": 494293
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-07",
+    "price": 296.35,
+    "volume": 703153
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-06",
+    "price": 302.23,
+    "volume": 616940
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-05",
+    "price": 295.65,
+    "volume": 525183
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-04-01",
+    "price": 284.72,
+    "volume": 273054
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-31",
+    "price": 284.17,
+    "volume": 483276
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-30",
+    "price": 282.51,
+    "volume": 380554
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-29",
+    "price": 284.02,
+    "volume": 327734
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-26",
+    "price": 281.22,
+    "volume": 350587
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-25",
+    "price": 273,
+    "volume": 478645
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-24",
+    "price": 269.05,
+    "volume": 284495
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-23",
+    "price": 270.69,
+    "volume": 351826
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-22",
+    "price": 271.63,
+    "volume": 397884
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-19",
+    "price": 268.7,
+    "volume": 736849
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-18",
+    "price": 268.76,
+    "volume": 303634
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-17",
+    "price": 268.13,
+    "volume": 239864
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-16",
+    "price": 269.77,
+    "volume": 235000
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-15",
+    "price": 272.63,
+    "volume": 301226
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-12",
+    "price": 268.83,
+    "volume": 351171
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-11",
+    "price": 273.08,
+    "volume": 354754
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-10",
+    "price": 272.45,
+    "volume": 387085
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-09",
+    "price": 272.68,
+    "volume": 426325
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-08",
+    "price": 264.67,
+    "volume": 268835
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-05",
+    "price": 266.44,
+    "volume": 341479
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-04",
+    "price": 261.63,
+    "volume": 412898
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-03",
+    "price": 265.78,
+    "volume": 346900
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-02",
+    "price": 274.03,
+    "volume": 293668
+  },
+  {
+    "symbol": "WAT",
+    "date": "2021-03-01",
+    "price": 277.04,
+    "volume": 293610
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "NVO",
+    "date": "2025-12-31",
+    "stockPrice": 323.55,
+    "numberOfShares": 4447851000,
+    "marketCapitalization": 1439095359150,
+    "minusCashAndCashEquivalents": 26464000000,
+    "addTotalDebt": 130958000000,
+    "enterpriseValue": 1543589359150
+  },
+  {
+    "symbol": "NVO",
+    "date": "2024-12-31",
+    "stockPrice": 619.59,
+    "numberOfShares": 4453900000,
+    "marketCapitalization": 2759588146362,
+    "minusCashAndCashEquivalents": 15655000000,
+    "addTotalDebt": 102787000000,
+    "enterpriseValue": 2846720146362
+  },
+  {
+    "symbol": "NVO",
+    "date": "2023-12-31",
+    "stockPrice": 698.5,
+    "numberOfShares": 4482800000,
+    "marketCapitalization": 3131247795972,
+    "minusCashAndCashEquivalents": 14392000000,
+    "addTotalDebt": 27006000000,
+    "enterpriseValue": 3143861795972
+  },
+  {
+    "symbol": "NVO",
+    "date": "2022-12-31",
+    "stockPrice": 469.98,
+    "numberOfShares": 4530600000,
+    "marketCapitalization": 2129286754102,
+    "minusCashAndCashEquivalents": 12653000000,
+    "addTotalDebt": 25784000000,
+    "enterpriseValue": 2142417754102
+  },
+  {
+    "symbol": "NVO",
+    "date": "2021-12-31",
+    "stockPrice": 366.09,
+    "numberOfShares": 4593200000,
+    "marketCapitalization": 1681508787391,
+    "minusCashAndCashEquivalents": 10720000000,
+    "addTotalDebt": 26645000000,
+    "enterpriseValue": 1697433787391
+  },
+  {
+    "symbol": "NVO",
+    "date": "2020-12-31",
+    "stockPrice": 212.69,
+    "numberOfShares": 4667800000,
+    "marketCapitalization": 992801077492,
+    "minusCashAndCashEquivalents": 2096983644,
+    "addTotalDebt": 1702309525,
+    "enterpriseValue": 992406403373
+  },
+  {
+    "symbol": "NVO",
+    "date": "2019-12-31",
+    "stockPrice": 192.86,
+    "numberOfShares": 4748598000,
+    "marketCapitalization": 915808743862,
+    "minusCashAndCashEquivalents": 2324620700,
+    "addTotalDebt": 673426468,
+    "enterpriseValue": 914157549630
+  },
+  {
+    "symbol": "NVO",
+    "date": "2018-12-31",
+    "stockPrice": 150.03,
+    "numberOfShares": 4839206000,
+    "marketCapitalization": 726046284704,
+    "minusCashAndCashEquivalents": 15638000000,
+    "addTotalDebt": 515000000,
+    "enterpriseValue": 710923284704
+  },
+  {
+    "symbol": "NVO",
+    "date": "2017-12-31",
+    "stockPrice": 167.98,
+    "numberOfShares": 4955165692,
+    "marketCapitalization": 832355056684,
+    "minusCashAndCashEquivalents": 18852000000,
+    "addTotalDebt": 1694000000,
+    "enterpriseValue": 815197056684
+  },
+  {
+    "symbol": "NVO",
+    "date": "2016-12-31",
+    "stockPrice": 126.72,
+    "numberOfShares": 5069458000,
+    "marketCapitalization": 642377661154,
+    "minusCashAndCashEquivalents": 18690000000,
+    "addTotalDebt": 229000000,
+    "enterpriseValue": 623916661154
+  }
+]

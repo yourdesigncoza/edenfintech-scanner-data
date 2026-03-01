@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "THC",
+    "date": "2026-02-27",
+    "price": 239.39,
+    "volume": 610700
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-26",
+    "price": 239.67,
+    "volume": 1200245
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-25",
+    "price": 237.04,
+    "volume": 730036
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-24",
+    "price": 237.58,
+    "volume": 802700
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-23",
+    "price": 233.77,
+    "volume": 771051
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-20",
+    "price": 229.9,
+    "volume": 1014700
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-19",
+    "price": 228.08,
+    "volume": 984850
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-18",
+    "price": 231.75,
+    "volume": 781500
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-17",
+    "price": 234.25,
+    "volume": 1244200
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-13",
+    "price": 231.1,
+    "volume": 1205046
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-12",
+    "price": 232.26,
+    "volume": 2464472
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-11",
+    "price": 226.35,
+    "volume": 3392900
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-10",
+    "price": 193.04,
+    "volume": 1425485
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-09",
+    "price": 192.96,
+    "volume": 1320351
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-06",
+    "price": 201.37,
+    "volume": 1305400
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-05",
+    "price": 195.97,
+    "volume": 1114522
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-04",
+    "price": 190.66,
+    "volume": 856900
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-03",
+    "price": 192.85,
+    "volume": 1427200
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-02-02",
+    "price": 188.03,
+    "volume": 1155000
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-30",
+    "price": 189.28,
+    "volume": 631405
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-29",
+    "price": 189.49,
+    "volume": 748414
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-28",
+    "price": 189.58,
+    "volume": 1031100
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-27",
+    "price": 189.15,
+    "volume": 1092600
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-26",
+    "price": 189.92,
+    "volume": 1015041
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-23",
+    "price": 188.78,
+    "volume": 658200
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-22",
+    "price": 189.45,
+    "volume": 837846
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-21",
+    "price": 190.83,
+    "volume": 1074300
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-20",
+    "price": 193.26,
+    "volume": 693500
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-16",
+    "price": 196.74,
+    "volume": 697486
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-15",
+    "price": 201.32,
+    "volume": 788144
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-14",
+    "price": 195.19,
+    "volume": 820600
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-13",
+    "price": 199.19,
+    "volume": 435499
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-12",
+    "price": 199.61,
+    "volume": 1114200
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-09",
+    "price": 201.2,
+    "volume": 442321
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-08",
+    "price": 203.35,
+    "volume": 505426
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-07",
+    "price": 202,
+    "volume": 1132300
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-06",
+    "price": 208.24,
+    "volume": 694093
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-05",
+    "price": 207.01,
+    "volume": 1358200
+  },
+  {
+    "symbol": "THC",
+    "date": "2026-01-02",
+    "price": 199.45,
+    "volume": 985349
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-31",
+    "price": 198.72,
+    "volume": 661300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-30",
+    "price": 201.3,
+    "volume": 669200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-29",
+    "price": 201.14,
+    "volume": 614637
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-26",
+    "price": 200.6,
+    "volume": 567200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-24",
+    "price": 197.77,
+    "volume": 296131
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-23",
+    "price": 198.76,
+    "volume": 666444
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-22",
+    "price": 199.87,
+    "volume": 820448
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-19",
+    "price": 196.33,
+    "volume": 1555200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-18",
+    "price": 194.37,
+    "volume": 635422
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-17",
+    "price": 195.02,
+    "volume": 927523
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-16",
+    "price": 196.88,
+    "volume": 680800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-15",
+    "price": 197.32,
+    "volume": 835902
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-12",
+    "price": 199.4,
+    "volume": 770946
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-11",
+    "price": 197.71,
+    "volume": 829100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-10",
+    "price": 197.47,
+    "volume": 1424100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-09",
+    "price": 202,
+    "volume": 1002400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-08",
+    "price": 206.31,
+    "volume": 712900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-05",
+    "price": 210,
+    "volume": 571744
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-04",
+    "price": 212.14,
+    "volume": 834601
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-03",
+    "price": 211.34,
+    "volume": 968100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-02",
+    "price": 214.84,
+    "volume": 806552
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-12-01",
+    "price": 215.13,
+    "volume": 968700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-28",
+    "price": 216.84,
+    "volume": 189638
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-26",
+    "price": 217.42,
+    "volume": 856602
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-25",
+    "price": 218.46,
+    "volume": 1571359
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-24",
+    "price": 214.62,
+    "volume": 3398200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-21",
+    "price": 191.96,
+    "volume": 1112201
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-20",
+    "price": 186.68,
+    "volume": 847344
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-19",
+    "price": 194.25,
+    "volume": 1294286
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-18",
+    "price": 193,
+    "volume": 893828
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-17",
+    "price": 192.4,
+    "volume": 1115800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-14",
+    "price": 192.91,
+    "volume": 936664
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-13",
+    "price": 196.66,
+    "volume": 516371
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-12",
+    "price": 199.99,
+    "volume": 602344
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-11",
+    "price": 198.32,
+    "volume": 1109124
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-10",
+    "price": 194.68,
+    "volume": 1138719
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-07",
+    "price": 205.26,
+    "volume": 508223
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-06",
+    "price": 204.19,
+    "volume": 693948
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-05",
+    "price": 208.62,
+    "volume": 982000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-04",
+    "price": 207.73,
+    "volume": 1173761
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-11-03",
+    "price": 201.39,
+    "volume": 1234320
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-31",
+    "price": 206.49,
+    "volume": 1127483
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-30",
+    "price": 208.62,
+    "volume": 1236800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-29",
+    "price": 209.14,
+    "volume": 1422500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-28",
+    "price": 204.62,
+    "volume": 1765800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-27",
+    "price": 216.17,
+    "volume": 1813320
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-24",
+    "price": 210.38,
+    "volume": 1772000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-23",
+    "price": 206.91,
+    "volume": 1217800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-22",
+    "price": 205.12,
+    "volume": 991165
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-21",
+    "price": 202.35,
+    "volume": 770835
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-20",
+    "price": 202.11,
+    "volume": 695500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-17",
+    "price": 200,
+    "volume": 761000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-16",
+    "price": 199.13,
+    "volume": 733863
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-15",
+    "price": 199.23,
+    "volume": 1122900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-14",
+    "price": 196.33,
+    "volume": 1183632
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-13",
+    "price": 190,
+    "volume": 686500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-10",
+    "price": 189.58,
+    "volume": 869667
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-09",
+    "price": 194.85,
+    "volume": 1374556
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-08",
+    "price": 200.48,
+    "volume": 832025
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-07",
+    "price": 204.83,
+    "volume": 690600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-06",
+    "price": 199.76,
+    "volume": 640742
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-03",
+    "price": 203,
+    "volume": 868100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-02",
+    "price": 203.38,
+    "volume": 521131
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-10-01",
+    "price": 201.34,
+    "volume": 999237
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-30",
+    "price": 203.04,
+    "volume": 997200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-29",
+    "price": 201.2,
+    "volume": 1006433
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-26",
+    "price": 202,
+    "volume": 976000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-25",
+    "price": 196.72,
+    "volume": 647537
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-24",
+    "price": 196.63,
+    "volume": 936700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-23",
+    "price": 193.08,
+    "volume": 816818
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-22",
+    "price": 194.06,
+    "volume": 825149
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-19",
+    "price": 190.14,
+    "volume": 3491700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-18",
+    "price": 190.29,
+    "volume": 1174700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-17",
+    "price": 183.47,
+    "volume": 845400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-16",
+    "price": 182.82,
+    "volume": 1312828
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-15",
+    "price": 186.75,
+    "volume": 1741000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-12",
+    "price": 192.82,
+    "volume": 889224
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-11",
+    "price": 193.38,
+    "volume": 1845304
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-10",
+    "price": 191.78,
+    "volume": 2087006
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-09",
+    "price": 196.39,
+    "volume": 1330300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-08",
+    "price": 192.47,
+    "volume": 1014400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-05",
+    "price": 196.18,
+    "volume": 924023
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-04",
+    "price": 192.52,
+    "volume": 1237932
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-03",
+    "price": 186.91,
+    "volume": 665000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-09-02",
+    "price": 185.35,
+    "volume": 960800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-29",
+    "price": 184.33,
+    "volume": 918324
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-28",
+    "price": 184.53,
+    "volume": 978425
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-27",
+    "price": 181.95,
+    "volume": 961400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-26",
+    "price": 180.04,
+    "volume": 720641
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-25",
+    "price": 180.23,
+    "volume": 1157755
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-22",
+    "price": 179.5,
+    "volume": 924200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-21",
+    "price": 177.39,
+    "volume": 848412
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-20",
+    "price": 181.94,
+    "volume": 1429838
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-19",
+    "price": 178.03,
+    "volume": 1183731
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-18",
+    "price": 171.33,
+    "volume": 882539
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-15",
+    "price": 172.02,
+    "volume": 1092500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-14",
+    "price": 172.36,
+    "volume": 797049
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-13",
+    "price": 171.87,
+    "volume": 1056101
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-12",
+    "price": 170.48,
+    "volume": 807200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-11",
+    "price": 166.63,
+    "volume": 853000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-08",
+    "price": 165.58,
+    "volume": 734147
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-07",
+    "price": 163.42,
+    "volume": 830820
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-06",
+    "price": 159.26,
+    "volume": 907060
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-05",
+    "price": 160.29,
+    "volume": 665903
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-04",
+    "price": 161.07,
+    "volume": 757748
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-08-01",
+    "price": 158.09,
+    "volume": 1057703
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-31",
+    "price": 161.28,
+    "volume": 1398640
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-30",
+    "price": 160.89,
+    "volume": 1601989
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-29",
+    "price": 156.06,
+    "volume": 1222800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-28",
+    "price": 156.52,
+    "volume": 2664662
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-25",
+    "price": 153.02,
+    "volume": 1982400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-24",
+    "price": 148.38,
+    "volume": 2500500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-23",
+    "price": 158.31,
+    "volume": 2928045
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-22",
+    "price": 155.97,
+    "volume": 6152200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-21",
+    "price": 174.65,
+    "volume": 2589720
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-18",
+    "price": 175.06,
+    "volume": 1855900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-17",
+    "price": 175.14,
+    "volume": 913642
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-16",
+    "price": 173.39,
+    "volume": 1387300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-15",
+    "price": 172.78,
+    "volume": 1120152
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-14",
+    "price": 177.74,
+    "volume": 854215
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-11",
+    "price": 175.75,
+    "volume": 946825
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-10",
+    "price": 173.66,
+    "volume": 850708
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-09",
+    "price": 171.4,
+    "volume": 822430
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-08",
+    "price": 172.39,
+    "volume": 891900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-07",
+    "price": 173.09,
+    "volume": 1070543
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-03",
+    "price": 171.5,
+    "volume": 977101
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-02",
+    "price": 172.22,
+    "volume": 1520639
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-07-01",
+    "price": 177.43,
+    "volume": 1177072
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-30",
+    "price": 176,
+    "volume": 1727900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-27",
+    "price": 173.63,
+    "volume": 1548713
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-26",
+    "price": 172.56,
+    "volume": 1505156
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-25",
+    "price": 169.01,
+    "volume": 1525514
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-24",
+    "price": 171.52,
+    "volume": 1174743
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-23",
+    "price": 169.12,
+    "volume": 1204900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-20",
+    "price": 168.01,
+    "volume": 4238400
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-18",
+    "price": 167.58,
+    "volume": 1887935
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-17",
+    "price": 167.46,
+    "volume": 1796300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-16",
+    "price": 164.24,
+    "volume": 3836800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-13",
+    "price": 164.37,
+    "volume": 1842987
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-12",
+    "price": 165.54,
+    "volume": 1945800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-11",
+    "price": 161.41,
+    "volume": 2557800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-10",
+    "price": 156.56,
+    "volume": 2670244
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-09",
+    "price": 166.19,
+    "volume": 1749874
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-06",
+    "price": 171.46,
+    "volume": 1351100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-05",
+    "price": 171.84,
+    "volume": 1277615
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-04",
+    "price": 169.89,
+    "volume": 1342800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-03",
+    "price": 171.84,
+    "volume": 1201534
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-06-02",
+    "price": 170.12,
+    "volume": 1989401
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-30",
+    "price": 168.77,
+    "volume": 2250201
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-29",
+    "price": 166.26,
+    "volume": 1426700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-28",
+    "price": 164.67,
+    "volume": 1241927
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-27",
+    "price": 165.1,
+    "volume": 819445
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-23",
+    "price": 162.98,
+    "volume": 1248741
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-22",
+    "price": 161.33,
+    "volume": 858088
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-21",
+    "price": 162.83,
+    "volume": 1021300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-20",
+    "price": 168.66,
+    "volume": 995340
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-19",
+    "price": 167.28,
+    "volume": 1795342
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-16",
+    "price": 165.47,
+    "volume": 1767519
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-15",
+    "price": 164.03,
+    "volume": 1819149
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-14",
+    "price": 159.57,
+    "volume": 1920600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-13",
+    "price": 157.7,
+    "volume": 1715213
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-12",
+    "price": 154.57,
+    "volume": 1705200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-09",
+    "price": 148.83,
+    "volume": 966218
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-08",
+    "price": 149.06,
+    "volume": 850539
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-07",
+    "price": 152.32,
+    "volume": 1244300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-06",
+    "price": 151.48,
+    "volume": 1548288
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-05",
+    "price": 149.03,
+    "volume": 1251012
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-02",
+    "price": 148.03,
+    "volume": 1467134
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-05-01",
+    "price": 145.29,
+    "volume": 2170300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-30",
+    "price": 142.95,
+    "volume": 2333229
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-29",
+    "price": 138.35,
+    "volume": 3455519
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-28",
+    "price": 123.91,
+    "volume": 1912340
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-25",
+    "price": 122.1,
+    "volume": 1181800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-24",
+    "price": 124.24,
+    "volume": 1078603
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-23",
+    "price": 121.05,
+    "volume": 1741253
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-22",
+    "price": 114.68,
+    "volume": 1506500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-21",
+    "price": 110.41,
+    "volume": 2242811
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-17",
+    "price": 121.81,
+    "volume": 969103
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-16",
+    "price": 120.44,
+    "volume": 1106700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-15",
+    "price": 120.91,
+    "volume": 1114100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-14",
+    "price": 124.91,
+    "volume": 1363485
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-11",
+    "price": 123.79,
+    "volume": 1566000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-10",
+    "price": 127.52,
+    "volume": 1160300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-09",
+    "price": 131.07,
+    "volume": 2466526
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-08",
+    "price": 119.51,
+    "volume": 1713500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-07",
+    "price": 119.72,
+    "volume": 2542100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-04",
+    "price": 120.35,
+    "volume": 2875600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-03",
+    "price": 132.86,
+    "volume": 1335352
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-02",
+    "price": 137.18,
+    "volume": 1008729
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-04-01",
+    "price": 133.4,
+    "volume": 1115900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-31",
+    "price": 134.5,
+    "volume": 1119100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-28",
+    "price": 133.14,
+    "volume": 864500
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-27",
+    "price": 134.44,
+    "volume": 1368446
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-26",
+    "price": 133.04,
+    "volume": 1984069
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-25",
+    "price": 130.78,
+    "volume": 1694002
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-24",
+    "price": 129.49,
+    "volume": 1543700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-21",
+    "price": 123.2,
+    "volume": 6652268
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-20",
+    "price": 126.34,
+    "volume": 962509
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-19",
+    "price": 127.75,
+    "volume": 838310
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-18",
+    "price": 125.33,
+    "volume": 979800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-17",
+    "price": 128,
+    "volume": 1677800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-14",
+    "price": 122.67,
+    "volume": 1125200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-13",
+    "price": 119.51,
+    "volume": 1896655
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-12",
+    "price": 121.2,
+    "volume": 1822983
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-11",
+    "price": 126.42,
+    "volume": 1058249
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-10",
+    "price": 126.15,
+    "volume": 1521519
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-07",
+    "price": 127.49,
+    "volume": 1325020
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-06",
+    "price": 125.44,
+    "volume": 1548600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-05",
+    "price": 126.02,
+    "volume": 1364600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-04",
+    "price": 122.67,
+    "volume": 1875420
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-03-03",
+    "price": 124.56,
+    "volume": 1645600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-28",
+    "price": 126.59,
+    "volume": 3557121
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-27",
+    "price": 130.48,
+    "volume": 1298138
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-26",
+    "price": 131.75,
+    "volume": 1724049
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-25",
+    "price": 134.57,
+    "volume": 1385835
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-24",
+    "price": 131.56,
+    "volume": 1598203
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-21",
+    "price": 129.6,
+    "volume": 1742125
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-20",
+    "price": 137.24,
+    "volume": 1854202
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-19",
+    "price": 135.65,
+    "volume": 2509688
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-18",
+    "price": 134.91,
+    "volume": 1940300
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-14",
+    "price": 133.31,
+    "volume": 1991900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-13",
+    "price": 133.57,
+    "volume": 2689374
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-12",
+    "price": 126.19,
+    "volume": 4551900
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-11",
+    "price": 138.83,
+    "volume": 1419100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-10",
+    "price": 139.45,
+    "volume": 1273414
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-07",
+    "price": 140.47,
+    "volume": 689247
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-06",
+    "price": 139.8,
+    "volume": 1226512
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-05",
+    "price": 144.98,
+    "volume": 880150
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-04",
+    "price": 143.71,
+    "volume": 887800
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-02-03",
+    "price": 144.64,
+    "volume": 1412821
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-31",
+    "price": 140.89,
+    "volume": 842971
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-30",
+    "price": 143.23,
+    "volume": 976700
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-29",
+    "price": 139.37,
+    "volume": 888132
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-28",
+    "price": 139.67,
+    "volume": 1549929
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-27",
+    "price": 138.89,
+    "volume": 879100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-24",
+    "price": 135.58,
+    "volume": 1148736
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-23",
+    "price": 138.29,
+    "volume": 1317808
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-22",
+    "price": 134.42,
+    "volume": 677209
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-21",
+    "price": 134.43,
+    "volume": 1193535
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-17",
+    "price": 130.86,
+    "volume": 747407
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-16",
+    "price": 132.77,
+    "volume": 746000
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-15",
+    "price": 130.03,
+    "volume": 767009
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-14",
+    "price": 127.63,
+    "volume": 681513
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-13",
+    "price": 129.27,
+    "volume": 1137600
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-10",
+    "price": 127.97,
+    "volume": 1078200
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-08",
+    "price": 130.21,
+    "volume": 1163292
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-07",
+    "price": 128.8,
+    "volume": 1162934
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-06",
+    "price": 125.61,
+    "volume": 1370305
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-03",
+    "price": 122.65,
+    "volume": 1506100
+  },
+  {
+    "symbol": "THC",
+    "date": "2025-01-02",
+    "price": 125.22,
+    "volume": 664849
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-31",
+    "price": 126.23,
+    "volume": 718662
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-30",
+    "price": 125.42,
+    "volume": 721300
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-27",
+    "price": 127.97,
+    "volume": 1076832
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-26",
+    "price": 127.95,
+    "volume": 535214
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-24",
+    "price": 129.71,
+    "volume": 490549
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-23",
+    "price": 129.64,
+    "volume": 1118208
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-20",
+    "price": 129.46,
+    "volume": 7391634
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-19",
+    "price": 125.7,
+    "volume": 1478800
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-18",
+    "price": 127.46,
+    "volume": 1307558
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-17",
+    "price": 132.55,
+    "volume": 1316200
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-16",
+    "price": 133.77,
+    "volume": 1910812
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-13",
+    "price": 136.71,
+    "volume": 1009359
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-12",
+    "price": 135.36,
+    "volume": 1866721
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-11",
+    "price": 140.09,
+    "volume": 942724
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-10",
+    "price": 139.1,
+    "volume": 1242409
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-09",
+    "price": 141.01,
+    "volume": 1236418
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-06",
+    "price": 138.94,
+    "volume": 1108316
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-05",
+    "price": 138.9,
+    "volume": 879130
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-04",
+    "price": 141.51,
+    "volume": 658818
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-03",
+    "price": 141.27,
+    "volume": 942524
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-12-02",
+    "price": 142.03,
+    "volume": 1096050
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-29",
+    "price": 142.68,
+    "volume": 490300
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-27",
+    "price": 141.98,
+    "volume": 1278800
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-26",
+    "price": 145.64,
+    "volume": 1430600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-25",
+    "price": 143.32,
+    "volume": 2306059
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-22",
+    "price": 143.63,
+    "volume": 2567038
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-21",
+    "price": 147.92,
+    "volume": 2251708
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-20",
+    "price": 151.84,
+    "volume": 983600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-19",
+    "price": 153.35,
+    "volume": 819200
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-18",
+    "price": 153.45,
+    "volume": 1341117
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-15",
+    "price": 155.34,
+    "volume": 1573786
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-14",
+    "price": 162.65,
+    "volume": 1878160
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-13",
+    "price": 162.93,
+    "volume": 969491
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-12",
+    "price": 164.21,
+    "volume": 1009133
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-11",
+    "price": 166.85,
+    "volume": 896104
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-08",
+    "price": 165.21,
+    "volume": 1128138
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-07",
+    "price": 168.52,
+    "volume": 1152500
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-06",
+    "price": 160.37,
+    "volume": 2418400
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-05",
+    "price": 166.87,
+    "volume": 1198121
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-04",
+    "price": 162.38,
+    "volume": 1855500
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-11-01",
+    "price": 156.13,
+    "volume": 1215240
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-31",
+    "price": 155.02,
+    "volume": 1155030
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-30",
+    "price": 158.08,
+    "volume": 1401031
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-29",
+    "price": 162.76,
+    "volume": 3711440
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-28",
+    "price": 139.49,
+    "volume": 1782800
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-25",
+    "price": 139.77,
+    "volume": 2632674
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-24",
+    "price": 151.09,
+    "volume": 1994924
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-23",
+    "price": 157.62,
+    "volume": 872468
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-22",
+    "price": 157.24,
+    "volume": 765100
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-21",
+    "price": 159.74,
+    "volume": 631200
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-18",
+    "price": 163.87,
+    "volume": 829600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-17",
+    "price": 161.71,
+    "volume": 488800
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-16",
+    "price": 164.03,
+    "volume": 908416
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-15",
+    "price": 160.25,
+    "volume": 1215000
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-14",
+    "price": 155.29,
+    "volume": 961437
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-11",
+    "price": 155.82,
+    "volume": 787872
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-10",
+    "price": 152.78,
+    "volume": 914126
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-09",
+    "price": 154.07,
+    "volume": 1068998
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-08",
+    "price": 150.75,
+    "volume": 1448737
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-07",
+    "price": 152.87,
+    "volume": 1678247
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-04",
+    "price": 156.57,
+    "volume": 1187071
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-03",
+    "price": 156.74,
+    "volume": 1287101
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-02",
+    "price": 161.81,
+    "volume": 669219
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-10-01",
+    "price": 162.87,
+    "volume": 686666
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-30",
+    "price": 166.2,
+    "volume": 1055201
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-27",
+    "price": 163.22,
+    "volume": 1330436
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-26",
+    "price": 164.94,
+    "volume": 737629
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-25",
+    "price": 167.7,
+    "volume": 658500
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-24",
+    "price": 166.33,
+    "volume": 643059
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-23",
+    "price": 168.03,
+    "volume": 837037
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-20",
+    "price": 165.16,
+    "volume": 2500600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-19",
+    "price": 167.2,
+    "volume": 1361418
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-18",
+    "price": 161.07,
+    "volume": 1367118
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-17",
+    "price": 156.96,
+    "volume": 1488741
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-16",
+    "price": 164.62,
+    "volume": 874441
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-13",
+    "price": 162.41,
+    "volume": 639077
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-12",
+    "price": 158.01,
+    "volume": 755300
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-11",
+    "price": 157.66,
+    "volume": 903711
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-10",
+    "price": 154.62,
+    "volume": 1065105
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-09",
+    "price": 153.22,
+    "volume": 1722692
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-06",
+    "price": 153.4,
+    "volume": 2237319
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-05",
+    "price": 161.98,
+    "volume": 1679600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-04",
+    "price": 162.12,
+    "volume": 954217
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-09-03",
+    "price": 161.65,
+    "volume": 927329
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-30",
+    "price": 165.84,
+    "volume": 651305
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-29",
+    "price": 164.67,
+    "volume": 584323
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-28",
+    "price": 162.87,
+    "volume": 506600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-27",
+    "price": 163.87,
+    "volume": 469251
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-26",
+    "price": 163.68,
+    "volume": 677800
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-23",
+    "price": 164.53,
+    "volume": 795470
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-22",
+    "price": 160.5,
+    "volume": 740718
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-21",
+    "price": 158.22,
+    "volume": 666500
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-20",
+    "price": 155.22,
+    "volume": 681541
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-19",
+    "price": 156.18,
+    "volume": 1030615
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-16",
+    "price": 156.66,
+    "volume": 772123
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-15",
+    "price": 155.15,
+    "volume": 1036660
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-14",
+    "price": 154,
+    "volume": 752600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-13",
+    "price": 152.79,
+    "volume": 1134000
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-12",
+    "price": 151.48,
+    "volume": 728145
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-09",
+    "price": 150.06,
+    "volume": 747321
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-08",
+    "price": 150.1,
+    "volume": 1015714
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-07",
+    "price": 145.49,
+    "volume": 1167747
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-06",
+    "price": 146.16,
+    "volume": 1324345
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-05",
+    "price": 144.99,
+    "volume": 2393335
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-02",
+    "price": 141.75,
+    "volume": 1610140
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-08-01",
+    "price": 147.95,
+    "volume": 1411708
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-31",
+    "price": 149.7,
+    "volume": 1713945
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-30",
+    "price": 150.16,
+    "volume": 1829600
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-29",
+    "price": 152.87,
+    "volume": 1307200
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-26",
+    "price": 151.63,
+    "volume": 1459260
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-25",
+    "price": 149.74,
+    "volume": 2597572
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-24",
+    "price": 145.34,
+    "volume": 3967935
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-23",
+    "price": 138.68,
+    "volume": 1766203
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-22",
+    "price": 134.9,
+    "volume": 1056334
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-19",
+    "price": 133.27,
+    "volume": 694909
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-18",
+    "price": 131.75,
+    "volume": 1250960
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-17",
+    "price": 133.43,
+    "volume": 1298347
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-16",
+    "price": 133.39,
+    "volume": 832711
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-15",
+    "price": 131.42,
+    "volume": 1060880
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-12",
+    "price": 134.39,
+    "volume": 1175747
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-11",
+    "price": 133.73,
+    "volume": 1292510
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-10",
+    "price": 130.7,
+    "volume": 784410
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-09",
+    "price": 130.97,
+    "volume": 741883
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-08",
+    "price": 129.27,
+    "volume": 1012677
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-05",
+    "price": 131.8,
+    "volume": 1623055
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-03",
+    "price": 135.84,
+    "volume": 524593
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-02",
+    "price": 134.24,
+    "volume": 565451
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-07-01",
+    "price": 133.3,
+    "volume": 1139462
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-28",
+    "price": 133.03,
+    "volume": 2993022
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-27",
+    "price": 138.3,
+    "volume": 955313
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-26",
+    "price": 135.69,
+    "volume": 1347312
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-25",
+    "price": 134.93,
+    "volume": 1086805
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-24",
+    "price": 136.03,
+    "volume": 1097138
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-21",
+    "price": 134.25,
+    "volume": 2676114
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-20",
+    "price": 135.23,
+    "volume": 902224
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-18",
+    "price": 137.51,
+    "volume": 787262
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-17",
+    "price": 136.88,
+    "volume": 722981
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-14",
+    "price": 138.01,
+    "volume": 725345
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-13",
+    "price": 139.48,
+    "volume": 858032
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-12",
+    "price": 140.75,
+    "volume": 1766067
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-11",
+    "price": 135.77,
+    "volume": 1356447
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-10",
+    "price": 137.76,
+    "volume": 1431639
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-07",
+    "price": 133.73,
+    "volume": 1211992
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-06",
+    "price": 134.68,
+    "volume": 744625
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-05",
+    "price": 135.56,
+    "volume": 2067969
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-04",
+    "price": 132.24,
+    "volume": 1031963
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-06-03",
+    "price": 133.69,
+    "volume": 1337274
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-31",
+    "price": 135.22,
+    "volume": 1364730
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-30",
+    "price": 133.17,
+    "volume": 1139624
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-29",
+    "price": 131.55,
+    "volume": 1079357
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-28",
+    "price": 130.86,
+    "volume": 783087
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-24",
+    "price": 131.13,
+    "volume": 1110231
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-23",
+    "price": 128.98,
+    "volume": 782055
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-22",
+    "price": 130.42,
+    "volume": 986250
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-21",
+    "price": 130.36,
+    "volume": 770713
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-20",
+    "price": 130.96,
+    "volume": 892323
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-17",
+    "price": 128.47,
+    "volume": 761833
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-16",
+    "price": 127.93,
+    "volume": 1436313
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-15",
+    "price": 132.97,
+    "volume": 1647300
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-14",
+    "price": 128.56,
+    "volume": 1756544
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-13",
+    "price": 126.12,
+    "volume": 1569343
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-10",
+    "price": 127.13,
+    "volume": 1132209
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-09",
+    "price": 127.68,
+    "volume": 1181931
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-08",
+    "price": 122.84,
+    "volume": 1541032
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-07",
+    "price": 124.07,
+    "volume": 1528272
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-06",
+    "price": 122.36,
+    "volume": 1248073
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-03",
+    "price": 120.28,
+    "volume": 1695112
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-02",
+    "price": 118.94,
+    "volume": 1988445
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-05-01",
+    "price": 115.95,
+    "volume": 3242585
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-30",
+    "price": 112.29,
+    "volume": 3866138
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-29",
+    "price": 99.15,
+    "volume": 1291339
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-26",
+    "price": 96.13,
+    "volume": 1322951
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-25",
+    "price": 97.51,
+    "volume": 1080732
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-24",
+    "price": 98.26,
+    "volume": 911238
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-23",
+    "price": 97.86,
+    "volume": 1276810
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-22",
+    "price": 94.85,
+    "volume": 1139860
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-19",
+    "price": 93.19,
+    "volume": 1127374
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-18",
+    "price": 91.08,
+    "volume": 2381452
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-17",
+    "price": 96,
+    "volume": 1208545
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-16",
+    "price": 98.27,
+    "volume": 1047308
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-15",
+    "price": 99.4,
+    "volume": 764131
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-12",
+    "price": 100.44,
+    "volume": 898660
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-11",
+    "price": 101.82,
+    "volume": 688814
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-10",
+    "price": 101.1,
+    "volume": 615769
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-09",
+    "price": 101.81,
+    "volume": 574563
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-08",
+    "price": 101.84,
+    "volume": 847166
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-05",
+    "price": 102.18,
+    "volume": 727287
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-04",
+    "price": 100.71,
+    "volume": 1047295
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-03",
+    "price": 103.09,
+    "volume": 651882
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-02",
+    "price": 102.84,
+    "volume": 1097303
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-04-01",
+    "price": 104.39,
+    "volume": 1126267
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-28",
+    "price": 105.11,
+    "volume": 890790
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-27",
+    "price": 104.87,
+    "volume": 1455093
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-26",
+    "price": 102.32,
+    "volume": 540619
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-25",
+    "price": 102.67,
+    "volume": 537124
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-22",
+    "price": 102.05,
+    "volume": 638484
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-21",
+    "price": 103.21,
+    "volume": 815987
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-20",
+    "price": 102.59,
+    "volume": 773267
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-19",
+    "price": 102.52,
+    "volume": 1207869
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-18",
+    "price": 100.38,
+    "volume": 1088484
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-15",
+    "price": 98.8,
+    "volume": 2956306
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-14",
+    "price": 100.04,
+    "volume": 1348029
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-13",
+    "price": 100.38,
+    "volume": 1778202
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-12",
+    "price": 99.96,
+    "volume": 1466962
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-11",
+    "price": 97.07,
+    "volume": 1358569
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-08",
+    "price": 98.68,
+    "volume": 1499741
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-07",
+    "price": 98.16,
+    "volume": 1690163
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-06",
+    "price": 97.34,
+    "volume": 1871139
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-05",
+    "price": 95.56,
+    "volume": 1471106
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-04",
+    "price": 93.7,
+    "volume": 1078409
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-03-01",
+    "price": 94.29,
+    "volume": 1775443
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-29",
+    "price": 93,
+    "volume": 2131283
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-28",
+    "price": 89.22,
+    "volume": 1276385
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-27",
+    "price": 90.23,
+    "volume": 1495050
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-26",
+    "price": 91.81,
+    "volume": 1415736
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-23",
+    "price": 92.8,
+    "volume": 835575
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-22",
+    "price": 92.38,
+    "volume": 737803
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-21",
+    "price": 91.46,
+    "volume": 763166
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-20",
+    "price": 91.17,
+    "volume": 1002195
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-16",
+    "price": 90.93,
+    "volume": 1006798
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-15",
+    "price": 89.9,
+    "volume": 874267
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-14",
+    "price": 87.94,
+    "volume": 814407
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-13",
+    "price": 88.07,
+    "volume": 1064743
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-12",
+    "price": 90.54,
+    "volume": 1189657
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-09",
+    "price": 88.09,
+    "volume": 1316066
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-08",
+    "price": 89.02,
+    "volume": 2203924
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-07",
+    "price": 88.11,
+    "volume": 1175050
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-06",
+    "price": 88.44,
+    "volume": 1022012
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-05",
+    "price": 90.04,
+    "volume": 1322582
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-02",
+    "price": 89.33,
+    "volume": 960802
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-02-01",
+    "price": 89.11,
+    "volume": 2594176
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-31",
+    "price": 82.74,
+    "volume": 906761
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-30",
+    "price": 82.74,
+    "volume": 1146908
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-29",
+    "price": 83.57,
+    "volume": 537531
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-26",
+    "price": 82.89,
+    "volume": 705726
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-25",
+    "price": 82.66,
+    "volume": 1368893
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-24",
+    "price": 79.65,
+    "volume": 662618
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-23",
+    "price": 80.47,
+    "volume": 745413
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-22",
+    "price": 81.4,
+    "volume": 957975
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-19",
+    "price": 82.17,
+    "volume": 1108300
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-18",
+    "price": 80.38,
+    "volume": 1107768
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-17",
+    "price": 78.74,
+    "volume": 1117721
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-16",
+    "price": 80.96,
+    "volume": 997448
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-12",
+    "price": 81.14,
+    "volume": 1099970
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-11",
+    "price": 81.5,
+    "volume": 891740
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-10",
+    "price": 79.99,
+    "volume": 632866
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-09",
+    "price": 79.36,
+    "volume": 775565
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-08",
+    "price": 79.33,
+    "volume": 1232090
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-05",
+    "price": 75.91,
+    "volume": 1250021
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-04",
+    "price": 74.17,
+    "volume": 692866
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-03",
+    "price": 74.2,
+    "volume": 934765
+  },
+  {
+    "symbol": "THC",
+    "date": "2024-01-02",
+    "price": 76.03,
+    "volume": 999115
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-29",
+    "price": 75.57,
+    "volume": 448843
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-28",
+    "price": 76.25,
+    "volume": 446858
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-27",
+    "price": 76.32,
+    "volume": 431923
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-26",
+    "price": 76.82,
+    "volume": 329643
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-22",
+    "price": 75.75,
+    "volume": 383965
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-21",
+    "price": 75.88,
+    "volume": 774625
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-20",
+    "price": 73.62,
+    "volume": 617453
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-19",
+    "price": 75.56,
+    "volume": 651638
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-18",
+    "price": 74.98,
+    "volume": 667809
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-15",
+    "price": 75.36,
+    "volume": 1989429
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-14",
+    "price": 77.01,
+    "volume": 2011215
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-13",
+    "price": 74.25,
+    "volume": 861434
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-12",
+    "price": 71.26,
+    "volume": 733083
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-11",
+    "price": 71.87,
+    "volume": 1036588
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-08",
+    "price": 71.55,
+    "volume": 1717047
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-07",
+    "price": 68.94,
+    "volume": 1051644
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-06",
+    "price": 69.46,
+    "volume": 755729
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-05",
+    "price": 70.18,
+    "volume": 785476
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-04",
+    "price": 72.31,
+    "volume": 1756553
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-12-01",
+    "price": 71.01,
+    "volume": 2405675
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-30",
+    "price": 69.01,
+    "volume": 2167657
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-29",
+    "price": 67.37,
+    "volume": 1460230
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-28",
+    "price": 66.46,
+    "volume": 1094479
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-27",
+    "price": 66.6,
+    "volume": 1638085
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-24",
+    "price": 68,
+    "volume": 417262
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-22",
+    "price": 67.73,
+    "volume": 1721003
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-21",
+    "price": 66.18,
+    "volume": 2016242
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-20",
+    "price": 64.95,
+    "volume": 2276394
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-17",
+    "price": 63.74,
+    "volume": 4096680
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-16",
+    "price": 58.14,
+    "volume": 876549
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-15",
+    "price": 58.65,
+    "volume": 1691883
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-14",
+    "price": 58.46,
+    "volume": 1677138
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-13",
+    "price": 54.87,
+    "volume": 1685715
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-10",
+    "price": 53.79,
+    "volume": 1494912
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-09",
+    "price": 52.66,
+    "volume": 1275851
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-08",
+    "price": 54.62,
+    "volume": 1625283
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-07",
+    "price": 55.6,
+    "volume": 1025067
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-06",
+    "price": 54.61,
+    "volume": 1062254
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-03",
+    "price": 54.92,
+    "volume": 2141947
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-02",
+    "price": 53.96,
+    "volume": 2342254
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-11-01",
+    "price": 53.09,
+    "volume": 1905285
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-31",
+    "price": 53.7,
+    "volume": 3237952
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-30",
+    "price": 53.25,
+    "volume": 1869699
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-27",
+    "price": 53.12,
+    "volume": 1736886
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-26",
+    "price": 53.41,
+    "volume": 1327270
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-25",
+    "price": 53.9,
+    "volume": 1417119
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-24",
+    "price": 56.05,
+    "volume": 2415544
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-23",
+    "price": 54.66,
+    "volume": 1259671
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-20",
+    "price": 54.57,
+    "volume": 1139282
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-19",
+    "price": 56.43,
+    "volume": 1310456
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-18",
+    "price": 55.73,
+    "volume": 1299831
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-17",
+    "price": 56.49,
+    "volume": 2463200
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-16",
+    "price": 54.13,
+    "volume": 1173511
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-13",
+    "price": 54.09,
+    "volume": 2275678
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-12",
+    "price": 52.84,
+    "volume": 5217068
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-11",
+    "price": 57.7,
+    "volume": 2153637
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-10",
+    "price": 61.98,
+    "volume": 1343054
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-09",
+    "price": 61.35,
+    "volume": 1663216
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-06",
+    "price": 61.66,
+    "volume": 1898056
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-05",
+    "price": 60.71,
+    "volume": 3958539
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-04",
+    "price": 61.24,
+    "volume": 3289405
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-03",
+    "price": 63.21,
+    "volume": 1837286
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-10-02",
+    "price": 66.17,
+    "volume": 1151994
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-29",
+    "price": 65.89,
+    "volume": 1071144
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-28",
+    "price": 67.34,
+    "volume": 836236
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-27",
+    "price": 66.15,
+    "volume": 1443347
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-26",
+    "price": 66.39,
+    "volume": 1211642
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-25",
+    "price": 69.26,
+    "volume": 759204
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-22",
+    "price": 67.73,
+    "volume": 910037
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-21",
+    "price": 67.33,
+    "volume": 1202273
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-20",
+    "price": 69.59,
+    "volume": 663614
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-19",
+    "price": 69.99,
+    "volume": 825458
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-18",
+    "price": 70.02,
+    "volume": 812788
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-15",
+    "price": 69.78,
+    "volume": 1801653
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-14",
+    "price": 71.33,
+    "volume": 1227753
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-13",
+    "price": 70.98,
+    "volume": 1102849
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-12",
+    "price": 70.66,
+    "volume": 1910321
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-11",
+    "price": 73.39,
+    "volume": 823391
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-08",
+    "price": 74.73,
+    "volume": 1289639
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-07",
+    "price": 73.38,
+    "volume": 1777324
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-06",
+    "price": 77.24,
+    "volume": 669192
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-05",
+    "price": 76.64,
+    "volume": 922690
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-09-01",
+    "price": 78.7,
+    "volume": 843297
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-31",
+    "price": 77.56,
+    "volume": 758954
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-30",
+    "price": 78.41,
+    "volume": 792398
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-29",
+    "price": 78.54,
+    "volume": 1194488
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-28",
+    "price": 76.39,
+    "volume": 838105
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-25",
+    "price": 74.23,
+    "volume": 582336
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-24",
+    "price": 73.87,
+    "volume": 646627
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-23",
+    "price": 75.1,
+    "volume": 1180492
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-22",
+    "price": 72.68,
+    "volume": 825399
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-21",
+    "price": 71.63,
+    "volume": 513923
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-18",
+    "price": 70.68,
+    "volume": 1086249
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-17",
+    "price": 71.24,
+    "volume": 1632220
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-16",
+    "price": 71.91,
+    "volume": 1149829
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-15",
+    "price": 72.92,
+    "volume": 993499
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-14",
+    "price": 73.21,
+    "volume": 1896355
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-11",
+    "price": 73.84,
+    "volume": 838382
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-10",
+    "price": 73.87,
+    "volume": 1177633
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-09",
+    "price": 73.18,
+    "volume": 1569799
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-08",
+    "price": 73.19,
+    "volume": 1444997
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-07",
+    "price": 75.7,
+    "volume": 847731
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-04",
+    "price": 74.48,
+    "volume": 1211906
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-03",
+    "price": 74.35,
+    "volume": 1285172
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-02",
+    "price": 74.1,
+    "volume": 1702917
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-08-01",
+    "price": 76.78,
+    "volume": 3554000
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-31",
+    "price": 74.73,
+    "volume": 1609298
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-28",
+    "price": 74.36,
+    "volume": 1480050
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-27",
+    "price": 73.28,
+    "volume": 2004794
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-26",
+    "price": 76.75,
+    "volume": 1524867
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-25",
+    "price": 77.2,
+    "volume": 1295059
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-24",
+    "price": 76.89,
+    "volume": 1131841
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-21",
+    "price": 76.77,
+    "volume": 1562466
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-20",
+    "price": 78.92,
+    "volume": 1688564
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-19",
+    "price": 80.37,
+    "volume": 1148628
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-18",
+    "price": 80.45,
+    "volume": 873922
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-17",
+    "price": 80.65,
+    "volume": 801616
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-14",
+    "price": 81.9,
+    "volume": 951591
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-13",
+    "price": 82.73,
+    "volume": 842349
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-12",
+    "price": 83.45,
+    "volume": 1147239
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-11",
+    "price": 82.4,
+    "volume": 1004653
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-10",
+    "price": 82.86,
+    "volume": 1067082
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-07",
+    "price": 80.06,
+    "volume": 1029227
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-06",
+    "price": 79.96,
+    "volume": 1072225
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-05",
+    "price": 80.51,
+    "volume": 1006571
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-07-03",
+    "price": 81.35,
+    "volume": 666090
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-30",
+    "price": 81.38,
+    "volume": 1010924
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-29",
+    "price": 81.64,
+    "volume": 1416293
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-28",
+    "price": 79.75,
+    "volume": 977899
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-27",
+    "price": 79.34,
+    "volume": 1279829
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-26",
+    "price": 78.62,
+    "volume": 647515
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-23",
+    "price": 78.2,
+    "volume": 1305695
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-22",
+    "price": 79.22,
+    "volume": 791294
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-21",
+    "price": 78.95,
+    "volume": 1061140
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-20",
+    "price": 78.4,
+    "volume": 994076
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-16",
+    "price": 78.43,
+    "volume": 2931219
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-15",
+    "price": 78.19,
+    "volume": 1434003
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-14",
+    "price": 77.48,
+    "volume": 4194340
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-13",
+    "price": 75.57,
+    "volume": 2027423
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-12",
+    "price": 73.35,
+    "volume": 1398968
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-09",
+    "price": 72.81,
+    "volume": 919159
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-08",
+    "price": 74.98,
+    "volume": 951355
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-07",
+    "price": 74.64,
+    "volume": 1497515
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-06",
+    "price": 75.05,
+    "volume": 993376
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-05",
+    "price": 73.92,
+    "volume": 970085
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-02",
+    "price": 74.58,
+    "volume": 1127964
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-06-01",
+    "price": 72.55,
+    "volume": 961159
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-31",
+    "price": 71.2,
+    "volume": 1188008
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-30",
+    "price": 70.38,
+    "volume": 912891
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-26",
+    "price": 70.29,
+    "volume": 766263
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-25",
+    "price": 69.29,
+    "volume": 1335345
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-24",
+    "price": 68.9,
+    "volume": 1310365
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-23",
+    "price": 69.45,
+    "volume": 1149360
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-22",
+    "price": 72.69,
+    "volume": 898942
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-19",
+    "price": 72.88,
+    "volume": 768625
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-18",
+    "price": 73.17,
+    "volume": 1267861
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-17",
+    "price": 72.24,
+    "volume": 1153683
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-16",
+    "price": 71.5,
+    "volume": 1384925
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-15",
+    "price": 71.09,
+    "volume": 1047587
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-12",
+    "price": 69.59,
+    "volume": 1304953
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-11",
+    "price": 70.1,
+    "volume": 907719
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-10",
+    "price": 71.54,
+    "volume": 1465807
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-09",
+    "price": 70.2,
+    "volume": 2163281
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-08",
+    "price": 69.7,
+    "volume": 816257
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-05",
+    "price": 69.35,
+    "volume": 1028368
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-04",
+    "price": 68.46,
+    "volume": 1774555
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-03",
+    "price": 68.7,
+    "volume": 1395790
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-02",
+    "price": 69.89,
+    "volume": 1780737
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-05-01",
+    "price": 72.28,
+    "volume": 937364
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-28",
+    "price": 73.32,
+    "volume": 2070766
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-27",
+    "price": 71.92,
+    "volume": 1187800
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-26",
+    "price": 71.66,
+    "volume": 1778845
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-25",
+    "price": 70.84,
+    "volume": 4363358
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-24",
+    "price": 69,
+    "volume": 2110789
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-21",
+    "price": 68.89,
+    "volume": 2660972
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-20",
+    "price": 66.06,
+    "volume": 1330778
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-19",
+    "price": 67.22,
+    "volume": 1761319
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-18",
+    "price": 66.34,
+    "volume": 1384835
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-17",
+    "price": 65.23,
+    "volume": 1277920
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-14",
+    "price": 64.77,
+    "volume": 1431873
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-13",
+    "price": 64.08,
+    "volume": 890763
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-12",
+    "price": 62.82,
+    "volume": 1260619
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-11",
+    "price": 62.16,
+    "volume": 1065749
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-10",
+    "price": 60.87,
+    "volume": 1083421
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-06",
+    "price": 61.01,
+    "volume": 1508437
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-05",
+    "price": 60.84,
+    "volume": 2237264
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-04",
+    "price": 58.5,
+    "volume": 969618
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-04-03",
+    "price": 58.44,
+    "volume": 1808183
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-31",
+    "price": 59.42,
+    "volume": 1524487
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-30",
+    "price": 57.6,
+    "volume": 1536503
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-29",
+    "price": 56.06,
+    "volume": 1068021
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-28",
+    "price": 54.96,
+    "volume": 1574164
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-27",
+    "price": 55.17,
+    "volume": 1462165
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-24",
+    "price": 54.49,
+    "volume": 994151
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-23",
+    "price": 55.16,
+    "volume": 1104069
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-22",
+    "price": 56.36,
+    "volume": 1020476
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-21",
+    "price": 57.98,
+    "volume": 1263716
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-20",
+    "price": 56.72,
+    "volume": 1319268
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-17",
+    "price": 55.06,
+    "volume": 2064389
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-16",
+    "price": 56.88,
+    "volume": 2331102
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-15",
+    "price": 54.23,
+    "volume": 2308130
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-14",
+    "price": 54.04,
+    "volume": 2078247
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-13",
+    "price": 51.51,
+    "volume": 1765848
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-10",
+    "price": 52.58,
+    "volume": 1719666
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-09",
+    "price": 54.93,
+    "volume": 1508648
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-08",
+    "price": 57.6,
+    "volume": 942113
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-07",
+    "price": 57.12,
+    "volume": 1753165
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-06",
+    "price": 59.82,
+    "volume": 1246811
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-03",
+    "price": 61.2,
+    "volume": 1418043
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-02",
+    "price": 58.78,
+    "volume": 1115322
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-03-01",
+    "price": 59.55,
+    "volume": 2429086
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-28",
+    "price": 58.53,
+    "volume": 1345007
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-27",
+    "price": 58.55,
+    "volume": 1304026
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-24",
+    "price": 59.29,
+    "volume": 1224487
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-23",
+    "price": 60.62,
+    "volume": 1335009
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-22",
+    "price": 59.39,
+    "volume": 1441193
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-21",
+    "price": 59.69,
+    "volume": 975885
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-17",
+    "price": 61.36,
+    "volume": 1280294
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-16",
+    "price": 61.33,
+    "volume": 1299113
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-15",
+    "price": 61.71,
+    "volume": 1852868
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-14",
+    "price": 61.85,
+    "volume": 2495862
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-13",
+    "price": 60.07,
+    "volume": 1607848
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-10",
+    "price": 58.65,
+    "volume": 2458918
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-09",
+    "price": 56.5,
+    "volume": 4364378
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-08",
+    "price": 54.37,
+    "volume": 2324179
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-07",
+    "price": 54.54,
+    "volume": 1924256
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-06",
+    "price": 55.11,
+    "volume": 1834185
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-03",
+    "price": 56.95,
+    "volume": 1029092
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-02",
+    "price": 57.86,
+    "volume": 1587413
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-02-01",
+    "price": 56.76,
+    "volume": 2253164
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-31",
+    "price": 54.85,
+    "volume": 1998458
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-30",
+    "price": 52.75,
+    "volume": 1316826
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-27",
+    "price": 52.79,
+    "volume": 2311143
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-26",
+    "price": 51.66,
+    "volume": 1333738
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-25",
+    "price": 50.56,
+    "volume": 1139346
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-24",
+    "price": 50.25,
+    "volume": 956699
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-23",
+    "price": 51.5,
+    "volume": 1379674
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-20",
+    "price": 51.54,
+    "volume": 1976338
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-19",
+    "price": 51.76,
+    "volume": 2498433
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-18",
+    "price": 53.42,
+    "volume": 1474609
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-17",
+    "price": 53.05,
+    "volume": 1908541
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-13",
+    "price": 51.73,
+    "volume": 954649
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-12",
+    "price": 51.15,
+    "volume": 1055621
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-11",
+    "price": 51.16,
+    "volume": 1477786
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-10",
+    "price": 52.35,
+    "volume": 840454
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-09",
+    "price": 51.84,
+    "volume": 1118848
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-06",
+    "price": 52.06,
+    "volume": 1243468
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-05",
+    "price": 51.43,
+    "volume": 1509416
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-04",
+    "price": 51.05,
+    "volume": 2357334
+  },
+  {
+    "symbol": "THC",
+    "date": "2023-01-03",
+    "price": 48.98,
+    "volume": 2280295
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-30",
+    "price": 48.79,
+    "volume": 1429314
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-29",
+    "price": 47.98,
+    "volume": 1177437
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-28",
+    "price": 46.76,
+    "volume": 1407186
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-27",
+    "price": 47.42,
+    "volume": 1872555
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-23",
+    "price": 46.64,
+    "volume": 1030882
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-22",
+    "price": 46.77,
+    "volume": 2003636
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-21",
+    "price": 46.15,
+    "volume": 2886026
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-20",
+    "price": 43.26,
+    "volume": 1120958
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-19",
+    "price": 43.62,
+    "volume": 1200197
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-16",
+    "price": 44.3,
+    "volume": 3494180
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-15",
+    "price": 44.5,
+    "volume": 1031762
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-14",
+    "price": 45.87,
+    "volume": 978337
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-13",
+    "price": 45.98,
+    "volume": 1775245
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-12",
+    "price": 44.22,
+    "volume": 1252711
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-09",
+    "price": 43.75,
+    "volume": 664403
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-08",
+    "price": 44.12,
+    "volume": 1085295
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-07",
+    "price": 44.21,
+    "volume": 1395898
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-06",
+    "price": 43.76,
+    "volume": 1353762
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-05",
+    "price": 44.6,
+    "volume": 776591
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-02",
+    "price": 45.28,
+    "volume": 725588
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-12-01",
+    "price": 45.35,
+    "volume": 1045126
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-30",
+    "price": 46.18,
+    "volume": 1425508
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-29",
+    "price": 44.52,
+    "volume": 3078363
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-28",
+    "price": 44.46,
+    "volume": 991649
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-25",
+    "price": 46.05,
+    "volume": 590189
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-23",
+    "price": 45.01,
+    "volume": 1146543
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-22",
+    "price": 44.47,
+    "volume": 1686478
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-21",
+    "price": 43.05,
+    "volume": 1634895
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-18",
+    "price": 45.11,
+    "volume": 2325355
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-17",
+    "price": 42.37,
+    "volume": 2240287
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-16",
+    "price": 42.6,
+    "volume": 1073674
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-15",
+    "price": 43.97,
+    "volume": 2077538
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-14",
+    "price": 41.87,
+    "volume": 1572174
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-11",
+    "price": 43.77,
+    "volume": 1626079
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-10",
+    "price": 42.38,
+    "volume": 2238812
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-09",
+    "price": 38.3,
+    "volume": 2983840
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-08",
+    "price": 40.48,
+    "volume": 1915180
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-07",
+    "price": 41.06,
+    "volume": 2103713
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-04",
+    "price": 41.74,
+    "volume": 3236937
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-03",
+    "price": 40.96,
+    "volume": 2505967
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-02",
+    "price": 41.56,
+    "volume": 3455943
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-11-01",
+    "price": 45.65,
+    "volume": 2190005
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-31",
+    "price": 44.36,
+    "volume": 1520385
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-28",
+    "price": 44.83,
+    "volume": 3087068
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-27",
+    "price": 42.52,
+    "volume": 3112562
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-26",
+    "price": 42.53,
+    "volume": 3995921
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-25",
+    "price": 41.41,
+    "volume": 4123008
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-24",
+    "price": 39.01,
+    "volume": 6395968
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-21",
+    "price": 37.5,
+    "volume": 15433425
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-20",
+    "price": 54.32,
+    "volume": 1952363
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-19",
+    "price": 54.46,
+    "volume": 1146406
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-18",
+    "price": 55.44,
+    "volume": 1060647
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-17",
+    "price": 54.74,
+    "volume": 1772642
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-14",
+    "price": 52.06,
+    "volume": 941012
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-13",
+    "price": 54.07,
+    "volume": 1738802
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-12",
+    "price": 53.33,
+    "volume": 1468575
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-11",
+    "price": 53.2,
+    "volume": 1033028
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-10",
+    "price": 53.04,
+    "volume": 616967
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-07",
+    "price": 53.78,
+    "volume": 874061
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-06",
+    "price": 55.24,
+    "volume": 832995
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-05",
+    "price": 56.61,
+    "volume": 829710
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-04",
+    "price": 56.8,
+    "volume": 1514951
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-10-03",
+    "price": 53.65,
+    "volume": 1111983
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-30",
+    "price": 51.58,
+    "volume": 1056476
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-29",
+    "price": 53.05,
+    "volume": 1173899
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-28",
+    "price": 52.88,
+    "volume": 958864
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-27",
+    "price": 49.62,
+    "volume": 1217302
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-26",
+    "price": 50.67,
+    "volume": 986309
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-23",
+    "price": 52.89,
+    "volume": 1329771
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-22",
+    "price": 53.62,
+    "volume": 1377449
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-21",
+    "price": 55.75,
+    "volume": 749342
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-20",
+    "price": 56.85,
+    "volume": 866565
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-19",
+    "price": 59.21,
+    "volume": 601189
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-16",
+    "price": 59.04,
+    "volume": 2286553
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-15",
+    "price": 59.78,
+    "volume": 1253949
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-14",
+    "price": 59.28,
+    "volume": 1513516
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-13",
+    "price": 60.07,
+    "volume": 1526925
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-12",
+    "price": 63.81,
+    "volume": 1094830
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-09",
+    "price": 61.97,
+    "volume": 2040537
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-08",
+    "price": 60.64,
+    "volume": 635673
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-07",
+    "price": 60.02,
+    "volume": 2413988
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-06",
+    "price": 55.12,
+    "volume": 893426
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-02",
+    "price": 55.8,
+    "volume": 851482
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-09-01",
+    "price": 56.37,
+    "volume": 1919846
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-31",
+    "price": 56.5,
+    "volume": 1593501
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-30",
+    "price": 58.02,
+    "volume": 1048282
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-29",
+    "price": 59.5,
+    "volume": 720647
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-26",
+    "price": 60.07,
+    "volume": 876659
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-25",
+    "price": 63.3,
+    "volume": 871126
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-24",
+    "price": 62.13,
+    "volume": 1318760
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-23",
+    "price": 61.39,
+    "volume": 1029889
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-22",
+    "price": 61.94,
+    "volume": 765704
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-19",
+    "price": 63.16,
+    "volume": 1000746
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-18",
+    "price": 63.74,
+    "volume": 871671
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-17",
+    "price": 63.4,
+    "volume": 1311905
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-16",
+    "price": 64.46,
+    "volume": 1337538
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-15",
+    "price": 66.61,
+    "volume": 751171
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-12",
+    "price": 66.98,
+    "volume": 829261
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-11",
+    "price": 65.21,
+    "volume": 1020767
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-10",
+    "price": 65.64,
+    "volume": 771746
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-09",
+    "price": 63.2,
+    "volume": 658558
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-08",
+    "price": 64.17,
+    "volume": 842256
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-05",
+    "price": 64.37,
+    "volume": 723995
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-04",
+    "price": 64.07,
+    "volume": 846734
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-03",
+    "price": 65.94,
+    "volume": 677898
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-02",
+    "price": 64.92,
+    "volume": 762368
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-08-01",
+    "price": 65.64,
+    "volume": 970457
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-29",
+    "price": 66.12,
+    "volume": 976618
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-28",
+    "price": 65.47,
+    "volume": 1084802
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-27",
+    "price": 63.46,
+    "volume": 1056537
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-26",
+    "price": 63.17,
+    "volume": 1164927
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-25",
+    "price": 62.74,
+    "volume": 1634300
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-22",
+    "price": 63.12,
+    "volume": 4056057
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-21",
+    "price": 59.54,
+    "volume": 2194026
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-20",
+    "price": 58.54,
+    "volume": 1496043
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-19",
+    "price": 58.32,
+    "volume": 1254560
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-18",
+    "price": 55.26,
+    "volume": 799212
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-15",
+    "price": 55.55,
+    "volume": 1191662
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-14",
+    "price": 53.43,
+    "volume": 1012990
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-13",
+    "price": 53.86,
+    "volume": 712610
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-12",
+    "price": 53.76,
+    "volume": 792478
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-11",
+    "price": 54,
+    "volume": 1061432
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-08",
+    "price": 55.14,
+    "volume": 1133400
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-07",
+    "price": 55.22,
+    "volume": 2124928
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-06",
+    "price": 50.62,
+    "volume": 2373021
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-05",
+    "price": 53.66,
+    "volume": 1201644
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-07-01",
+    "price": 55,
+    "volume": 1481469
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-30",
+    "price": 52.56,
+    "volume": 2880034
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-29",
+    "price": 56.58,
+    "volume": 1125210
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-28",
+    "price": 55.5,
+    "volume": 1595937
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-27",
+    "price": 56.87,
+    "volume": 1242840
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-24",
+    "price": 58.24,
+    "volume": 14737259
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-23",
+    "price": 55.75,
+    "volume": 2792417
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-22",
+    "price": 54.28,
+    "volume": 1750161
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-21",
+    "price": 52.15,
+    "volume": 1514786
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-17",
+    "price": 52.95,
+    "volume": 1826116
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-16",
+    "price": 52.31,
+    "volume": 1865074
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-15",
+    "price": 54.26,
+    "volume": 1734117
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-14",
+    "price": 53.4,
+    "volume": 3810651
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-13",
+    "price": 58.3,
+    "volume": 1239728
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-10",
+    "price": 63.1,
+    "volume": 1261601
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-09",
+    "price": 64.52,
+    "volume": 1011499
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-08",
+    "price": 66.87,
+    "volume": 1182891
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-07",
+    "price": 67.88,
+    "volume": 937071
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-06",
+    "price": 66.49,
+    "volume": 1319270
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-03",
+    "price": 67.35,
+    "volume": 1321684
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-02",
+    "price": 66.85,
+    "volume": 1312354
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-06-01",
+    "price": 63.11,
+    "volume": 814494
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-31",
+    "price": 64.71,
+    "volume": 930724
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-27",
+    "price": 66.37,
+    "volume": 1048124
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-26",
+    "price": 65.52,
+    "volume": 1405013
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-25",
+    "price": 62.73,
+    "volume": 1637104
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-24",
+    "price": 62.22,
+    "volume": 1500343
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-23",
+    "price": 64.59,
+    "volume": 1360297
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-20",
+    "price": 64.49,
+    "volume": 1822644
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-19",
+    "price": 63.83,
+    "volume": 2080003
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-18",
+    "price": 66.73,
+    "volume": 2995179
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-17",
+    "price": 73.76,
+    "volume": 1364300
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-16",
+    "price": 70.98,
+    "volume": 1352043
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-13",
+    "price": 72.29,
+    "volume": 996674
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-12",
+    "price": 70.84,
+    "volume": 1462441
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-11",
+    "price": 69.79,
+    "volume": 2092293
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-10",
+    "price": 73.53,
+    "volume": 2257163
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-09",
+    "price": 70.95,
+    "volume": 2096488
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-06",
+    "price": 75,
+    "volume": 1074217
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-05",
+    "price": 74.48,
+    "volume": 1229982
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-04",
+    "price": 75.49,
+    "volume": 1060699
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-03",
+    "price": 72.89,
+    "volume": 806364
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-05-02",
+    "price": 71.75,
+    "volume": 1469452
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-29",
+    "price": 72.51,
+    "volume": 1196687
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-28",
+    "price": 74.2,
+    "volume": 1538454
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-27",
+    "price": 73.72,
+    "volume": 1415439
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-26",
+    "price": 74.35,
+    "volume": 1917099
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-25",
+    "price": 76.66,
+    "volume": 2821314
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-22",
+    "price": 73.11,
+    "volume": 5714051
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-21",
+    "price": 86.67,
+    "volume": 2472143
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-20",
+    "price": 89.01,
+    "volume": 2430137
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-19",
+    "price": 84.33,
+    "volume": 1279186
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-18",
+    "price": 84.15,
+    "volume": 751884
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-14",
+    "price": 85,
+    "volume": 750796
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-13",
+    "price": 83.96,
+    "volume": 720902
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-12",
+    "price": 84.76,
+    "volume": 1590457
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-11",
+    "price": 83.11,
+    "volume": 861919
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-08",
+    "price": 84.13,
+    "volume": 1399024
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-07",
+    "price": 82.44,
+    "volume": 1043347
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-06",
+    "price": 80.94,
+    "volume": 1396021
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-05",
+    "price": 80.02,
+    "volume": 1558718
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-04",
+    "price": 82.67,
+    "volume": 1738081
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-04-01",
+    "price": 86.75,
+    "volume": 1210759
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-31",
+    "price": 85.96,
+    "volume": 889840
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-30",
+    "price": 86.99,
+    "volume": 1393693
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-29",
+    "price": 90.73,
+    "volume": 1015651
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-28",
+    "price": 90.54,
+    "volume": 903357
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-25",
+    "price": 89.44,
+    "volume": 673057
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-24",
+    "price": 88.78,
+    "volume": 644207
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-23",
+    "price": 87.02,
+    "volume": 547053
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-22",
+    "price": 87.66,
+    "volume": 1212268
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-21",
+    "price": 87.53,
+    "volume": 741464
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-18",
+    "price": 87.68,
+    "volume": 1655154
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-17",
+    "price": 88.83,
+    "volume": 1026404
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-16",
+    "price": 87.65,
+    "volume": 1374080
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-15",
+    "price": 87.49,
+    "volume": 1326171
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-14",
+    "price": 86.27,
+    "volume": 1337760
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-11",
+    "price": 89.04,
+    "volume": 800304
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-10",
+    "price": 89.76,
+    "volume": 668427
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-09",
+    "price": 89.62,
+    "volume": 1221947
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-08",
+    "price": 86.47,
+    "volume": 1058330
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-07",
+    "price": 87.13,
+    "volume": 1333255
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-04",
+    "price": 91.13,
+    "volume": 1311295
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-03",
+    "price": 91.2,
+    "volume": 1323491
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-02",
+    "price": 89.89,
+    "volume": 1230118
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-03-01",
+    "price": 88.11,
+    "volume": 2272239
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-28",
+    "price": 85.99,
+    "volume": 1160572
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-25",
+    "price": 85.71,
+    "volume": 995246
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-24",
+    "price": 81.2,
+    "volume": 1032460
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-23",
+    "price": 79.12,
+    "volume": 1035132
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-22",
+    "price": 79.65,
+    "volume": 1128289
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-18",
+    "price": 80.51,
+    "volume": 1251581
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-17",
+    "price": 84.1,
+    "volume": 697109
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-16",
+    "price": 87.4,
+    "volume": 1151711
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-15",
+    "price": 83.94,
+    "volume": 964394
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-14",
+    "price": 81.03,
+    "volume": 874178
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-11",
+    "price": 81.68,
+    "volume": 1310834
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-10",
+    "price": 84.99,
+    "volume": 3272299
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-09",
+    "price": 82.22,
+    "volume": 2896241
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-08",
+    "price": 74.07,
+    "volume": 3603454
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-07",
+    "price": 70,
+    "volume": 1839339
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-04",
+    "price": 72.84,
+    "volume": 998546
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-03",
+    "price": 75.2,
+    "volume": 622060
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-02",
+    "price": 76.43,
+    "volume": 899917
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-02-01",
+    "price": 74.64,
+    "volume": 944550
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-31",
+    "price": 74.12,
+    "volume": 1499156
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-28",
+    "price": 72.67,
+    "volume": 1288626
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-27",
+    "price": 73.18,
+    "volume": 1056241
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-26",
+    "price": 75.85,
+    "volume": 1017166
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-25",
+    "price": 74.6,
+    "volume": 1632607
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-24",
+    "price": 78.21,
+    "volume": 1484463
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-21",
+    "price": 75.97,
+    "volume": 1321202
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-20",
+    "price": 78.42,
+    "volume": 1483301
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-19",
+    "price": 77.17,
+    "volume": 954749
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-18",
+    "price": 77.9,
+    "volume": 1451769
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-14",
+    "price": 81.04,
+    "volume": 1247863
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-13",
+    "price": 78.63,
+    "volume": 1645039
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-12",
+    "price": 76.82,
+    "volume": 978402
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-11",
+    "price": 77.55,
+    "volume": 1711900
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-10",
+    "price": 74.55,
+    "volume": 718100
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-07",
+    "price": 74.88,
+    "volume": 812745
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-06",
+    "price": 77.66,
+    "volume": 818840
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-05",
+    "price": 77.97,
+    "volume": 866375
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-04",
+    "price": 80.65,
+    "volume": 952602
+  },
+  {
+    "symbol": "THC",
+    "date": "2022-01-03",
+    "price": 79.95,
+    "volume": 765080
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-31",
+    "price": 81.69,
+    "volume": 788846
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-30",
+    "price": 81.91,
+    "volume": 658669
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-29",
+    "price": 80.43,
+    "volume": 448789
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-28",
+    "price": 80.14,
+    "volume": 421971
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-27",
+    "price": 80.02,
+    "volume": 443017
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-23",
+    "price": 79.26,
+    "volume": 782946
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-22",
+    "price": 78.2,
+    "volume": 639252
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-21",
+    "price": 76.21,
+    "volume": 663927
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-20",
+    "price": 72.89,
+    "volume": 1127711
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-17",
+    "price": 74.52,
+    "volume": 2393590
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-16",
+    "price": 74.55,
+    "volume": 830999
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-15",
+    "price": 78.19,
+    "volume": 818273
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-14",
+    "price": 76.26,
+    "volume": 579128
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-13",
+    "price": 76.37,
+    "volume": 835073
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-10",
+    "price": 75.84,
+    "volume": 850546
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-09",
+    "price": 74.63,
+    "volume": 510160
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-08",
+    "price": 75.9,
+    "volume": 639227
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-07",
+    "price": 75.36,
+    "volume": 922029
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-06",
+    "price": 72.63,
+    "volume": 837525
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-03",
+    "price": 71.05,
+    "volume": 949189
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-02",
+    "price": 74.02,
+    "volume": 979390
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-12-01",
+    "price": 70.52,
+    "volume": 854586
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-30",
+    "price": 72.87,
+    "volume": 993608
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-29",
+    "price": 74.46,
+    "volume": 842205
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-26",
+    "price": 75.67,
+    "volume": 772163
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-24",
+    "price": 78.19,
+    "volume": 422170
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-23",
+    "price": 79.4,
+    "volume": 679708
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-22",
+    "price": 78.54,
+    "volume": 715230
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-19",
+    "price": 77.45,
+    "volume": 701035
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-18",
+    "price": 78.66,
+    "volume": 544702
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-17",
+    "price": 78.78,
+    "volume": 491884
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-16",
+    "price": 79.7,
+    "volume": 792376
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-15",
+    "price": 80.23,
+    "volume": 824266
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-12",
+    "price": 79.13,
+    "volume": 760604
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-11",
+    "price": 79.34,
+    "volume": 836985
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-10",
+    "price": 79.93,
+    "volume": 832634
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-09",
+    "price": 79.53,
+    "volume": 1772477
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-08",
+    "price": 75.2,
+    "volume": 535589
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-05",
+    "price": 75.42,
+    "volume": 1151235
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-04",
+    "price": 72.72,
+    "volume": 470937
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-03",
+    "price": 73.68,
+    "volume": 891333
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-02",
+    "price": 69.64,
+    "volume": 448275
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-11-01",
+    "price": 71.49,
+    "volume": 538272
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-29",
+    "price": 71.66,
+    "volume": 652612
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-28",
+    "price": 71.77,
+    "volume": 818000
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-27",
+    "price": 70.16,
+    "volume": 1084733
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-26",
+    "price": 68.32,
+    "volume": 855768
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-25",
+    "price": 68.74,
+    "volume": 872343
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-22",
+    "price": 70.63,
+    "volume": 1759828
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-21",
+    "price": 70.45,
+    "volume": 3086972
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-20",
+    "price": 65.65,
+    "volume": 1271823
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-19",
+    "price": 64.45,
+    "volume": 1237147
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-18",
+    "price": 62.97,
+    "volume": 715350
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-15",
+    "price": 63.56,
+    "volume": 866396
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-14",
+    "price": 62.44,
+    "volume": 562690
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-13",
+    "price": 61.02,
+    "volume": 669940
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-12",
+    "price": 62.14,
+    "volume": 553362
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-11",
+    "price": 62,
+    "volume": 717118
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-08",
+    "price": 61.86,
+    "volume": 785443
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-07",
+    "price": 63.53,
+    "volume": 864599
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-06",
+    "price": 63.28,
+    "volume": 1209726
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-05",
+    "price": 66.22,
+    "volume": 937206
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-04",
+    "price": 67.1,
+    "volume": 810249
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-10-01",
+    "price": 68.82,
+    "volume": 623816
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-30",
+    "price": 66.44,
+    "volume": 1052552
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-29",
+    "price": 68.64,
+    "volume": 629434
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-28",
+    "price": 67.08,
+    "volume": 1343811
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-27",
+    "price": 69.59,
+    "volume": 1167015
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-24",
+    "price": 71.39,
+    "volume": 604436
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-23",
+    "price": 72.67,
+    "volume": 630866
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-22",
+    "price": 73.23,
+    "volume": 644795
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-21",
+    "price": 72.58,
+    "volume": 542091
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-20",
+    "price": 71.82,
+    "volume": 744555
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-17",
+    "price": 72.9,
+    "volume": 1682763
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-16",
+    "price": 73.31,
+    "volume": 509684
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-15",
+    "price": 73.14,
+    "volume": 560656
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-14",
+    "price": 71.75,
+    "volume": 519442
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-13",
+    "price": 73.67,
+    "volume": 332274
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-10",
+    "price": 72.71,
+    "volume": 520839
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-09",
+    "price": 74.21,
+    "volume": 544862
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-08",
+    "price": 75.19,
+    "volume": 400659
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-07",
+    "price": 74.88,
+    "volume": 457573
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-03",
+    "price": 75.89,
+    "volume": 358259
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-02",
+    "price": 75.98,
+    "volume": 382191
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-09-01",
+    "price": 74.99,
+    "volume": 545169
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-31",
+    "price": 75.35,
+    "volume": 657063
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-30",
+    "price": 75.46,
+    "volume": 444710
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-27",
+    "price": 74.99,
+    "volume": 739062
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-26",
+    "price": 73.56,
+    "volume": 452292
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-25",
+    "price": 73.67,
+    "volume": 750842
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-24",
+    "price": 72.68,
+    "volume": 996952
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-23",
+    "price": 72.99,
+    "volume": 905357
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-20",
+    "price": 72.63,
+    "volume": 801876
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-19",
+    "price": 69.43,
+    "volume": 654582
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-18",
+    "price": 69.77,
+    "volume": 503642
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-17",
+    "price": 70.34,
+    "volume": 740471
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-16",
+    "price": 71.09,
+    "volume": 625259
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-13",
+    "price": 70.01,
+    "volume": 712440
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-12",
+    "price": 70,
+    "volume": 955359
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-11",
+    "price": 67.52,
+    "volume": 1172336
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-10",
+    "price": 65.27,
+    "volume": 1745404
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-09",
+    "price": 67.76,
+    "volume": 587011
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-06",
+    "price": 68.74,
+    "volume": 641087
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-05",
+    "price": 69.23,
+    "volume": 663039
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-04",
+    "price": 69.22,
+    "volume": 918161
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-03",
+    "price": 72.13,
+    "volume": 596494
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-08-02",
+    "price": 71.21,
+    "volume": 819492
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-30",
+    "price": 71.84,
+    "volume": 603252
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-29",
+    "price": 72.14,
+    "volume": 534728
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-28",
+    "price": 71.53,
+    "volume": 641633
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-27",
+    "price": 71.71,
+    "volume": 751855
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-26",
+    "price": 71.67,
+    "volume": 836075
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-23",
+    "price": 71.63,
+    "volume": 1071506
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-22",
+    "price": 70,
+    "volume": 2505431
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-21",
+    "price": 72.25,
+    "volume": 1502773
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-20",
+    "price": 70.52,
+    "volume": 2188583
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-19",
+    "price": 64.66,
+    "volume": 1436201
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-16",
+    "price": 66.63,
+    "volume": 663782
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-15",
+    "price": 67.33,
+    "volume": 808571
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-14",
+    "price": 66.78,
+    "volume": 747303
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-13",
+    "price": 68.24,
+    "volume": 612687
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-12",
+    "price": 69.1,
+    "volume": 931666
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-09",
+    "price": 68.92,
+    "volume": 852041
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-08",
+    "price": 67.08,
+    "volume": 725501
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-07",
+    "price": 67.96,
+    "volume": 525556
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-06",
+    "price": 68.01,
+    "volume": 967586
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-02",
+    "price": 68.53,
+    "volume": 605881
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-07-01",
+    "price": 67.92,
+    "volume": 1033275
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-30",
+    "price": 66.99,
+    "volume": 1016493
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-29",
+    "price": 66.04,
+    "volume": 962574
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-28",
+    "price": 68.42,
+    "volume": 584040
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-25",
+    "price": 69.94,
+    "volume": 1904430
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-24",
+    "price": 68.89,
+    "volume": 702535
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-23",
+    "price": 68.04,
+    "volume": 1095016
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-22",
+    "price": 68.42,
+    "volume": 749022
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-21",
+    "price": 68.58,
+    "volume": 1033491
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-18",
+    "price": 65.93,
+    "volume": 1905896
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-17",
+    "price": 68.63,
+    "volume": 1544121
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-16",
+    "price": 66.77,
+    "volume": 1191149
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-15",
+    "price": 67.38,
+    "volume": 466171
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-14",
+    "price": 67.5,
+    "volume": 843862
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-11",
+    "price": 68.78,
+    "volume": 605829
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-10",
+    "price": 68.15,
+    "volume": 654337
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-09",
+    "price": 67.69,
+    "volume": 684682
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-08",
+    "price": 67.71,
+    "volume": 531027
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-07",
+    "price": 68.09,
+    "volume": 575673
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-04",
+    "price": 67.73,
+    "volume": 396895
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-03",
+    "price": 67.66,
+    "volume": 710635
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-02",
+    "price": 67.3,
+    "volume": 1168736
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-06-01",
+    "price": 68.51,
+    "volume": 946357
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-28",
+    "price": 66.91,
+    "volume": 843280
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-27",
+    "price": 66.25,
+    "volume": 894647
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-26",
+    "price": 64.77,
+    "volume": 617501
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-25",
+    "price": 63.42,
+    "volume": 669167
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-24",
+    "price": 63.61,
+    "volume": 511239
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-21",
+    "price": 63.17,
+    "volume": 610928
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-20",
+    "price": 62.77,
+    "volume": 665981
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-19",
+    "price": 61.67,
+    "volume": 1118944
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-18",
+    "price": 62.03,
+    "volume": 1263754
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-17",
+    "price": 65.14,
+    "volume": 817987
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-14",
+    "price": 64.22,
+    "volume": 800256
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-13",
+    "price": 63.85,
+    "volume": 936472
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-12",
+    "price": 62.03,
+    "volume": 1110107
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-11",
+    "price": 65.29,
+    "volume": 1348324
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-10",
+    "price": 64.92,
+    "volume": 1633683
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-07",
+    "price": 66.84,
+    "volume": 951974
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-06",
+    "price": 65.41,
+    "volume": 946717
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-05",
+    "price": 64.13,
+    "volume": 1105845
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-04",
+    "price": 63.75,
+    "volume": 1031304
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-05-03",
+    "price": 62.3,
+    "volume": 1368124
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-30",
+    "price": 59.26,
+    "volume": 1191807
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-29",
+    "price": 59.59,
+    "volume": 1716932
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-28",
+    "price": 58.94,
+    "volume": 1164520
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-27",
+    "price": 56.46,
+    "volume": 1890552
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-26",
+    "price": 55.88,
+    "volume": 1687527
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-23",
+    "price": 55.7,
+    "volume": 2597371
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-22",
+    "price": 56.18,
+    "volume": 3034867
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-21",
+    "price": 54.53,
+    "volume": 1692127
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-20",
+    "price": 52.02,
+    "volume": 1172325
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-19",
+    "price": 52.55,
+    "volume": 1298192
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-16",
+    "price": 54.42,
+    "volume": 813534
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-15",
+    "price": 53.19,
+    "volume": 713908
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-14",
+    "price": 52.23,
+    "volume": 679452
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-13",
+    "price": 51.57,
+    "volume": 981564
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-12",
+    "price": 52.39,
+    "volume": 703659
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-09",
+    "price": 52.19,
+    "volume": 585138
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-08",
+    "price": 50.77,
+    "volume": 835755
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-07",
+    "price": 50.49,
+    "volume": 828848
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-06",
+    "price": 51.3,
+    "volume": 601481
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-05",
+    "price": 50.77,
+    "volume": 1171799
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-04-01",
+    "price": 51.19,
+    "volume": 939355
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-31",
+    "price": 52,
+    "volume": 1273024
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-30",
+    "price": 53.15,
+    "volume": 787011
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-29",
+    "price": 51.8,
+    "volume": 677603
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-26",
+    "price": 53.26,
+    "volume": 861818
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-25",
+    "price": 53.24,
+    "volume": 1296224
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-24",
+    "price": 50.03,
+    "volume": 1068642
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-23",
+    "price": 50.49,
+    "volume": 1897774
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-22",
+    "price": 54.81,
+    "volume": 840896
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-19",
+    "price": 54.18,
+    "volume": 1958408
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-18",
+    "price": 53.18,
+    "volume": 838480
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-17",
+    "price": 54.84,
+    "volume": 657992
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-16",
+    "price": 54.47,
+    "volume": 693385
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-15",
+    "price": 57.56,
+    "volume": 1180201
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-12",
+    "price": 55.29,
+    "volume": 875388
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-11",
+    "price": 55.62,
+    "volume": 1481955
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-10",
+    "price": 55.58,
+    "volume": 708120
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-09",
+    "price": 53.98,
+    "volume": 777860
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-08",
+    "price": 55.5,
+    "volume": 825695
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-05",
+    "price": 53.78,
+    "volume": 917302
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-04",
+    "price": 52.69,
+    "volume": 861830
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-03",
+    "price": 53.7,
+    "volume": 929912
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-02",
+    "price": 53.18,
+    "volume": 965605
+  },
+  {
+    "symbol": "THC",
+    "date": "2021-03-01",
+    "price": 52.88,
+    "volume": 770409
+  }
+]

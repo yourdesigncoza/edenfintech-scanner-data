@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "AMN",
+    "date": "2025-12-31",
+    "stockPrice": 15.76,
+    "numberOfShares": 38521000,
+    "marketCapitalization": 607090960,
+    "minusCashAndCashEquivalents": 33972000,
+    "addTotalDebt": 833342000,
+    "enterpriseValue": 1406460960
+  },
+  {
+    "symbol": "AMN",
+    "date": "2024-12-31",
+    "stockPrice": 23.92,
+    "numberOfShares": 38188000,
+    "marketCapitalization": 913456960,
+    "minusCashAndCashEquivalents": 10649000,
+    "addTotalDebt": 1097797000,
+    "enterpriseValue": 2000604960
+  },
+  {
+    "symbol": "AMN",
+    "date": "2023-12-31",
+    "stockPrice": 74.88,
+    "numberOfShares": 39173000,
+    "marketCapitalization": 2933274240,
+    "minusCashAndCashEquivalents": 32935000,
+    "addTotalDebt": 1350284000,
+    "enterpriseValue": 4250623240
+  },
+  {
+    "symbol": "AMN",
+    "date": "2022-12-31",
+    "stockPrice": 102.82,
+    "numberOfShares": 44591000,
+    "marketCapitalization": 4584846620,
+    "minusCashAndCashEquivalents": 64524000,
+    "addTotalDebt": 860955000,
+    "enterpriseValue": 5381277620
+  },
+  {
+    "symbol": "AMN",
+    "date": "2021-12-31",
+    "stockPrice": 122.33,
+    "numberOfShares": 47685000,
+    "marketCapitalization": 5833306050,
+    "minusCashAndCashEquivalents": 180928000,
+    "addTotalDebt": 867069000,
+    "enterpriseValue": 6519447050
+  },
+  {
+    "symbol": "AMN",
+    "date": "2020-12-31",
+    "stockPrice": 68.25,
+    "numberOfShares": 47424000,
+    "marketCapitalization": 3236688000,
+    "minusCashAndCashEquivalents": 29213000,
+    "addTotalDebt": 955481000,
+    "enterpriseValue": 4162956000
+  },
+  {
+    "symbol": "AMN",
+    "date": "2019-12-31",
+    "stockPrice": 62.31,
+    "numberOfShares": 46704000,
+    "marketCapitalization": 2910126240,
+    "minusCashAndCashEquivalents": 82985000,
+    "addTotalDebt": 722311000,
+    "enterpriseValue": 3549452240
+  },
+  {
+    "symbol": "AMN",
+    "date": "2018-12-31",
+    "stockPrice": 56.66,
+    "numberOfShares": 47371000,
+    "marketCapitalization": 2684040860,
+    "minusCashAndCashEquivalents": 13856000,
+    "addTotalDebt": 440607000,
+    "enterpriseValue": 3110791860
+  },
+  {
+    "symbol": "AMN",
+    "date": "2017-12-31",
+    "stockPrice": 49.25,
+    "numberOfShares": 47807000,
+    "marketCapitalization": 2354494750,
+    "minusCashAndCashEquivalents": 15147000,
+    "addTotalDebt": 319843000,
+    "enterpriseValue": 2659190750
+  },
+  {
+    "symbol": "AMN",
+    "date": "2016-12-31",
+    "stockPrice": 38.45,
+    "numberOfShares": 47946000,
+    "marketCapitalization": 1843523700,
+    "minusCashAndCashEquivalents": 10622000,
+    "addTotalDebt": 362942000,
+    "enterpriseValue": 2195843700
+  }
+]

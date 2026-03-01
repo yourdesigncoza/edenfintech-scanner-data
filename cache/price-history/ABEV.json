@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-27",
+    "price": 3.16,
+    "volume": 18198855
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-26",
+    "price": 3.19,
+    "volume": 16942300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-25",
+    "price": 3.2,
+    "volume": 20402539
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-24",
+    "price": 3.23,
+    "volume": 22786500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-23",
+    "price": 3.13,
+    "volume": 19560711
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-20",
+    "price": 3.07,
+    "volume": 18572800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-19",
+    "price": 3.08,
+    "volume": 21101237
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-18",
+    "price": 3.05,
+    "volume": 24891600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-17",
+    "price": 3.08,
+    "volume": 16088000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-13",
+    "price": 3.11,
+    "volume": 20791609
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-12",
+    "price": 3.2,
+    "volume": 36485615
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-11",
+    "price": 3.05,
+    "volume": 23176836
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-10",
+    "price": 3,
+    "volume": 22358200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-09",
+    "price": 2.94,
+    "volume": 19279800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-06",
+    "price": 2.94,
+    "volume": 28358726
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-05",
+    "price": 2.91,
+    "volume": 52696216
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-04",
+    "price": 2.9,
+    "volume": 34427400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-03",
+    "price": 2.9,
+    "volume": 27661967
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-02-02",
+    "price": 2.83,
+    "volume": 18626315
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-30",
+    "price": 2.78,
+    "volume": 29534100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-29",
+    "price": 2.8,
+    "volume": 36189141
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-28",
+    "price": 2.83,
+    "volume": 31324700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-27",
+    "price": 2.83,
+    "volume": 22046500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-26",
+    "price": 2.8,
+    "volume": 26489600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-23",
+    "price": 2.78,
+    "volume": 25889013
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-22",
+    "price": 2.74,
+    "volume": 25959782
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-21",
+    "price": 2.65,
+    "volume": 31117445
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-20",
+    "price": 2.6,
+    "volume": 30745300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-16",
+    "price": 2.59,
+    "volume": 15283900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-15",
+    "price": 2.6,
+    "volume": 14824100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-14",
+    "price": 2.61,
+    "volume": 18377861
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-13",
+    "price": 2.57,
+    "volume": 15950911
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-12",
+    "price": 2.57,
+    "volume": 14804624
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-09",
+    "price": 2.56,
+    "volume": 18215742
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-08",
+    "price": 2.5,
+    "volume": 24252200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-07",
+    "price": 2.51,
+    "volume": 23749226
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-06",
+    "price": 2.51,
+    "volume": 31313006
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-05",
+    "price": 2.51,
+    "volume": 33657574
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-01-02",
+    "price": 2.47,
+    "volume": 24167313
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-31",
+    "price": 2.47,
+    "volume": 18068026
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-30",
+    "price": 2.49,
+    "volume": 26025829
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-29",
+    "price": 2.42,
+    "volume": 21664600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-26",
+    "price": 2.43,
+    "volume": 31253100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-24",
+    "price": 2.37,
+    "volume": 11541215
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-23",
+    "price": 2.37,
+    "volume": 48393600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-22",
+    "price": 2.3,
+    "volume": 40459668
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-19",
+    "price": 2.49,
+    "volume": 29901643
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-18",
+    "price": 2.48,
+    "volume": 43111521
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-17",
+    "price": 2.52,
+    "volume": 22641042
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-16",
+    "price": 2.55,
+    "volume": 55522661
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-15",
+    "price": 2.59,
+    "volume": 20838800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-12",
+    "price": 2.55,
+    "volume": 26077022
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-11",
+    "price": 2.5,
+    "volume": 26153732
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-10",
+    "price": 2.45,
+    "volume": 51782768
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-09",
+    "price": 2.47,
+    "volume": 36252700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-08",
+    "price": 2.47,
+    "volume": 36051100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-05",
+    "price": 2.46,
+    "volume": 58623817
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-04",
+    "price": 2.58,
+    "volume": 18796491
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-03",
+    "price": 2.62,
+    "volume": 19328500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-02",
+    "price": 2.58,
+    "volume": 38633711
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-12-01",
+    "price": 2.57,
+    "volume": 18810600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-28",
+    "price": 2.54,
+    "volume": 11064345
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-26",
+    "price": 2.51,
+    "volume": 28517000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-25",
+    "price": 2.51,
+    "volume": 15615634
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-24",
+    "price": 2.52,
+    "volume": 38693700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-21",
+    "price": 2.48,
+    "volume": 38507618
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-20",
+    "price": 2.43,
+    "volume": 45052651
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-19",
+    "price": 2.47,
+    "volume": 90189431
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-18",
+    "price": 2.53,
+    "volume": 42095039
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-17",
+    "price": 2.54,
+    "volume": 25450514
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-14",
+    "price": 2.55,
+    "volume": 27283400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-13",
+    "price": 2.52,
+    "volume": 25906610
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-12",
+    "price": 2.53,
+    "volume": 27053400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-11",
+    "price": 2.53,
+    "volume": 21364900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-10",
+    "price": 2.44,
+    "volume": 22336410
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-07",
+    "price": 2.43,
+    "volume": 38793720
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-06",
+    "price": 2.4,
+    "volume": 28746864
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-05",
+    "price": 2.42,
+    "volume": 26431843
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-04",
+    "price": 2.39,
+    "volume": 25447800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-11-03",
+    "price": 2.35,
+    "volume": 30177177
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-31",
+    "price": 2.31,
+    "volume": 38027637
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-30",
+    "price": 2.3,
+    "volume": 129866900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-29",
+    "price": 2.18,
+    "volume": 78378800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-28",
+    "price": 2.21,
+    "volume": 36054776
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-27",
+    "price": 2.22,
+    "volume": 87810023
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-24",
+    "price": 2.19,
+    "volume": 67435522
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-23",
+    "price": 2.21,
+    "volume": 61317800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-22",
+    "price": 2.2,
+    "volume": 51906200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-21",
+    "price": 2.22,
+    "volume": 55592400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-20",
+    "price": 2.27,
+    "volume": 28865054
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-17",
+    "price": 2.25,
+    "volume": 38702100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-16",
+    "price": 2.23,
+    "volume": 26546000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-15",
+    "price": 2.17,
+    "volume": 30103538
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-14",
+    "price": 2.16,
+    "volume": 30125028
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-13",
+    "price": 2.14,
+    "volume": 28801417
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-10",
+    "price": 2.11,
+    "volume": 59933409
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-09",
+    "price": 2.15,
+    "volume": 59739030
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-08",
+    "price": 2.17,
+    "volume": 42572939
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-07",
+    "price": 2.16,
+    "volume": 39676500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-06",
+    "price": 2.18,
+    "volume": 32518901
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-03",
+    "price": 2.17,
+    "volume": 28175901
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-02",
+    "price": 2.19,
+    "volume": 57601300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-10-01",
+    "price": 2.21,
+    "volume": 49824204
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-30",
+    "price": 2.23,
+    "volume": 49283734
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-29",
+    "price": 2.29,
+    "volume": 43648800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-26",
+    "price": 2.3,
+    "volume": 26937420
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-25",
+    "price": 2.3,
+    "volume": 47390239
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-24",
+    "price": 2.29,
+    "volume": 35177700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-23",
+    "price": 2.32,
+    "volume": 57483250
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-22",
+    "price": 2.27,
+    "volume": 27338300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-19",
+    "price": 2.3,
+    "volume": 50256676
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-18",
+    "price": 2.3,
+    "volume": 44834700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-17",
+    "price": 2.36,
+    "volume": 41235334
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-16",
+    "price": 2.36,
+    "volume": 42342436
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-15",
+    "price": 2.33,
+    "volume": 40685138
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-12",
+    "price": 2.3,
+    "volume": 38457509
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-11",
+    "price": 2.29,
+    "volume": 36907540
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-10",
+    "price": 2.26,
+    "volume": 41055716
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-09",
+    "price": 2.22,
+    "volume": 66028300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-08",
+    "price": 2.2,
+    "volume": 71328423
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-05",
+    "price": 2.23,
+    "volume": 37929900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-04",
+    "price": 2.19,
+    "volume": 28328400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-03",
+    "price": 2.15,
+    "volume": 60316633
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-09-02",
+    "price": 2.19,
+    "volume": 30552820
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-29",
+    "price": 2.24,
+    "volume": 26810041
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-28",
+    "price": 2.23,
+    "volume": 30687400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-27",
+    "price": 2.21,
+    "volume": 34046053
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-26",
+    "price": 2.2,
+    "volume": 30245515
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-25",
+    "price": 2.2,
+    "volume": 14712176
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-22",
+    "price": 2.23,
+    "volume": 16213101
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-21",
+    "price": 2.19,
+    "volume": 14014763
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-20",
+    "price": 2.19,
+    "volume": 16368231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-19",
+    "price": 2.17,
+    "volume": 29168723
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-18",
+    "price": 2.19,
+    "volume": 13228937
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-15",
+    "price": 2.19,
+    "volume": 14515922
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-14",
+    "price": 2.18,
+    "volume": 15313929
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-13",
+    "price": 2.21,
+    "volume": 22201200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-12",
+    "price": 2.24,
+    "volume": 33759635
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-11",
+    "price": 2.24,
+    "volume": 24960453
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-08",
+    "price": 2.26,
+    "volume": 14595370
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-07",
+    "price": 2.28,
+    "volume": 24908780
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-06",
+    "price": 2.26,
+    "volume": 37804036
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-05",
+    "price": 2.21,
+    "volume": 30867786
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-04",
+    "price": 2.21,
+    "volume": 16012723
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-08-01",
+    "price": 2.18,
+    "volume": 39754900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-31",
+    "price": 2.18,
+    "volume": 70657543
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-30",
+    "price": 2.3,
+    "volume": 42685742
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-29",
+    "price": 2.34,
+    "volume": 19376600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-28",
+    "price": 2.3,
+    "volume": 28633645
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-25",
+    "price": 2.39,
+    "volume": 15919347
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-24",
+    "price": 2.42,
+    "volume": 11058413
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-23",
+    "price": 2.43,
+    "volume": 18102121
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-22",
+    "price": 2.38,
+    "volume": 23272950
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-21",
+    "price": 2.37,
+    "volume": 31773006
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-18",
+    "price": 2.35,
+    "volume": 26994041
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-17",
+    "price": 2.38,
+    "volume": 22282300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-16",
+    "price": 2.42,
+    "volume": 62131094
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-15",
+    "price": 2.35,
+    "volume": 41841113
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-14",
+    "price": 2.34,
+    "volume": 48874142
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-11",
+    "price": 2.35,
+    "volume": 26830285
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-10",
+    "price": 2.34,
+    "volume": 20097182
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-09",
+    "price": 2.4,
+    "volume": 51165426
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-08",
+    "price": 2.41,
+    "volume": 32683229
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-07",
+    "price": 2.39,
+    "volume": 27386800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-03",
+    "price": 2.47,
+    "volume": 8251200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-02",
+    "price": 2.49,
+    "volume": 36013400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-07-01",
+    "price": 2.42,
+    "volume": 26804200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-30",
+    "price": 2.41,
+    "volume": 48241210
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-27",
+    "price": 2.36,
+    "volume": 38587400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-26",
+    "price": 2.37,
+    "volume": 31129079
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-25",
+    "price": 2.32,
+    "volume": 63093200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-24",
+    "price": 2.4,
+    "volume": 50637500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-23",
+    "price": 2.42,
+    "volume": 28113200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-20",
+    "price": 2.39,
+    "volume": 23374443
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-18",
+    "price": 2.41,
+    "volume": 32371500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-17",
+    "price": 2.4,
+    "volume": 40188468
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-16",
+    "price": 2.43,
+    "volume": 46236420
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-13",
+    "price": 2.44,
+    "volume": 49322083
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-12",
+    "price": 2.45,
+    "volume": 27463921
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-11",
+    "price": 2.48,
+    "volume": 38871349
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-10",
+    "price": 2.45,
+    "volume": 40891993
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-09",
+    "price": 2.48,
+    "volume": 25795293
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-06",
+    "price": 2.49,
+    "volume": 30157243
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-05",
+    "price": 2.46,
+    "volume": 26089078
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-04",
+    "price": 2.47,
+    "volume": 21481402
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-03",
+    "price": 2.48,
+    "volume": 20491930
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-06-02",
+    "price": 2.44,
+    "volume": 16338621
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-30",
+    "price": 2.44,
+    "volume": 23103444
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-29",
+    "price": 2.49,
+    "volume": 23181765
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-28",
+    "price": 2.48,
+    "volume": 16470800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-27",
+    "price": 2.51,
+    "volume": 30897135
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-23",
+    "price": 2.52,
+    "volume": 22743154
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-22",
+    "price": 2.51,
+    "volume": 21079907
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-21",
+    "price": 2.51,
+    "volume": 23090833
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-20",
+    "price": 2.52,
+    "volume": 18501422
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-19",
+    "price": 2.55,
+    "volume": 16941200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-16",
+    "price": 2.55,
+    "volume": 18752837
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-15",
+    "price": 2.54,
+    "volume": 22397208
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-14",
+    "price": 2.53,
+    "volume": 15060534
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-13",
+    "price": 2.52,
+    "volume": 31289600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-12",
+    "price": 2.5,
+    "volume": 15759053
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-09",
+    "price": 2.53,
+    "volume": 19610500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-08",
+    "price": 2.53,
+    "volume": 38048530
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-07",
+    "price": 2.5,
+    "volume": 32673880
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-06",
+    "price": 2.49,
+    "volume": 19626524
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-05",
+    "price": 2.46,
+    "volume": 27992224
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-02",
+    "price": 2.49,
+    "volume": 32569100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-05-01",
+    "price": 2.49,
+    "volume": 21625974
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-30",
+    "price": 2.53,
+    "volume": 70835515
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-29",
+    "price": 2.54,
+    "volume": 46631280
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-28",
+    "price": 2.49,
+    "volume": 31596272
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-25",
+    "price": 2.47,
+    "volume": 50321400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-24",
+    "price": 2.46,
+    "volume": 47967909
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-23",
+    "price": 2.45,
+    "volume": 61475130
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-22",
+    "price": 2.43,
+    "volume": 52052400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-21",
+    "price": 2.4,
+    "volume": 34104200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-17",
+    "price": 2.4,
+    "volume": 72209100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-16",
+    "price": 2.33,
+    "volume": 71290300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-15",
+    "price": 2.28,
+    "volume": 13849218
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-14",
+    "price": 2.29,
+    "volume": 21577046
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-11",
+    "price": 2.25,
+    "volume": 23886457
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-10",
+    "price": 2.26,
+    "volume": 29167200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-09",
+    "price": 2.3,
+    "volume": 31757300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-08",
+    "price": 2.15,
+    "volume": 39242662
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-07",
+    "price": 2.22,
+    "volume": 42883389
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-04",
+    "price": 2.31,
+    "volume": 48506806
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-03",
+    "price": 2.42,
+    "volume": 48158547
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-02",
+    "price": 2.36,
+    "volume": 16034410
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-04-01",
+    "price": 2.34,
+    "volume": 22031181
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-31",
+    "price": 2.33,
+    "volume": 23382053
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-28",
+    "price": 2.28,
+    "volume": 43341449
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-27",
+    "price": 2.31,
+    "volume": 13036148
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-26",
+    "price": 2.31,
+    "volume": 19833056
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-25",
+    "price": 2.33,
+    "volume": 18650579
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-24",
+    "price": 2.3,
+    "volume": 41801400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-21",
+    "price": 2.36,
+    "volume": 13850108
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-20",
+    "price": 2.35,
+    "volume": 15333300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-19",
+    "price": 2.37,
+    "volume": 38015313
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-18",
+    "price": 2.35,
+    "volume": 34314300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-17",
+    "price": 2.34,
+    "volume": 54372600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-14",
+    "price": 2.3,
+    "volume": 52519326
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-13",
+    "price": 2.24,
+    "volume": 34820000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-12",
+    "price": 2.2,
+    "volume": 27606124
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-11",
+    "price": 2.19,
+    "volume": 23265640
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-10",
+    "price": 2.23,
+    "volume": 24227710
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-07",
+    "price": 2.23,
+    "volume": 21844824
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-06",
+    "price": 2.21,
+    "volume": 16046300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-05",
+    "price": 2.19,
+    "volume": 42515325
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-04",
+    "price": 2.09,
+    "volume": 15933825
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-03-03",
+    "price": 2.08,
+    "volume": 13139600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-28",
+    "price": 2.07,
+    "volume": 37294241
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-27",
+    "price": 2.11,
+    "volume": 40318500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-26",
+    "price": 1.99,
+    "volume": 26710303
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-25",
+    "price": 1.89,
+    "volume": 21291434
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-24",
+    "price": 1.9,
+    "volume": 21041000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-21",
+    "price": 1.92,
+    "volume": 17750443
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-20",
+    "price": 1.91,
+    "volume": 10212410
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-19",
+    "price": 1.89,
+    "volume": 12928524
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-18",
+    "price": 1.91,
+    "volume": 12337428
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-14",
+    "price": 1.9,
+    "volume": 39017800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-13",
+    "price": 1.87,
+    "volume": 11286400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-12",
+    "price": 1.84,
+    "volume": 17520626
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-11",
+    "price": 1.85,
+    "volume": 22468800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-10",
+    "price": 1.86,
+    "volume": 29579027
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-07",
+    "price": 1.84,
+    "volume": 47944600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-06",
+    "price": 1.84,
+    "volume": 38289600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-05",
+    "price": 1.83,
+    "volume": 38532242
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-04",
+    "price": 1.84,
+    "volume": 30439024
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-02-03",
+    "price": 1.84,
+    "volume": 35069030
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-31",
+    "price": 1.85,
+    "volume": 15387840
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-30",
+    "price": 1.86,
+    "volume": 32251276
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-29",
+    "price": 1.82,
+    "volume": 47626403
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-28",
+    "price": 1.85,
+    "volume": 73765323
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-27",
+    "price": 1.83,
+    "volume": 134955600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-24",
+    "price": 1.79,
+    "volume": 68888000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-23",
+    "price": 1.82,
+    "volume": 52143200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-22",
+    "price": 1.8,
+    "volume": 24832231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-21",
+    "price": 1.82,
+    "volume": 23017100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-17",
+    "price": 1.78,
+    "volume": 37337023
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-16",
+    "price": 1.81,
+    "volume": 42444500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-15",
+    "price": 1.85,
+    "volume": 51485123
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-14",
+    "price": 1.8,
+    "volume": 39167733
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-13",
+    "price": 1.79,
+    "volume": 48819100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-10",
+    "price": 1.78,
+    "volume": 44186700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-08",
+    "price": 1.84,
+    "volume": 34736800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-07",
+    "price": 1.85,
+    "volume": 56421232
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-06",
+    "price": 1.79,
+    "volume": 79501838
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-03",
+    "price": 1.77,
+    "volume": 52310700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2025-01-02",
+    "price": 1.83,
+    "volume": 60767740
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-31",
+    "price": 1.85,
+    "volume": 31068400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-30",
+    "price": 1.85,
+    "volume": 59595800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-27",
+    "price": 1.87,
+    "volume": 61269900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-26",
+    "price": 1.89,
+    "volume": 37196400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-24",
+    "price": 1.9,
+    "volume": 10209136
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-23",
+    "price": 1.9,
+    "volume": 69589800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-20",
+    "price": 2.06,
+    "volume": 27792202
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-19",
+    "price": 2.03,
+    "volume": 31840256
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-18",
+    "price": 2.02,
+    "volume": 30654521
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-17",
+    "price": 2.12,
+    "volume": 35940760
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-16",
+    "price": 2.08,
+    "volume": 23888700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-13",
+    "price": 2.14,
+    "volume": 23440280
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-12",
+    "price": 2.18,
+    "volume": 42277300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-11",
+    "price": 2.27,
+    "volume": 39610400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-10",
+    "price": 2.32,
+    "volume": 14851700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-09",
+    "price": 2.3,
+    "volume": 22494184
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-06",
+    "price": 2.29,
+    "volume": 39898195
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-05",
+    "price": 2.34,
+    "volume": 30422347
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-04",
+    "price": 2.26,
+    "volume": 47783248
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-03",
+    "price": 2.31,
+    "volume": 34886922
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-12-02",
+    "price": 2.19,
+    "volume": 56432200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-29",
+    "price": 2.12,
+    "volume": 29058230
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-27",
+    "price": 2.15,
+    "volume": 36086100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-26",
+    "price": 2.19,
+    "volume": 13571511
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-25",
+    "price": 2.17,
+    "volume": 14838415
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-22",
+    "price": 2.19,
+    "volume": 12429315
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-21",
+    "price": 2.15,
+    "volume": 22454797
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-20",
+    "price": 2.17,
+    "volume": 3218000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-19",
+    "price": 2.18,
+    "volume": 20313801
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-18",
+    "price": 2.18,
+    "volume": 24277700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-15",
+    "price": 2.21,
+    "volume": 6376062
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-14",
+    "price": 2.21,
+    "volume": 25345666
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-13",
+    "price": 2.22,
+    "volume": 25057320
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-12",
+    "price": 2.22,
+    "volume": 30148900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-11",
+    "price": 2.2,
+    "volume": 23894600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-08",
+    "price": 2.17,
+    "volume": 31442549
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-07",
+    "price": 2.23,
+    "volume": 26292590
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-06",
+    "price": 2.21,
+    "volume": 26797225
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-05",
+    "price": 2.22,
+    "volume": 14676200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-04",
+    "price": 2.21,
+    "volume": 20246100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-11-01",
+    "price": 2.15,
+    "volume": 19147100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-31",
+    "price": 2.18,
+    "volume": 18915804
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-30",
+    "price": 2.27,
+    "volume": 16625600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-29",
+    "price": 2.28,
+    "volume": 20162010
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-28",
+    "price": 2.28,
+    "volume": 17416613
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-25",
+    "price": 2.25,
+    "volume": 14546246
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-24",
+    "price": 2.27,
+    "volume": 20158584
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-23",
+    "price": 2.25,
+    "volume": 13198381
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-22",
+    "price": 2.27,
+    "volume": 28933307
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-21",
+    "price": 2.29,
+    "volume": 22784323
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-18",
+    "price": 2.28,
+    "volume": 12524415
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-17",
+    "price": 2.3,
+    "volume": 17166606
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-16",
+    "price": 2.3,
+    "volume": 18239041
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-15",
+    "price": 2.28,
+    "volume": 15649000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-14",
+    "price": 2.34,
+    "volume": 13731600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-11",
+    "price": 2.31,
+    "volume": 16885437
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-10",
+    "price": 2.36,
+    "volume": 13815100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-09",
+    "price": 2.36,
+    "volume": 26769718
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-08",
+    "price": 2.37,
+    "volume": 25477228
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-07",
+    "price": 2.41,
+    "volume": 21801174
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-04",
+    "price": 2.47,
+    "volume": 43086797
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-03",
+    "price": 2.48,
+    "volume": 49295846
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-02",
+    "price": 2.56,
+    "volume": 84412821
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-10-01",
+    "price": 2.5,
+    "volume": 51018700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-30",
+    "price": 2.44,
+    "volume": 37343800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-27",
+    "price": 2.4,
+    "volume": 58614407
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-26",
+    "price": 2.36,
+    "volume": 10628612
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-25",
+    "price": 2.33,
+    "volume": 28728100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-24",
+    "price": 2.33,
+    "volume": 28081222
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-23",
+    "price": 2.31,
+    "volume": 14551507
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-20",
+    "price": 2.3,
+    "volume": 14338623
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-19",
+    "price": 2.39,
+    "volume": 28648300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-18",
+    "price": 2.39,
+    "volume": 19636200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-17",
+    "price": 2.37,
+    "volume": 22573897
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-16",
+    "price": 2.33,
+    "volume": 20245321
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-13",
+    "price": 2.31,
+    "volume": 16220562
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-12",
+    "price": 2.3,
+    "volume": 45259500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-11",
+    "price": 2.33,
+    "volume": 31766313
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-10",
+    "price": 2.37,
+    "volume": 49069700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-09",
+    "price": 2.37,
+    "volume": 64254901
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-06",
+    "price": 2.33,
+    "volume": 31629600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-05",
+    "price": 2.32,
+    "volume": 12439806
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-04",
+    "price": 2.32,
+    "volume": 18953900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-09-03",
+    "price": 2.27,
+    "volume": 21464753
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-30",
+    "price": 2.27,
+    "volume": 23910700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-29",
+    "price": 2.28,
+    "volume": 13186000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-28",
+    "price": 2.34,
+    "volume": 24947327
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-27",
+    "price": 2.37,
+    "volume": 27717319
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-26",
+    "price": 2.39,
+    "volume": 27667000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-23",
+    "price": 2.4,
+    "volume": 36623041
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-22",
+    "price": 2.33,
+    "volume": 33948022
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-21",
+    "price": 2.36,
+    "volume": 32674000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-20",
+    "price": 2.37,
+    "volume": 22764308
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-19",
+    "price": 2.42,
+    "volume": 30750519
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-16",
+    "price": 2.39,
+    "volume": 27738723
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-15",
+    "price": 2.41,
+    "volume": 92199626
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-14",
+    "price": 2.32,
+    "volume": 17360216
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-13",
+    "price": 2.33,
+    "volume": 18279900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-12",
+    "price": 2.26,
+    "volume": 21073300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-09",
+    "price": 2.27,
+    "volume": 11299445
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-08",
+    "price": 2.25,
+    "volume": 27870463
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-07",
+    "price": 2.24,
+    "volume": 64585929
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-06",
+    "price": 2.13,
+    "volume": 16304600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-05",
+    "price": 2.09,
+    "volume": 25281800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-02",
+    "price": 2.07,
+    "volume": 19422522
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-08-01",
+    "price": 2.05,
+    "volume": 18646135
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-31",
+    "price": 2.06,
+    "volume": 60961300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-30",
+    "price": 2.09,
+    "volume": 13081812
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-29",
+    "price": 2.11,
+    "volume": 23702202
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-26",
+    "price": 2.11,
+    "volume": 11078700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-25",
+    "price": 2.1,
+    "volume": 14877100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-24",
+    "price": 2.1,
+    "volume": 15456826
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-23",
+    "price": 2.12,
+    "volume": 7993400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-22",
+    "price": 2.13,
+    "volume": 15133500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-19",
+    "price": 2.11,
+    "volume": 16107900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-18",
+    "price": 2.1,
+    "volume": 24449171
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-17",
+    "price": 2.18,
+    "volume": 20829042
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-16",
+    "price": 2.18,
+    "volume": 15808105
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-15",
+    "price": 2.14,
+    "volume": 13061649
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-12",
+    "price": 2.15,
+    "volume": 17546510
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-11",
+    "price": 2.14,
+    "volume": 32931800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-10",
+    "price": 2.12,
+    "volume": 18067900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-09",
+    "price": 2.08,
+    "volume": 11045901
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-08",
+    "price": 2.06,
+    "volume": 9848205
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-05",
+    "price": 2.07,
+    "volume": 28156814
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-03",
+    "price": 2.08,
+    "volume": 14228500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-02",
+    "price": 2.06,
+    "volume": 20111117
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-07-01",
+    "price": 2.04,
+    "volume": 17360800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-28",
+    "price": 2.05,
+    "volume": 35972900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-27",
+    "price": 2.09,
+    "volume": 21461231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-26",
+    "price": 2.1,
+    "volume": 24165330
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-25",
+    "price": 2.1,
+    "volume": 25162000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-24",
+    "price": 2.1,
+    "volume": 17067831
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-21",
+    "price": 2.08,
+    "volume": 21612900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-20",
+    "price": 2.08,
+    "volume": 22011117
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-18",
+    "price": 2.08,
+    "volume": 34172100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-17",
+    "price": 2.08,
+    "volume": 18527700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-14",
+    "price": 2.11,
+    "volume": 20650500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-13",
+    "price": 2.07,
+    "volume": 22182500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-12",
+    "price": 2.08,
+    "volume": 35127625
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-11",
+    "price": 2.13,
+    "volume": 18738700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-10",
+    "price": 2.15,
+    "volume": 24156639
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-07",
+    "price": 2.17,
+    "volume": 21049121
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-06",
+    "price": 2.24,
+    "volume": 14828100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-05",
+    "price": 2.2,
+    "volume": 25893424
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-04",
+    "price": 2.21,
+    "volume": 13919627
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-06-03",
+    "price": 2.19,
+    "volume": 14372648
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-31",
+    "price": 2.22,
+    "volume": 23228400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-30",
+    "price": 2.21,
+    "volume": 10945941
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-29",
+    "price": 2.2,
+    "volume": 16163000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-28",
+    "price": 2.23,
+    "volume": 15593000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-24",
+    "price": 2.29,
+    "volume": 7588210
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-23",
+    "price": 2.28,
+    "volume": 17663448
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-22",
+    "price": 2.3,
+    "volume": 48089046
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-21",
+    "price": 2.32,
+    "volume": 30837500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-20",
+    "price": 2.34,
+    "volume": 22083730
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-17",
+    "price": 2.42,
+    "volume": 12964903
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-16",
+    "price": 2.39,
+    "volume": 10319023
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-15",
+    "price": 2.39,
+    "volume": 16056092
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-14",
+    "price": 2.36,
+    "volume": 10184732
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-13",
+    "price": 2.33,
+    "volume": 14476936
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-10",
+    "price": 2.32,
+    "volume": 16006800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-09",
+    "price": 2.34,
+    "volume": 7472500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-08",
+    "price": 2.37,
+    "volume": 14939700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-07",
+    "price": 2.46,
+    "volume": 9782500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-06",
+    "price": 2.44,
+    "volume": 9697115
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-03",
+    "price": 2.43,
+    "volume": 5538814
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-02",
+    "price": 2.41,
+    "volume": 15459041
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-05-01",
+    "price": 2.34,
+    "volume": 5716580
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-30",
+    "price": 2.32,
+    "volume": 11247104
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-29",
+    "price": 2.36,
+    "volume": 6642257
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-26",
+    "price": 2.33,
+    "volume": 5890800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-25",
+    "price": 2.3,
+    "volume": 10349400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-24",
+    "price": 2.32,
+    "volume": 13313518
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-23",
+    "price": 2.3,
+    "volume": 8800700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-22",
+    "price": 2.3,
+    "volume": 12017400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-19",
+    "price": 2.29,
+    "volume": 13709072
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-18",
+    "price": 2.28,
+    "volume": 18909212
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-17",
+    "price": 2.26,
+    "volume": 15315931
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-16",
+    "price": 2.26,
+    "volume": 14382740
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-15",
+    "price": 2.32,
+    "volume": 15963400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-12",
+    "price": 2.35,
+    "volume": 9752566
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-11",
+    "price": 2.4,
+    "volume": 15099700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-10",
+    "price": 2.38,
+    "volume": 10715300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-09",
+    "price": 2.45,
+    "volume": 7459900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-08",
+    "price": 2.41,
+    "volume": 10259497
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-05",
+    "price": 2.41,
+    "volume": 28583761
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-04",
+    "price": 2.45,
+    "volume": 22665628
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-03",
+    "price": 2.45,
+    "volume": 16325400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-02",
+    "price": 2.41,
+    "volume": 10069309
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-04-01",
+    "price": 2.42,
+    "volume": 14239529
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-28",
+    "price": 2.48,
+    "volume": 13814600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-27",
+    "price": 2.48,
+    "volume": 14230188
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-26",
+    "price": 2.47,
+    "volume": 8367700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-25",
+    "price": 2.45,
+    "volume": 9875398
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-22",
+    "price": 2.47,
+    "volume": 6530252
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-21",
+    "price": 2.49,
+    "volume": 17703200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-20",
+    "price": 2.5,
+    "volume": 7377900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-19",
+    "price": 2.47,
+    "volume": 18617600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-18",
+    "price": 2.51,
+    "volume": 12176392
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-15",
+    "price": 2.5,
+    "volume": 13812000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-14",
+    "price": 2.52,
+    "volume": 10962006
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-13",
+    "price": 2.53,
+    "volume": 14407700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-12",
+    "price": 2.56,
+    "volume": 14797900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-11",
+    "price": 2.55,
+    "volume": 5940500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-08",
+    "price": 2.56,
+    "volume": 52537529
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-07",
+    "price": 2.55,
+    "volume": 7125245
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-06",
+    "price": 2.54,
+    "volume": 13487700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-05",
+    "price": 2.55,
+    "volume": 15139000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-04",
+    "price": 2.5,
+    "volume": 9388903
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-03-01",
+    "price": 2.48,
+    "volume": 40186295
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-29",
+    "price": 2.49,
+    "volume": 26744300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-28",
+    "price": 2.69,
+    "volume": 13557700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-27",
+    "price": 2.66,
+    "volume": 13832834
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-26",
+    "price": 2.59,
+    "volume": 6457729
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-23",
+    "price": 2.56,
+    "volume": 10464101
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-22",
+    "price": 2.59,
+    "volume": 9525031
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-21",
+    "price": 2.6,
+    "volume": 12866700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-20",
+    "price": 2.56,
+    "volume": 24204300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-16",
+    "price": 2.55,
+    "volume": 8479845
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-15",
+    "price": 2.56,
+    "volume": 8326500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-14",
+    "price": 2.56,
+    "volume": 8893000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-13",
+    "price": 2.54,
+    "volume": 5800200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-12",
+    "price": 2.6,
+    "volume": 6022266
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-09",
+    "price": 2.58,
+    "volume": 7027213
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-08",
+    "price": 2.56,
+    "volume": 8667632
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-07",
+    "price": 2.59,
+    "volume": 27160700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-06",
+    "price": 2.65,
+    "volume": 11107781
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-05",
+    "price": 2.6,
+    "volume": 7559375
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-02",
+    "price": 2.63,
+    "volume": 7237231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-02-01",
+    "price": 2.64,
+    "volume": 8960800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-31",
+    "price": 2.62,
+    "volume": 8409100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-30",
+    "price": 2.63,
+    "volume": 6632930
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-29",
+    "price": 2.67,
+    "volume": 5234627
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-26",
+    "price": 2.68,
+    "volume": 3738063
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-25",
+    "price": 2.67,
+    "volume": 6721673
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-24",
+    "price": 2.64,
+    "volume": 9615056
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-23",
+    "price": 2.67,
+    "volume": 9503403
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-22",
+    "price": 2.65,
+    "volume": 9289984
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-19",
+    "price": 2.7,
+    "volume": 6367338
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-18",
+    "price": 2.7,
+    "volume": 6762955
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-17",
+    "price": 2.69,
+    "volume": 7541245
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-16",
+    "price": 2.69,
+    "volume": 5278553
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-12",
+    "price": 2.77,
+    "volume": 7751121
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-11",
+    "price": 2.77,
+    "volume": 5009900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-10",
+    "price": 2.81,
+    "volume": 12996100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-09",
+    "price": 2.74,
+    "volume": 4660334
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-08",
+    "price": 2.79,
+    "volume": 6167649
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-05",
+    "price": 2.78,
+    "volume": 10125640
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-04",
+    "price": 2.76,
+    "volume": 9229200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-03",
+    "price": 2.75,
+    "volume": 9008039
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2024-01-02",
+    "price": 2.76,
+    "volume": 6389981
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-29",
+    "price": 2.8,
+    "volume": 2003427
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-28",
+    "price": 2.82,
+    "volume": 6784353
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-27",
+    "price": 2.84,
+    "volume": 5165141
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-26",
+    "price": 2.83,
+    "volume": 3383430
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-22",
+    "price": 2.81,
+    "volume": 7502464
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-21",
+    "price": 2.92,
+    "volume": 5077338
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-20",
+    "price": 2.9,
+    "volume": 8283500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-19",
+    "price": 2.98,
+    "volume": 9883516
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-18",
+    "price": 2.95,
+    "volume": 6964784
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-15",
+    "price": 2.88,
+    "volume": 9296696
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-14",
+    "price": 2.91,
+    "volume": 15270634
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-13",
+    "price": 2.96,
+    "volume": 12754700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-12",
+    "price": 2.85,
+    "volume": 4826500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-11",
+    "price": 2.89,
+    "volume": 8328639
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-08",
+    "price": 2.89,
+    "volume": 7909751
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-07",
+    "price": 2.84,
+    "volume": 5484224
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-06",
+    "price": 2.83,
+    "volume": 6098526
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-05",
+    "price": 2.87,
+    "volume": 8602319
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-04",
+    "price": 2.82,
+    "volume": 9295626
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-12-01",
+    "price": 2.85,
+    "volume": 8473059
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-30",
+    "price": 2.74,
+    "volume": 19360100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-29",
+    "price": 2.72,
+    "volume": 9262838
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-28",
+    "price": 2.79,
+    "volume": 6458833
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-27",
+    "price": 2.76,
+    "volume": 9796355
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-24",
+    "price": 2.75,
+    "volume": 9544533
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-22",
+    "price": 2.76,
+    "volume": 12675600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-21",
+    "price": 2.73,
+    "volume": 9911494
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-20",
+    "price": 2.78,
+    "volume": 5345454
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-17",
+    "price": 2.77,
+    "volume": 19032678
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-16",
+    "price": 2.79,
+    "volume": 14480500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-15",
+    "price": 2.8,
+    "volume": 6045944
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-14",
+    "price": 2.8,
+    "volume": 6123500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-13",
+    "price": 2.74,
+    "volume": 14582949
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-10",
+    "price": 2.72,
+    "volume": 5993087
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-09",
+    "price": 2.71,
+    "volume": 9885955
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-08",
+    "price": 2.76,
+    "volume": 10373733
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-07",
+    "price": 2.77,
+    "volume": 9414646
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-06",
+    "price": 2.75,
+    "volume": 27468300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-03",
+    "price": 2.7,
+    "volume": 23938553
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-02",
+    "price": 2.61,
+    "volume": 7193933
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-11-01",
+    "price": 2.58,
+    "volume": 17322143
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-31",
+    "price": 2.53,
+    "volume": 15994200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-30",
+    "price": 2.43,
+    "volume": 11550498
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-27",
+    "price": 2.44,
+    "volume": 9261379
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-26",
+    "price": 2.5,
+    "volume": 14251044
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-25",
+    "price": 2.46,
+    "volume": 10474500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-24",
+    "price": 2.5,
+    "volume": 14970578
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-23",
+    "price": 2.45,
+    "volume": 6495044
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-20",
+    "price": 2.46,
+    "volume": 6304510
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-19",
+    "price": 2.45,
+    "volume": 8849025
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-18",
+    "price": 2.45,
+    "volume": 9106096
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-17",
+    "price": 2.52,
+    "volume": 8776214
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-16",
+    "price": 2.56,
+    "volume": 8242225
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-13",
+    "price": 2.55,
+    "volume": 12535789
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-12",
+    "price": 2.54,
+    "volume": 5687278
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-11",
+    "price": 2.6,
+    "volume": 7103906
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-10",
+    "price": 2.6,
+    "volume": 6020510
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-09",
+    "price": 2.53,
+    "volume": 3917563
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-06",
+    "price": 2.54,
+    "volume": 21619100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-05",
+    "price": 2.49,
+    "volume": 20539200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-04",
+    "price": 2.55,
+    "volume": 12380464
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-03",
+    "price": 2.5,
+    "volume": 12136944
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-10-02",
+    "price": 2.55,
+    "volume": 11026809
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-29",
+    "price": 2.58,
+    "volume": 15264491
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-28",
+    "price": 2.56,
+    "volume": 29250420
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-27",
+    "price": 2.53,
+    "volume": 29839700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-26",
+    "price": 2.57,
+    "volume": 26623900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-25",
+    "price": 2.62,
+    "volume": 14225500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-22",
+    "price": 2.63,
+    "volume": 11873205
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-21",
+    "price": 2.65,
+    "volume": 14422925
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-20",
+    "price": 2.73,
+    "volume": 7632208
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-19",
+    "price": 2.73,
+    "volume": 12436203
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-18",
+    "price": 2.73,
+    "volume": 13955970
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-15",
+    "price": 2.73,
+    "volume": 19021061
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-14",
+    "price": 2.73,
+    "volume": 19488200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-13",
+    "price": 2.74,
+    "volume": 28396436
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-12",
+    "price": 2.73,
+    "volume": 8301900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-11",
+    "price": 2.78,
+    "volume": 7540390
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-08",
+    "price": 2.72,
+    "volume": 9417867
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-07",
+    "price": 2.74,
+    "volume": 4661006
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-06",
+    "price": 2.77,
+    "volume": 13907562
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-05",
+    "price": 2.78,
+    "volume": 9343000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-09-01",
+    "price": 2.77,
+    "volume": 6865382
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-31",
+    "price": 2.77,
+    "volume": 21106105
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-30",
+    "price": 2.88,
+    "volume": 7615169
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-29",
+    "price": 2.9,
+    "volume": 7273783
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-28",
+    "price": 2.88,
+    "volume": 11871997
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-25",
+    "price": 2.86,
+    "volume": 22352700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-24",
+    "price": 2.87,
+    "volume": 7073132
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-23",
+    "price": 2.93,
+    "volume": 8893114
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-22",
+    "price": 2.88,
+    "volume": 10423955
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-21",
+    "price": 2.85,
+    "volume": 5699400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-18",
+    "price": 2.86,
+    "volume": 6939584
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-17",
+    "price": 2.83,
+    "volume": 16876600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-16",
+    "price": 2.84,
+    "volume": 8817000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-15",
+    "price": 2.82,
+    "volume": 7848875
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-14",
+    "price": 2.86,
+    "volume": 8667800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-11",
+    "price": 2.9,
+    "volume": 8226338
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-10",
+    "price": 2.92,
+    "volume": 6822347
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-09",
+    "price": 2.91,
+    "volume": 12669070
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-08",
+    "price": 2.94,
+    "volume": 8490029
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-07",
+    "price": 2.96,
+    "volume": 8171521
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-04",
+    "price": 2.98,
+    "volume": 13265200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-03",
+    "price": 2.95,
+    "volume": 23072588
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-02",
+    "price": 3.09,
+    "volume": 9950176
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-08-01",
+    "price": 3.1,
+    "volume": 16885556
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-31",
+    "price": 3.12,
+    "volume": 17738195
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-28",
+    "price": 3.13,
+    "volume": 7882898
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-27",
+    "price": 3.07,
+    "volume": 13193503
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-26",
+    "price": 3.14,
+    "volume": 10852619
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-25",
+    "price": 3.14,
+    "volume": 10791724
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-24",
+    "price": 3.15,
+    "volume": 20481915
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-21",
+    "price": 3.16,
+    "volume": 22744128
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-20",
+    "price": 3.09,
+    "volume": 25911600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-19",
+    "price": 3.02,
+    "volume": 13256243
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-18",
+    "price": 3.02,
+    "volume": 20834430
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-17",
+    "price": 3.04,
+    "volume": 16989017
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-14",
+    "price": 3.04,
+    "volume": 10735093
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-13",
+    "price": 3.06,
+    "volume": 10646700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-12",
+    "price": 3.02,
+    "volume": 8131500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-11",
+    "price": 3,
+    "volume": 15806100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-10",
+    "price": 3.05,
+    "volume": 13328334
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-07",
+    "price": 3.03,
+    "volume": 7821208
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-06",
+    "price": 3,
+    "volume": 17369435
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-05",
+    "price": 3.13,
+    "volume": 6981639
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-07-03",
+    "price": 3.18,
+    "volume": 4319900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-30",
+    "price": 3.18,
+    "volume": 10169748
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-29",
+    "price": 3.1,
+    "volume": 11113457
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-28",
+    "price": 3.1,
+    "volume": 21844857
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-27",
+    "price": 3.19,
+    "volume": 19716583
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-26",
+    "price": 3.19,
+    "volume": 12337121
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-23",
+    "price": 3.2,
+    "volume": 10130710
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-22",
+    "price": 3.22,
+    "volume": 17416095
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-21",
+    "price": 3.19,
+    "volume": 15233857
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-20",
+    "price": 3.11,
+    "volume": 14211254
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-16",
+    "price": 3.09,
+    "volume": 20357317
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-15",
+    "price": 3.13,
+    "volume": 15677100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-14",
+    "price": 3.14,
+    "volume": 17622332
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-13",
+    "price": 3.1,
+    "volume": 13214099
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-12",
+    "price": 3.08,
+    "volume": 17659369
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-09",
+    "price": 3.1,
+    "volume": 15043375
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-08",
+    "price": 3,
+    "volume": 4646847
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-07",
+    "price": 2.99,
+    "volume": 13914635
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-06",
+    "price": 2.98,
+    "volume": 22366649
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-05",
+    "price": 2.88,
+    "volume": 8991152
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-02",
+    "price": 2.9,
+    "volume": 14976431
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-06-01",
+    "price": 2.82,
+    "volume": 14191327
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-31",
+    "price": 2.79,
+    "volume": 19068444
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-30",
+    "price": 2.83,
+    "volume": 20891639
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-26",
+    "price": 2.91,
+    "volume": 10736630
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-25",
+    "price": 2.91,
+    "volume": 18283103
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-24",
+    "price": 2.94,
+    "volume": 14061500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-23",
+    "price": 2.88,
+    "volume": 10658193
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-22",
+    "price": 2.89,
+    "volume": 15018606
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-19",
+    "price": 2.88,
+    "volume": 12237766
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-18",
+    "price": 2.9,
+    "volume": 18159107
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-17",
+    "price": 2.91,
+    "volume": 9675400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-16",
+    "price": 2.94,
+    "volume": 8687615
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-15",
+    "price": 2.96,
+    "volume": 9221100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-12",
+    "price": 2.91,
+    "volume": 15427208
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-11",
+    "price": 2.9,
+    "volume": 22658200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-10",
+    "price": 2.88,
+    "volume": 14269046
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-09",
+    "price": 2.86,
+    "volume": 11007120
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-08",
+    "price": 2.87,
+    "volume": 12173992
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-05",
+    "price": 2.89,
+    "volume": 14471600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-04",
+    "price": 2.91,
+    "volume": 18169190
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-03",
+    "price": 2.88,
+    "volume": 18940757
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-02",
+    "price": 2.8,
+    "volume": 20977832
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-05-01",
+    "price": 2.79,
+    "volume": 4765339
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-28",
+    "price": 2.8,
+    "volume": 17819732
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-27",
+    "price": 2.8,
+    "volume": 12815373
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-26",
+    "price": 2.77,
+    "volume": 17581933
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-25",
+    "price": 2.79,
+    "volume": 16844071
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-24",
+    "price": 2.82,
+    "volume": 24349900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-21",
+    "price": 2.83,
+    "volume": 7288399
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-20",
+    "price": 2.88,
+    "volume": 10228211
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-19",
+    "price": 2.85,
+    "volume": 8994257
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-18",
+    "price": 2.92,
+    "volume": 9485583
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-17",
+    "price": 2.95,
+    "volume": 8836655
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-14",
+    "price": 2.94,
+    "volume": 12787100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-13",
+    "price": 2.93,
+    "volume": 11298214
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-12",
+    "price": 2.97,
+    "volume": 19121035
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-11",
+    "price": 2.91,
+    "volume": 15673334
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-10",
+    "price": 2.82,
+    "volume": 12889300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-06",
+    "price": 2.84,
+    "volume": 19583500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-05",
+    "price": 2.82,
+    "volume": 16550242
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-04",
+    "price": 2.82,
+    "volume": 19317600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-04-03",
+    "price": 2.81,
+    "volume": 15132600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-31",
+    "price": 2.82,
+    "volume": 27607750
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-30",
+    "price": 2.87,
+    "volume": 13286409
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-29",
+    "price": 2.86,
+    "volume": 20947042
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-28",
+    "price": 2.78,
+    "volume": 62541337
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-27",
+    "price": 2.66,
+    "volume": 13130300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-24",
+    "price": 2.63,
+    "volume": 18549967
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-23",
+    "price": 2.59,
+    "volume": 24670983
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-22",
+    "price": 2.63,
+    "volume": 20009200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-21",
+    "price": 2.63,
+    "volume": 13958114
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-20",
+    "price": 2.68,
+    "volume": 26649534
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-17",
+    "price": 2.69,
+    "volume": 16728500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-16",
+    "price": 2.71,
+    "volume": 13299741
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-15",
+    "price": 2.65,
+    "volume": 12863700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-14",
+    "price": 2.65,
+    "volume": 27304400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-13",
+    "price": 2.56,
+    "volume": 12873301
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-10",
+    "price": 2.58,
+    "volume": 13539519
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-09",
+    "price": 2.62,
+    "volume": 14157329
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-08",
+    "price": 2.63,
+    "volume": 21866691
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-07",
+    "price": 2.57,
+    "volume": 11776100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-06",
+    "price": 2.61,
+    "volume": 24846270
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-03",
+    "price": 2.52,
+    "volume": 63051840
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-02",
+    "price": 2.52,
+    "volume": 29163739
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-03-01",
+    "price": 2.58,
+    "volume": 15423700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-28",
+    "price": 2.55,
+    "volume": 34164608
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-27",
+    "price": 2.57,
+    "volume": 13393637
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-24",
+    "price": 2.55,
+    "volume": 32153982
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-23",
+    "price": 2.58,
+    "volume": 18087400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-22",
+    "price": 2.54,
+    "volume": 31602600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-21",
+    "price": 2.52,
+    "volume": 24748966
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-17",
+    "price": 2.52,
+    "volume": 11354400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-16",
+    "price": 2.5,
+    "volume": 21219112
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-15",
+    "price": 2.52,
+    "volume": 13010548
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-14",
+    "price": 2.49,
+    "volume": 28393163
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-13",
+    "price": 2.51,
+    "volume": 10837020
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-10",
+    "price": 2.44,
+    "volume": 21535700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-09",
+    "price": 2.45,
+    "volume": 31123400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-08",
+    "price": 2.5,
+    "volume": 22706942
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-07",
+    "price": 2.49,
+    "volume": 32424943
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-06",
+    "price": 2.5,
+    "volume": 48072940
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-03",
+    "price": 2.51,
+    "volume": 33203800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-02",
+    "price": 2.58,
+    "volume": 45248000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-02-01",
+    "price": 2.59,
+    "volume": 95144741
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-31",
+    "price": 2.66,
+    "volume": 26509795
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-30",
+    "price": 2.62,
+    "volume": 17063579
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-27",
+    "price": 2.65,
+    "volume": 14107325
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-26",
+    "price": 2.68,
+    "volume": 28767544
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-25",
+    "price": 2.68,
+    "volume": 28129500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-24",
+    "price": 2.63,
+    "volume": 15615200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-23",
+    "price": 2.57,
+    "volume": 29984547
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-20",
+    "price": 2.6,
+    "volume": 17740313
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-19",
+    "price": 2.6,
+    "volume": 27426926
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-18",
+    "price": 2.65,
+    "volume": 21824106
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-17",
+    "price": 2.72,
+    "volume": 43180580
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-13",
+    "price": 2.71,
+    "volume": 30224210
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-12",
+    "price": 2.74,
+    "volume": 34392436
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-11",
+    "price": 2.72,
+    "volume": 32105646
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-10",
+    "price": 2.76,
+    "volume": 19909900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-09",
+    "price": 2.72,
+    "volume": 15844300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-06",
+    "price": 2.71,
+    "volume": 13126500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-05",
+    "price": 2.64,
+    "volume": 23601544
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-04",
+    "price": 2.61,
+    "volume": 25771636
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2023-01-03",
+    "price": 2.59,
+    "volume": 50074317
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-30",
+    "price": 2.72,
+    "volume": 6640718
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-29",
+    "price": 2.75,
+    "volume": 11113700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-28",
+    "price": 2.75,
+    "volume": 18334800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-27",
+    "price": 2.72,
+    "volume": 15878600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-23",
+    "price": 2.81,
+    "volume": 10219451
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-22",
+    "price": 2.76,
+    "volume": 11960149
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-21",
+    "price": 2.75,
+    "volume": 20335231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-20",
+    "price": 2.76,
+    "volume": 12795451
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-19",
+    "price": 2.85,
+    "volume": 33141784
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-16",
+    "price": 2.76,
+    "volume": 23367510
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-15",
+    "price": 2.8,
+    "volume": 28000348
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-14",
+    "price": 2.85,
+    "volume": 53823400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-13",
+    "price": 2.85,
+    "volume": 71171630
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-12",
+    "price": 2.87,
+    "volume": 24610300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-09",
+    "price": 2.92,
+    "volume": 16430657
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-08",
+    "price": 2.97,
+    "volume": 13592500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-07",
+    "price": 3.03,
+    "volume": 8996800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-06",
+    "price": 3,
+    "volume": 21769900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-05",
+    "price": 3.01,
+    "volume": 29352900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-02",
+    "price": 3.1,
+    "volume": 62146226
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-12-01",
+    "price": 3.08,
+    "volume": 39390304
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-30",
+    "price": 3.05,
+    "volume": 26714923
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-29",
+    "price": 2.92,
+    "volume": 24456937
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-28",
+    "price": 2.93,
+    "volume": 13677416
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-25",
+    "price": 2.91,
+    "volume": 8475611
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-23",
+    "price": 2.92,
+    "volume": 19894300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-22",
+    "price": 2.87,
+    "volume": 43557943
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-21",
+    "price": 2.92,
+    "volume": 19433870
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-18",
+    "price": 2.87,
+    "volume": 34901249
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-17",
+    "price": 2.82,
+    "volume": 26287531
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-16",
+    "price": 2.83,
+    "volume": 39748500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-15",
+    "price": 3,
+    "volume": 14482823
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-14",
+    "price": 2.97,
+    "volume": 21104721
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-11",
+    "price": 2.99,
+    "volume": 26890410
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-10",
+    "price": 2.93,
+    "volume": 53025241
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-09",
+    "price": 3.15,
+    "volume": 32807000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-08",
+    "price": 3.2,
+    "volume": 32263632
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-07",
+    "price": 3.13,
+    "volume": 29987128
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-04",
+    "price": 3.24,
+    "volume": 47683592
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-03",
+    "price": 3.08,
+    "volume": 30652394
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-02",
+    "price": 2.97,
+    "volume": 12166510
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-11-01",
+    "price": 3.06,
+    "volume": 32104500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-31",
+    "price": 3.04,
+    "volume": 43040487
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-28",
+    "price": 2.93,
+    "volume": 30866900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-27",
+    "price": 2.89,
+    "volume": 39648038
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-26",
+    "price": 2.8,
+    "volume": 31789698
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-25",
+    "price": 2.77,
+    "volume": 31908800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-24",
+    "price": 2.83,
+    "volume": 31494930
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-21",
+    "price": 2.94,
+    "volume": 35941177
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-20",
+    "price": 2.83,
+    "volume": 40145249
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-19",
+    "price": 2.76,
+    "volume": 37919253
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-18",
+    "price": 2.8,
+    "volume": 18917481
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-17",
+    "price": 2.79,
+    "volume": 15363134
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-14",
+    "price": 2.74,
+    "volume": 23399000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-13",
+    "price": 2.83,
+    "volume": 25779429
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-12",
+    "price": 2.79,
+    "volume": 12448500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-11",
+    "price": 2.8,
+    "volume": 27728900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-10",
+    "price": 2.89,
+    "volume": 23891318
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-07",
+    "price": 2.89,
+    "volume": 33749833
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-06",
+    "price": 3.05,
+    "volume": 38644000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-05",
+    "price": 3.07,
+    "volume": 66769947
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-04",
+    "price": 3.1,
+    "volume": 33031955
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-10-03",
+    "price": 3.11,
+    "volume": 31063698
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-30",
+    "price": 2.83,
+    "volume": 28473136
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-29",
+    "price": 2.86,
+    "volume": 46118918
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-28",
+    "price": 2.9,
+    "volume": 38927703
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-27",
+    "price": 2.83,
+    "volume": 33028207
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-26",
+    "price": 2.8,
+    "volume": 36231920
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-23",
+    "price": 2.88,
+    "volume": 39915350
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-22",
+    "price": 2.99,
+    "volume": 46529385
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-21",
+    "price": 2.95,
+    "volume": 31717052
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-20",
+    "price": 3,
+    "volume": 41027101
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-19",
+    "price": 2.96,
+    "volume": 17857700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-16",
+    "price": 2.83,
+    "volume": 33513751
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-15",
+    "price": 2.87,
+    "volume": 16732551
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-14",
+    "price": 2.92,
+    "volume": 14726200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-13",
+    "price": 2.94,
+    "volume": 38486400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-12",
+    "price": 3.03,
+    "volume": 12191003
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-09",
+    "price": 3,
+    "volume": 9843125
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-08",
+    "price": 2.92,
+    "volume": 22334800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-07",
+    "price": 2.98,
+    "volume": 14799416
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-06",
+    "price": 2.93,
+    "volume": 25041119
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-02",
+    "price": 2.93,
+    "volume": 21163546
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-09-01",
+    "price": 2.88,
+    "volume": 34612275
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-31",
+    "price": 2.9,
+    "volume": 23077341
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-30",
+    "price": 2.95,
+    "volume": 28691100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-29",
+    "price": 3.04,
+    "volume": 23343722
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-26",
+    "price": 3.03,
+    "volume": 30971539
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-25",
+    "price": 3.04,
+    "volume": 16495204
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-24",
+    "price": 3.04,
+    "volume": 30903595
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-23",
+    "price": 2.98,
+    "volume": 16559976
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-22",
+    "price": 2.94,
+    "volume": 28408826
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-19",
+    "price": 2.99,
+    "volume": 33415635
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-18",
+    "price": 3.03,
+    "volume": 26681800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-17",
+    "price": 2.98,
+    "volume": 40492600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-16",
+    "price": 2.97,
+    "volume": 22021700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-15",
+    "price": 3,
+    "volume": 34620000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-12",
+    "price": 2.96,
+    "volume": 17985450
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-11",
+    "price": 2.9,
+    "volume": 20368953
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-10",
+    "price": 2.95,
+    "volume": 29022993
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-09",
+    "price": 2.82,
+    "volume": 19919552
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-08",
+    "price": 2.85,
+    "volume": 22449603
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-05",
+    "price": 2.76,
+    "volume": 43798100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-04",
+    "price": 2.78,
+    "volume": 27368378
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-03",
+    "price": 2.72,
+    "volume": 40360034
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-02",
+    "price": 2.73,
+    "volume": 25128485
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-08-01",
+    "price": 2.77,
+    "volume": 43896218
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-29",
+    "price": 2.82,
+    "volume": 50263810
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-28",
+    "price": 2.88,
+    "volume": 41008320
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-27",
+    "price": 2.83,
+    "volume": 36323500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-26",
+    "price": 2.72,
+    "volume": 32240042
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-25",
+    "price": 2.69,
+    "volume": 19529904
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-22",
+    "price": 2.61,
+    "volume": 25361423
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-21",
+    "price": 2.61,
+    "volume": 31266500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-20",
+    "price": 2.59,
+    "volume": 48392504
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-19",
+    "price": 2.65,
+    "volume": 36816622
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-18",
+    "price": 2.64,
+    "volume": 34625700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-15",
+    "price": 2.65,
+    "volume": 32876100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-14",
+    "price": 2.69,
+    "volume": 52029119
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-13",
+    "price": 2.66,
+    "volume": 49881200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-12",
+    "price": 2.51,
+    "volume": 32763500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-11",
+    "price": 2.57,
+    "volume": 28985483
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-08",
+    "price": 2.68,
+    "volume": 29100300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-07",
+    "price": 2.63,
+    "volume": 26502300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-06",
+    "price": 2.59,
+    "volume": 36028146
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-05",
+    "price": 2.56,
+    "volume": 38929268
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-07-01",
+    "price": 2.56,
+    "volume": 21925700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-30",
+    "price": 2.51,
+    "volume": 27500477
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-29",
+    "price": 2.58,
+    "volume": 95793448
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-28",
+    "price": 2.51,
+    "volume": 31647103
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-27",
+    "price": 2.59,
+    "volume": 29885506
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-24",
+    "price": 2.57,
+    "volume": 35700200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-23",
+    "price": 2.52,
+    "volume": 36052623
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-22",
+    "price": 2.53,
+    "volume": 22880638
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-21",
+    "price": 2.51,
+    "volume": 29142832
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-17",
+    "price": 2.49,
+    "volume": 33630000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-16",
+    "price": 2.45,
+    "volume": 27465400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-15",
+    "price": 2.54,
+    "volume": 41195029
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-14",
+    "price": 2.51,
+    "volume": 36940715
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-13",
+    "price": 2.55,
+    "volume": 66179806
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-10",
+    "price": 2.67,
+    "volume": 50056000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-09",
+    "price": 2.71,
+    "volume": 29476617
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-08",
+    "price": 2.78,
+    "volume": 31982646
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-07",
+    "price": 2.79,
+    "volume": 35196600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-06",
+    "price": 2.88,
+    "volume": 18501447
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-03",
+    "price": 2.89,
+    "volume": 23934854
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-02",
+    "price": 2.93,
+    "volume": 27072800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-06-01",
+    "price": 2.93,
+    "volume": 39422524
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-31",
+    "price": 2.96,
+    "volume": 24248900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-27",
+    "price": 2.96,
+    "volume": 21964647
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-26",
+    "price": 2.94,
+    "volume": 25090094
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-25",
+    "price": 2.87,
+    "volume": 34872600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-24",
+    "price": 2.89,
+    "volume": 33850900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-23",
+    "price": 2.9,
+    "volume": 25222100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-20",
+    "price": 2.82,
+    "volume": 36230513
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-19",
+    "price": 2.82,
+    "volume": 31659136
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-18",
+    "price": 2.8,
+    "volume": 49194017
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-17",
+    "price": 2.94,
+    "volume": 30461496
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-16",
+    "price": 2.89,
+    "volume": 26222916
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-13",
+    "price": 2.86,
+    "volume": 23440473
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-12",
+    "price": 2.78,
+    "volume": 51463624
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-11",
+    "price": 2.66,
+    "volume": 44501200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-10",
+    "price": 2.64,
+    "volume": 29751117
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-09",
+    "price": 2.61,
+    "volume": 38321400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-06",
+    "price": 2.62,
+    "volume": 30264913
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-05",
+    "price": 2.71,
+    "volume": 36920400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-04",
+    "price": 2.89,
+    "volume": 35739800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-03",
+    "price": 2.83,
+    "volume": 30971900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-05-02",
+    "price": 2.82,
+    "volume": 34277311
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-29",
+    "price": 2.91,
+    "volume": 30378300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-28",
+    "price": 2.95,
+    "volume": 27522026
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-27",
+    "price": 2.92,
+    "volume": 25964107
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-26",
+    "price": 2.92,
+    "volume": 18109945
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-25",
+    "price": 3.06,
+    "volume": 28424000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-22",
+    "price": 3.02,
+    "volume": 28162623
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-21",
+    "price": 3.11,
+    "volume": 14511700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-20",
+    "price": 3.18,
+    "volume": 13623830
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-19",
+    "price": 3.13,
+    "volume": 20420733
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-18",
+    "price": 3.11,
+    "volume": 18034000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-14",
+    "price": 3.1,
+    "volume": 16902011
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-13",
+    "price": 3.14,
+    "volume": 22767000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-12",
+    "price": 3.21,
+    "volume": 28086517
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-11",
+    "price": 3.24,
+    "volume": 24921712
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-08",
+    "price": 3.12,
+    "volume": 23878800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-07",
+    "price": 3.14,
+    "volume": 19996800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-06",
+    "price": 3.14,
+    "volume": 34587118
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-05",
+    "price": 3.2,
+    "volume": 16753600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-04",
+    "price": 3.28,
+    "volume": 16319700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-04-01",
+    "price": 3.29,
+    "volume": 22548600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-31",
+    "price": 3.23,
+    "volume": 23582300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-30",
+    "price": 3.14,
+    "volume": 13625100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-29",
+    "price": 3.18,
+    "volume": 20505133
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-28",
+    "price": 3.06,
+    "volume": 27942100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-25",
+    "price": 3,
+    "volume": 26355345
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-24",
+    "price": 2.92,
+    "volume": 21677800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-23",
+    "price": 2.92,
+    "volume": 22149841
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-22",
+    "price": 2.9,
+    "volume": 18844600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-21",
+    "price": 2.86,
+    "volume": 17109406
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-18",
+    "price": 2.84,
+    "volume": 18240914
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-17",
+    "price": 2.77,
+    "volume": 17338739
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-16",
+    "price": 2.7,
+    "volume": 22085846
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-15",
+    "price": 2.62,
+    "volume": 28274300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-14",
+    "price": 2.62,
+    "volume": 27252600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-11",
+    "price": 2.6,
+    "volume": 22138464
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-10",
+    "price": 2.67,
+    "volume": 23738545
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-09",
+    "price": 2.77,
+    "volume": 17745400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-08",
+    "price": 2.64,
+    "volume": 43837123
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-07",
+    "price": 2.62,
+    "volume": 43541610
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-04",
+    "price": 2.73,
+    "volume": 48903254
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-03",
+    "price": 2.82,
+    "volume": 21421521
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-02",
+    "price": 2.85,
+    "volume": 36509800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-03-01",
+    "price": 2.82,
+    "volume": 28290810
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-28",
+    "price": 2.93,
+    "volume": 17996539
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-25",
+    "price": 2.96,
+    "volume": 35697800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-24",
+    "price": 2.88,
+    "volume": 49896700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-23",
+    "price": 2.96,
+    "volume": 16907600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-22",
+    "price": 2.89,
+    "volume": 19762200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-18",
+    "price": 2.88,
+    "volume": 15327200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-17",
+    "price": 2.86,
+    "volume": 17709305
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-16",
+    "price": 2.94,
+    "volume": 18249039
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-15",
+    "price": 2.95,
+    "volume": 38618210
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-14",
+    "price": 2.9,
+    "volume": 33498707
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-11",
+    "price": 2.85,
+    "volume": 27925700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-10",
+    "price": 2.81,
+    "volume": 30576000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-09",
+    "price": 2.78,
+    "volume": 28005136
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-08",
+    "price": 2.71,
+    "volume": 21206800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-07",
+    "price": 2.72,
+    "volume": 16655432
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-04",
+    "price": 2.71,
+    "volume": 16433600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-03",
+    "price": 2.71,
+    "volume": 17951700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-02",
+    "price": 2.76,
+    "volume": 13040836
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-02-01",
+    "price": 2.82,
+    "volume": 12292212
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-31",
+    "price": 2.83,
+    "volume": 14314930
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-28",
+    "price": 2.77,
+    "volume": 28171200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-27",
+    "price": 2.83,
+    "volume": 29826950
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-26",
+    "price": 2.75,
+    "volume": 46485200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-25",
+    "price": 2.79,
+    "volume": 31879800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-24",
+    "price": 2.69,
+    "volume": 27978993
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-21",
+    "price": 2.67,
+    "volume": 23004558
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-20",
+    "price": 2.65,
+    "volume": 18879200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-19",
+    "price": 2.65,
+    "volume": 27178400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-18",
+    "price": 2.61,
+    "volume": 17332745
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-14",
+    "price": 2.75,
+    "volume": 10849401
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-13",
+    "price": 2.72,
+    "volume": 16945000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-12",
+    "price": 2.69,
+    "volume": 28516334
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-11",
+    "price": 2.65,
+    "volume": 18964567
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-10",
+    "price": 2.6,
+    "volume": 18405800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-07",
+    "price": 2.59,
+    "volume": 14488900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-06",
+    "price": 2.6,
+    "volume": 14208920
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-05",
+    "price": 2.63,
+    "volume": 20800300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-04",
+    "price": 2.71,
+    "volume": 17761700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2022-01-03",
+    "price": 2.72,
+    "volume": 23987047
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-31",
+    "price": 2.8,
+    "volume": 6036400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-30",
+    "price": 2.76,
+    "volume": 8389900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-29",
+    "price": 2.71,
+    "volume": 9035800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-28",
+    "price": 2.73,
+    "volume": 9174200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-27",
+    "price": 2.74,
+    "volume": 6117270
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-23",
+    "price": 2.74,
+    "volume": 16973300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-22",
+    "price": 2.73,
+    "volume": 26079700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-21",
+    "price": 2.66,
+    "volume": 15879100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-20",
+    "price": 2.66,
+    "volume": 15144636
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-17",
+    "price": 2.81,
+    "volume": 16177700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-16",
+    "price": 2.79,
+    "volume": 18111415
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-15",
+    "price": 2.8,
+    "volume": 19439805
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-14",
+    "price": 2.83,
+    "volume": 18853926
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-13",
+    "price": 2.8,
+    "volume": 22887600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-10",
+    "price": 2.81,
+    "volume": 14363500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-09",
+    "price": 2.78,
+    "volume": 25156116
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-08",
+    "price": 2.87,
+    "volume": 26024742
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-07",
+    "price": 2.86,
+    "volume": 16413400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-06",
+    "price": 2.82,
+    "volume": 23329900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-03",
+    "price": 2.82,
+    "volume": 25577740
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-02",
+    "price": 2.81,
+    "volume": 29560800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-12-01",
+    "price": 2.75,
+    "volume": 33211539
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-30",
+    "price": 2.82,
+    "volume": 35143300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-29",
+    "price": 2.9,
+    "volume": 26682088
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-26",
+    "price": 2.95,
+    "volume": 17163000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-24",
+    "price": 3.03,
+    "volume": 18645300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-23",
+    "price": 3.05,
+    "volume": 37596532
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-22",
+    "price": 3.04,
+    "volume": 28242818
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-19",
+    "price": 3.06,
+    "volume": 22472885
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-18",
+    "price": 3.11,
+    "volume": 28695148
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-17",
+    "price": 3.13,
+    "volume": 22272542
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-16",
+    "price": 3.12,
+    "volume": 22860500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-15",
+    "price": 3.14,
+    "volume": 14515600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-12",
+    "price": 3.14,
+    "volume": 43236210
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-11",
+    "price": 3.19,
+    "volume": 22001425
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-10",
+    "price": 3.18,
+    "volume": 33996900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-09",
+    "price": 3.2,
+    "volume": 29367700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-08",
+    "price": 3.15,
+    "volume": 26782500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-05",
+    "price": 3.22,
+    "volume": 28282800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-04",
+    "price": 3.14,
+    "volume": 28484400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-03",
+    "price": 3.14,
+    "volume": 35388300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-02",
+    "price": 3,
+    "volume": 18698140
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-11-01",
+    "price": 3.05,
+    "volume": 21590478
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-29",
+    "price": 2.96,
+    "volume": 41934434
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-28",
+    "price": 2.94,
+    "volume": 52305647
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-27",
+    "price": 2.68,
+    "volume": 29668458
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-26",
+    "price": 2.7,
+    "volume": 24712700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-25",
+    "price": 2.72,
+    "volume": 25542171
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-22",
+    "price": 2.62,
+    "volume": 46325005
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-21",
+    "price": 2.63,
+    "volume": 23644300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-20",
+    "price": 2.73,
+    "volume": 20730073
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-19",
+    "price": 2.67,
+    "volume": 21279330
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-18",
+    "price": 2.79,
+    "volume": 15838600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-15",
+    "price": 2.79,
+    "volume": 17769000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-14",
+    "price": 2.77,
+    "volume": 12761872
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-13",
+    "price": 2.76,
+    "volume": 23216600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-12",
+    "price": 2.7,
+    "volume": 12420803
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-11",
+    "price": 2.7,
+    "volume": 10605900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-08",
+    "price": 2.74,
+    "volume": 18457023
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-07",
+    "price": 2.68,
+    "volume": 14926031
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-06",
+    "price": 2.71,
+    "volume": 19017435
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-05",
+    "price": 2.73,
+    "volume": 20877500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-04",
+    "price": 2.74,
+    "volume": 19517100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-10-01",
+    "price": 2.78,
+    "volume": 35588877
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-30",
+    "price": 2.76,
+    "volume": 52972400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-29",
+    "price": 2.8,
+    "volume": 24114324
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-28",
+    "price": 2.79,
+    "volume": 26022700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-27",
+    "price": 2.88,
+    "volume": 35603140
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-24",
+    "price": 2.92,
+    "volume": 20551000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-23",
+    "price": 2.95,
+    "volume": 41938720
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-22",
+    "price": 2.92,
+    "volume": 17721044
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-21",
+    "price": 2.92,
+    "volume": 21424938
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-20",
+    "price": 2.9,
+    "volume": 32491900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-17",
+    "price": 2.96,
+    "volume": 41092525
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-16",
+    "price": 3.03,
+    "volume": 28453500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-15",
+    "price": 3.03,
+    "volume": 20669400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-14",
+    "price": 3.08,
+    "volume": 21977521
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-13",
+    "price": 3.07,
+    "volume": 26156503
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-10",
+    "price": 3.01,
+    "volume": 29187600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-09",
+    "price": 3.05,
+    "volume": 48027900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-08",
+    "price": 3.04,
+    "volume": 37294816
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-07",
+    "price": 3.2,
+    "volume": 28667800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-03",
+    "price": 3.14,
+    "volume": 27226700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-02",
+    "price": 3.15,
+    "volume": 27615078
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-09-01",
+    "price": 3.28,
+    "volume": 25678503
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-31",
+    "price": 3.26,
+    "volume": 18410440
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-30",
+    "price": 3.27,
+    "volume": 13604847
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-27",
+    "price": 3.23,
+    "volume": 28839625
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-26",
+    "price": 3.21,
+    "volume": 22672492
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-25",
+    "price": 3.32,
+    "volume": 16271372
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-24",
+    "price": 3.27,
+    "volume": 18444300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-23",
+    "price": 3.18,
+    "volume": 15096000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-20",
+    "price": 3.19,
+    "volume": 32151313
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-19",
+    "price": 3.11,
+    "volume": 44972310
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-18",
+    "price": 3.02,
+    "volume": 25630000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-17",
+    "price": 3.06,
+    "volume": 20719320
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-16",
+    "price": 3.06,
+    "volume": 18156708
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-13",
+    "price": 3.12,
+    "volume": 14535746
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-12",
+    "price": 3.12,
+    "volume": 14087308
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-11",
+    "price": 3.15,
+    "volume": 13237046
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-10",
+    "price": 3.2,
+    "volume": 26983200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-09",
+    "price": 3.21,
+    "volume": 36384156
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-06",
+    "price": 3.22,
+    "volume": 19417800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-05",
+    "price": 3.17,
+    "volume": 24263309
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-04",
+    "price": 3.16,
+    "volume": 20620343
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-03",
+    "price": 3.25,
+    "volume": 28308808
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-08-02",
+    "price": 3.23,
+    "volume": 21101051
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-30",
+    "price": 3.17,
+    "volume": 22481700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-29",
+    "price": 3.33,
+    "volume": 36874252
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-28",
+    "price": 3.32,
+    "volume": 33104374
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-27",
+    "price": 3.24,
+    "volume": 11312240
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-26",
+    "price": 3.25,
+    "volume": 19983106
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-23",
+    "price": 3.19,
+    "volume": 14149299
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-22",
+    "price": 3.21,
+    "volume": 12778534
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-21",
+    "price": 3.26,
+    "volume": 25459845
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-20",
+    "price": 3.2,
+    "volume": 27403342
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-19",
+    "price": 3.21,
+    "volume": 35854340
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-16",
+    "price": 3.39,
+    "volume": 37988825
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-15",
+    "price": 3.4,
+    "volume": 19507300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-14",
+    "price": 3.47,
+    "volume": 21860317
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-13",
+    "price": 3.44,
+    "volume": 30537500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-12",
+    "price": 3.41,
+    "volume": 16338593
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-09",
+    "price": 3.36,
+    "volume": 21363756
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-08",
+    "price": 3.32,
+    "volume": 12701144
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-07",
+    "price": 3.37,
+    "volume": 22947144
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-06",
+    "price": 3.36,
+    "volume": 22813208
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-02",
+    "price": 3.43,
+    "volume": 16662000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-07-01",
+    "price": 3.38,
+    "volume": 26478147
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-30",
+    "price": 3.44,
+    "volume": 26478400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-29",
+    "price": 3.49,
+    "volume": 41514112
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-28",
+    "price": 3.53,
+    "volume": 27948300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-25",
+    "price": 3.44,
+    "volume": 42125538
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-24",
+    "price": 3.64,
+    "volume": 19729058
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-23",
+    "price": 3.59,
+    "volume": 30134834
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-22",
+    "price": 3.66,
+    "volume": 35306279
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-21",
+    "price": 3.72,
+    "volume": 26369882
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-18",
+    "price": 3.69,
+    "volume": 33543542
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-17",
+    "price": 3.76,
+    "volume": 34688427
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-16",
+    "price": 3.79,
+    "volume": 23094305
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-15",
+    "price": 3.82,
+    "volume": 15347653
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-14",
+    "price": 3.83,
+    "volume": 9222482
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-11",
+    "price": 3.74,
+    "volume": 22248540
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-10",
+    "price": 3.8,
+    "volume": 17863415
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-09",
+    "price": 3.79,
+    "volume": 39255700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-08",
+    "price": 3.9,
+    "volume": 34229801
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-07",
+    "price": 3.9,
+    "volume": 23113750
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-04",
+    "price": 3.87,
+    "volume": 27290400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-03",
+    "price": 3.79,
+    "volume": 14315235
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-02",
+    "price": 3.81,
+    "volume": 69064100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-06-01",
+    "price": 3.66,
+    "volume": 41909020
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-28",
+    "price": 3.46,
+    "volume": 21358400
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-27",
+    "price": 3.37,
+    "volume": 33293953
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-26",
+    "price": 3.29,
+    "volume": 17982480
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-25",
+    "price": 3.3,
+    "volume": 23692736
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-24",
+    "price": 3.33,
+    "volume": 20971800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-21",
+    "price": 3.3,
+    "volume": 50720146
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-20",
+    "price": 3.35,
+    "volume": 17548829
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-19",
+    "price": 3.35,
+    "volume": 21863100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-18",
+    "price": 3.33,
+    "volume": 19918800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-17",
+    "price": 3.34,
+    "volume": 20300609
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-14",
+    "price": 3.31,
+    "volume": 19361533
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-13",
+    "price": 3.22,
+    "volume": 20007236
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-12",
+    "price": 3.22,
+    "volume": 33189144
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-11",
+    "price": 3.27,
+    "volume": 28064317
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-10",
+    "price": 3.21,
+    "volume": 20620100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-07",
+    "price": 3.12,
+    "volume": 19108100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-06",
+    "price": 3.12,
+    "volume": 66787700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-05",
+    "price": 2.79,
+    "volume": 14896300
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-04",
+    "price": 2.72,
+    "volume": 12704900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-05-03",
+    "price": 2.75,
+    "volume": 18013067
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-30",
+    "price": 2.78,
+    "volume": 12611500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-29",
+    "price": 2.89,
+    "volume": 11157124
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-28",
+    "price": 2.85,
+    "volume": 11196616
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-27",
+    "price": 2.82,
+    "volume": 11813009
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-26",
+    "price": 2.87,
+    "volume": 14615613
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-23",
+    "price": 2.92,
+    "volume": 17247709
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-22",
+    "price": 2.95,
+    "volume": 22852200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-21",
+    "price": 2.9,
+    "volume": 10620907
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-20",
+    "price": 2.84,
+    "volume": 17456598
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-19",
+    "price": 2.86,
+    "volume": 23289517
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-16",
+    "price": 2.88,
+    "volume": 12667200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-15",
+    "price": 2.85,
+    "volume": 14268700
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-14",
+    "price": 2.82,
+    "volume": 24609500
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-13",
+    "price": 2.77,
+    "volume": 23036806
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-12",
+    "price": 2.74,
+    "volume": 13955011
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-09",
+    "price": 2.77,
+    "volume": 18051200
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-08",
+    "price": 2.81,
+    "volume": 44545000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-07",
+    "price": 2.72,
+    "volume": 13536077
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-06",
+    "price": 2.76,
+    "volume": 12201808
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-05",
+    "price": 2.72,
+    "volume": 18797598
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-04-01",
+    "price": 2.67,
+    "volume": 14989619
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-31",
+    "price": 2.74,
+    "volume": 11848927
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-30",
+    "price": 2.74,
+    "volume": 11320000
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-29",
+    "price": 2.7,
+    "volume": 15968083
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-26",
+    "price": 2.68,
+    "volume": 11584302
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-25",
+    "price": 2.68,
+    "volume": 18310624
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-24",
+    "price": 2.67,
+    "volume": 17261941
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-23",
+    "price": 2.77,
+    "volume": 19780100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-22",
+    "price": 2.88,
+    "volume": 25434900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-19",
+    "price": 2.87,
+    "volume": 20946032
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-18",
+    "price": 2.76,
+    "volume": 12036721
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-17",
+    "price": 2.79,
+    "volume": 18577323
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-16",
+    "price": 2.71,
+    "volume": 11825800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-15",
+    "price": 2.74,
+    "volume": 11592231
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-12",
+    "price": 2.75,
+    "volume": 15919900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-11",
+    "price": 2.75,
+    "volume": 14292216
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-10",
+    "price": 2.71,
+    "volume": 30944900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-09",
+    "price": 2.64,
+    "volume": 20018120
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-08",
+    "price": 2.56,
+    "volume": 40346230
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-05",
+    "price": 2.71,
+    "volume": 39866600
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-04",
+    "price": 2.66,
+    "volume": 56229900
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-03",
+    "price": 2.55,
+    "volume": 50174100
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-02",
+    "price": 2.52,
+    "volume": 48285800
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2021-03-01",
+    "price": 2.5,
+    "volume": 18565727
+  }
+]

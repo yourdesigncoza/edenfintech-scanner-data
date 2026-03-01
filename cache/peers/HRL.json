@@ -1,0 +1,56 @@
+[
+  {
+    "symbol": "BF-B",
+    "companyName": "Brown-Forman Corporation",
+    "price": 28.84,
+    "mktCap": 13624727656
+  },
+  {
+    "symbol": "BJ",
+    "companyName": "BJ's Wholesale Club Holdings, Inc.",
+    "price": 98.79,
+    "mktCap": 13015915620
+  },
+  {
+    "symbol": "CAG",
+    "companyName": "Conagra Brands, Inc.",
+    "price": 19.25,
+    "mktCap": 9208612394
+  },
+  {
+    "symbol": "CLX",
+    "companyName": "The Clorox Company",
+    "price": 127.16,
+    "mktCap": 15511024866
+  },
+  {
+    "symbol": "COKE",
+    "companyName": "Coca-Cola Consolidated, Inc.",
+    "price": 202.4,
+    "mktCap": 16941800110
+  },
+  {
+    "symbol": "CPB",
+    "companyName": "Campbell Soup Company",
+    "price": 26.95,
+    "mktCap": 8034717903
+  },
+  {
+    "symbol": "LW",
+    "companyName": "Lamb Weston Holdings, Inc.",
+    "price": 48.19,
+    "mktCap": 6715396204
+  },
+  {
+    "symbol": "PPC",
+    "companyName": "Pilgrim's Pride Corporation",
+    "price": 43.16,
+    "mktCap": 10252547813
+  },
+  {
+    "symbol": "SJM",
+    "companyName": "The J. M. Smucker Company",
+    "price": 115.95,
+    "mktCap": 12371207216
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "TFX",
+    "date": "2025-12-31",
+    "stockPrice": 122.04,
+    "numberOfShares": 44622000,
+    "marketCapitalization": 5445668880,
+    "minusCashAndCashEquivalents": 378564000,
+    "addTotalDebt": 184210000,
+    "enterpriseValue": 5251314880
+  },
+  {
+    "symbol": "TFX",
+    "date": "2024-12-31",
+    "stockPrice": 177.98,
+    "numberOfShares": 46837000,
+    "marketCapitalization": 8336049259,
+    "minusCashAndCashEquivalents": 290188000,
+    "addTotalDebt": 1755025000,
+    "enterpriseValue": 9800886259
+  },
+  {
+    "symbol": "TFX",
+    "date": "2023-12-31",
+    "stockPrice": 249.34,
+    "numberOfShares": 46981000,
+    "marketCapitalization": 11714242540,
+    "minusCashAndCashEquivalents": 222848000,
+    "addTotalDebt": 1926372000,
+    "enterpriseValue": 13417766540
+  },
+  {
+    "symbol": "TFX",
+    "date": "2022-12-31",
+    "stockPrice": 249.63,
+    "numberOfShares": 46898000,
+    "marketCapitalization": 11707147740,
+    "minusCashAndCashEquivalents": 292034000,
+    "addTotalDebt": 1831960000,
+    "enterpriseValue": 13247073740
+  },
+  {
+    "symbol": "TFX",
+    "date": "2021-12-31",
+    "stockPrice": 328.48,
+    "numberOfShares": 46774000,
+    "marketCapitalization": 15364323520,
+    "minusCashAndCashEquivalents": 445084000,
+    "addTotalDebt": 1966135000,
+    "enterpriseValue": 16885374520
+  },
+  {
+    "symbol": "TFX",
+    "date": "2020-12-31",
+    "stockPrice": 411.57,
+    "numberOfShares": 46488000,
+    "marketCapitalization": 19133066160,
+    "minusCashAndCashEquivalents": 375880000,
+    "addTotalDebt": 2564485000,
+    "enterpriseValue": 21321671160
+  },
+  {
+    "symbol": "TFX",
+    "date": "2019-12-31",
+    "stockPrice": 376.44,
+    "numberOfShares": 46200000,
+    "marketCapitalization": 17391528000,
+    "minusCashAndCashEquivalents": 301083000,
+    "addTotalDebt": 2010315000,
+    "enterpriseValue": 19100760000
+  },
+  {
+    "symbol": "TFX",
+    "date": "2018-12-31",
+    "stockPrice": 258.48,
+    "numberOfShares": 45689000,
+    "marketCapitalization": 11809692720,
+    "minusCashAndCashEquivalents": 357161000,
+    "addTotalDebt": 2158825000,
+    "enterpriseValue": 13611356720
+  },
+  {
+    "symbol": "TFX",
+    "date": "2017-12-31",
+    "stockPrice": 248.82,
+    "numberOfShares": 45004000,
+    "marketCapitalization": 11197895280,
+    "minusCashAndCashEquivalents": 333558000,
+    "addTotalDebt": 2249552000,
+    "enterpriseValue": 13113889280
+  },
+  {
+    "symbol": "TFX",
+    "date": "2016-12-31",
+    "stockPrice": 161.15,
+    "numberOfShares": 43325000,
+    "marketCapitalization": 6981823750,
+    "minusCashAndCashEquivalents": 543789000,
+    "addTotalDebt": 1033323000,
+    "enterpriseValue": 7471357750
+  }
+]

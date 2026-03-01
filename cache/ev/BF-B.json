@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "BF-B",
+    "date": "2025-04-30",
+    "stockPrice": 34.84,
+    "numberOfShares": 472655000,
+    "marketCapitalization": 16467300200,
+    "minusCashAndCashEquivalents": 444000000,
+    "addTotalDebt": 2733000000,
+    "enterpriseValue": 18756300200
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2024-04-30",
+    "stockPrice": 47.85,
+    "numberOfShares": 476394000,
+    "marketCapitalization": 22795452900,
+    "minusCashAndCashEquivalents": 446000000,
+    "addTotalDebt": 3100000000,
+    "enterpriseValue": 25449452900
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2023-04-30",
+    "stockPrice": 65.29,
+    "numberOfShares": 479155000,
+    "marketCapitalization": 31284029950,
+    "minusCashAndCashEquivalents": 374000000,
+    "addTotalDebt": 2913000000,
+    "enterpriseValue": 33823029950
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2022-04-30",
+    "stockPrice": 67.44,
+    "numberOfShares": 478879000,
+    "marketCapitalization": 32295599760,
+    "minusCashAndCashEquivalents": 868000000,
+    "addTotalDebt": 2269000000,
+    "enterpriseValue": 33696599760
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2021-04-30",
+    "stockPrice": 76.28,
+    "numberOfShares": 478527000,
+    "marketCapitalization": 36502039560,
+    "minusCashAndCashEquivalents": 1150000000,
+    "addTotalDebt": 2559000000,
+    "enterpriseValue": 37911039560
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2020-04-30",
+    "stockPrice": 62.2,
+    "numberOfShares": 477765000,
+    "marketCapitalization": 29716983000,
+    "minusCashAndCashEquivalents": 675000000,
+    "addTotalDebt": 2602000000,
+    "enterpriseValue": 31643983000
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2019-04-30",
+    "stockPrice": 53.29,
+    "numberOfShares": 478956000,
+    "marketCapitalization": 25523565240,
+    "minusCashAndCashEquivalents": 307000000,
+    "addTotalDebt": 2493000000,
+    "enterpriseValue": 27709565240
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2018-04-30",
+    "stockPrice": 56.04,
+    "numberOfShares": 480319000,
+    "marketCapitalization": 26917076760,
+    "minusCashAndCashEquivalents": 239000000,
+    "addTotalDebt": 2556000000,
+    "enterpriseValue": 29234076760
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2017-04-30",
+    "stockPrice": 37.89,
+    "numberOfShares": 484635000,
+    "marketCapitalization": 18362820150,
+    "minusCashAndCashEquivalents": 182000000,
+    "addTotalDebt": 2149000000,
+    "enterpriseValue": 20329820150
+  },
+  {
+    "symbol": "BF-B",
+    "date": "2016-04-30",
+    "stockPrice": 38.53,
+    "numberOfShares": 507442500,
+    "marketCapitalization": 19551759525,
+    "minusCashAndCashEquivalents": 263000000,
+    "addTotalDebt": 1501000000,
+    "enterpriseValue": 20789759525
+  }
+]

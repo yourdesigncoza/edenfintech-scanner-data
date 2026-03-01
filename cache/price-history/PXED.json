@@ -1,0 +1,584 @@
+[
+  {
+    "symbol": "PXED",
+    "date": "2026-02-27",
+    "price": 29.6,
+    "volume": 45040
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-26",
+    "price": 30.25,
+    "volume": 35700
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-25",
+    "price": 29.52,
+    "volume": 46528
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-24",
+    "price": 29.18,
+    "volume": 34000
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-23",
+    "price": 28.02,
+    "volume": 42300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-20",
+    "price": 29.58,
+    "volume": 69272
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-19",
+    "price": 29.55,
+    "volume": 56338
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-18",
+    "price": 30.02,
+    "volume": 77524
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-17",
+    "price": 28.48,
+    "volume": 65632
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-13",
+    "price": 28.33,
+    "volume": 59900
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-12",
+    "price": 27.53,
+    "volume": 44303
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-11",
+    "price": 27.61,
+    "volume": 69400
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-10",
+    "price": 28.9,
+    "volume": 58837
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-09",
+    "price": 28.59,
+    "volume": 99700
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-06",
+    "price": 28.84,
+    "volume": 61400
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-05",
+    "price": 27.69,
+    "volume": 108373
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-04",
+    "price": 29.29,
+    "volume": 70626
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-03",
+    "price": 29.6,
+    "volume": 88700
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-02-02",
+    "price": 31.22,
+    "volume": 116731
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-30",
+    "price": 30.51,
+    "volume": 111300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-29",
+    "price": 29.86,
+    "volume": 55603
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-28",
+    "price": 30.29,
+    "volume": 60115
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-27",
+    "price": 30.55,
+    "volume": 71232
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-26",
+    "price": 31.8,
+    "volume": 53750
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-23",
+    "price": 32.58,
+    "volume": 134623
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-22",
+    "price": 32.03,
+    "volume": 77582
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-21",
+    "price": 30.5,
+    "volume": 106442
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-20",
+    "price": 29.95,
+    "volume": 101605
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-16",
+    "price": 30.36,
+    "volume": 84329
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-15",
+    "price": 30.47,
+    "volume": 179757
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-14",
+    "price": 28.39,
+    "volume": 201529
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-13",
+    "price": 31.71,
+    "volume": 193600
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-12",
+    "price": 33.45,
+    "volume": 65735
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-09",
+    "price": 31.68,
+    "volume": 147229
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-08",
+    "price": 33,
+    "volume": 85357
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-07",
+    "price": 32.02,
+    "volume": 152140
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-06",
+    "price": 34.19,
+    "volume": 151300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-05",
+    "price": 32.46,
+    "volume": 147223
+  },
+  {
+    "symbol": "PXED",
+    "date": "2026-01-02",
+    "price": 29.67,
+    "volume": 176300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-31",
+    "price": 30.3,
+    "volume": 179270
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-30",
+    "price": 29.75,
+    "volume": 94600
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-29",
+    "price": 31.63,
+    "volume": 96400
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-26",
+    "price": 31.9,
+    "volume": 98660
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-24",
+    "price": 32.24,
+    "volume": 70600
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-23",
+    "price": 32.7,
+    "volume": 99101
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-22",
+    "price": 33.6,
+    "volume": 185015
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-19",
+    "price": 33,
+    "volume": 905145
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-18",
+    "price": 33.5,
+    "volume": 61938
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-17",
+    "price": 33.61,
+    "volume": 81403
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-16",
+    "price": 33.98,
+    "volume": 71900
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-15",
+    "price": 31.98,
+    "volume": 59600
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-12",
+    "price": 32.54,
+    "volume": 68900
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-11",
+    "price": 32.95,
+    "volume": 81927
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-10",
+    "price": 34.49,
+    "volume": 74512
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-09",
+    "price": 33.07,
+    "volume": 127200
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-08",
+    "price": 32.1,
+    "volume": 64000
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-05",
+    "price": 33.61,
+    "volume": 79809
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-04",
+    "price": 34.27,
+    "volume": 108300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-03",
+    "price": 34.23,
+    "volume": 111903
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-02",
+    "price": 35.25,
+    "volume": 84134
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-12-01",
+    "price": 33.77,
+    "volume": 64100
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-28",
+    "price": 33.71,
+    "volume": 89500
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-26",
+    "price": 30.96,
+    "volume": 80365
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-25",
+    "price": 29.82,
+    "volume": 102853
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-24",
+    "price": 28.93,
+    "volume": 131900
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-21",
+    "price": 31.23,
+    "volume": 322935
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-20",
+    "price": 30.37,
+    "volume": 167723
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-19",
+    "price": 30.02,
+    "volume": 112534
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-18",
+    "price": 30.1,
+    "volume": 95200
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-17",
+    "price": 28.71,
+    "volume": 64600
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-14",
+    "price": 28.6,
+    "volume": 123800
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-13",
+    "price": 27.32,
+    "volume": 196765
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-12",
+    "price": 29.74,
+    "volume": 134652
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-11",
+    "price": 30.75,
+    "volume": 120805
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-10",
+    "price": 32.96,
+    "volume": 95919
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-07",
+    "price": 32.29,
+    "volume": 104000
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-06",
+    "price": 33.1,
+    "volume": 202900
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-05",
+    "price": 33.71,
+    "volume": 109540
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-04",
+    "price": 34.85,
+    "volume": 90438
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-11-03",
+    "price": 36,
+    "volume": 63244
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-31",
+    "price": 36.95,
+    "volume": 88919
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-30",
+    "price": 36.32,
+    "volume": 106826
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-29",
+    "price": 37.01,
+    "volume": 69700
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-28",
+    "price": 37.28,
+    "volume": 35659
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-27",
+    "price": 36.89,
+    "volume": 63537
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-24",
+    "price": 37.63,
+    "volume": 53954
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-23",
+    "price": 37.66,
+    "volume": 25300
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-22",
+    "price": 37.01,
+    "volume": 122844
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-21",
+    "price": 36.26,
+    "volume": 20251
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-20",
+    "price": 37.21,
+    "volume": 30364
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-17",
+    "price": 36.25,
+    "volume": 68835
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-16",
+    "price": 35.7,
+    "volume": 72362
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-15",
+    "price": 36.24,
+    "volume": 48500
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-14",
+    "price": 36.06,
+    "volume": 87410
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-13",
+    "price": 37.23,
+    "volume": 132617
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-10",
+    "price": 36.1,
+    "volume": 415000
+  },
+  {
+    "symbol": "PXED",
+    "date": "2025-10-09",
+    "price": 38.15,
+    "volume": 3557633
+  }
+]

@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "AZN",
+    "date": "2026-02-27",
+    "price": 208.45,
+    "volume": 1996353
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-26",
+    "price": 203.98,
+    "volume": 2250416
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-25",
+    "price": 205.79,
+    "volume": 1434800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-24",
+    "price": 206.61,
+    "volume": 1710971
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-23",
+    "price": 204.94,
+    "volume": 1816259
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-20",
+    "price": 204.2,
+    "volume": 1592700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-19",
+    "price": 208.62,
+    "volume": 2037183
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-18",
+    "price": 208.67,
+    "volume": 2604191
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-17",
+    "price": 209.48,
+    "volume": 2287817
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-13",
+    "price": 205.55,
+    "volume": 2504807
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-12",
+    "price": 204.52,
+    "volume": 2723911
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-11",
+    "price": 204.76,
+    "volume": 3484048
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-10",
+    "price": 193.1,
+    "volume": 2726807
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-09",
+    "price": 188.01,
+    "volume": 3030835
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-06",
+    "price": 193.03,
+    "volume": 3117634
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-05",
+    "price": 187.16,
+    "volume": 3380548
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-04",
+    "price": 187.45,
+    "volume": 3889200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-03",
+    "price": 184.32,
+    "volume": 2659700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-02-02",
+    "price": 188.41,
+    "volume": 3228800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-30",
+    "price": 187.1,
+    "volume": 2777500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-29",
+    "price": 183.17,
+    "volume": 3237350
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-28",
+    "price": 187.8,
+    "volume": 4117150
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-27",
+    "price": 188.07,
+    "volume": 3526350
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-26",
+    "price": 179.05,
+    "volume": 3054100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-23",
+    "price": 177.5,
+    "volume": 3712
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-22",
+    "price": 179.5,
+    "volume": 828
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-21",
+    "price": 175,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-20",
+    "price": 183.2,
+    "volume": 4909
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-16",
+    "price": 191.13,
+    "volume": 3523
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-15",
+    "price": 188.84,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-14",
+    "price": 190.23,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-13",
+    "price": 188.66,
+    "volume": 1109
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-12",
+    "price": 185.48,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-09",
+    "price": 190.99,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-08",
+    "price": 188.5,
+    "volume": 1614
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-07",
+    "price": 190.78,
+    "volume": 1601
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-06",
+    "price": 190.49,
+    "volume": 1513
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-05",
+    "price": 179.06,
+    "volume": 1948
+  },
+  {
+    "symbol": "AZN",
+    "date": "2026-01-02",
+    "price": 182.68,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-31",
+    "price": 175.5,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-30",
+    "price": 180.85,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-29",
+    "price": 187.06,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-26",
+    "price": 181.28,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-24",
+    "price": 186.4,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-23",
+    "price": 183,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-22",
+    "price": 180.75,
+    "volume": 8200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-19",
+    "price": 181.23,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-18",
+    "price": 180.54,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-17",
+    "price": 184.75,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-16",
+    "price": 183.86,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-15",
+    "price": 183.86,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-12",
+    "price": 181.92,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-11",
+    "price": 181.92,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-10",
+    "price": 181.92,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-09",
+    "price": 179.1,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-08",
+    "price": 180.94,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-05",
+    "price": 179.49,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-04",
+    "price": 183.28,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-03",
+    "price": 183.28,
+    "volume": 7500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-02",
+    "price": 179.1,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-12-01",
+    "price": 180.35,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-28",
+    "price": 183.74,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-26",
+    "price": 188.5,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-25",
+    "price": 187.72,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-24",
+    "price": 182.7,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-21",
+    "price": 182.58,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-20",
+    "price": 177.85,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-19",
+    "price": 179.82,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-18",
+    "price": 175.2,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-17",
+    "price": 175.25,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-14",
+    "price": 174.82,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-13",
+    "price": 177.5,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-12",
+    "price": 175.66,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-11",
+    "price": 175.2,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-10",
+    "price": 174.9,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-07",
+    "price": 166.17,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-06",
+    "price": 169,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-05",
+    "price": 165.26,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-04",
+    "price": 165.26,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-11-03",
+    "price": 161.9,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-31",
+    "price": 163.68,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-30",
+    "price": 163.68,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-29",
+    "price": 163.68,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-28",
+    "price": 165.58,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-27",
+    "price": 163.99,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-24",
+    "price": 163.75,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-23",
+    "price": 168.24,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-22",
+    "price": 168.28,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-21",
+    "price": 168.28,
+    "volume": 6100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-20",
+    "price": 166.98,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-17",
+    "price": 170.88,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-16",
+    "price": 169.12,
+    "volume": 9400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-15",
+    "price": 168.07,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-14",
+    "price": 169.1,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-13",
+    "price": 169.34,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-10",
+    "price": 169.34,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-09",
+    "price": 169.85,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-08",
+    "price": 172.1,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-07",
+    "price": 170,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-06",
+    "price": 172.3,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-03",
+    "price": 170.51,
+    "volume": 33200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-02",
+    "price": 164.68,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-10-01",
+    "price": 162.56,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-30",
+    "price": 149.5,
+    "volume": 6700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-29",
+    "price": 146.1,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-26",
+    "price": 146.16,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-25",
+    "price": 149.75,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-24",
+    "price": 149.04,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-23",
+    "price": 150.74,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-22",
+    "price": 156.82,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-19",
+    "price": 154.38,
+    "volume": 27800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-18",
+    "price": 153.39,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-17",
+    "price": 156.03,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-16",
+    "price": 153,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-15",
+    "price": 154.58,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-12",
+    "price": 159.56,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-11",
+    "price": 162,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-10",
+    "price": 160.14,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-09",
+    "price": 160.54,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-08",
+    "price": 164.5,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-05",
+    "price": 164.5,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-04",
+    "price": 162,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-03",
+    "price": 162.26,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-09-02",
+    "price": 160.66,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-29",
+    "price": 161.13,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-28",
+    "price": 158.2,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-27",
+    "price": 160.65,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-26",
+    "price": 160.3,
+    "volume": 48800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-25",
+    "price": 162.98,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-22",
+    "price": 157.09,
+    "volume": 7400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-21",
+    "price": 157.8,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-20",
+    "price": 157.8,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-19",
+    "price": 160.46,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-18",
+    "price": 160.46,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-15",
+    "price": 155.5,
+    "volume": 19400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-14",
+    "price": 155.75,
+    "volume": 10500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-13",
+    "price": 154.3,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-12",
+    "price": 148.28,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-11",
+    "price": 146.12,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-08",
+    "price": 141.77,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-07",
+    "price": 147.24,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-06",
+    "price": 148.68,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-05",
+    "price": 150.29,
+    "volume": 13500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-04",
+    "price": 150.32,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-08-01",
+    "price": 147.5,
+    "volume": 34700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-31",
+    "price": 147.39,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-30",
+    "price": 155.67,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-29",
+    "price": 150.48,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-28",
+    "price": 144.1,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-25",
+    "price": 146.92,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-24",
+    "price": 146.92,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-23",
+    "price": 147.3,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-22",
+    "price": 141.9,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-21",
+    "price": 139.7,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-18",
+    "price": 142.02,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-17",
+    "price": 142.02,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-16",
+    "price": 142.02,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-15",
+    "price": 140.4,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-14",
+    "price": 143.15,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-11",
+    "price": 140.26,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-10",
+    "price": 141.4,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-09",
+    "price": 141.4,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-08",
+    "price": 140.15,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-07",
+    "price": 142.63,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-03",
+    "price": 140.69,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-02",
+    "price": 143.88,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-07-01",
+    "price": 139.71,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-30",
+    "price": 138.18,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-27",
+    "price": 138.18,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-26",
+    "price": 139.93,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-25",
+    "price": 146.2,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-24",
+    "price": 142.01,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-23",
+    "price": 142.01,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-20",
+    "price": 139.69,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-18",
+    "price": 143.6,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-17",
+    "price": 140.97,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-16",
+    "price": 148.35,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-13",
+    "price": 148.04,
+    "volume": 9000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-12",
+    "price": 150.1,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-11",
+    "price": 148.22,
+    "volume": 8800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-10",
+    "price": 146.63,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-09",
+    "price": 146.52,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-06",
+    "price": 144.32,
+    "volume": 25600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-05",
+    "price": 142.75,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-04",
+    "price": 145.63,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-03",
+    "price": 142.48,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-06-02",
+    "price": 142.5,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-30",
+    "price": 141.5,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-29",
+    "price": 143.1,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-28",
+    "price": 143.98,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-27",
+    "price": 143.98,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-23",
+    "price": 143.25,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-22",
+    "price": 141.12,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-21",
+    "price": 138.24,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-20",
+    "price": 138.68,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-19",
+    "price": 141,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-16",
+    "price": 134.46,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-15",
+    "price": 135.88,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-14",
+    "price": 135.36,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-13",
+    "price": 135.36,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-12",
+    "price": 135.36,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-09",
+    "price": 135.22,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-08",
+    "price": 134.1,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-07",
+    "price": 138.66,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-06",
+    "price": 138.94,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-05",
+    "price": 145.96,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-02",
+    "price": 146.74,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-05-01",
+    "price": 140.63,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-30",
+    "price": 145.64,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-29",
+    "price": 144.94,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-28",
+    "price": 138.76,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-25",
+    "price": 134.75,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-24",
+    "price": 137.24,
+    "volume": 9900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-23",
+    "price": 135.75,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-22",
+    "price": 129.15,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-21",
+    "price": 132.38,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-17",
+    "price": 139.8,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-16",
+    "price": 134.08,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-15",
+    "price": 134.22,
+    "volume": 5900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-14",
+    "price": 131.31,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-11",
+    "price": 132.68,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-10",
+    "price": 128.91,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-09",
+    "price": 129.16,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-08",
+    "price": 132.4,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-07",
+    "price": 129.91,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-04",
+    "price": 136.64,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-03",
+    "price": 150.84,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-02",
+    "price": 147.38,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-04-01",
+    "price": 148.12,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-31",
+    "price": 147.36,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-28",
+    "price": 147.47,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-27",
+    "price": 140.1,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-26",
+    "price": 143.4,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-25",
+    "price": 147.55,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-24",
+    "price": 143.41,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-21",
+    "price": 153.42,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-20",
+    "price": 154.64,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-19",
+    "price": 154.2,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-18",
+    "price": 153.21,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-17",
+    "price": 154.98,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-14",
+    "price": 153.56,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-13",
+    "price": 154.46,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-12",
+    "price": 149.4,
+    "volume": 5500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-11",
+    "price": 154.22,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-10",
+    "price": 154.22,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-07",
+    "price": 149.25,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-06",
+    "price": 149.25,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-05",
+    "price": 157.58,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-04",
+    "price": 153.16,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-03-03",
+    "price": 151.16,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-28",
+    "price": 150.46,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-27",
+    "price": 150.46,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-26",
+    "price": 155.65,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-25",
+    "price": 151.21,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-24",
+    "price": 148.01,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-21",
+    "price": 142.4,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-20",
+    "price": 145.48,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-19",
+    "price": 144.83,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-18",
+    "price": 147.94,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-14",
+    "price": 148.71,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-13",
+    "price": 148.94,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-12",
+    "price": 146.43,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-11",
+    "price": 142.08,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-10",
+    "price": 149.16,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-07",
+    "price": 142.85,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-06",
+    "price": 151.5,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-05",
+    "price": 134.67,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-04",
+    "price": 139.54,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-02-03",
+    "price": 141.9,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-31",
+    "price": 140.72,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-30",
+    "price": 141.04,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-29",
+    "price": 139.32,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-28",
+    "price": 137.21,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-27",
+    "price": 138.92,
+    "volume": 5800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-24",
+    "price": 137.95,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-23",
+    "price": 135.54,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-22",
+    "price": 138.06,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-21",
+    "price": 135.79,
+    "volume": 8400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-17",
+    "price": 134.98,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-16",
+    "price": 132.13,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-15",
+    "price": 129.76,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-14",
+    "price": 132.52,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-13",
+    "price": 131.27,
+    "volume": 8800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-10",
+    "price": 135.5,
+    "volume": 4200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-08",
+    "price": 132.66,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-07",
+    "price": 131.88,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-06",
+    "price": 130.38,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-03",
+    "price": 131.25,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2025-01-02",
+    "price": 133.92,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-31",
+    "price": 130,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-30",
+    "price": 130.19,
+    "volume": 5900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-27",
+    "price": 132,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-26",
+    "price": 134.66,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-24",
+    "price": 131.12,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-23",
+    "price": 130.92,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-20",
+    "price": 132.65,
+    "volume": 6000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-19",
+    "price": 127.96,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-18",
+    "price": 129.58,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-17",
+    "price": 133.4,
+    "volume": 5700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-16",
+    "price": 131.7,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-13",
+    "price": 131.74,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-12",
+    "price": 132.42,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-11",
+    "price": 138.1,
+    "volume": 4800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-10",
+    "price": 134.1,
+    "volume": 5500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-09",
+    "price": 136.26,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-06",
+    "price": 134.86,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-05",
+    "price": 133.52,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-04",
+    "price": 130.35,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-03",
+    "price": 134.6,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-12-02",
+    "price": 135.62,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-29",
+    "price": 136.5,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-27",
+    "price": 134.7,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-26",
+    "price": 131.36,
+    "volume": 4500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-25",
+    "price": 131.47,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-22",
+    "price": 133.93,
+    "volume": 5000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-21",
+    "price": 126.06,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-20",
+    "price": 124.7,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-19",
+    "price": 126.02,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-18",
+    "price": 125.46,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-15",
+    "price": 127.96,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-14",
+    "price": 130.24,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-13",
+    "price": 129.2,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-12",
+    "price": 128.41,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-11",
+    "price": 126.8,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-08",
+    "price": 127.74,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-07",
+    "price": 126.56,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-06",
+    "price": 126.54,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-05",
+    "price": 131.04,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-04",
+    "price": 142.43,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-11-01",
+    "price": 142.85,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-31",
+    "price": 141.9,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-30",
+    "price": 149.5,
+    "volume": 5000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-29",
+    "price": 149.65,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-28",
+    "price": 148.6,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-25",
+    "price": 148.6,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-24",
+    "price": 151.7,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-23",
+    "price": 152.34,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-22",
+    "price": 156.4,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-21",
+    "price": 154.64,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-18",
+    "price": 157.88,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-17",
+    "price": 154.52,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-16",
+    "price": 153.7,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-15",
+    "price": 153.7,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-14",
+    "price": 147.37,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-11",
+    "price": 147.37,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-10",
+    "price": 147.37,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-09",
+    "price": 148.65,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-08",
+    "price": 148.65,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-07",
+    "price": 155.72,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-04",
+    "price": 152.66,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-03",
+    "price": 152.8,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-02",
+    "price": 158.94,
+    "volume": 4400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-10-01",
+    "price": 155.52,
+    "volume": 26600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-30",
+    "price": 154.46,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-27",
+    "price": 154.46,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-26",
+    "price": 153.3,
+    "volume": 4800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-25",
+    "price": 153.3,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-24",
+    "price": 149.34,
+    "volume": 6400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-23",
+    "price": 155.14,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-20",
+    "price": 155.14,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-19",
+    "price": 157.73,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-18",
+    "price": 163.97,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-17",
+    "price": 157.8,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-16",
+    "price": 157,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-13",
+    "price": 158.14,
+    "volume": 5300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-12",
+    "price": 156.38,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-11",
+    "price": 160.24,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-10",
+    "price": 160.24,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-09",
+    "price": 160.08,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-06",
+    "price": 168.98,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-05",
+    "price": 164.76,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-04",
+    "price": 169.78,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-09-03",
+    "price": 172.8,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-30",
+    "price": 175,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-29",
+    "price": 172.02,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-28",
+    "price": 173.63,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-27",
+    "price": 171,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-26",
+    "price": 174.9,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-23",
+    "price": 169.55,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-22",
+    "price": 169.5,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-21",
+    "price": 169.25,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-20",
+    "price": 169.25,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-19",
+    "price": 164.41,
+    "volume": 15500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-16",
+    "price": 169.9,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-15",
+    "price": 167,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-14",
+    "price": 166,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-13",
+    "price": 163.56,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-12",
+    "price": 160.71,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-09",
+    "price": 165.6,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-08",
+    "price": 165.6,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-07",
+    "price": 159.76,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-06",
+    "price": 152.95,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-05",
+    "price": 156.88,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-02",
+    "price": 164.02,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-08-01",
+    "price": 160.6,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-31",
+    "price": 156.35,
+    "volume": 13100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-30",
+    "price": 156.28,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-29",
+    "price": 156.28,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-26",
+    "price": 159.47,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-25",
+    "price": 155.48,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-24",
+    "price": 157.25,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-23",
+    "price": 159.85,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-22",
+    "price": 157.85,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-19",
+    "price": 154.3,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-18",
+    "price": 154.33,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-17",
+    "price": 156.18,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-16",
+    "price": 156.18,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-15",
+    "price": 156.14,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-12",
+    "price": 153.41,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-11",
+    "price": 153.41,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-10",
+    "price": 153.86,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-09",
+    "price": 154.35,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-08",
+    "price": 157,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-05",
+    "price": 148.7,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-03",
+    "price": 147.15,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-02",
+    "price": 154.72,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-07-01",
+    "price": 157.5,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-28",
+    "price": 156.27,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-27",
+    "price": 158.64,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-26",
+    "price": 157.88,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-25",
+    "price": 157.88,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-24",
+    "price": 152.11,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-21",
+    "price": 152,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-20",
+    "price": 152,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-18",
+    "price": 158.8,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-17",
+    "price": 160.42,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-14",
+    "price": 160.42,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-13",
+    "price": 160.45,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-12",
+    "price": 160.45,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-11",
+    "price": 161,
+    "volume": 6900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-10",
+    "price": 159.38,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-07",
+    "price": 159.96,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-06",
+    "price": 159.96,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-05",
+    "price": 160.1,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-04",
+    "price": 156.35,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-06-03",
+    "price": 158.43,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-31",
+    "price": 153.78,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-30",
+    "price": 146.2,
+    "volume": 0
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-29",
+    "price": 146.2,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-28",
+    "price": 158.5,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-24",
+    "price": 159.12,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-23",
+    "price": 159.36,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-22",
+    "price": 158.74,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-21",
+    "price": 159.06,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-20",
+    "price": 154.61,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-17",
+    "price": 155.26,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-16",
+    "price": 155.72,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-15",
+    "price": 153,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-14",
+    "price": 152.88,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-13",
+    "price": 155.84,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-10",
+    "price": 156.01,
+    "volume": 19700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-09",
+    "price": 152.33,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-08",
+    "price": 152.4,
+    "volume": 15200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-07",
+    "price": 146.65,
+    "volume": 10300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-06",
+    "price": 148.23,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-03",
+    "price": 149.25,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-02",
+    "price": 153.48,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-05-01",
+    "price": 151.02,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-30",
+    "price": 151,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-29",
+    "price": 146.25,
+    "volume": 20000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-26",
+    "price": 145.1,
+    "volume": 55900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-25",
+    "price": 146.05,
+    "volume": 9300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-24",
+    "price": 135.35,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-23",
+    "price": 140.3,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-22",
+    "price": 138.73,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-19",
+    "price": 136.2,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-18",
+    "price": 138.24,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-17",
+    "price": 140.15,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-16",
+    "price": 135.31,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-15",
+    "price": 135.94,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-12",
+    "price": 138.88,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-11",
+    "price": 136.5,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-10",
+    "price": 136.25,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-09",
+    "price": 134.76,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-08",
+    "price": 136.64,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-05",
+    "price": 133.22,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-04",
+    "price": 137.35,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-03",
+    "price": 131.76,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-02",
+    "price": 131.66,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-04-01",
+    "price": 135.8,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-28",
+    "price": 136.96,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-27",
+    "price": 134.7,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-26",
+    "price": 130.55,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-25",
+    "price": 133.22,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-22",
+    "price": 132.37,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-21",
+    "price": 131,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-20",
+    "price": 130.99,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-19",
+    "price": 129.94,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-18",
+    "price": 130.91,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-15",
+    "price": 131.42,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-14",
+    "price": 134.13,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-13",
+    "price": 136.4,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-12",
+    "price": 133.32,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-11",
+    "price": 133.38,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-08",
+    "price": 131.13,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-07",
+    "price": 129.25,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-06",
+    "price": 128.9,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-05",
+    "price": 126,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-04",
+    "price": 129.65,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-03-01",
+    "price": 130,
+    "volume": 5200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-29",
+    "price": 126.63,
+    "volume": 7300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-28",
+    "price": 131,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-27",
+    "price": 131,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-26",
+    "price": 129.99,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-23",
+    "price": 129.15,
+    "volume": 4500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-22",
+    "price": 126.47,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-21",
+    "price": 127,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-20",
+    "price": 128.5,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-16",
+    "price": 127.38,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-15",
+    "price": 124,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-14",
+    "price": 121.8,
+    "volume": 11600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-13",
+    "price": 123.5,
+    "volume": 76600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-12",
+    "price": 120.66,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-09",
+    "price": 123.5,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-08",
+    "price": 125,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-07",
+    "price": 133.34,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-06",
+    "price": 133.84,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-05",
+    "price": 128.04,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-02",
+    "price": 131.9,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-02-01",
+    "price": 132.12,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-31",
+    "price": 132.4,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-30",
+    "price": 131.25,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-29",
+    "price": 132.48,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-26",
+    "price": 131.75,
+    "volume": 4000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-25",
+    "price": 132.04,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-24",
+    "price": 131.92,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-23",
+    "price": 134.9,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-22",
+    "price": 136.28,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-19",
+    "price": 131.8,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-18",
+    "price": 132.25,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-17",
+    "price": 134,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-16",
+    "price": 132.96,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-12",
+    "price": 139.76,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-11",
+    "price": 137.02,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-10",
+    "price": 137.22,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-09",
+    "price": 139.56,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-08",
+    "price": 139.5,
+    "volume": 5300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-05",
+    "price": 135.66,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-04",
+    "price": 137.05,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-03",
+    "price": 138.46,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2024-01-02",
+    "price": 132.81,
+    "volume": 6700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-29",
+    "price": 134.45,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-28",
+    "price": 136.32,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-27",
+    "price": 133.1,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-26",
+    "price": 134.4,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-22",
+    "price": 130.9,
+    "volume": 5800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-21",
+    "price": 130.5,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-20",
+    "price": 131.13,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-19",
+    "price": 132.88,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-18",
+    "price": 128,
+    "volume": 4200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-15",
+    "price": 131.28,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-14",
+    "price": 132.5,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-13",
+    "price": 129.26,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-12",
+    "price": 126.48,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-11",
+    "price": 125.2,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-08",
+    "price": 125.06,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-07",
+    "price": 125.4,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-06",
+    "price": 125.5,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-05",
+    "price": 125.75,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-04",
+    "price": 128.52,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-12-01",
+    "price": 125,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-30",
+    "price": 128.5,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-29",
+    "price": 126.82,
+    "volume": 11000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-28",
+    "price": 124.96,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-27",
+    "price": 128.76,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-24",
+    "price": 128.55,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-22",
+    "price": 126.54,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-21",
+    "price": 125.64,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-20",
+    "price": 126.14,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-17",
+    "price": 128,
+    "volume": 5700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-16",
+    "price": 125.15,
+    "volume": 35100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-15",
+    "price": 125.16,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-14",
+    "price": 125.8,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-13",
+    "price": 124.75,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-10",
+    "price": 124.29,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-09",
+    "price": 126.87,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-08",
+    "price": 125.08,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-07",
+    "price": 125.25,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-06",
+    "price": 126.82,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-03",
+    "price": 126.3,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-02",
+    "price": 126.82,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-11-01",
+    "price": 128.58,
+    "volume": 7300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-31",
+    "price": 122.76,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-30",
+    "price": 123.98,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-27",
+    "price": 121.45,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-26",
+    "price": 125.28,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-25",
+    "price": 126.45,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-24",
+    "price": 127.15,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-23",
+    "price": 123.75,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-20",
+    "price": 127.86,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-19",
+    "price": 127.58,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-18",
+    "price": 130.89,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-17",
+    "price": 137.05,
+    "volume": 5500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-16",
+    "price": 134.16,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-13",
+    "price": 135.5,
+    "volume": 12200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-12",
+    "price": 135.5,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-11",
+    "price": 133.97,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-10",
+    "price": 134.38,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-09",
+    "price": 134.14,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-06",
+    "price": 133.48,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-05",
+    "price": 134.9,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-04",
+    "price": 134.15,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-03",
+    "price": 132.93,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-10-02",
+    "price": 133.1,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-29",
+    "price": 135.05,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-28",
+    "price": 136.15,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-27",
+    "price": 133.16,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-26",
+    "price": 134.95,
+    "volume": 7400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-25",
+    "price": 136.99,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-22",
+    "price": 137.93,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-21",
+    "price": 133.95,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-20",
+    "price": 136.34,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-19",
+    "price": 130.68,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-18",
+    "price": 131.45,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-15",
+    "price": 138.28,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-14",
+    "price": 133,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-13",
+    "price": 130.08,
+    "volume": 48400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-12",
+    "price": 132.23,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-11",
+    "price": 135.7,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-08",
+    "price": 135.7,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-07",
+    "price": 134.68,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-06",
+    "price": 133.9,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-05",
+    "price": 133.9,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-09-01",
+    "price": 136,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-31",
+    "price": 134.04,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-30",
+    "price": 136.73,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-29",
+    "price": 139.1,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-28",
+    "price": 136.64,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-25",
+    "price": 135.97,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-24",
+    "price": 136,
+    "volume": 5800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-23",
+    "price": 139.35,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-22",
+    "price": 135.8,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-21",
+    "price": 136.95,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-18",
+    "price": 136.03,
+    "volume": 7100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-17",
+    "price": 137.47,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-16",
+    "price": 137.56,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-15",
+    "price": 137.56,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-14",
+    "price": 143.2,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-11",
+    "price": 141.52,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-10",
+    "price": 137.95,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-09",
+    "price": 141.35,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-08",
+    "price": 141.35,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-07",
+    "price": 141.28,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-04",
+    "price": 140.24,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-03",
+    "price": 139.01,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-02",
+    "price": 139.13,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-08-01",
+    "price": 142.85,
+    "volume": 5400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-31",
+    "price": 144.82,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-28",
+    "price": 140.84,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-27",
+    "price": 140.45,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-26",
+    "price": 140.5,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-25",
+    "price": 137.1,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-24",
+    "price": 139.28,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-21",
+    "price": 136.92,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-20",
+    "price": 138,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-19",
+    "price": 137.06,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-18",
+    "price": 134.45,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-17",
+    "price": 135.78,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-14",
+    "price": 138.62,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-13",
+    "price": 133.6,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-12",
+    "price": 134.32,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-11",
+    "price": 131.25,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-10",
+    "price": 131.25,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-07",
+    "price": 127.75,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-06",
+    "price": 132.44,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-05",
+    "price": 134,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-07-03",
+    "price": 133.24,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-30",
+    "price": 143.9,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-29",
+    "price": 142.91,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-28",
+    "price": 140.4,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-27",
+    "price": 142.75,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-26",
+    "price": 142.75,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-23",
+    "price": 146.15,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-22",
+    "price": 146.68,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-21",
+    "price": 148.66,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-20",
+    "price": 149.25,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-16",
+    "price": 149.51,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-15",
+    "price": 149.25,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-14",
+    "price": 146.88,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-13",
+    "price": 149.5,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-12",
+    "price": 148.86,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-09",
+    "price": 149.3,
+    "volume": 7600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-08",
+    "price": 144.5,
+    "volume": 9700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-07",
+    "price": 146.9,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-06",
+    "price": 145.45,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-05",
+    "price": 145.19,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-02",
+    "price": 147.12,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-06-01",
+    "price": 147.7,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-31",
+    "price": 146.08,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-30",
+    "price": 141.14,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-26",
+    "price": 144.55,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-25",
+    "price": 145.26,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-24",
+    "price": 143.75,
+    "volume": 15800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-23",
+    "price": 147.94,
+    "volume": 71200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-22",
+    "price": 147.9,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-19",
+    "price": 150.96,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-18",
+    "price": 146.44,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-17",
+    "price": 147.2,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-16",
+    "price": 151.2,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-15",
+    "price": 149.45,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-12",
+    "price": 145.8,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-11",
+    "price": 150.64,
+    "volume": 4400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-10",
+    "price": 151,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-09",
+    "price": 149.1,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-08",
+    "price": 147.05,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-05",
+    "price": 148.5,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-04",
+    "price": 150.5,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-03",
+    "price": 151.3,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-02",
+    "price": 146.15,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-05-01",
+    "price": 146.31,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-28",
+    "price": 146.55,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-27",
+    "price": 146,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-26",
+    "price": 147.15,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-25",
+    "price": 151,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-24",
+    "price": 153.1,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-21",
+    "price": 151.74,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-20",
+    "price": 147.61,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-19",
+    "price": 147.78,
+    "volume": 4600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-18",
+    "price": 148.88,
+    "volume": 6000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-17",
+    "price": 146.78,
+    "volume": 85700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-14",
+    "price": 146.08,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-13",
+    "price": 149.65,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-12",
+    "price": 147.25,
+    "volume": 7300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-11",
+    "price": 142.75,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-10",
+    "price": 144.76,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-06",
+    "price": 142.85,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-05",
+    "price": 142.85,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-04",
+    "price": 141.45,
+    "volume": 5700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-04-03",
+    "price": 137.5,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-31",
+    "price": 140.16,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-30",
+    "price": 139.3,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-29",
+    "price": 136.3,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-28",
+    "price": 138.68,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-27",
+    "price": 137.34,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-24",
+    "price": 136.7,
+    "volume": 5300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-23",
+    "price": 133.78,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-22",
+    "price": 135.56,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-21",
+    "price": 134.74,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-20",
+    "price": 133.12,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-17",
+    "price": 130.56,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-16",
+    "price": 130.06,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-15",
+    "price": 127.84,
+    "volume": 13600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-14",
+    "price": 131.24,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-13",
+    "price": 129.25,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-10",
+    "price": 129.84,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-09",
+    "price": 127.35,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-08",
+    "price": 127.63,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-07",
+    "price": 128.9,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-06",
+    "price": 130.2,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-03",
+    "price": 130,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-02",
+    "price": 131.56,
+    "volume": 9100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-03-01",
+    "price": 128.6,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-28",
+    "price": 129.22,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-27",
+    "price": 135.32,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-24",
+    "price": 133.83,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-23",
+    "price": 134.74,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-22",
+    "price": 140.04,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-21",
+    "price": 140.52,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-17",
+    "price": 136.4,
+    "volume": 4500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-16",
+    "price": 137.94,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-15",
+    "price": 140.78,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-14",
+    "price": 137.25,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-13",
+    "price": 139.28,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-10",
+    "price": 139.28,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-09",
+    "price": 136.25,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-08",
+    "price": 128.01,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-07",
+    "price": 128.7,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-06",
+    "price": 125.92,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-03",
+    "price": 128.4,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-02",
+    "price": 127.08,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-02-01",
+    "price": 127.8,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-31",
+    "price": 128,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-30",
+    "price": 129.36,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-27",
+    "price": 129.82,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-26",
+    "price": 130.65,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-25",
+    "price": 131.72,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-24",
+    "price": 129.5,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-23",
+    "price": 133.68,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-20",
+    "price": 136.46,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-19",
+    "price": 140.01,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-18",
+    "price": 141.2,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-17",
+    "price": 143.63,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-13",
+    "price": 143.4,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-12",
+    "price": 138.66,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-11",
+    "price": 140.95,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-10",
+    "price": 143.96,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-09",
+    "price": 140.25,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-06",
+    "price": 140.26,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-05",
+    "price": 140.96,
+    "volume": 4200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-04",
+    "price": 138.04,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2023-01-03",
+    "price": 136.44,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-30",
+    "price": 136.22,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-29",
+    "price": 135.11,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-28",
+    "price": 136,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-27",
+    "price": 136.66,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-23",
+    "price": 136.4,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-22",
+    "price": 134.42,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-21",
+    "price": 134.65,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-20",
+    "price": 133.64,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-19",
+    "price": 136.52,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-16",
+    "price": 135.1,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-15",
+    "price": 137.98,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-14",
+    "price": 139.76,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-13",
+    "price": 139.5,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-12",
+    "price": 138.55,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-09",
+    "price": 139.45,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-08",
+    "price": 139.04,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-07",
+    "price": 136,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-06",
+    "price": 136.75,
+    "volume": 300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-05",
+    "price": 136.75,
+    "volume": 5000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-02",
+    "price": 137,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-12-01",
+    "price": 138.25,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-30",
+    "price": 132.1,
+    "volume": 5000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-29",
+    "price": 131.31,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-28",
+    "price": 133.9,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-25",
+    "price": 133.25,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-23",
+    "price": 130.56,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-22",
+    "price": 130.13,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-21",
+    "price": 129.76,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-18",
+    "price": 127.9,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-17",
+    "price": 126.46,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-16",
+    "price": 126.2,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-15",
+    "price": 125.94,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-14",
+    "price": 126.44,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-11",
+    "price": 123.85,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-10",
+    "price": 127.28,
+    "volume": 6400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-09",
+    "price": 120.5,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-08",
+    "price": 121.24,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-07",
+    "price": 120.22,
+    "volume": 4600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-04",
+    "price": 119.94,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-03",
+    "price": 120.95,
+    "volume": 5700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-02",
+    "price": 120,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-11-01",
+    "price": 118.1,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-31",
+    "price": 116.44,
+    "volume": 5400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-28",
+    "price": 114.4,
+    "volume": 5600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-27",
+    "price": 115.35,
+    "volume": 5500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-26",
+    "price": 114.48,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-25",
+    "price": 111.2,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-24",
+    "price": 108.96,
+    "volume": 6700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-21",
+    "price": 109.9,
+    "volume": 3900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-20",
+    "price": 109.88,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-19",
+    "price": 108.25,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-18",
+    "price": 109.88,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-17",
+    "price": 114.3,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-14",
+    "price": 111.35,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-13",
+    "price": 107.6,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-12",
+    "price": 109.1,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-11",
+    "price": 109.16,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-10",
+    "price": 110.6,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-07",
+    "price": 109.5,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-06",
+    "price": 109.12,
+    "volume": 5100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-05",
+    "price": 112.14,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-04",
+    "price": 113,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-10-03",
+    "price": 111.25,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-30",
+    "price": 107.1,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-29",
+    "price": 109,
+    "volume": 11200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-28",
+    "price": 108.26,
+    "volume": 4200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-27",
+    "price": 106.5,
+    "volume": 4000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-26",
+    "price": 104.5,
+    "volume": 6400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-23",
+    "price": 108.35,
+    "volume": 8400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-22",
+    "price": 111.6,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-21",
+    "price": 111.3,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-20",
+    "price": 110.51,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-19",
+    "price": 110.96,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-16",
+    "price": 113,
+    "volume": 5900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-15",
+    "price": 112.81,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-14",
+    "price": 116.37,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-13",
+    "price": 117.46,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-12",
+    "price": 118.91,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-09",
+    "price": 122.71,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-08",
+    "price": 118.96,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-07",
+    "price": 113.76,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-06",
+    "price": 117.01,
+    "volume": 500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-02",
+    "price": 126.59,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-09-01",
+    "price": 118.06,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-31",
+    "price": 124.44,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-30",
+    "price": 125.77,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-29",
+    "price": 128.75,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-26",
+    "price": 131.44,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-25",
+    "price": 128.01,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-24",
+    "price": 128.01,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-23",
+    "price": 133,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-22",
+    "price": 135.75,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-19",
+    "price": 131.15,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-18",
+    "price": 130.17,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-17",
+    "price": 134.13,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-16",
+    "price": 134.13,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-15",
+    "price": 131.54,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-12",
+    "price": 127.39,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-11",
+    "price": 128.51,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-10",
+    "price": 132.43,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-09",
+    "price": 128.16,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-08",
+    "price": 133.34,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-05",
+    "price": 128.16,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-04",
+    "price": 133.34,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-03",
+    "price": 130.3,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-02",
+    "price": 130.3,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-08-01",
+    "price": 132.64,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-29",
+    "price": 130.72,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-28",
+    "price": 131.1,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-27",
+    "price": 134.29,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-26",
+    "price": 131.3,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-25",
+    "price": 129.06,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-22",
+    "price": 128.64,
+    "volume": 14100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-21",
+    "price": 125.55,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-20",
+    "price": 129.91,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-19",
+    "price": 134.55,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-18",
+    "price": 133.9,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-15",
+    "price": 131.26,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-14",
+    "price": 129.32,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-13",
+    "price": 129.98,
+    "volume": 4300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-12",
+    "price": 132,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-11",
+    "price": 131.21,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-08",
+    "price": 130.5,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-07",
+    "price": 131.68,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-06",
+    "price": 130.16,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-05",
+    "price": 124.68,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-07-01",
+    "price": 130.75,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-30",
+    "price": 128.91,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-29",
+    "price": 131,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-28",
+    "price": 131.7,
+    "volume": 15300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-27",
+    "price": 127.25,
+    "volume": 4400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-24",
+    "price": 129.21,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-23",
+    "price": 126.7,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-22",
+    "price": 125.4,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-21",
+    "price": 121.9,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-17",
+    "price": 120.22,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-16",
+    "price": 118.75,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-15",
+    "price": 115.9,
+    "volume": 4000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-14",
+    "price": 114.42,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-13",
+    "price": 115.61,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-10",
+    "price": 122.99,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-09",
+    "price": 123.28,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-08",
+    "price": 125.08,
+    "volume": 400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-07",
+    "price": 125.08,
+    "volume": 6000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-06",
+    "price": 125.6,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-03",
+    "price": 126.48,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-02",
+    "price": 128.72,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-06-01",
+    "price": 132.14,
+    "volume": 600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-31",
+    "price": 129.26,
+    "volume": 4600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-27",
+    "price": 130.75,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-26",
+    "price": 134.12,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-25",
+    "price": 134.14,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-24",
+    "price": 132.46,
+    "volume": 18400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-23",
+    "price": 131.08,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-20",
+    "price": 127.06,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-19",
+    "price": 125.9,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-18",
+    "price": 125.49,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-17",
+    "price": 129.22,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-16",
+    "price": 126.58,
+    "volume": 10600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-13",
+    "price": 125.82,
+    "volume": 6200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-12",
+    "price": 120.72,
+    "volume": 4000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-11",
+    "price": 122.7,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-10",
+    "price": 123.75,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-09",
+    "price": 121.53,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-06",
+    "price": 125.58,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-05",
+    "price": 127.6,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-04",
+    "price": 129.25,
+    "volume": 4200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-03",
+    "price": 130.08,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-05-02",
+    "price": 130,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-29",
+    "price": 132.33,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-28",
+    "price": 129.83,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-27",
+    "price": 129.33,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-26",
+    "price": 129.46,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-25",
+    "price": 129.33,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-22",
+    "price": 134.67,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-21",
+    "price": 135.38,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-20",
+    "price": 136.83,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-19",
+    "price": 135.08,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-18",
+    "price": 141.57,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-14",
+    "price": 134,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-13",
+    "price": 134.72,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-12",
+    "price": 138.42,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-11",
+    "price": 137.95,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-08",
+    "price": 140.92,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-07",
+    "price": 139.89,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-06",
+    "price": 137.62,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-05",
+    "price": 133.61,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-04",
+    "price": 136.27,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-04-01",
+    "price": 133.25,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-31",
+    "price": 134.63,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-30",
+    "price": 131.46,
+    "volume": 4800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-29",
+    "price": 136.11,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-28",
+    "price": 133.43,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-25",
+    "price": 134.61,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-24",
+    "price": 133.92,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-23",
+    "price": 129.77,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-22",
+    "price": 127.92,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-21",
+    "price": 121.79,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-18",
+    "price": 127.92,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-17",
+    "price": 124.08,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-16",
+    "price": 121.33,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-15",
+    "price": 121.32,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-14",
+    "price": 120.73,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-11",
+    "price": 119.85,
+    "volume": 5800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-10",
+    "price": 122.42,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-09",
+    "price": 119.3,
+    "volume": 4500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-08",
+    "price": 112.83,
+    "volume": 6200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-07",
+    "price": 114.27,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-04",
+    "price": 113.24,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-03",
+    "price": 118.35,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-02",
+    "price": 124.92,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-03-01",
+    "price": 122,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-28",
+    "price": 117.23,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-25",
+    "price": 121.27,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-24",
+    "price": 115.95,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-23",
+    "price": 120.97,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-22",
+    "price": 120.3,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-18",
+    "price": 117.98,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-17",
+    "price": 122.4,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-16",
+    "price": 120.87,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-15",
+    "price": 117.12,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-14",
+    "price": 111.36,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-11",
+    "price": 114.15,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-10",
+    "price": 115.75,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-09",
+    "price": 114.52,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-08",
+    "price": 112.87,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-07",
+    "price": 111.5,
+    "volume": 18500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-04",
+    "price": 110.53,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-03",
+    "price": 116.92,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-02",
+    "price": 117.68,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-02-01",
+    "price": 116.5,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-31",
+    "price": 117.02,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-28",
+    "price": 116.25,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-27",
+    "price": 120.5,
+    "volume": 6700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-26",
+    "price": 116.8,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-25",
+    "price": 113.35,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-24",
+    "price": 112.36,
+    "volume": 9500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-21",
+    "price": 120.82,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-20",
+    "price": 121.21,
+    "volume": 6900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-19",
+    "price": 119.67,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-18",
+    "price": 119,
+    "volume": 8600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-14",
+    "price": 118.1,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-13",
+    "price": 117.2,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-12",
+    "price": 115.32,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-11",
+    "price": 115.51,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-10",
+    "price": 115.02,
+    "volume": 179100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-07",
+    "price": 112.73,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-06",
+    "price": 114.7,
+    "volume": 3400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-05",
+    "price": 113.5,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-04",
+    "price": 115.66,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2022-01-03",
+    "price": 115.79,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-31",
+    "price": 115.85,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-30",
+    "price": 118,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-29",
+    "price": 116.13,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-28",
+    "price": 117.15,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-27",
+    "price": 115,
+    "volume": 4900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-23",
+    "price": 115,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-22",
+    "price": 115.87,
+    "volume": 5200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-21",
+    "price": 116,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-20",
+    "price": 109.56,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-17",
+    "price": 111.4,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-16",
+    "price": 113.92,
+    "volume": 4600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-15",
+    "price": 110.34,
+    "volume": 5100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-14",
+    "price": 107.76,
+    "volume": 20500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-13",
+    "price": 107.28,
+    "volume": 4400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-10",
+    "price": 110.43,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-09",
+    "price": 109.25,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-08",
+    "price": 112.47,
+    "volume": 5800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-07",
+    "price": 108.63,
+    "volume": 153100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-06",
+    "price": 110.93,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-03",
+    "price": 109.66,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-02",
+    "price": 111.42,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-12-01",
+    "price": 109.35,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-30",
+    "price": 111.57,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-29",
+    "price": 112.35,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-26",
+    "price": 112.36,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-24",
+    "price": 113.72,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-23",
+    "price": 112.25,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-22",
+    "price": 114.21,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-19",
+    "price": 112.6,
+    "volume": 5300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-18",
+    "price": 112.42,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-17",
+    "price": 115.94,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-16",
+    "price": 116.81,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-15",
+    "price": 123.13,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-12",
+    "price": 118.39,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-11",
+    "price": 126.92,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-10",
+    "price": 126.77,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-09",
+    "price": 126.42,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-08",
+    "price": 128.37,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-05",
+    "price": 125.47,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-04",
+    "price": 129.92,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-03",
+    "price": 129,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-02",
+    "price": 126.45,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-11-01",
+    "price": 127.17,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-29",
+    "price": 125.28,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-28",
+    "price": 127.25,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-27",
+    "price": 122.81,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-26",
+    "price": 123.13,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-25",
+    "price": 124.82,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-22",
+    "price": 123.78,
+    "volume": 4800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-21",
+    "price": 122.4,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-20",
+    "price": 122,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-19",
+    "price": 119.37,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-18",
+    "price": 120.12,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-15",
+    "price": 118.58,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-14",
+    "price": 121,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-13",
+    "price": 119.09,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-12",
+    "price": 122.92,
+    "volume": 9000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-11",
+    "price": 123.49,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-08",
+    "price": 123.83,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-07",
+    "price": 121.98,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-06",
+    "price": 120.27,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-05",
+    "price": 121,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-04",
+    "price": 124.92,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-10-01",
+    "price": 117.78,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-30",
+    "price": 121.6,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-29",
+    "price": 118.78,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-28",
+    "price": 116.45,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-27",
+    "price": 122.3,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-24",
+    "price": 122.3,
+    "volume": 7100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-23",
+    "price": 119.2,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-22",
+    "price": 116.84,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-21",
+    "price": 119.27,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-20",
+    "price": 115.33,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-17",
+    "price": 111.92,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-16",
+    "price": 111.56,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-15",
+    "price": 113.77,
+    "volume": 5300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-14",
+    "price": 113.76,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-13",
+    "price": 114.89,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-10",
+    "price": 113,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-09",
+    "price": 112.1,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-08",
+    "price": 114.92,
+    "volume": 15400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-07",
+    "price": 115.5,
+    "volume": 8500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-03",
+    "price": 119.08,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-02",
+    "price": 119.1,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-09-01",
+    "price": 117.99,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-31",
+    "price": 116.15,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-30",
+    "price": 116.86,
+    "volume": 3900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-27",
+    "price": 115.9,
+    "volume": 7500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-26",
+    "price": 117.26,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-25",
+    "price": 116.68,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-24",
+    "price": 117.06,
+    "volume": 800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-23",
+    "price": 117.06,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-20",
+    "price": 119.25,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-19",
+    "price": 119.92,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-18",
+    "price": 118.5,
+    "volume": 3800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-17",
+    "price": 118.18,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-16",
+    "price": 117.92,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-13",
+    "price": 117.03,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-12",
+    "price": 115.5,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-11",
+    "price": 112.92,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-10",
+    "price": 113.92,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-09",
+    "price": 112.1,
+    "volume": 9100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-06",
+    "price": 113.86,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-05",
+    "price": 114.98,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-04",
+    "price": 116.56,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-03",
+    "price": 115.49,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-08-02",
+    "price": 115.33,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-30",
+    "price": 114.11,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-29",
+    "price": 116.73,
+    "volume": 900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-28",
+    "price": 115.66,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-27",
+    "price": 114.35,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-26",
+    "price": 113.34,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-23",
+    "price": 118.04,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-22",
+    "price": 117.22,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-21",
+    "price": 115.06,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-20",
+    "price": 116.2,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-19",
+    "price": 112.08,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-16",
+    "price": 115.57,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-15",
+    "price": 116.12,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-14",
+    "price": 121.17,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-13",
+    "price": 121.82,
+    "volume": 3200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-12",
+    "price": 119.55,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-09",
+    "price": 118.75,
+    "volume": 4100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-08",
+    "price": 118.07,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-07",
+    "price": 120.2,
+    "volume": 9800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-06",
+    "price": 121.68,
+    "volume": 3500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-02",
+    "price": 121.28,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-07-01",
+    "price": 120.11,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-30",
+    "price": 121.32,
+    "volume": 1000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-29",
+    "price": 121.42,
+    "volume": 6000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-28",
+    "price": 118.74,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-25",
+    "price": 118.52,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-24",
+    "price": 118.49,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-23",
+    "price": 116.23,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-22",
+    "price": 115.23,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-21",
+    "price": 118.57,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-18",
+    "price": 115.68,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-17",
+    "price": 116.6,
+    "volume": 8200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-16",
+    "price": 119.06,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-15",
+    "price": 118.84,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-14",
+    "price": 115.64,
+    "volume": 16800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-11",
+    "price": 117.92,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-10",
+    "price": 117,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-09",
+    "price": 114,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-08",
+    "price": 113.76,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-07",
+    "price": 112.5,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-04",
+    "price": 113.92,
+    "volume": 1700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-03",
+    "price": 112,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-02",
+    "price": 113.67,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-06-01",
+    "price": 110.75,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-28",
+    "price": 116.26,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-27",
+    "price": 110.75,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-26",
+    "price": 115.8,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-25",
+    "price": 115.8,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-24",
+    "price": 116.92,
+    "volume": 1100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-21",
+    "price": 117,
+    "volume": 2100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-20",
+    "price": 114,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-19",
+    "price": 112.92,
+    "volume": 1600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-18",
+    "price": 110.73,
+    "volume": 4600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-17",
+    "price": 112.12,
+    "volume": 5500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-14",
+    "price": 110.66,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-13",
+    "price": 108.36,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-12",
+    "price": 109.3,
+    "volume": 18900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-11",
+    "price": 108.97,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-10",
+    "price": 107.38,
+    "volume": 6300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-07",
+    "price": 108.4,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-06",
+    "price": 106.92,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-05",
+    "price": 105.27,
+    "volume": 700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-04",
+    "price": 107.21,
+    "volume": 3000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-05-03",
+    "price": 107.92,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-30",
+    "price": 107.84,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-29",
+    "price": 104.4,
+    "volume": 2500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-28",
+    "price": 104.54,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-27",
+    "price": 105.62,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-26",
+    "price": 105.7,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-23",
+    "price": 106.17,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-22",
+    "price": 106.12,
+    "volume": 2400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-21",
+    "price": 107.1,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-20",
+    "price": 103.75,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-19",
+    "price": 101.77,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-16",
+    "price": 100.5,
+    "volume": 3300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-15",
+    "price": 102,
+    "volume": 1500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-14",
+    "price": 99.02,
+    "volume": 3600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-13",
+    "price": 99.24,
+    "volume": 2700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-12",
+    "price": 99.32,
+    "volume": 1200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-09",
+    "price": 101.34,
+    "volume": 1400
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-08",
+    "price": 100.02,
+    "volume": 2600
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-07",
+    "price": 95.26,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-06",
+    "price": 98.37,
+    "volume": 4500
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-05",
+    "price": 100,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-04-01",
+    "price": 97.55,
+    "volume": 8100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-31",
+    "price": 100.85,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-30",
+    "price": 99.99,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-29",
+    "price": 100,
+    "volume": 1900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-26",
+    "price": 100.67,
+    "volume": 3100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-25",
+    "price": 99.68,
+    "volume": 3700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-24",
+    "price": 99.42,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-23",
+    "price": 98.5,
+    "volume": 7000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-22",
+    "price": 101.48,
+    "volume": 2800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-19",
+    "price": 99.6,
+    "volume": 1800
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-18",
+    "price": 100.45,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-17",
+    "price": 100.65,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-16",
+    "price": 98.58,
+    "volume": 91000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-15",
+    "price": 97,
+    "volume": 11000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-12",
+    "price": 97.02,
+    "volume": 5100
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-11",
+    "price": 96.75,
+    "volume": 8200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-10",
+    "price": 99.65,
+    "volume": 4300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-09",
+    "price": 99.67,
+    "volume": 2000
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-08",
+    "price": 97.17,
+    "volume": 2300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-05",
+    "price": 96.47,
+    "volume": 2200
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-04",
+    "price": 94.71,
+    "volume": 4700
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-03",
+    "price": 95.62,
+    "volume": 1300
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-02",
+    "price": 97.46,
+    "volume": 2900
+  },
+  {
+    "symbol": "AZN",
+    "date": "2021-03-01",
+    "price": 97.92,
+    "volume": 7900
+  }
+]

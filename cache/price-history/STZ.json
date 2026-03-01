@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "STZ",
+    "date": "2026-02-27",
+    "price": 157.86,
+    "volume": 2880088
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-26",
+    "price": 155.76,
+    "volume": 1404434
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-25",
+    "price": 155.12,
+    "volume": 2753000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-24",
+    "price": 160.07,
+    "volume": 1550246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-23",
+    "price": 159.42,
+    "volume": 1847841
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-20",
+    "price": 156.41,
+    "volume": 1223200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-19",
+    "price": 154.64,
+    "volume": 1515874
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-18",
+    "price": 156.29,
+    "volume": 2395836
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-17",
+    "price": 152.7,
+    "volume": 3372222
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-13",
+    "price": 149.3,
+    "volume": 6064800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-12",
+    "price": 162.36,
+    "volume": 2060202
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-11",
+    "price": 163.2,
+    "volume": 2715008
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-10",
+    "price": 165.63,
+    "volume": 2126434
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-09",
+    "price": 163.61,
+    "volume": 1591148
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-06",
+    "price": 164.33,
+    "volume": 1848567
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-05",
+    "price": 165.57,
+    "volume": 2548916
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-04",
+    "price": 166.68,
+    "volume": 3247459
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-03",
+    "price": 160.62,
+    "volume": 2087400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-02-02",
+    "price": 155.66,
+    "volume": 2222675
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-30",
+    "price": 156.7,
+    "volume": 1547285
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-29",
+    "price": 154.75,
+    "volume": 2337712
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-28",
+    "price": 157.74,
+    "volume": 1859114
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-27",
+    "price": 161.25,
+    "volume": 2236068
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-26",
+    "price": 161.55,
+    "volume": 2868447
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-23",
+    "price": 158.78,
+    "volume": 2250480
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-22",
+    "price": 160.72,
+    "volume": 2292775
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-21",
+    "price": 163.38,
+    "volume": 2914942
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-20",
+    "price": 163.64,
+    "volume": 3921300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-16",
+    "price": 156.64,
+    "volume": 2231631
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-15",
+    "price": 158.75,
+    "volume": 2794460
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-14",
+    "price": 156.36,
+    "volume": 3533173
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-13",
+    "price": 153.16,
+    "volume": 2372300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-12",
+    "price": 151.82,
+    "volume": 3136400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-09",
+    "price": 147,
+    "volume": 2676830
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-08",
+    "price": 147.96,
+    "volume": 7807712
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-07",
+    "price": 140.49,
+    "volume": 3880700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-06",
+    "price": 143.65,
+    "volume": 3127800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-05",
+    "price": 142.51,
+    "volume": 4964300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2026-01-02",
+    "price": 141.17,
+    "volume": 2084206
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-31",
+    "price": 137.96,
+    "volume": 1647325
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-30",
+    "price": 140.13,
+    "volume": 2154126
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-29",
+    "price": 138.51,
+    "volume": 1906953
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-26",
+    "price": 139.41,
+    "volume": 1616096
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-24",
+    "price": 140.49,
+    "volume": 964017
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-23",
+    "price": 139.23,
+    "volume": 2242200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-22",
+    "price": 141.74,
+    "volume": 3644928
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-19",
+    "price": 135.01,
+    "volume": 4706543
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-18",
+    "price": 136.81,
+    "volume": 2019400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-17",
+    "price": 139.72,
+    "volume": 2382469
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-16",
+    "price": 142.59,
+    "volume": 2055525
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-15",
+    "price": 143.47,
+    "volume": 3353499
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-12",
+    "price": 147.42,
+    "volume": 2098172
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-11",
+    "price": 149.55,
+    "volume": 3051539
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-10",
+    "price": 148.51,
+    "volume": 3775709
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-09",
+    "price": 143.37,
+    "volume": 2339900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-08",
+    "price": 141.99,
+    "volume": 2545354
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-05",
+    "price": 142.37,
+    "volume": 2994370
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-04",
+    "price": 138.03,
+    "volume": 2204597
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-03",
+    "price": 138.08,
+    "volume": 2176292
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-02",
+    "price": 137.86,
+    "volume": 2291438
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-12-01",
+    "price": 137.87,
+    "volume": 2734969
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-28",
+    "price": 136.38,
+    "volume": 1799700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-26",
+    "price": 134.89,
+    "volume": 2145300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-25",
+    "price": 132.18,
+    "volume": 1863212
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-24",
+    "price": 132.11,
+    "volume": 2369311
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-21",
+    "price": 133.66,
+    "volume": 2773546
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-20",
+    "price": 130.45,
+    "volume": 1979425
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-19",
+    "price": 129.27,
+    "volume": 2174240
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-18",
+    "price": 130.53,
+    "volume": 1875318
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-17",
+    "price": 130.96,
+    "volume": 2444329
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-14",
+    "price": 129.16,
+    "volume": 2973427
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-13",
+    "price": 129.69,
+    "volume": 2079929
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-12",
+    "price": 130.38,
+    "volume": 1318778
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-11",
+    "price": 131.81,
+    "volume": 2920700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-10",
+    "price": 128.47,
+    "volume": 2268400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-07",
+    "price": 127.65,
+    "volume": 3760400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-06",
+    "price": 127.95,
+    "volume": 2004425
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-05",
+    "price": 130.62,
+    "volume": 1744742
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-04",
+    "price": 129.18,
+    "volume": 2129600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-11-03",
+    "price": 130.82,
+    "volume": 1963026
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-31",
+    "price": 131.38,
+    "volume": 3878928
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-30",
+    "price": 128.88,
+    "volume": 2773600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-29",
+    "price": 130.98,
+    "volume": 2823147
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-28",
+    "price": 134.19,
+    "volume": 2385300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-27",
+    "price": 137.96,
+    "volume": 2144800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-24",
+    "price": 139.62,
+    "volume": 1217500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-23",
+    "price": 139.72,
+    "volume": 1352166
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-22",
+    "price": 140.2,
+    "volume": 2057900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-21",
+    "price": 141.57,
+    "volume": 2424451
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-20",
+    "price": 141.23,
+    "volume": 1729016
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-17",
+    "price": 140.41,
+    "volume": 2226034
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-16",
+    "price": 139.32,
+    "volume": 2008024
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-15",
+    "price": 138.89,
+    "volume": 2788810
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-14",
+    "price": 141.24,
+    "volume": 2969610
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-13",
+    "price": 141.44,
+    "volume": 2678917
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-10",
+    "price": 141.33,
+    "volume": 3373140
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-09",
+    "price": 142.97,
+    "volume": 2933800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-08",
+    "price": 142.76,
+    "volume": 3238200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-07",
+    "price": 140.14,
+    "volume": 6552400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-06",
+    "price": 138.71,
+    "volume": 4699114
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-03",
+    "price": 142.2,
+    "volume": 3027741
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-02",
+    "price": 140.51,
+    "volume": 3298246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-10-01",
+    "price": 138.95,
+    "volume": 2757400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-30",
+    "price": 134.67,
+    "volume": 2213714
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-29",
+    "price": 136.47,
+    "volume": 2857000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-26",
+    "price": 132.49,
+    "volume": 2297212
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-25",
+    "price": 132.65,
+    "volume": 2518340
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-24",
+    "price": 133.39,
+    "volume": 2590482
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-23",
+    "price": 131.78,
+    "volume": 3051300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-22",
+    "price": 133.48,
+    "volume": 3275329
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-19",
+    "price": 132.92,
+    "volume": 6144600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-18",
+    "price": 133.02,
+    "volume": 2951800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-17",
+    "price": 133.04,
+    "volume": 2754709
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-16",
+    "price": 134.68,
+    "volume": 2904400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-15",
+    "price": 135.42,
+    "volume": 3475804
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-12",
+    "price": 139.49,
+    "volume": 2446800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-11",
+    "price": 142.98,
+    "volume": 3037700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-10",
+    "price": 142.9,
+    "volume": 2236200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-09",
+    "price": 145.98,
+    "volume": 3328900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-08",
+    "price": 146.1,
+    "volume": 3096711
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-05",
+    "price": 148.43,
+    "volume": 3046600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-04",
+    "price": 145.88,
+    "volume": 2758200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-03",
+    "price": 146.49,
+    "volume": 4546300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-09-02",
+    "price": 151.26,
+    "volume": 6085100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-29",
+    "price": 161.94,
+    "volume": 1773717
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-28",
+    "price": 159.09,
+    "volume": 1954526
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-27",
+    "price": 160.5,
+    "volume": 2078085
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-26",
+    "price": 158.37,
+    "volume": 4565600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-25",
+    "price": 163.68,
+    "volume": 2553500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-22",
+    "price": 167.62,
+    "volume": 1729502
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-21",
+    "price": 164.93,
+    "volume": 1560727
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-20",
+    "price": 166.3,
+    "volume": 1465175
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-19",
+    "price": 165.9,
+    "volume": 2255814
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-18",
+    "price": 166.25,
+    "volume": 1994247
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-15",
+    "price": 168.23,
+    "volume": 1522114
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-14",
+    "price": 169.51,
+    "volume": 1482117
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-13",
+    "price": 170.37,
+    "volume": 1429687
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-12",
+    "price": 169.98,
+    "volume": 1656052
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-11",
+    "price": 168.72,
+    "volume": 1394700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-08",
+    "price": 170.6,
+    "volume": 1386737
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-07",
+    "price": 173.22,
+    "volume": 1623060
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-06",
+    "price": 169.16,
+    "volume": 1306315
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-05",
+    "price": 170.65,
+    "volume": 1191853
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-04",
+    "price": 170.29,
+    "volume": 1429328
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-08-01",
+    "price": 166.18,
+    "volume": 1631100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-31",
+    "price": 167.04,
+    "volume": 2240100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-30",
+    "price": 171.46,
+    "volume": 1400700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-29",
+    "price": 175.83,
+    "volume": 1496000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-28",
+    "price": 172.6,
+    "volume": 1315256
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-25",
+    "price": 175.52,
+    "volume": 1014700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-24",
+    "price": 175.64,
+    "volume": 1332591
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-23",
+    "price": 176.09,
+    "volume": 1908740
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-22",
+    "price": 175.36,
+    "volume": 2299528
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-21",
+    "price": 167.95,
+    "volume": 2235946
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-18",
+    "price": 170.57,
+    "volume": 1911444
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-17",
+    "price": 171.52,
+    "volume": 2362443
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-16",
+    "price": 168.12,
+    "volume": 1941949
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-15",
+    "price": 165.99,
+    "volume": 2412534
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-14",
+    "price": 164.58,
+    "volume": 3673727
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-11",
+    "price": 172.19,
+    "volume": 1371019
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-10",
+    "price": 172.12,
+    "volume": 2083373
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-09",
+    "price": 169.04,
+    "volume": 1832500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-08",
+    "price": 170.55,
+    "volume": 1744842
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-07",
+    "price": 170.34,
+    "volume": 2566522
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-03",
+    "price": 172.32,
+    "volume": 1808300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-02",
+    "price": 173.87,
+    "volume": 6258307
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-07-01",
+    "price": 166.42,
+    "volume": 4270700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-30",
+    "price": 162.68,
+    "volume": 2907744
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-27",
+    "price": 161.33,
+    "volume": 4684200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-26",
+    "price": 161.32,
+    "volume": 2098416
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-25",
+    "price": 161.53,
+    "volume": 1750500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-24",
+    "price": 164.49,
+    "volume": 2589952
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-23",
+    "price": 163.3,
+    "volume": 2401535
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-20",
+    "price": 162.4,
+    "volume": 4379021
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-18",
+    "price": 160,
+    "volume": 2251322
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-17",
+    "price": 160.56,
+    "volume": 2594006
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-16",
+    "price": 162.81,
+    "volume": 3563000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-13",
+    "price": 164.88,
+    "volume": 1945043
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-12",
+    "price": 169.81,
+    "volume": 1826300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-11",
+    "price": 169.04,
+    "volume": 4146119
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-10",
+    "price": 171.55,
+    "volume": 1516023
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-09",
+    "price": 171.13,
+    "volume": 2248004
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-06",
+    "price": 171.93,
+    "volume": 1549600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-05",
+    "price": 170.6,
+    "volume": 2592245
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-04",
+    "price": 176.97,
+    "volume": 1227538
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-03",
+    "price": 176.67,
+    "volume": 1946036
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-06-02",
+    "price": 174.17,
+    "volume": 3110600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-30",
+    "price": 178.29,
+    "volume": 3034113
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-29",
+    "price": 179.71,
+    "volume": 2122059
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-28",
+    "price": 178.73,
+    "volume": 2420442
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-27",
+    "price": 185.91,
+    "volume": 1280220
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-23",
+    "price": 184.42,
+    "volume": 1313600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-22",
+    "price": 184.76,
+    "volume": 1507400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-21",
+    "price": 185.7,
+    "volume": 1263300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-20",
+    "price": 189.37,
+    "volume": 1378815
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-19",
+    "price": 192.91,
+    "volume": 2253038
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-16",
+    "price": 195.62,
+    "volume": 2887708
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-15",
+    "price": 190.65,
+    "volume": 1499200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-14",
+    "price": 186.76,
+    "volume": 1946542
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-13",
+    "price": 187.67,
+    "volume": 1392900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-12",
+    "price": 189.9,
+    "volume": 1603941
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-09",
+    "price": 190.07,
+    "volume": 1272500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-08",
+    "price": 191.39,
+    "volume": 1430446
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-07",
+    "price": 189.79,
+    "volume": 1313695
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-06",
+    "price": 187.07,
+    "volume": 1188150
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-05",
+    "price": 187.44,
+    "volume": 1225759
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-02",
+    "price": 186.97,
+    "volume": 1146301
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-05-01",
+    "price": 185.44,
+    "volume": 1595000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-30",
+    "price": 187.54,
+    "volume": 1296219
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-29",
+    "price": 186.28,
+    "volume": 1421414
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-28",
+    "price": 185.75,
+    "volume": 1519291
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-25",
+    "price": 185.35,
+    "volume": 1054329
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-24",
+    "price": 187.5,
+    "volume": 1587083
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-23",
+    "price": 187.28,
+    "volume": 1915813
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-22",
+    "price": 187,
+    "volume": 2385240
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-21",
+    "price": 187.26,
+    "volume": 2001287
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-17",
+    "price": 186.63,
+    "volume": 1295332
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-16",
+    "price": 183.03,
+    "volume": 1320056
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-15",
+    "price": 183.86,
+    "volume": 1609449
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-14",
+    "price": 187.27,
+    "volume": 2025218
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-11",
+    "price": 185.63,
+    "volume": 3759236
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-10",
+    "price": 184.75,
+    "volume": 6449200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-09",
+    "price": 183.4,
+    "volume": 4524003
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-08",
+    "price": 170.96,
+    "volume": 3796272
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-07",
+    "price": 172.59,
+    "volume": 3172644
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-04",
+    "price": 173.86,
+    "volume": 3177291
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-03",
+    "price": 181.49,
+    "volume": 2639586
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-02",
+    "price": 182.73,
+    "volume": 2196200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-04-01",
+    "price": 184.81,
+    "volume": 1423499
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-31",
+    "price": 183.52,
+    "volume": 1823064
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-28",
+    "price": 183.74,
+    "volume": 1232989
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-27",
+    "price": 184.31,
+    "volume": 1318664
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-26",
+    "price": 184.11,
+    "volume": 1519105
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-25",
+    "price": 178.36,
+    "volume": 1537699
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-24",
+    "price": 180.28,
+    "volume": 2072057
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-21",
+    "price": 177.42,
+    "volume": 6618601
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-20",
+    "price": 178.88,
+    "volume": 2038909
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-19",
+    "price": 179,
+    "volume": 2208500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-18",
+    "price": 179.35,
+    "volume": 1698933
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-17",
+    "price": 183.61,
+    "volume": 1771184
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-14",
+    "price": 181.33,
+    "volume": 1650675
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-13",
+    "price": 181.59,
+    "volume": 2364425
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-12",
+    "price": 183.85,
+    "volume": 2146563
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-11",
+    "price": 185.26,
+    "volume": 2288400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-10",
+    "price": 189.47,
+    "volume": 3555700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-07",
+    "price": 186.25,
+    "volume": 3980206
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-06",
+    "price": 178.95,
+    "volume": 3285800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-05",
+    "price": 174.18,
+    "volume": 2552024
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-04",
+    "price": 172.56,
+    "volume": 3421200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-03-03",
+    "price": 175.28,
+    "volume": 2682400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-28",
+    "price": 175.5,
+    "volume": 2913392
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-27",
+    "price": 173.24,
+    "volume": 3246442
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-26",
+    "price": 178.35,
+    "volume": 4580940
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-25",
+    "price": 178.02,
+    "volume": 3687600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-24",
+    "price": 178.97,
+    "volume": 3883329
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-21",
+    "price": 175.97,
+    "volume": 3977332
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-20",
+    "price": 172.33,
+    "volume": 4445100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-19",
+    "price": 172.42,
+    "volume": 3210028
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-18",
+    "price": 169.38,
+    "volume": 6213345
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-14",
+    "price": 162.94,
+    "volume": 2313320
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-13",
+    "price": 163.2,
+    "volume": 3244158
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-12",
+    "price": 161.05,
+    "volume": 2524685
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-11",
+    "price": 164.74,
+    "volume": 3343256
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-10",
+    "price": 165,
+    "volume": 2309569
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-07",
+    "price": 169,
+    "volume": 1611129
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-06",
+    "price": 170.97,
+    "volume": 1690515
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-05",
+    "price": 172.86,
+    "volume": 1314956
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-04",
+    "price": 172.59,
+    "volume": 2080355
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-02-03",
+    "price": 174.41,
+    "volume": 4398900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-31",
+    "price": 180.8,
+    "volume": 2190577
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-30",
+    "price": 184.32,
+    "volume": 2034690
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-29",
+    "price": 182.23,
+    "volume": 1848407
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-28",
+    "price": 183.09,
+    "volume": 1729437
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-27",
+    "price": 187.94,
+    "volume": 2629654
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-24",
+    "price": 183.1,
+    "volume": 2462573
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-23",
+    "price": 179.5,
+    "volume": 2562843
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-22",
+    "price": 178.96,
+    "volume": 2237801
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-21",
+    "price": 183.08,
+    "volume": 3960530
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-17",
+    "price": 184.31,
+    "volume": 2840158
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-16",
+    "price": 184.57,
+    "volume": 3349084
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-15",
+    "price": 180.72,
+    "volume": 2964289
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-14",
+    "price": 182.2,
+    "volume": 3355008
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-13",
+    "price": 185.91,
+    "volume": 5460775
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-10",
+    "price": 181.81,
+    "volume": 8701700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-08",
+    "price": 219.28,
+    "volume": 1728241
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-07",
+    "price": 218.51,
+    "volume": 1993168
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-06",
+    "price": 222.93,
+    "volume": 1933104
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-03",
+    "price": 221.92,
+    "volume": 1844199
+  },
+  {
+    "symbol": "STZ",
+    "date": "2025-01-02",
+    "price": 222.57,
+    "volume": 1154729
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-31",
+    "price": 221,
+    "volume": 960747
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-30",
+    "price": 219.66,
+    "volume": 1143408
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-27",
+    "price": 222.71,
+    "volume": 1190117
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-26",
+    "price": 224.27,
+    "volume": 951986
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-24",
+    "price": 225.4,
+    "volume": 579600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-23",
+    "price": 226.36,
+    "volume": 1394810
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-20",
+    "price": 227.63,
+    "volume": 4614900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-19",
+    "price": 227.05,
+    "volume": 2942100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-18",
+    "price": 228.31,
+    "volume": 2296332
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-17",
+    "price": 233.09,
+    "volume": 2398979
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-16",
+    "price": 232.92,
+    "volume": 1826533
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-13",
+    "price": 239.66,
+    "volume": 1077313
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-12",
+    "price": 239.45,
+    "volume": 1214811
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-11",
+    "price": 239.89,
+    "volume": 1540400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-10",
+    "price": 242.6,
+    "volume": 1127336
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-09",
+    "price": 244.31,
+    "volume": 1371953
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-06",
+    "price": 239,
+    "volume": 1701897
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-05",
+    "price": 239.5,
+    "volume": 1329332
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-04",
+    "price": 238.3,
+    "volume": 898439
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-03",
+    "price": 237.06,
+    "volume": 1173255
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-12-02",
+    "price": 237.76,
+    "volume": 1243100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-29",
+    "price": 240.95,
+    "volume": 833709
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-27",
+    "price": 235.97,
+    "volume": 1028500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-26",
+    "price": 233.6,
+    "volume": 2715400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-25",
+    "price": 241.67,
+    "volume": 1493700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-22",
+    "price": 239.66,
+    "volume": 1421842
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-21",
+    "price": 240.76,
+    "volume": 1060413
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-20",
+    "price": 239.75,
+    "volume": 1046174
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-19",
+    "price": 240.44,
+    "volume": 1079100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-18",
+    "price": 238.06,
+    "volume": 978827
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-15",
+    "price": 237.51,
+    "volume": 1426700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-14",
+    "price": 242,
+    "volume": 1124200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-13",
+    "price": 240.71,
+    "volume": 1104327
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-12",
+    "price": 238.29,
+    "volume": 1488934
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-11",
+    "price": 236.2,
+    "volume": 1108700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-08",
+    "price": 234.38,
+    "volume": 1731377
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-07",
+    "price": 233.28,
+    "volume": 1468800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-06",
+    "price": 229.58,
+    "volume": 3182162
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-05",
+    "price": 237.15,
+    "volume": 1103358
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-04",
+    "price": 239.74,
+    "volume": 1817064
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-11-01",
+    "price": 232.77,
+    "volume": 1351116
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-31",
+    "price": 232.34,
+    "volume": 1263952
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-30",
+    "price": 235.47,
+    "volume": 934057
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-29",
+    "price": 236.07,
+    "volume": 1020452
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-28",
+    "price": 237.51,
+    "volume": 1038691
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-25",
+    "price": 239.38,
+    "volume": 861000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-24",
+    "price": 240.71,
+    "volume": 653200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-23",
+    "price": 241.42,
+    "volume": 1207000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-22",
+    "price": 241.61,
+    "volume": 1073740
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-21",
+    "price": 239.21,
+    "volume": 1198345
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-18",
+    "price": 241.52,
+    "volume": 1647700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-17",
+    "price": 240.04,
+    "volume": 1473400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-16",
+    "price": 243.59,
+    "volume": 1371533
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-15",
+    "price": 244.07,
+    "volume": 1302900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-14",
+    "price": 245.71,
+    "volume": 1061000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-11",
+    "price": 241.06,
+    "volume": 1108158
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-10",
+    "price": 239.6,
+    "volume": 1137455
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-09",
+    "price": 240.42,
+    "volume": 1796596
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-08",
+    "price": 241.13,
+    "volume": 1149556
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-07",
+    "price": 243.07,
+    "volume": 1753674
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-04",
+    "price": 246.67,
+    "volume": 1351402
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-03",
+    "price": 243.65,
+    "volume": 2627600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-02",
+    "price": 255.67,
+    "volume": 1212700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-10-01",
+    "price": 257.68,
+    "volume": 894800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-30",
+    "price": 257.69,
+    "volume": 1064500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-27",
+    "price": 258.4,
+    "volume": 1377321
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-26",
+    "price": 255.05,
+    "volume": 689116
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-25",
+    "price": 251.9,
+    "volume": 1059365
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-24",
+    "price": 252.47,
+    "volume": 838233
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-23",
+    "price": 254.82,
+    "volume": 1215260
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-20",
+    "price": 248.09,
+    "volume": 2773100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-19",
+    "price": 248.45,
+    "volume": 1649834
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-18",
+    "price": 251,
+    "volume": 775814
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-17",
+    "price": 252.86,
+    "volume": 616540
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-16",
+    "price": 253.65,
+    "volume": 876000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-13",
+    "price": 252.57,
+    "volume": 837323
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-12",
+    "price": 251.71,
+    "volume": 695325
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-11",
+    "price": 248.79,
+    "volume": 1043704
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-10",
+    "price": 249.49,
+    "volume": 1230300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-09",
+    "price": 250.89,
+    "volume": 1896454
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-06",
+    "price": 249.01,
+    "volume": 1171800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-05",
+    "price": 248.29,
+    "volume": 1744007
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-04",
+    "price": 246.61,
+    "volume": 909524
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-09-03",
+    "price": 246.78,
+    "volume": 1586700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-30",
+    "price": 240.71,
+    "volume": 1305519
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-29",
+    "price": 237.97,
+    "volume": 1015018
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-28",
+    "price": 240.37,
+    "volume": 873700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-27",
+    "price": 239.98,
+    "volume": 1315073
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-26",
+    "price": 243.11,
+    "volume": 960411
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-23",
+    "price": 245.18,
+    "volume": 637100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-22",
+    "price": 243.7,
+    "volume": 681900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-21",
+    "price": 244.74,
+    "volume": 814534
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-20",
+    "price": 243.05,
+    "volume": 1117144
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-19",
+    "price": 242.96,
+    "volume": 749076
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-16",
+    "price": 245.7,
+    "volume": 588600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-15",
+    "price": 245.24,
+    "volume": 720076
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-14",
+    "price": 241.08,
+    "volume": 612200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-13",
+    "price": 240.1,
+    "volume": 977323
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-12",
+    "price": 238.8,
+    "volume": 733900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-09",
+    "price": 241.41,
+    "volume": 890649
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-08",
+    "price": 239.87,
+    "volume": 1017786
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-07",
+    "price": 237.81,
+    "volume": 757905
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-06",
+    "price": 238.52,
+    "volume": 1030627
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-05",
+    "price": 236.42,
+    "volume": 1791606
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-02",
+    "price": 246.94,
+    "volume": 1409600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-08-01",
+    "price": 245.37,
+    "volume": 782700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-31",
+    "price": 245.16,
+    "volume": 1112500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-30",
+    "price": 243.3,
+    "volume": 1133434
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-29",
+    "price": 246.17,
+    "volume": 1399815
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-26",
+    "price": 253.48,
+    "volume": 846431
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-25",
+    "price": 249.38,
+    "volume": 1053678
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-24",
+    "price": 246.88,
+    "volume": 968800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-23",
+    "price": 245.98,
+    "volume": 932635
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-22",
+    "price": 243.21,
+    "volume": 1271700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-19",
+    "price": 245.45,
+    "volume": 781837
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-18",
+    "price": 248.26,
+    "volume": 882644
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-17",
+    "price": 248.23,
+    "volume": 1424983
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-16",
+    "price": 248.09,
+    "volume": 1552030
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-15",
+    "price": 249.53,
+    "volume": 2110100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-12",
+    "price": 259.82,
+    "volume": 1032898
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-11",
+    "price": 259.37,
+    "volume": 926850
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-10",
+    "price": 253.08,
+    "volume": 1294361
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-09",
+    "price": 252.09,
+    "volume": 1259623
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-08",
+    "price": 253.84,
+    "volume": 1268807
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-05",
+    "price": 259.14,
+    "volume": 1943400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-03",
+    "price": 250.37,
+    "volume": 2670323
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-02",
+    "price": 258.94,
+    "volume": 1868600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-07-01",
+    "price": 256.29,
+    "volume": 981093
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-28",
+    "price": 257.28,
+    "volume": 1518776
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-27",
+    "price": 255.91,
+    "volume": 1136500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-26",
+    "price": 261.07,
+    "volume": 790900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-25",
+    "price": 261.68,
+    "volume": 966443
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-24",
+    "price": 265.13,
+    "volume": 1087900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-21",
+    "price": 263.5,
+    "volume": 1387126
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-20",
+    "price": 262.83,
+    "volume": 1021025
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-18",
+    "price": 263.65,
+    "volume": 950321
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-17",
+    "price": 262.34,
+    "volume": 1574951
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-14",
+    "price": 253.5,
+    "volume": 714168
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-13",
+    "price": 254.62,
+    "volume": 1324700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-12",
+    "price": 252.51,
+    "volume": 1453612
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-11",
+    "price": 251.03,
+    "volume": 1111200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-10",
+    "price": 251.68,
+    "volume": 1211300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-07",
+    "price": 250.93,
+    "volume": 1230912
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-06",
+    "price": 250.11,
+    "volume": 761043
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-05",
+    "price": 250.03,
+    "volume": 914600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-04",
+    "price": 250.34,
+    "volume": 1387800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-06-03",
+    "price": 250.32,
+    "volume": 1126100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-31",
+    "price": 250.23,
+    "volume": 1901500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-30",
+    "price": 246.59,
+    "volume": 1433357
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-29",
+    "price": 243.97,
+    "volume": 1065587
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-28",
+    "price": 245.49,
+    "volume": 1132018
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-24",
+    "price": 248.51,
+    "volume": 1504000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-23",
+    "price": 245.12,
+    "volume": 1282126
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-22",
+    "price": 248.94,
+    "volume": 799447
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-21",
+    "price": 250.98,
+    "volume": 837400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-20",
+    "price": 250.56,
+    "volume": 850900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-17",
+    "price": 255.43,
+    "volume": 1422000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-16",
+    "price": 255.39,
+    "volume": 1326200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-15",
+    "price": 252.29,
+    "volume": 1069923
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-14",
+    "price": 253.99,
+    "volume": 1168845
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-13",
+    "price": 258.77,
+    "volume": 883640
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-10",
+    "price": 261.95,
+    "volume": 503200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-09",
+    "price": 260.7,
+    "volume": 443800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-08",
+    "price": 258.36,
+    "volume": 407800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-07",
+    "price": 258.49,
+    "volume": 642449
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-06",
+    "price": 257.31,
+    "volume": 776102
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-03",
+    "price": 256.08,
+    "volume": 735854
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-02",
+    "price": 254.08,
+    "volume": 694239
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-05-01",
+    "price": 253.95,
+    "volume": 1009400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-30",
+    "price": 253.46,
+    "volume": 1851107
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-29",
+    "price": 261.19,
+    "volume": 573496
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-26",
+    "price": 260.04,
+    "volume": 700014
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-25",
+    "price": 261.71,
+    "volume": 757600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-24",
+    "price": 261.55,
+    "volume": 1075302
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-23",
+    "price": 261.66,
+    "volume": 1049900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-22",
+    "price": 259.74,
+    "volume": 872835
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-19",
+    "price": 260.7,
+    "volume": 1506629
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-18",
+    "price": 258.68,
+    "volume": 1160800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-17",
+    "price": 257.31,
+    "volume": 1530500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-16",
+    "price": 257.78,
+    "volume": 1773838
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-15",
+    "price": 258.52,
+    "volume": 1832711
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-12",
+    "price": 262.24,
+    "volume": 1629401
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-11",
+    "price": 268.34,
+    "volume": 4101200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-10",
+    "price": 264.92,
+    "volume": 2645211
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-09",
+    "price": 262.97,
+    "volume": 1203851
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-08",
+    "price": 266,
+    "volume": 968294
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-05",
+    "price": 265.63,
+    "volume": 1247914
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-04",
+    "price": 264.31,
+    "volume": 1401800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-03",
+    "price": 266.95,
+    "volume": 769200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-02",
+    "price": 267.41,
+    "volume": 1258500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-04-01",
+    "price": 266,
+    "volume": 1420119
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-28",
+    "price": 271.76,
+    "volume": 1144061
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-27",
+    "price": 272.04,
+    "volume": 838749
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-26",
+    "price": 269.29,
+    "volume": 878438
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-25",
+    "price": 270.44,
+    "volume": 758617
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-22",
+    "price": 268.24,
+    "volume": 664430
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-21",
+    "price": 269.35,
+    "volume": 1016552
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-20",
+    "price": 268.5,
+    "volume": 1264459
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-19",
+    "price": 268.75,
+    "volume": 1183000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-18",
+    "price": 266.35,
+    "volume": 1176947
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-15",
+    "price": 267.64,
+    "volume": 2421225
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-14",
+    "price": 260.83,
+    "volume": 941900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-13",
+    "price": 263.7,
+    "volume": 900057
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-12",
+    "price": 261.86,
+    "volume": 998446
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-11",
+    "price": 261.98,
+    "volume": 1418898
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-08",
+    "price": 257.69,
+    "volume": 1920547
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-07",
+    "price": 255.3,
+    "volume": 1342403
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-06",
+    "price": 248.4,
+    "volume": 1178827
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-05",
+    "price": 248.14,
+    "volume": 1221457
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-04",
+    "price": 248.03,
+    "volume": 1212141
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-03-01",
+    "price": 250,
+    "volume": 1559400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-29",
+    "price": 248.52,
+    "volume": 1938365
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-28",
+    "price": 247.44,
+    "volume": 948604
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-27",
+    "price": 247.09,
+    "volume": 1172542
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-26",
+    "price": 246.82,
+    "volume": 1108348
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-23",
+    "price": 247.23,
+    "volume": 910907
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-22",
+    "price": 245.7,
+    "volume": 1154534
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-21",
+    "price": 245.61,
+    "volume": 603827
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-20",
+    "price": 245.26,
+    "volume": 744100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-16",
+    "price": 243.84,
+    "volume": 834644
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-15",
+    "price": 244.9,
+    "volume": 703600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-14",
+    "price": 243.6,
+    "volume": 667493
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-13",
+    "price": 244.58,
+    "volume": 933683
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-12",
+    "price": 247.08,
+    "volume": 1365470
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-09",
+    "price": 242.55,
+    "volume": 1219297
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-08",
+    "price": 243.05,
+    "volume": 1138700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-07",
+    "price": 244.42,
+    "volume": 994300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-06",
+    "price": 248.65,
+    "volume": 1099200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-05",
+    "price": 247.06,
+    "volume": 1322300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-02",
+    "price": 250.59,
+    "volume": 1168300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-02-01",
+    "price": 252.68,
+    "volume": 1036400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-31",
+    "price": 245.08,
+    "volume": 1116300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-30",
+    "price": 248.43,
+    "volume": 950500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-29",
+    "price": 250.8,
+    "volume": 1473794
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-26",
+    "price": 249.5,
+    "volume": 1078500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-25",
+    "price": 250.21,
+    "volume": 797515
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-24",
+    "price": 247.41,
+    "volume": 1153400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-23",
+    "price": 252.99,
+    "volume": 797000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-22",
+    "price": 251.63,
+    "volume": 828519
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-19",
+    "price": 253.95,
+    "volume": 948073
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-18",
+    "price": 253.65,
+    "volume": 699800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-17",
+    "price": 252.66,
+    "volume": 1068619
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-16",
+    "price": 255.38,
+    "volume": 1245032
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-12",
+    "price": 258.3,
+    "volume": 1515427
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-11",
+    "price": 257.42,
+    "volume": 1701000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-10",
+    "price": 254.77,
+    "volume": 1846544
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-09",
+    "price": 253.54,
+    "volume": 1449800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-08",
+    "price": 250,
+    "volume": 2083716
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-05",
+    "price": 247.53,
+    "volume": 2634719
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-04",
+    "price": 242.33,
+    "volume": 1331300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-03",
+    "price": 241.42,
+    "volume": 1609187
+  },
+  {
+    "symbol": "STZ",
+    "date": "2024-01-02",
+    "price": 243.89,
+    "volume": 1250534
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-29",
+    "price": 241.75,
+    "volume": 741300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-28",
+    "price": 242.16,
+    "volume": 824034
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-27",
+    "price": 240.12,
+    "volume": 602942
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-26",
+    "price": 238.99,
+    "volume": 568000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-22",
+    "price": 237.88,
+    "volume": 875400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-21",
+    "price": 235.87,
+    "volume": 1127936
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-20",
+    "price": 235.07,
+    "volume": 1322200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-19",
+    "price": 241.09,
+    "volume": 1025508
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-18",
+    "price": 238.89,
+    "volume": 1229718
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-15",
+    "price": 236.46,
+    "volume": 1723143
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-14",
+    "price": 241.03,
+    "volume": 1282598
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-13",
+    "price": 242.59,
+    "volume": 1241918
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-12",
+    "price": 235.83,
+    "volume": 1273716
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-11",
+    "price": 235.7,
+    "volume": 804214
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-08",
+    "price": 234.44,
+    "volume": 901547
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-07",
+    "price": 235.86,
+    "volume": 1047300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-06",
+    "price": 235.1,
+    "volume": 1231700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-05",
+    "price": 236.66,
+    "volume": 1247400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-04",
+    "price": 240.31,
+    "volume": 1322304
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-12-01",
+    "price": 241.95,
+    "volume": 970900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-30",
+    "price": 240.49,
+    "volume": 963600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-29",
+    "price": 237.95,
+    "volume": 1206889
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-28",
+    "price": 241.77,
+    "volume": 1397100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-27",
+    "price": 237.99,
+    "volume": 836400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-24",
+    "price": 238.37,
+    "volume": 357508
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-22",
+    "price": 239.04,
+    "volume": 925136
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-21",
+    "price": 234.27,
+    "volume": 1219800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-20",
+    "price": 236.95,
+    "volume": 905500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-17",
+    "price": 235.63,
+    "volume": 1156200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-16",
+    "price": 236.59,
+    "volume": 1269100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-15",
+    "price": 239.54,
+    "volume": 1266200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-14",
+    "price": 241.89,
+    "volume": 861110
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-13",
+    "price": 240.85,
+    "volume": 861937
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-10",
+    "price": 239.32,
+    "volume": 1387580
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-09",
+    "price": 238.95,
+    "volume": 1209600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-08",
+    "price": 241.5,
+    "volume": 1041900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-07",
+    "price": 242.52,
+    "volume": 1391422
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-06",
+    "price": 241.56,
+    "volume": 1426500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-03",
+    "price": 241.68,
+    "volume": 1286800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-02",
+    "price": 238,
+    "volume": 1154468
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-11-01",
+    "price": 234.21,
+    "volume": 1017048
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-31",
+    "price": 234.15,
+    "volume": 850200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-30",
+    "price": 234.1,
+    "volume": 894039
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-27",
+    "price": 229.62,
+    "volume": 902441
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-26",
+    "price": 231.38,
+    "volume": 884088
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-25",
+    "price": 234.02,
+    "volume": 922422
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-24",
+    "price": 234.67,
+    "volume": 1024549
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-23",
+    "price": 231.86,
+    "volume": 1216527
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-20",
+    "price": 230.39,
+    "volume": 874600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-19",
+    "price": 233.2,
+    "volume": 1047700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-18",
+    "price": 233.43,
+    "volume": 1186203
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-17",
+    "price": 237.8,
+    "volume": 1322400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-16",
+    "price": 234.79,
+    "volume": 1088962
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-13",
+    "price": 231.69,
+    "volume": 1111680
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-12",
+    "price": 228.39,
+    "volume": 1922900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-11",
+    "price": 239,
+    "volume": 1048345
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-10",
+    "price": 237.9,
+    "volume": 1884700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-09",
+    "price": 235.09,
+    "volume": 1376543
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-06",
+    "price": 236.61,
+    "volume": 2587302
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-05",
+    "price": 241.33,
+    "volume": 2460617
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-04",
+    "price": 249.36,
+    "volume": 1264800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-03",
+    "price": 248.33,
+    "volume": 1126827
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-10-02",
+    "price": 248.64,
+    "volume": 845202
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-29",
+    "price": 251.33,
+    "volume": 706632
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-28",
+    "price": 251.61,
+    "volume": 580500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-27",
+    "price": 250.59,
+    "volume": 649000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-26",
+    "price": 253.4,
+    "volume": 593170
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-25",
+    "price": 256.45,
+    "volume": 588800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-22",
+    "price": 256.03,
+    "volume": 796832
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-21",
+    "price": 256.47,
+    "volume": 721014
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-20",
+    "price": 261.9,
+    "volume": 663648
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-19",
+    "price": 260,
+    "volume": 1029200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-18",
+    "price": 260.69,
+    "volume": 650600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-15",
+    "price": 260.34,
+    "volume": 2034600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-14",
+    "price": 262.85,
+    "volume": 616478
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-13",
+    "price": 260.18,
+    "volume": 648100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-12",
+    "price": 260.67,
+    "volume": 556925
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-11",
+    "price": 259.5,
+    "volume": 753600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-08",
+    "price": 259.2,
+    "volume": 692910
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-07",
+    "price": 259.56,
+    "volume": 817946
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-06",
+    "price": 258.81,
+    "volume": 823943
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-05",
+    "price": 257.5,
+    "volume": 786227
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-09-01",
+    "price": 259.48,
+    "volume": 667300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-31",
+    "price": 260.56,
+    "volume": 802517
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-30",
+    "price": 260.86,
+    "volume": 879518
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-29",
+    "price": 261.27,
+    "volume": 723800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-28",
+    "price": 261.9,
+    "volume": 507800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-25",
+    "price": 259.49,
+    "volume": 409200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-24",
+    "price": 258.27,
+    "volume": 765600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-23",
+    "price": 262.05,
+    "volume": 957500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-22",
+    "price": 257.32,
+    "volume": 635032
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-21",
+    "price": 258.99,
+    "volume": 825400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-18",
+    "price": 257.07,
+    "volume": 1382816
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-17",
+    "price": 257.36,
+    "volume": 1013800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-16",
+    "price": 262.82,
+    "volume": 643955
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-15",
+    "price": 265.7,
+    "volume": 529600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-14",
+    "price": 267.65,
+    "volume": 748051
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-11",
+    "price": 267.68,
+    "volume": 670304
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-10",
+    "price": 268.61,
+    "volume": 711000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-09",
+    "price": 270.55,
+    "volume": 733324
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-08",
+    "price": 270.99,
+    "volume": 1059609
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-07",
+    "price": 270.63,
+    "volume": 925100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-04",
+    "price": 268.02,
+    "volume": 1184033
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-03",
+    "price": 268.73,
+    "volume": 956059
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-02",
+    "price": 269.53,
+    "volume": 936942
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-08-01",
+    "price": 270.03,
+    "volume": 714629
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-31",
+    "price": 272.8,
+    "volume": 950432
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-28",
+    "price": 272.5,
+    "volume": 921200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-27",
+    "price": 270.57,
+    "volume": 1284000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-26",
+    "price": 272.2,
+    "volume": 788127
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-25",
+    "price": 271.38,
+    "volume": 730712
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-24",
+    "price": 271.26,
+    "volume": 801924
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-21",
+    "price": 269.5,
+    "volume": 1237203
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-20",
+    "price": 269.2,
+    "volume": 1530142
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-19",
+    "price": 267.93,
+    "volume": 3234806
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-18",
+    "price": 254.33,
+    "volume": 806133
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-17",
+    "price": 254.56,
+    "volume": 781622
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-14",
+    "price": 255.47,
+    "volume": 816829
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-13",
+    "price": 252.75,
+    "volume": 621328
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-12",
+    "price": 250.9,
+    "volume": 952600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-11",
+    "price": 252.47,
+    "volume": 774305
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-10",
+    "price": 251.72,
+    "volume": 841045
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-07",
+    "price": 253.49,
+    "volume": 1435774
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-06",
+    "price": 252.59,
+    "volume": 1440653
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-05",
+    "price": 251,
+    "volume": 1458731
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-07-03",
+    "price": 247.47,
+    "volume": 1265100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-30",
+    "price": 246.13,
+    "volume": 2903501
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-29",
+    "price": 246.85,
+    "volume": 1148900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-28",
+    "price": 246.78,
+    "volume": 928131
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-27",
+    "price": 246.99,
+    "volume": 935168
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-26",
+    "price": 242.42,
+    "volume": 743800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-23",
+    "price": 242.38,
+    "volume": 1028417
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-22",
+    "price": 245.27,
+    "volume": 776835
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-21",
+    "price": 246.28,
+    "volume": 987717
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-20",
+    "price": 243.74,
+    "volume": 880186
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-16",
+    "price": 246.03,
+    "volume": 1506000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-15",
+    "price": 249.19,
+    "volume": 1125605
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-14",
+    "price": 247.01,
+    "volume": 1112800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-13",
+    "price": 247.41,
+    "volume": 1239800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-12",
+    "price": 244.44,
+    "volume": 928612
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-09",
+    "price": 241.61,
+    "volume": 984071
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-08",
+    "price": 244.41,
+    "volume": 731763
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-07",
+    "price": 243.32,
+    "volume": 1012474
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-06",
+    "price": 242.5,
+    "volume": 1158700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-05",
+    "price": 244.17,
+    "volume": 969255
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-02",
+    "price": 245.42,
+    "volume": 1065327
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-06-01",
+    "price": 242.7,
+    "volume": 1178814
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-31",
+    "price": 242.97,
+    "volume": 2051300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-30",
+    "price": 237.06,
+    "volume": 1591200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-26",
+    "price": 232.88,
+    "volume": 881524
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-25",
+    "price": 232.14,
+    "volume": 1206533
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-24",
+    "price": 232.3,
+    "volume": 1187300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-23",
+    "price": 235.91,
+    "volume": 1289638
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-22",
+    "price": 235.46,
+    "volume": 1715677
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-19",
+    "price": 235.29,
+    "volume": 1365628
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-18",
+    "price": 232.15,
+    "volume": 1487533
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-17",
+    "price": 230.72,
+    "volume": 1359418
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-16",
+    "price": 226.69,
+    "volume": 1249635
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-15",
+    "price": 230.33,
+    "volume": 1334300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-12",
+    "price": 227.75,
+    "volume": 970000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-11",
+    "price": 224.87,
+    "volume": 1772068
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-10",
+    "price": 226.19,
+    "volume": 672473
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-09",
+    "price": 225.46,
+    "volume": 747954
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-08",
+    "price": 228.2,
+    "volume": 1221633
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-05",
+    "price": 223.44,
+    "volume": 1063900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-04",
+    "price": 222.41,
+    "volume": 1041800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-03",
+    "price": 225.5,
+    "volume": 988391
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-02",
+    "price": 228.56,
+    "volume": 1038945
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-05-01",
+    "price": 230.23,
+    "volume": 970400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-28",
+    "price": 229.47,
+    "volume": 695362
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-27",
+    "price": 228.56,
+    "volume": 878791
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-26",
+    "price": 225.44,
+    "volume": 497550
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-25",
+    "price": 226.53,
+    "volume": 573600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-24",
+    "price": 224.38,
+    "volume": 826713
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-21",
+    "price": 226.44,
+    "volume": 609936
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-20",
+    "price": 226.95,
+    "volume": 728209
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-19",
+    "price": 227.87,
+    "volume": 743500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-18",
+    "price": 227.35,
+    "volume": 1207609
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-17",
+    "price": 229.68,
+    "volume": 1054630
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-14",
+    "price": 228.23,
+    "volume": 1302600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-13",
+    "price": 226.2,
+    "volume": 1012774
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-12",
+    "price": 226.42,
+    "volume": 1059400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-11",
+    "price": 228.16,
+    "volume": 1259400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-10",
+    "price": 224.6,
+    "volume": 1713500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-06",
+    "price": 224.64,
+    "volume": 2027831
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-05",
+    "price": 221.44,
+    "volume": 1520723
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-04",
+    "price": 218.23,
+    "volume": 2697912
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-04-03",
+    "price": 225.42,
+    "volume": 1171249
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-31",
+    "price": 225.89,
+    "volume": 1244519
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-30",
+    "price": 224.91,
+    "volume": 1280151
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-29",
+    "price": 223.68,
+    "volume": 860859
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-28",
+    "price": 219.28,
+    "volume": 721600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-27",
+    "price": 219.49,
+    "volume": 837229
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-24",
+    "price": 217.95,
+    "volume": 935635
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-23",
+    "price": 214.99,
+    "volume": 918800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-22",
+    "price": 214.14,
+    "volume": 712200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-21",
+    "price": 216.17,
+    "volume": 912900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-20",
+    "price": 215.4,
+    "volume": 1134740
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-17",
+    "price": 210.9,
+    "volume": 2607843
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-16",
+    "price": 215.65,
+    "volume": 854132
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-15",
+    "price": 216.03,
+    "volume": 1009819
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-14",
+    "price": 215.05,
+    "volume": 1294946
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-13",
+    "price": 211,
+    "volume": 1929458
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-10",
+    "price": 212,
+    "volume": 1303044
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-09",
+    "price": 215.8,
+    "volume": 870848
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-08",
+    "price": 219.3,
+    "volume": 968900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-07",
+    "price": 219.22,
+    "volume": 806695
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-06",
+    "price": 220.54,
+    "volume": 829246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-03",
+    "price": 223.25,
+    "volume": 723100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-02",
+    "price": 221.74,
+    "volume": 735024
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-03-01",
+    "price": 219.7,
+    "volume": 861100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-28",
+    "price": 223.7,
+    "volume": 1136917
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-27",
+    "price": 224.69,
+    "volume": 608200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-24",
+    "price": 224.09,
+    "volume": 702900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-23",
+    "price": 225.6,
+    "volume": 979803
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-22",
+    "price": 222.12,
+    "volume": 1092351
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-21",
+    "price": 223.11,
+    "volume": 1051900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-17",
+    "price": 226.8,
+    "volume": 1027612
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-16",
+    "price": 227.26,
+    "volume": 1318800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-15",
+    "price": 224.88,
+    "volume": 1249000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-14",
+    "price": 225.75,
+    "volume": 931300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-13",
+    "price": 228.54,
+    "volume": 871524
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-10",
+    "price": 228.3,
+    "volume": 747600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-09",
+    "price": 226.88,
+    "volume": 2021100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-08",
+    "price": 230.13,
+    "volume": 1529700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-07",
+    "price": 230.29,
+    "volume": 1297540
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-06",
+    "price": 231.99,
+    "volume": 915416
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-03",
+    "price": 230.82,
+    "volume": 1061373
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-02",
+    "price": 232.45,
+    "volume": 1027721
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-02-01",
+    "price": 233.59,
+    "volume": 1280910
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-31",
+    "price": 231.52,
+    "volume": 1502205
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-30",
+    "price": 226.36,
+    "volume": 1668800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-27",
+    "price": 228.79,
+    "volume": 1304528
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-26",
+    "price": 228.5,
+    "volume": 1194701
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-25",
+    "price": 228.93,
+    "volume": 1069300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-24",
+    "price": 227.5,
+    "volume": 1966800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-23",
+    "price": 224,
+    "volume": 1450800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-20",
+    "price": 220.88,
+    "volume": 1641265
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-19",
+    "price": 216.59,
+    "volume": 2341300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-18",
+    "price": 219.6,
+    "volume": 1843737
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-17",
+    "price": 223.78,
+    "volume": 1649505
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-13",
+    "price": 225,
+    "volume": 2675600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-12",
+    "price": 223.19,
+    "volume": 2054734
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-11",
+    "price": 222.64,
+    "volume": 2312803
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-10",
+    "price": 220,
+    "volume": 2899600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-09",
+    "price": 215.51,
+    "volume": 3034922
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-06",
+    "price": 214.23,
+    "volume": 4220382
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-05",
+    "price": 208.68,
+    "volume": 4690500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-04",
+    "price": 231.16,
+    "volume": 1548538
+  },
+  {
+    "symbol": "STZ",
+    "date": "2023-01-03",
+    "price": 227.6,
+    "volume": 1723394
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-30",
+    "price": 231.75,
+    "volume": 733796
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-29",
+    "price": 234.8,
+    "volume": 780105
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-28",
+    "price": 231.88,
+    "volume": 827800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-27",
+    "price": 232.39,
+    "volume": 558300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-23",
+    "price": 232.41,
+    "volume": 409500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-22",
+    "price": 231.01,
+    "volume": 908056
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-21",
+    "price": 233.39,
+    "volume": 1025000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-20",
+    "price": 230.17,
+    "volume": 1150843
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-19",
+    "price": 230.29,
+    "volume": 1425170
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-16",
+    "price": 231.36,
+    "volume": 2507800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-15",
+    "price": 235.4,
+    "volume": 1404069
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-14",
+    "price": 239.55,
+    "volume": 1238300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-13",
+    "price": 240.86,
+    "volume": 1889913
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-12",
+    "price": 245.49,
+    "volume": 603538
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-09",
+    "price": 242.04,
+    "volume": 740600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-08",
+    "price": 246.38,
+    "volume": 634900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-07",
+    "price": 246.66,
+    "volume": 1004930
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-06",
+    "price": 247.62,
+    "volume": 1347900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-05",
+    "price": 254.86,
+    "volume": 1210300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-02",
+    "price": 261.05,
+    "volume": 1169542
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-12-01",
+    "price": 258.72,
+    "volume": 972597
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-30",
+    "price": 257.35,
+    "volume": 1372400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-29",
+    "price": 253.64,
+    "volume": 1086627
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-28",
+    "price": 257.5,
+    "volume": 846779
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-25",
+    "price": 257.49,
+    "volume": 383607
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-23",
+    "price": 256.69,
+    "volume": 552100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-22",
+    "price": 255,
+    "volume": 965021
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-21",
+    "price": 252.42,
+    "volume": 967195
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-18",
+    "price": 247.65,
+    "volume": 667400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-17",
+    "price": 244.86,
+    "volume": 769209
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-16",
+    "price": 243.22,
+    "volume": 1055365
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-15",
+    "price": 243.45,
+    "volume": 2206100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-14",
+    "price": 244.46,
+    "volume": 967500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-11",
+    "price": 247,
+    "volume": 1592908
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-10",
+    "price": 244.03,
+    "volume": 1569376
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-09",
+    "price": 239.79,
+    "volume": 758957
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-08",
+    "price": 243.38,
+    "volume": 628800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-07",
+    "price": 246.49,
+    "volume": 656898
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-04",
+    "price": 244.83,
+    "volume": 939961
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-03",
+    "price": 241.41,
+    "volume": 999700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-02",
+    "price": 239.26,
+    "volume": 768104
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-11-01",
+    "price": 243.44,
+    "volume": 851685
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-31",
+    "price": 247.08,
+    "volume": 1037775
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-28",
+    "price": 247.09,
+    "volume": 834880
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-27",
+    "price": 238.46,
+    "volume": 601194
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-26",
+    "price": 237.83,
+    "volume": 828745
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-25",
+    "price": 238.75,
+    "volume": 1712695
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-24",
+    "price": 229.74,
+    "volume": 942032
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-21",
+    "price": 225.15,
+    "volume": 723705
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-20",
+    "price": 222.53,
+    "volume": 1099330
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-19",
+    "price": 223.26,
+    "volume": 1008814
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-18",
+    "price": 226.49,
+    "volume": 970400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-17",
+    "price": 224.02,
+    "volume": 581500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-14",
+    "price": 221.99,
+    "volume": 704732
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-13",
+    "price": 225.89,
+    "volume": 913503
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-12",
+    "price": 223.31,
+    "volume": 833720
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-11",
+    "price": 221.39,
+    "volume": 1094118
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-10",
+    "price": 221.24,
+    "volume": 1121800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-07",
+    "price": 222.7,
+    "volume": 2154913
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-06",
+    "price": 232.52,
+    "volume": 2812500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-05",
+    "price": 235.95,
+    "volume": 1082400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-04",
+    "price": 237.4,
+    "volume": 1019446
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-10-03",
+    "price": 234.52,
+    "volume": 789825
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-30",
+    "price": 229.68,
+    "volume": 838636
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-29",
+    "price": 233.67,
+    "volume": 1171112
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-28",
+    "price": 237.43,
+    "volume": 922567
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-27",
+    "price": 232.73,
+    "volume": 1182439
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-26",
+    "price": 232.66,
+    "volume": 962320
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-23",
+    "price": 231.26,
+    "volume": 1377808
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-22",
+    "price": 236.59,
+    "volume": 716200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-21",
+    "price": 238.87,
+    "volume": 585184
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-20",
+    "price": 241.62,
+    "volume": 686939
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-19",
+    "price": 242.26,
+    "volume": 628428
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-16",
+    "price": 239.9,
+    "volume": 2568833
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-15",
+    "price": 240.52,
+    "volume": 799348
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-14",
+    "price": 240.93,
+    "volume": 694100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-13",
+    "price": 239.92,
+    "volume": 1115700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-12",
+    "price": 248.04,
+    "volume": 966651
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-09",
+    "price": 246.7,
+    "volume": 822900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-08",
+    "price": 248.24,
+    "volume": 1071210
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-07",
+    "price": 248.39,
+    "volume": 634800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-06",
+    "price": 244.89,
+    "volume": 850034
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-02",
+    "price": 244.85,
+    "volume": 773400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-09-01",
+    "price": 247.52,
+    "volume": 837909
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-31",
+    "price": 246.05,
+    "volume": 786300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-30",
+    "price": 248.6,
+    "volume": 1013300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-29",
+    "price": 250.61,
+    "volume": 699200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-26",
+    "price": 251.9,
+    "volume": 594145
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-25",
+    "price": 257.73,
+    "volume": 639314
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-24",
+    "price": 257.46,
+    "volume": 896800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-23",
+    "price": 254.18,
+    "volume": 749638
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-22",
+    "price": 254.81,
+    "volume": 1304046
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-19",
+    "price": 251.69,
+    "volume": 655227
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-18",
+    "price": 250.87,
+    "volume": 543418
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-17",
+    "price": 250.15,
+    "volume": 715376
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-16",
+    "price": 248.17,
+    "volume": 650311
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-15",
+    "price": 246.48,
+    "volume": 701954
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-12",
+    "price": 243.73,
+    "volume": 1311222
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-11",
+    "price": 239.84,
+    "volume": 771109
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-10",
+    "price": 242.13,
+    "volume": 703030
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-09",
+    "price": 242.73,
+    "volume": 2182024
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-08",
+    "price": 234.88,
+    "volume": 2465203
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-05",
+    "price": 244.36,
+    "volume": 1059000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-04",
+    "price": 243.12,
+    "volume": 874865
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-03",
+    "price": 246.58,
+    "volume": 972900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-02",
+    "price": 245,
+    "volume": 772717
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-08-01",
+    "price": 244.15,
+    "volume": 1196326
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-29",
+    "price": 246.31,
+    "volume": 865345
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-28",
+    "price": 248.35,
+    "volume": 712619
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-27",
+    "price": 245.32,
+    "volume": 679809
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-26",
+    "price": 241.5,
+    "volume": 871433
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-25",
+    "price": 240.67,
+    "volume": 577100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-22",
+    "price": 242.38,
+    "volume": 504208
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-21",
+    "price": 242.28,
+    "volume": 813201
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-20",
+    "price": 243.17,
+    "volume": 882165
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-19",
+    "price": 244.73,
+    "volume": 818143
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-18",
+    "price": 243.45,
+    "volume": 842740
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-15",
+    "price": 244.54,
+    "volume": 1722126
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-14",
+    "price": 250.97,
+    "volume": 1330575
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-13",
+    "price": 244.98,
+    "volume": 1089500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-12",
+    "price": 240.56,
+    "volume": 644396
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-11",
+    "price": 241.14,
+    "volume": 535462
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-08",
+    "price": 242.17,
+    "volume": 692449
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-07",
+    "price": 241.61,
+    "volume": 881207
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-06",
+    "price": 239.44,
+    "volume": 1070511
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-05",
+    "price": 236.71,
+    "volume": 1326524
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-07-01",
+    "price": 235.43,
+    "volume": 1345200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-30",
+    "price": 233.06,
+    "volume": 1966637
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-29",
+    "price": 243.63,
+    "volume": 1272828
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-28",
+    "price": 245.52,
+    "volume": 969044
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-27",
+    "price": 247.42,
+    "volume": 799222
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-24",
+    "price": 245.5,
+    "volume": 1151572
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-23",
+    "price": 239.35,
+    "volume": 964619
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-22",
+    "price": 237.4,
+    "volume": 1335271
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-21",
+    "price": 234.94,
+    "volume": 1349631
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-17",
+    "price": 227.7,
+    "volume": 2663233
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-16",
+    "price": 225.77,
+    "volume": 1159700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-15",
+    "price": 230.58,
+    "volume": 1102500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-14",
+    "price": 231.5,
+    "volume": 970300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-13",
+    "price": 230.03,
+    "volume": 1232691
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-10",
+    "price": 239.09,
+    "volume": 718100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-09",
+    "price": 241.65,
+    "volume": 839026
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-08",
+    "price": 245.45,
+    "volume": 588015
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-07",
+    "price": 246.24,
+    "volume": 730800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-06",
+    "price": 245.87,
+    "volume": 509800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-03",
+    "price": 243.33,
+    "volume": 618246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-02",
+    "price": 245.79,
+    "volume": 677343
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-06-01",
+    "price": 244.18,
+    "volume": 883900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-31",
+    "price": 245.47,
+    "volume": 1958911
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-27",
+    "price": 246.31,
+    "volume": 959400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-26",
+    "price": 244.37,
+    "volume": 887939
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-25",
+    "price": 243.03,
+    "volume": 740300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-24",
+    "price": 244,
+    "volume": 1088426
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-23",
+    "price": 238.67,
+    "volume": 1201131
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-20",
+    "price": 234.5,
+    "volume": 1269000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-19",
+    "price": 234.83,
+    "volume": 1422048
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-18",
+    "price": 237.05,
+    "volume": 1375345
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-17",
+    "price": 250.95,
+    "volume": 1012900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-16",
+    "price": 249.42,
+    "volume": 982913
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-13",
+    "price": 248.92,
+    "volume": 1529027
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-12",
+    "price": 245.22,
+    "volume": 1282700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-11",
+    "price": 245.96,
+    "volume": 997949
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-10",
+    "price": 246.78,
+    "volume": 1059246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-09",
+    "price": 246.24,
+    "volume": 1148949
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-06",
+    "price": 247.47,
+    "volume": 1592809
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-05",
+    "price": 251.91,
+    "volume": 1808611
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-04",
+    "price": 253.6,
+    "volume": 1122840
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-03",
+    "price": 245.05,
+    "volume": 1030809
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-05-02",
+    "price": 244.03,
+    "volume": 895200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-29",
+    "price": 246.09,
+    "volume": 796700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-28",
+    "price": 250.18,
+    "volume": 607454
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-27",
+    "price": 249.31,
+    "volume": 870400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-26",
+    "price": 247.92,
+    "volume": 861449
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-25",
+    "price": 248.74,
+    "volume": 1271049
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-22",
+    "price": 250.96,
+    "volume": 1097286
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-21",
+    "price": 254.21,
+    "volume": 1141800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-20",
+    "price": 258.78,
+    "volume": 1045851
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-19",
+    "price": 253.87,
+    "volume": 786300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-18",
+    "price": 252.82,
+    "volume": 770230
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-14",
+    "price": 251.42,
+    "volume": 780441
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-13",
+    "price": 248.63,
+    "volume": 780304
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-12",
+    "price": 248.83,
+    "volume": 1097000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-11",
+    "price": 247.51,
+    "volume": 1254779
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-08",
+    "price": 244.46,
+    "volume": 1270800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-07",
+    "price": 242.5,
+    "volume": 2057445
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-06",
+    "price": 231.81,
+    "volume": 999400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-05",
+    "price": 230.34,
+    "volume": 894726
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-04",
+    "price": 229.71,
+    "volume": 936400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-04-01",
+    "price": 233.71,
+    "volume": 592333
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-31",
+    "price": 230.32,
+    "volume": 699203
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-30",
+    "price": 233.08,
+    "volume": 599953
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-29",
+    "price": 231.75,
+    "volume": 534988
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-28",
+    "price": 229.37,
+    "volume": 503100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-25",
+    "price": 229.41,
+    "volume": 497671
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-24",
+    "price": 226.46,
+    "volume": 457800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-23",
+    "price": 224.52,
+    "volume": 576235
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-22",
+    "price": 227.72,
+    "volume": 426500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-21",
+    "price": 225.85,
+    "volume": 453112
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-18",
+    "price": 225.93,
+    "volume": 1372708
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-17",
+    "price": 221.77,
+    "volume": 646500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-16",
+    "price": 222.34,
+    "volume": 820200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-15",
+    "price": 222.13,
+    "volume": 781020
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-14",
+    "price": 219.69,
+    "volume": 918945
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-11",
+    "price": 212.39,
+    "volume": 535239
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-10",
+    "price": 213.64,
+    "volume": 1020819
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-09",
+    "price": 214.72,
+    "volume": 812200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-08",
+    "price": 214.64,
+    "volume": 1277300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-07",
+    "price": 212.98,
+    "volume": 917700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-04",
+    "price": 217.66,
+    "volume": 923300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-03",
+    "price": 218.29,
+    "volume": 792200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-02",
+    "price": 215.82,
+    "volume": 744121
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-03-01",
+    "price": 213.65,
+    "volume": 951900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-28",
+    "price": 215.62,
+    "volume": 1550835
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-25",
+    "price": 217.04,
+    "volume": 1123996
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-24",
+    "price": 215.01,
+    "volume": 1473622
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-23",
+    "price": 212.48,
+    "volume": 1052900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-22",
+    "price": 216.94,
+    "volume": 1209708
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-18",
+    "price": 215.85,
+    "volume": 2184300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-17",
+    "price": 218.87,
+    "volume": 1322309
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-16",
+    "price": 220.91,
+    "volume": 1905646
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-15",
+    "price": 219.55,
+    "volume": 2605570
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-14",
+    "price": 233.85,
+    "volume": 563532
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-11",
+    "price": 235.94,
+    "volume": 639228
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-10",
+    "price": 237.3,
+    "volume": 661015
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-09",
+    "price": 240.71,
+    "volume": 554300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-08",
+    "price": 238.9,
+    "volume": 581934
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-07",
+    "price": 237.62,
+    "volume": 532177
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-04",
+    "price": 237.33,
+    "volume": 737400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-03",
+    "price": 237.86,
+    "volume": 575800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-02",
+    "price": 240.44,
+    "volume": 1007400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-02-01",
+    "price": 235.66,
+    "volume": 1236429
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-31",
+    "price": 237.75,
+    "volume": 998542
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-28",
+    "price": 236.05,
+    "volume": 1376957
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-27",
+    "price": 234.77,
+    "volume": 1020000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-26",
+    "price": 234.33,
+    "volume": 2128915
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-25",
+    "price": 236.47,
+    "volume": 1139500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-24",
+    "price": 240.06,
+    "volume": 1589400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-21",
+    "price": 241.01,
+    "volume": 993836
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-20",
+    "price": 243.4,
+    "volume": 1058000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-19",
+    "price": 242.81,
+    "volume": 733026
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-18",
+    "price": 243.44,
+    "volume": 1251733
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-14",
+    "price": 248.64,
+    "volume": 798300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-13",
+    "price": 247.03,
+    "volume": 725500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-12",
+    "price": 248.12,
+    "volume": 811530
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-11",
+    "price": 252.69,
+    "volume": 1171400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-10",
+    "price": 247.08,
+    "volume": 1143000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-07",
+    "price": 246.18,
+    "volume": 1268700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-06",
+    "price": 244.79,
+    "volume": 2047500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-05",
+    "price": 253.36,
+    "volume": 1565100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-04",
+    "price": 254.6,
+    "volume": 1107231
+  },
+  {
+    "symbol": "STZ",
+    "date": "2022-01-03",
+    "price": 252.82,
+    "volume": 979600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-31",
+    "price": 250.97,
+    "volume": 727100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-30",
+    "price": 249.39,
+    "volume": 418257
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-29",
+    "price": 249.78,
+    "volume": 621200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-28",
+    "price": 248.99,
+    "volume": 533730
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-27",
+    "price": 246.8,
+    "volume": 554322
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-23",
+    "price": 244.04,
+    "volume": 662032
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-22",
+    "price": 243.21,
+    "volume": 942333
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-21",
+    "price": 241.32,
+    "volume": 1164443
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-20",
+    "price": 239.45,
+    "volume": 1393000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-17",
+    "price": 242.25,
+    "volume": 2634156
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-16",
+    "price": 241.61,
+    "volume": 979434
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-15",
+    "price": 241.04,
+    "volume": 1100315
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-14",
+    "price": 236.81,
+    "volume": 1044930
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-13",
+    "price": 237.37,
+    "volume": 1077531
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-10",
+    "price": 235.32,
+    "volume": 613745
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-09",
+    "price": 233.5,
+    "volume": 637047
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-08",
+    "price": 234.68,
+    "volume": 851400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-07",
+    "price": 233.83,
+    "volume": 1129088
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-06",
+    "price": 230.87,
+    "volume": 867543
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-03",
+    "price": 226.19,
+    "volume": 913400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-02",
+    "price": 225.26,
+    "volume": 1247011
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-12-01",
+    "price": 223.19,
+    "volume": 954832
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-30",
+    "price": 225.33,
+    "volume": 1784403
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-29",
+    "price": 226.97,
+    "volume": 1556400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-26",
+    "price": 229.32,
+    "volume": 740900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-24",
+    "price": 232.5,
+    "volume": 1197246
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-23",
+    "price": 237.06,
+    "volume": 902400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-22",
+    "price": 234.3,
+    "volume": 1825785
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-19",
+    "price": 235.4,
+    "volume": 1678027
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-18",
+    "price": 237.01,
+    "volume": 1580851
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-17",
+    "price": 234.02,
+    "volume": 1491849
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-16",
+    "price": 231.13,
+    "volume": 1233100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-15",
+    "price": 228.82,
+    "volume": 930700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-12",
+    "price": 226.41,
+    "volume": 912000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-11",
+    "price": 224.75,
+    "volume": 943100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-10",
+    "price": 222.34,
+    "volume": 883100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-09",
+    "price": 221.64,
+    "volume": 707612
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-08",
+    "price": 221.78,
+    "volume": 997100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-05",
+    "price": 222.69,
+    "volume": 870821
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-04",
+    "price": 219.36,
+    "volume": 850712
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-03",
+    "price": 220.69,
+    "volume": 619540
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-02",
+    "price": 220.7,
+    "volume": 643743
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-11-01",
+    "price": 220.21,
+    "volume": 642400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-29",
+    "price": 216.81,
+    "volume": 980600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-28",
+    "price": 216.77,
+    "volume": 889457
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-27",
+    "price": 214.95,
+    "volume": 937732
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-26",
+    "price": 218.21,
+    "volume": 563041
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-25",
+    "price": 217.69,
+    "volume": 1010400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-22",
+    "price": 219.4,
+    "volume": 559137
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-21",
+    "price": 218.41,
+    "volume": 1054512
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-20",
+    "price": 218.15,
+    "volume": 673970
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-19",
+    "price": 216.24,
+    "volume": 938644
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-18",
+    "price": 215.6,
+    "volume": 1034703
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-15",
+    "price": 218.95,
+    "volume": 952300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-14",
+    "price": 220.37,
+    "volume": 874207
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-13",
+    "price": 219.13,
+    "volume": 737800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-12",
+    "price": 218.84,
+    "volume": 1022800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-11",
+    "price": 219.7,
+    "volume": 1125800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-08",
+    "price": 219.66,
+    "volume": 1667100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-07",
+    "price": 216.51,
+    "volume": 2032001
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-06",
+    "price": 211.62,
+    "volume": 2231300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-05",
+    "price": 213.06,
+    "volume": 1534631
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-04",
+    "price": 213.02,
+    "volume": 1196629
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-10-01",
+    "price": 213.48,
+    "volume": 1314205
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-30",
+    "price": 210.69,
+    "volume": 1181815
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-29",
+    "price": 211.76,
+    "volume": 1422800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-28",
+    "price": 209.96,
+    "volume": 865865
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-27",
+    "price": 211.67,
+    "volume": 829400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-24",
+    "price": 212.62,
+    "volume": 623224
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-23",
+    "price": 214.02,
+    "volume": 1122182
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-22",
+    "price": 211.3,
+    "volume": 1373086
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-21",
+    "price": 209.08,
+    "volume": 1070790
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-20",
+    "price": 210.13,
+    "volume": 1347360
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-17",
+    "price": 214.85,
+    "volume": 1754965
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-16",
+    "price": 215.45,
+    "volume": 1701546
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-15",
+    "price": 218.5,
+    "volume": 1108516
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-14",
+    "price": 215.59,
+    "volume": 827018
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-13",
+    "price": 214.9,
+    "volume": 911100
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-10",
+    "price": 213.91,
+    "volume": 661400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-09",
+    "price": 216.01,
+    "volume": 1204400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-08",
+    "price": 216.97,
+    "volume": 1583004
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-07",
+    "price": 209.28,
+    "volume": 1223667
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-03",
+    "price": 211.83,
+    "volume": 699649
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-02",
+    "price": 212.46,
+    "volume": 1190056
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-09-01",
+    "price": 214.91,
+    "volume": 1154943
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-31",
+    "price": 211.14,
+    "volume": 1762502
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-30",
+    "price": 211.79,
+    "volume": 754800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-27",
+    "price": 212.42,
+    "volume": 1402615
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-26",
+    "price": 214.35,
+    "volume": 712400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-25",
+    "price": 214.98,
+    "volume": 1177926
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-24",
+    "price": 216.83,
+    "volume": 1334900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-23",
+    "price": 216.01,
+    "volume": 999200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-20",
+    "price": 213.83,
+    "volume": 960927
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-19",
+    "price": 213.88,
+    "volume": 896502
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-18",
+    "price": 214.43,
+    "volume": 1150998
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-17",
+    "price": 213.31,
+    "volume": 1423600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-16",
+    "price": 214.05,
+    "volume": 1021600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-13",
+    "price": 213.64,
+    "volume": 1111089
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-12",
+    "price": 211.94,
+    "volume": 1579353
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-11",
+    "price": 213.4,
+    "volume": 2648942
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-10",
+    "price": 218.06,
+    "volume": 1292031
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-09",
+    "price": 217.19,
+    "volume": 936818
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-06",
+    "price": 218.8,
+    "volume": 1392826
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-05",
+    "price": 219.51,
+    "volume": 1087745
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-04",
+    "price": 219.39,
+    "volume": 1167800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-03",
+    "price": 221.34,
+    "volume": 1077143
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-08-02",
+    "price": 222.79,
+    "volume": 765400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-30",
+    "price": 224.34,
+    "volume": 744958
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-29",
+    "price": 224.57,
+    "volume": 938332
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-28",
+    "price": 226.42,
+    "volume": 731500
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-27",
+    "price": 226.36,
+    "volume": 1176200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-26",
+    "price": 224.82,
+    "volume": 913938
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-23",
+    "price": 224.58,
+    "volume": 843000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-22",
+    "price": 223.84,
+    "volume": 583919
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-21",
+    "price": 225.85,
+    "volume": 636938
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-20",
+    "price": 225.17,
+    "volume": 913521
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-19",
+    "price": 222.02,
+    "volume": 1087933
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-16",
+    "price": 224.01,
+    "volume": 563836
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-15",
+    "price": 224.96,
+    "volume": 631800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-14",
+    "price": 225.78,
+    "volume": 580797
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-13",
+    "price": 225.45,
+    "volume": 844823
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-12",
+    "price": 226.46,
+    "volume": 673900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-09",
+    "price": 227.69,
+    "volume": 827325
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-08",
+    "price": 227.01,
+    "volume": 867000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-07",
+    "price": 227.08,
+    "volume": 1079265
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-06",
+    "price": 229.46,
+    "volume": 1008700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-02",
+    "price": 231.42,
+    "volume": 930623
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-07-01",
+    "price": 232.03,
+    "volume": 1146200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-30",
+    "price": 233.89,
+    "volume": 2162200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-29",
+    "price": 230.98,
+    "volume": 1298002
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-28",
+    "price": 229.39,
+    "volume": 951536
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-25",
+    "price": 228.6,
+    "volume": 888116
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-24",
+    "price": 226,
+    "volume": 1012913
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-23",
+    "price": 224.25,
+    "volume": 1080224
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-22",
+    "price": 224.7,
+    "volume": 905200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-21",
+    "price": 225.94,
+    "volume": 1185405
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-18",
+    "price": 221.25,
+    "volume": 1973200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-17",
+    "price": 229.74,
+    "volume": 1129932
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-16",
+    "price": 233.97,
+    "volume": 703009
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-15",
+    "price": 236.08,
+    "volume": 515543
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-14",
+    "price": 236.37,
+    "volume": 715715
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-11",
+    "price": 237.89,
+    "volume": 464400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-10",
+    "price": 237.17,
+    "volume": 541236
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-09",
+    "price": 236.67,
+    "volume": 573528
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-08",
+    "price": 238.37,
+    "volume": 728000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-07",
+    "price": 239.08,
+    "volume": 806460
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-04",
+    "price": 239.25,
+    "volume": 430264
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-03",
+    "price": 238.65,
+    "volume": 866269
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-02",
+    "price": 239.31,
+    "volume": 718931
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-06-01",
+    "price": 237.35,
+    "volume": 1247000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-28",
+    "price": 239.72,
+    "volume": 805382
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-27",
+    "price": 236.99,
+    "volume": 822638
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-26",
+    "price": 237.19,
+    "volume": 1076706
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-25",
+    "price": 237.94,
+    "volume": 1069044
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-24",
+    "price": 236.48,
+    "volume": 814600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-21",
+    "price": 237.28,
+    "volume": 654225
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-20",
+    "price": 236.1,
+    "volume": 1058008
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-19",
+    "price": 232.38,
+    "volume": 1135417
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-18",
+    "price": 234.11,
+    "volume": 996200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-17",
+    "price": 235.87,
+    "volume": 1934145
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-14",
+    "price": 234.44,
+    "volume": 2563900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-13",
+    "price": 231,
+    "volume": 1837602
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-12",
+    "price": 229.75,
+    "volume": 1648965
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-11",
+    "price": 234.04,
+    "volume": 1492800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-10",
+    "price": 239.19,
+    "volume": 963011
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-07",
+    "price": 240.92,
+    "volume": 632450
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-06",
+    "price": 241.62,
+    "volume": 735700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-05",
+    "price": 239.7,
+    "volume": 648338
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-04",
+    "price": 240,
+    "volume": 860900
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-05-03",
+    "price": 243.02,
+    "volume": 972800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-30",
+    "price": 240.32,
+    "volume": 851239
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-29",
+    "price": 241.6,
+    "volume": 801437
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-28",
+    "price": 237.9,
+    "volume": 691629
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-27",
+    "price": 238.35,
+    "volume": 697581
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-26",
+    "price": 238.51,
+    "volume": 650227
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-23",
+    "price": 240.58,
+    "volume": 647946
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-22",
+    "price": 238.33,
+    "volume": 819853
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-21",
+    "price": 241.13,
+    "volume": 735946
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-20",
+    "price": 238.31,
+    "volume": 947936
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-19",
+    "price": 237.6,
+    "volume": 778000
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-16",
+    "price": 238.86,
+    "volume": 1289782
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-15",
+    "price": 234.6,
+    "volume": 1305242
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-14",
+    "price": 228.82,
+    "volume": 911943
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-13",
+    "price": 226.57,
+    "volume": 965952
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-12",
+    "price": 226.31,
+    "volume": 1167540
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-09",
+    "price": 224.15,
+    "volume": 2993298
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-08",
+    "price": 224.21,
+    "volume": 4390513
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-07",
+    "price": 234.94,
+    "volume": 1348300
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-06",
+    "price": 236.3,
+    "volume": 1166746
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-05",
+    "price": 230.28,
+    "volume": 941440
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-04-01",
+    "price": 229.62,
+    "volume": 1201227
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-31",
+    "price": 228,
+    "volume": 1265700
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-30",
+    "price": 233.95,
+    "volume": 785400
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-29",
+    "price": 235.98,
+    "volume": 762626
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-26",
+    "price": 235.31,
+    "volume": 840530
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-25",
+    "price": 231.16,
+    "volume": 644709
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-24",
+    "price": 229.68,
+    "volume": 773464
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-23",
+    "price": 229.08,
+    "volume": 855013
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-22",
+    "price": 230.72,
+    "volume": 729035
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-19",
+    "price": 234.7,
+    "volume": 1434424
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-18",
+    "price": 231.07,
+    "volume": 1026706
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-17",
+    "price": 233.01,
+    "volume": 807835
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-16",
+    "price": 230.63,
+    "volume": 661427
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-15",
+    "price": 229.86,
+    "volume": 581032
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-12",
+    "price": 229.39,
+    "volume": 698026
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-11",
+    "price": 228.61,
+    "volume": 845800
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-10",
+    "price": 227.06,
+    "volume": 1007605
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-09",
+    "price": 227.1,
+    "volume": 1553200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-08",
+    "price": 220.63,
+    "volume": 1042022
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-05",
+    "price": 217.01,
+    "volume": 942200
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-04",
+    "price": 211.15,
+    "volume": 1285600
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-03",
+    "price": 216.06,
+    "volume": 704526
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-02",
+    "price": 218.15,
+    "volume": 967917
+  },
+  {
+    "symbol": "STZ",
+    "date": "2021-03-01",
+    "price": 217.75,
+    "volume": 892696
+  }
+]

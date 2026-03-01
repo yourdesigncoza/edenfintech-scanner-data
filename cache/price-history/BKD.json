@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "BKD",
+    "date": "2026-02-27",
+    "price": 15.3,
+    "volume": 5353201
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-26",
+    "price": 15.17,
+    "volume": 3634023
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-25",
+    "price": 15.12,
+    "volume": 2413300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-24",
+    "price": 15.36,
+    "volume": 3565002
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-23",
+    "price": 15.44,
+    "volume": 4596726
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-20",
+    "price": 14.9,
+    "volume": 6674179
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-19",
+    "price": 14.95,
+    "volume": 12232200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-18",
+    "price": 16.56,
+    "volume": 7404600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-17",
+    "price": 16.64,
+    "volume": 8133337
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-13",
+    "price": 16.51,
+    "volume": 6761400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-12",
+    "price": 16.31,
+    "volume": 6275215
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-11",
+    "price": 16.77,
+    "volume": 7001764
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-10",
+    "price": 16.29,
+    "volume": 3219699
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-09",
+    "price": 16.28,
+    "volume": 6063600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-06",
+    "price": 16.12,
+    "volume": 9338100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-05",
+    "price": 15.46,
+    "volume": 5245818
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-04",
+    "price": 14.9,
+    "volume": 8626257
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-03",
+    "price": 15.84,
+    "volume": 6473168
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-02",
+    "price": 15.65,
+    "volume": 9100530
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-30",
+    "price": 15,
+    "volume": 7811193
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-29",
+    "price": 14.5,
+    "volume": 8956927
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-28",
+    "price": 13.11,
+    "volume": 5416137
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-27",
+    "price": 12.92,
+    "volume": 5997700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-26",
+    "price": 12.79,
+    "volume": 3780285
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-23",
+    "price": 12.95,
+    "volume": 8817275
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-22",
+    "price": 12.74,
+    "volume": 4838130
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-21",
+    "price": 12.55,
+    "volume": 6191896
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-20",
+    "price": 12.1,
+    "volume": 3775946
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-16",
+    "price": 12.2,
+    "volume": 8103488
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-15",
+    "price": 11.25,
+    "volume": 4779538
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-14",
+    "price": 11.14,
+    "volume": 4667147
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-13",
+    "price": 11.2,
+    "volume": 4917754
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-12",
+    "price": 11.06,
+    "volume": 4156913
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-09",
+    "price": 11.01,
+    "volume": 2230414
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-08",
+    "price": 11.2,
+    "volume": 3153082
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-07",
+    "price": 11.25,
+    "volume": 5158449
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-06",
+    "price": 11.31,
+    "volume": 7314000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-05",
+    "price": 10.84,
+    "volume": 2190900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-01-02",
+    "price": 10.84,
+    "volume": 2321233
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-31",
+    "price": 10.79,
+    "volume": 2269827
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-30",
+    "price": 10.76,
+    "volume": 1886400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-29",
+    "price": 10.83,
+    "volume": 1184713
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-26",
+    "price": 10.89,
+    "volume": 1781809
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-24",
+    "price": 10.89,
+    "volume": 1170237
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-23",
+    "price": 10.99,
+    "volume": 2797022
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-22",
+    "price": 10.76,
+    "volume": 3586048
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-19",
+    "price": 10.79,
+    "volume": 3223500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-18",
+    "price": 10.67,
+    "volume": 3110427
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-17",
+    "price": 10.55,
+    "volume": 4086000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-16",
+    "price": 10.49,
+    "volume": 3443800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-15",
+    "price": 10.3,
+    "volume": 2325571
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-12",
+    "price": 10.27,
+    "volume": 2160100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-11",
+    "price": 10.24,
+    "volume": 4295755
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-10",
+    "price": 10.46,
+    "volume": 2194200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-09",
+    "price": 10.58,
+    "volume": 2409829
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-08",
+    "price": 10.69,
+    "volume": 3560660
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-05",
+    "price": 10.78,
+    "volume": 3225515
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-04",
+    "price": 10.64,
+    "volume": 2990115
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-03",
+    "price": 10.61,
+    "volume": 4011200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-02",
+    "price": 10.99,
+    "volume": 1851607
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-12-01",
+    "price": 11.08,
+    "volume": 2667625
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-28",
+    "price": 11.13,
+    "volume": 1216500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-26",
+    "price": 11.12,
+    "volume": 1886130
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-25",
+    "price": 11.25,
+    "volume": 7487919
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-24",
+    "price": 11.25,
+    "volume": 6671500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-21",
+    "price": 10.8,
+    "volume": 8004414
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-20",
+    "price": 10.48,
+    "volume": 2918400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-19",
+    "price": 10.49,
+    "volume": 2813513
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-18",
+    "price": 10.57,
+    "volume": 5184500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-17",
+    "price": 10.49,
+    "volume": 3233362
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-14",
+    "price": 10.43,
+    "volume": 2840044
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-13",
+    "price": 10.34,
+    "volume": 3507539
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-12",
+    "price": 10.51,
+    "volume": 4144666
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-11",
+    "price": 10.21,
+    "volume": 4111120
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-10",
+    "price": 9.91,
+    "volume": 10499900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-07",
+    "price": 9.43,
+    "volume": 5458800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-06",
+    "price": 9.11,
+    "volume": 2443209
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-05",
+    "price": 9.27,
+    "volume": 2470390
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-04",
+    "price": 9.17,
+    "volume": 4627900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-11-03",
+    "price": 9.17,
+    "volume": 2470300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-31",
+    "price": 9.27,
+    "volume": 3909300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-30",
+    "price": 9.25,
+    "volume": 4029473
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-29",
+    "price": 8.95,
+    "volume": 4032303
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-28",
+    "price": 8.83,
+    "volume": 1800227
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-27",
+    "price": 8.75,
+    "volume": 1909124
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-24",
+    "price": 8.83,
+    "volume": 1966900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-23",
+    "price": 8.72,
+    "volume": 1234842
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-22",
+    "price": 8.7,
+    "volume": 2045233
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-21",
+    "price": 8.61,
+    "volume": 1337200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-20",
+    "price": 8.77,
+    "volume": 1296200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-17",
+    "price": 8.68,
+    "volume": 2187624
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-16",
+    "price": 8.66,
+    "volume": 1945100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-15",
+    "price": 8.81,
+    "volume": 1517051
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-14",
+    "price": 8.74,
+    "volume": 2686940
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-13",
+    "price": 8.72,
+    "volume": 1958214
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-10",
+    "price": 8.59,
+    "volume": 2966410
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-09",
+    "price": 8.88,
+    "volume": 8209012
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-08",
+    "price": 8.12,
+    "volume": 2235700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-07",
+    "price": 8.09,
+    "volume": 4085200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-06",
+    "price": 8.02,
+    "volume": 2859130
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-03",
+    "price": 8.06,
+    "volume": 3819003
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-02",
+    "price": 8.42,
+    "volume": 3613700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-10-01",
+    "price": 8.56,
+    "volume": 2865414
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-30",
+    "price": 8.47,
+    "volume": 2344416
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-29",
+    "price": 8.24,
+    "volume": 2470708
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-26",
+    "price": 8.34,
+    "volume": 2045404
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-25",
+    "price": 8.36,
+    "volume": 2661603
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-24",
+    "price": 8.5,
+    "volume": 4040832
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-23",
+    "price": 8.35,
+    "volume": 4284139
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-22",
+    "price": 8.28,
+    "volume": 4831900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-19",
+    "price": 7.91,
+    "volume": 4161928
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-18",
+    "price": 8.01,
+    "volume": 2864900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-17",
+    "price": 7.53,
+    "volume": 3182000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-16",
+    "price": 7.36,
+    "volume": 2140400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-15",
+    "price": 7.49,
+    "volume": 1669804
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-12",
+    "price": 7.51,
+    "volume": 2141106
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-11",
+    "price": 7.45,
+    "volume": 2792304
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-10",
+    "price": 7.64,
+    "volume": 5501200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-09",
+    "price": 7.62,
+    "volume": 1717687
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-08",
+    "price": 7.74,
+    "volume": 1747000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-05",
+    "price": 7.69,
+    "volume": 2381501
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-04",
+    "price": 7.65,
+    "volume": 2981001
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-03",
+    "price": 7.63,
+    "volume": 3252100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-09-02",
+    "price": 7.71,
+    "volume": 1695500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-29",
+    "price": 7.7,
+    "volume": 2114447
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-28",
+    "price": 7.64,
+    "volume": 2308433
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-27",
+    "price": 7.84,
+    "volume": 1739529
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-26",
+    "price": 7.73,
+    "volume": 2121448
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-25",
+    "price": 7.63,
+    "volume": 1765616
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-22",
+    "price": 7.72,
+    "volume": 6474645
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-21",
+    "price": 7.32,
+    "volume": 5023812
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-20",
+    "price": 7.31,
+    "volume": 3068100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-19",
+    "price": 7.19,
+    "volume": 2487000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-18",
+    "price": 7.34,
+    "volume": 2074200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-15",
+    "price": 7.31,
+    "volume": 2280500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-14",
+    "price": 7.33,
+    "volume": 1917700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-13",
+    "price": 7.39,
+    "volume": 2749722
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-12",
+    "price": 7.23,
+    "volume": 1946732
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-11",
+    "price": 7.22,
+    "volume": 2956713
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-08",
+    "price": 7.21,
+    "volume": 3750300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-07",
+    "price": 7.13,
+    "volume": 7067328
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-06",
+    "price": 7.8,
+    "volume": 2602100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-05",
+    "price": 7.88,
+    "volume": 2488002
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-04",
+    "price": 7.73,
+    "volume": 1528620
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-08-01",
+    "price": 7.61,
+    "volume": 2084745
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-31",
+    "price": 7.75,
+    "volume": 2623025
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-30",
+    "price": 7.72,
+    "volume": 2294500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-29",
+    "price": 7.68,
+    "volume": 1561346
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-28",
+    "price": 7.49,
+    "volume": 1512300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-25",
+    "price": 7.51,
+    "volume": 2165330
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-24",
+    "price": 7.44,
+    "volume": 1780200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-23",
+    "price": 7.72,
+    "volume": 1605700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-22",
+    "price": 7.64,
+    "volume": 2431900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-21",
+    "price": 7.74,
+    "volume": 2292535
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-18",
+    "price": 7.71,
+    "volume": 1985400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-17",
+    "price": 7.7,
+    "volume": 2792540
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-16",
+    "price": 7.77,
+    "volume": 3037934
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-15",
+    "price": 7.8,
+    "volume": 3173636
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-14",
+    "price": 7.95,
+    "volume": 2795500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-11",
+    "price": 7.93,
+    "volume": 3355918
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-10",
+    "price": 7.74,
+    "volume": 4349762
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-09",
+    "price": 7.44,
+    "volume": 4847610
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-08",
+    "price": 6.98,
+    "volume": 4200071
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-07",
+    "price": 6.69,
+    "volume": 3295413
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-03",
+    "price": 6.84,
+    "volume": 1486144
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-02",
+    "price": 6.88,
+    "volume": 2968800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-07-01",
+    "price": 6.85,
+    "volume": 4391107
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-30",
+    "price": 6.96,
+    "volume": 3409648
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-27",
+    "price": 6.9,
+    "volume": 8370527
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-26",
+    "price": 7,
+    "volume": 2327800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-25",
+    "price": 6.91,
+    "volume": 1813200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-24",
+    "price": 6.83,
+    "volume": 3408000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-23",
+    "price": 6.91,
+    "volume": 2824200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-20",
+    "price": 6.82,
+    "volume": 6617206
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-18",
+    "price": 6.84,
+    "volume": 5202008
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-17",
+    "price": 6.78,
+    "volume": 3116249
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-16",
+    "price": 6.74,
+    "volume": 2005600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-13",
+    "price": 6.84,
+    "volume": 1729597
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-12",
+    "price": 6.93,
+    "volume": 2064900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-11",
+    "price": 6.95,
+    "volume": 2293913
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-10",
+    "price": 7.1,
+    "volume": 5245440
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-09",
+    "price": 6.57,
+    "volume": 2072701
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-06",
+    "price": 6.68,
+    "volume": 1945600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-05",
+    "price": 6.7,
+    "volume": 1933200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-04",
+    "price": 6.62,
+    "volume": 1958700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-03",
+    "price": 6.6,
+    "volume": 5665530
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-06-02",
+    "price": 6.37,
+    "volume": 2130541
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-30",
+    "price": 6.51,
+    "volume": 1641000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-29",
+    "price": 6.48,
+    "volume": 1364000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-28",
+    "price": 6.5,
+    "volume": 1540944
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-27",
+    "price": 6.59,
+    "volume": 1925144
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-23",
+    "price": 6.41,
+    "volume": 2219632
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-22",
+    "price": 6.42,
+    "volume": 2756239
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-21",
+    "price": 6.56,
+    "volume": 2649100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-20",
+    "price": 6.73,
+    "volume": 1699100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-19",
+    "price": 6.75,
+    "volume": 1468700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-16",
+    "price": 6.89,
+    "volume": 2704519
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-15",
+    "price": 6.83,
+    "volume": 3052619
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-14",
+    "price": 6.78,
+    "volume": 4309300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-13",
+    "price": 6.92,
+    "volume": 2341300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-12",
+    "price": 6.84,
+    "volume": 2083100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-09",
+    "price": 6.84,
+    "volume": 2552400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-08",
+    "price": 6.66,
+    "volume": 2504948
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-07",
+    "price": 6.61,
+    "volume": 7833002
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-06",
+    "price": 6.75,
+    "volume": 3683800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-05",
+    "price": 6.63,
+    "volume": 2456800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-02",
+    "price": 6.58,
+    "volume": 2303101
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-05-01",
+    "price": 6.57,
+    "volume": 1892100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-30",
+    "price": 6.56,
+    "volume": 1965600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-29",
+    "price": 6.51,
+    "volume": 3068545
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-28",
+    "price": 6.37,
+    "volume": 2664000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-25",
+    "price": 6.3,
+    "volume": 1844744
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-24",
+    "price": 6.24,
+    "volume": 2517300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-23",
+    "price": 6.21,
+    "volume": 3780608
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-22",
+    "price": 5.88,
+    "volume": 2157300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-21",
+    "price": 5.87,
+    "volume": 3477500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-17",
+    "price": 6.24,
+    "volume": 4358049
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-16",
+    "price": 6.31,
+    "volume": 3982139
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-15",
+    "price": 6.21,
+    "volume": 3870900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-14",
+    "price": 6.24,
+    "volume": 4846660
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-11",
+    "price": 5.75,
+    "volume": 2927621
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-10",
+    "price": 5.83,
+    "volume": 3082266
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-09",
+    "price": 5.89,
+    "volume": 6421241
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-08",
+    "price": 5.13,
+    "volume": 2933770
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-07",
+    "price": 5.59,
+    "volume": 3617120
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-04",
+    "price": 5.81,
+    "volume": 5782000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-03",
+    "price": 6.26,
+    "volume": 4252700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-02",
+    "price": 6.04,
+    "volume": 2632742
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-04-01",
+    "price": 6.11,
+    "volume": 4980100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-31",
+    "price": 6.26,
+    "volume": 4790453
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-28",
+    "price": 6.15,
+    "volume": 3229404
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-27",
+    "price": 5.91,
+    "volume": 16408705
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-26",
+    "price": 5.89,
+    "volume": 999814
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-25",
+    "price": 5.91,
+    "volume": 1512716
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-24",
+    "price": 6.02,
+    "volume": 1442100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-21",
+    "price": 6.02,
+    "volume": 2893120
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-20",
+    "price": 6.15,
+    "volume": 1650544
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-19",
+    "price": 6.11,
+    "volume": 1666310
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-18",
+    "price": 6.1,
+    "volume": 2350200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-17",
+    "price": 6.15,
+    "volume": 2000000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-14",
+    "price": 6.08,
+    "volume": 2330700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-13",
+    "price": 5.8,
+    "volume": 1895100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-12",
+    "price": 5.69,
+    "volume": 1899514
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-11",
+    "price": 5.63,
+    "volume": 2310693
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-10",
+    "price": 5.49,
+    "volume": 2160879
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-07",
+    "price": 5.75,
+    "volume": 2079523
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-06",
+    "price": 5.81,
+    "volume": 4307500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-05",
+    "price": 6,
+    "volume": 8005800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-04",
+    "price": 5.6,
+    "volume": 1576316
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-03-03",
+    "price": 5.64,
+    "volume": 2462107
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-28",
+    "price": 5.7,
+    "volume": 2680614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-27",
+    "price": 5.86,
+    "volume": 3030902
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-26",
+    "price": 5.82,
+    "volume": 4949530
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-25",
+    "price": 5.89,
+    "volume": 2368632
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-24",
+    "price": 5.64,
+    "volume": 1654900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-21",
+    "price": 5.4,
+    "volume": 3633812
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-20",
+    "price": 5.45,
+    "volume": 1640524
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-19",
+    "price": 5.44,
+    "volume": 5425033
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-18",
+    "price": 5.3,
+    "volume": 2102336
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-14",
+    "price": 5.31,
+    "volume": 1473140
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-13",
+    "price": 5.31,
+    "volume": 3485545
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-12",
+    "price": 4.93,
+    "volume": 3037602
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-11",
+    "price": 4.78,
+    "volume": 4385206
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-10",
+    "price": 4.51,
+    "volume": 1221000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-07",
+    "price": 4.55,
+    "volume": 1106800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-06",
+    "price": 4.65,
+    "volume": 1138607
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-05",
+    "price": 4.69,
+    "volume": 1323907
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-04",
+    "price": 4.64,
+    "volume": 2734100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-02-03",
+    "price": 4.59,
+    "volume": 1982300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-31",
+    "price": 4.63,
+    "volume": 2447137
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-30",
+    "price": 4.75,
+    "volume": 4506715
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-29",
+    "price": 4.7,
+    "volume": 2019533
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-28",
+    "price": 4.87,
+    "volume": 2776900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-27",
+    "price": 5.08,
+    "volume": 1491339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-24",
+    "price": 4.92,
+    "volume": 3307108
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-23",
+    "price": 4.92,
+    "volume": 3907438
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-22",
+    "price": 4.88,
+    "volume": 1598700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-21",
+    "price": 5.05,
+    "volume": 1139000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-17",
+    "price": 4.96,
+    "volume": 2017818
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-16",
+    "price": 5.01,
+    "volume": 1175135
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-15",
+    "price": 5.01,
+    "volume": 2042620
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-14",
+    "price": 4.91,
+    "volume": 2169400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-13",
+    "price": 4.9,
+    "volume": 2417100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-10",
+    "price": 4.89,
+    "volume": 2703617
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-08",
+    "price": 4.88,
+    "volume": 2473700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-07",
+    "price": 4.83,
+    "volume": 1803600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-06",
+    "price": 5,
+    "volume": 2509326
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-03",
+    "price": 5.13,
+    "volume": 1219100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2025-01-02",
+    "price": 5.06,
+    "volume": 1651046
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-31",
+    "price": 5.03,
+    "volume": 2371506
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-30",
+    "price": 4.94,
+    "volume": 1336400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-27",
+    "price": 5.07,
+    "volume": 904200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-26",
+    "price": 5.13,
+    "volume": 1065200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-24",
+    "price": 5.07,
+    "volume": 432900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-23",
+    "price": 5.11,
+    "volume": 1821946
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-20",
+    "price": 5.13,
+    "volume": 3336618
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-19",
+    "price": 5,
+    "volume": 2379100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-18",
+    "price": 4.93,
+    "volume": 2110962
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-17",
+    "price": 5.25,
+    "volume": 1552009
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-16",
+    "price": 5.25,
+    "volume": 1354046
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-13",
+    "price": 5.27,
+    "volume": 962900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-12",
+    "price": 5.27,
+    "volume": 1508000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-11",
+    "price": 5.43,
+    "volume": 1361500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-10",
+    "price": 5.56,
+    "volume": 2698300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-09",
+    "price": 5.48,
+    "volume": 1361000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-06",
+    "price": 5.55,
+    "volume": 1639200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-05",
+    "price": 5.6,
+    "volume": 3889633
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-04",
+    "price": 5.68,
+    "volume": 2093700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-03",
+    "price": 5.51,
+    "volume": 986647
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-12-02",
+    "price": 5.58,
+    "volume": 1527500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-29",
+    "price": 5.68,
+    "volume": 648321
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-27",
+    "price": 5.59,
+    "volume": 1250011
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-26",
+    "price": 5.61,
+    "volume": 1586600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-25",
+    "price": 5.56,
+    "volume": 1808057
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-22",
+    "price": 5.48,
+    "volume": 2355447
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-21",
+    "price": 5.33,
+    "volume": 1203700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-20",
+    "price": 5.22,
+    "volume": 765120
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-19",
+    "price": 5.2,
+    "volume": 2914854
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-18",
+    "price": 5.18,
+    "volume": 2024500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-15",
+    "price": 5.23,
+    "volume": 1547882
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-14",
+    "price": 5.33,
+    "volume": 1979730
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-13",
+    "price": 5.44,
+    "volume": 2537000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-12",
+    "price": 5.46,
+    "volume": 2327800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-11",
+    "price": 5.73,
+    "volume": 2797800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-08",
+    "price": 5.5,
+    "volume": 3330800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-07",
+    "price": 5.7,
+    "volume": 5747258
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-06",
+    "price": 6.46,
+    "volume": 2005738
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-05",
+    "price": 6.26,
+    "volume": 709844
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-04",
+    "price": 6.24,
+    "volume": 879400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-11-01",
+    "price": 6.25,
+    "volume": 1235514
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-31",
+    "price": 6.27,
+    "volume": 1735018
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-30",
+    "price": 6.33,
+    "volume": 843900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-29",
+    "price": 6.26,
+    "volume": 1262008
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-28",
+    "price": 6.31,
+    "volume": 981700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-25",
+    "price": 6.12,
+    "volume": 902846
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-24",
+    "price": 6.21,
+    "volume": 1610339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-23",
+    "price": 6.16,
+    "volume": 1330261
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-22",
+    "price": 6.18,
+    "volume": 1480916
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-21",
+    "price": 6.28,
+    "volume": 2539507
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-18",
+    "price": 6.58,
+    "volume": 1160700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-17",
+    "price": 6.61,
+    "volume": 1952900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-16",
+    "price": 6.68,
+    "volume": 6454431
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-15",
+    "price": 6.07,
+    "volume": 1226535
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-14",
+    "price": 6.05,
+    "volume": 2116100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-11",
+    "price": 5.91,
+    "volume": 2102300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-10",
+    "price": 5.81,
+    "volume": 2919600
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-09",
+    "price": 5.74,
+    "volume": 3270665
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-08",
+    "price": 5.68,
+    "volume": 6289700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-07",
+    "price": 5.95,
+    "volume": 6963123
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-04",
+    "price": 6.2,
+    "volume": 4382200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-03",
+    "price": 6.31,
+    "volume": 3287053
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-02",
+    "price": 6.62,
+    "volume": 2328847
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-10-01",
+    "price": 6.6,
+    "volume": 3500836
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-30",
+    "price": 6.79,
+    "volume": 5676711
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-27",
+    "price": 6.59,
+    "volume": 3456100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-26",
+    "price": 6.53,
+    "volume": 3262209
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-25",
+    "price": 6.66,
+    "volume": 1326347
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-24",
+    "price": 6.78,
+    "volume": 986800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-23",
+    "price": 6.79,
+    "volume": 1672100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-20",
+    "price": 6.75,
+    "volume": 2674300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-19",
+    "price": 6.85,
+    "volume": 1427649
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-18",
+    "price": 6.75,
+    "volume": 1634200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-17",
+    "price": 6.77,
+    "volume": 1483144
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-16",
+    "price": 6.62,
+    "volume": 2046835
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-13",
+    "price": 6.66,
+    "volume": 1405407
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-12",
+    "price": 6.5,
+    "volume": 2074700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-11",
+    "price": 6.52,
+    "volume": 1962000
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-10",
+    "price": 6.7,
+    "volume": 1600700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-09",
+    "price": 6.91,
+    "volume": 2115128
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-06",
+    "price": 6.73,
+    "volume": 6637009
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-05",
+    "price": 6.88,
+    "volume": 1044750
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-04",
+    "price": 6.97,
+    "volume": 1286208
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-09-03",
+    "price": 7.07,
+    "volume": 1587525
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-30",
+    "price": 7.11,
+    "volume": 1164300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-29",
+    "price": 7.11,
+    "volume": 958100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-28",
+    "price": 7.25,
+    "volume": 1566946
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-27",
+    "price": 7.3,
+    "volume": 1114334
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-26",
+    "price": 7.22,
+    "volume": 1762110
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-23",
+    "price": 7.15,
+    "volume": 2221100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-22",
+    "price": 6.92,
+    "volume": 1594401
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-21",
+    "price": 6.82,
+    "volume": 1479500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-20",
+    "price": 6.63,
+    "volume": 1191509
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-19",
+    "price": 6.81,
+    "volume": 1817205
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-16",
+    "price": 6.93,
+    "volume": 1804744
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-15",
+    "price": 6.97,
+    "volume": 2520683
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-14",
+    "price": 6.97,
+    "volume": 1259300
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-13",
+    "price": 6.99,
+    "volume": 1654838
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-12",
+    "price": 6.96,
+    "volume": 2675200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-09",
+    "price": 6.81,
+    "volume": 6506335
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-08",
+    "price": 7.32,
+    "volume": 2558700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-07",
+    "price": 7.18,
+    "volume": 2519700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-06",
+    "price": 7.22,
+    "volume": 2237800
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-05",
+    "price": 7.15,
+    "volume": 2441400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-02",
+    "price": 7.48,
+    "volume": 1723507
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-08-01",
+    "price": 7.64,
+    "volume": 1729147
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-31",
+    "price": 7.73,
+    "volume": 2802018
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-30",
+    "price": 7.82,
+    "volume": 1270822
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-29",
+    "price": 7.89,
+    "volume": 3239552
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-26",
+    "price": 7.99,
+    "volume": 2072200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-25",
+    "price": 7.82,
+    "volume": 2146900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-24",
+    "price": 7.84,
+    "volume": 5128614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-23",
+    "price": 7.81,
+    "volume": 3623223
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-22",
+    "price": 7.77,
+    "volume": 2336108
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-19",
+    "price": 7.65,
+    "volume": 1292528
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-18",
+    "price": 7.68,
+    "volume": 3421529
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-17",
+    "price": 7.73,
+    "volume": 2653738
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-16",
+    "price": 7.63,
+    "volume": 2397419
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-15",
+    "price": 7.56,
+    "volume": 2122799
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-12",
+    "price": 7.38,
+    "volume": 2087715
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-11",
+    "price": 7.2,
+    "volume": 3202565
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-10",
+    "price": 7.02,
+    "volume": 2615911
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-09",
+    "price": 7.15,
+    "volume": 858963
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-08",
+    "price": 7.24,
+    "volume": 2604663
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-05",
+    "price": 7.29,
+    "volume": 1089912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-03",
+    "price": 7.36,
+    "volume": 617339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-02",
+    "price": 7.33,
+    "volume": 1471424
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-07-01",
+    "price": 7.14,
+    "volume": 3157969
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-28",
+    "price": 6.83,
+    "volume": 9752188
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-27",
+    "price": 6.62,
+    "volume": 1113452
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-26",
+    "price": 6.56,
+    "volume": 1649597
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-25",
+    "price": 6.41,
+    "volume": 763415
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-24",
+    "price": 6.49,
+    "volume": 882430
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-21",
+    "price": 6.41,
+    "volume": 2620632
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-20",
+    "price": 6.52,
+    "volume": 881129
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-18",
+    "price": 6.61,
+    "volume": 1649100
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-17",
+    "price": 6.61,
+    "volume": 1096346
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-14",
+    "price": 6.68,
+    "volume": 1133632
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-13",
+    "price": 6.65,
+    "volume": 1329813
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-12",
+    "price": 6.73,
+    "volume": 1032885
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-11",
+    "price": 6.74,
+    "volume": 1314687
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-10",
+    "price": 6.67,
+    "volume": 810006
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-07",
+    "price": 6.62,
+    "volume": 1033909
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-06",
+    "price": 6.62,
+    "volume": 1509068
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-05",
+    "price": 6.76,
+    "volume": 699175
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-04",
+    "price": 6.7,
+    "volume": 866491
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-06-03",
+    "price": 6.72,
+    "volume": 1226811
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-31",
+    "price": 6.71,
+    "volume": 1542081
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-30",
+    "price": 6.65,
+    "volume": 1238153
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-29",
+    "price": 6.54,
+    "volume": 1144717
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-28",
+    "price": 6.7,
+    "volume": 1579626
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-24",
+    "price": 6.75,
+    "volume": 774958
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-23",
+    "price": 6.68,
+    "volume": 833916
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-22",
+    "price": 6.78,
+    "volume": 1414176
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-21",
+    "price": 6.89,
+    "volume": 1880725
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-20",
+    "price": 6.86,
+    "volume": 928480
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-17",
+    "price": 6.91,
+    "volume": 2628854
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-16",
+    "price": 7.07,
+    "volume": 1121939
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-15",
+    "price": 7.12,
+    "volume": 1363710
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-14",
+    "price": 7.15,
+    "volume": 1756215
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-13",
+    "price": 6.99,
+    "volume": 2304074
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-10",
+    "price": 7.06,
+    "volume": 1398212
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-09",
+    "price": 7.17,
+    "volume": 2588023
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-08",
+    "price": 7,
+    "volume": 3203820
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-07",
+    "price": 7.36,
+    "volume": 2919275
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-06",
+    "price": 7.3,
+    "volume": 3189361
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-03",
+    "price": 7.49,
+    "volume": 2277614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-02",
+    "price": 7.19,
+    "volume": 3641133
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-05-01",
+    "price": 7.01,
+    "volume": 3245213
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-30",
+    "price": 6.79,
+    "volume": 1921809
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-29",
+    "price": 6.91,
+    "volume": 1099188
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-26",
+    "price": 6.96,
+    "volume": 1839748
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-25",
+    "price": 6.86,
+    "volume": 1777198
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-24",
+    "price": 6.75,
+    "volume": 1694986
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-23",
+    "price": 6.93,
+    "volume": 1183745
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-22",
+    "price": 6.6,
+    "volume": 1729339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-19",
+    "price": 6.48,
+    "volume": 1202749
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-18",
+    "price": 6.52,
+    "volume": 1383667
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-17",
+    "price": 6.46,
+    "volume": 1834408
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-16",
+    "price": 6.3,
+    "volume": 1808899
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-15",
+    "price": 6.32,
+    "volume": 1208976
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-12",
+    "price": 6.47,
+    "volume": 2705220
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-11",
+    "price": 6.65,
+    "volume": 1170809
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-10",
+    "price": 6.66,
+    "volume": 1576773
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-09",
+    "price": 6.85,
+    "volume": 2876940
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-08",
+    "price": 6.92,
+    "volume": 997567
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-05",
+    "price": 6.77,
+    "volume": 3121434
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-04",
+    "price": 6.57,
+    "volume": 1453417
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-03",
+    "price": 6.75,
+    "volume": 1660852
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-02",
+    "price": 6.52,
+    "volume": 2195197
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-04-01",
+    "price": 6.74,
+    "volume": 2193544
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-28",
+    "price": 6.61,
+    "volume": 3039456
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-27",
+    "price": 6.59,
+    "volume": 2019900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-26",
+    "price": 6.43,
+    "volume": 2556916
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-25",
+    "price": 6.46,
+    "volume": 1111281
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-22",
+    "price": 6.44,
+    "volume": 1263185
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-21",
+    "price": 6.5,
+    "volume": 2070835
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-20",
+    "price": 6.37,
+    "volume": 1699985
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-19",
+    "price": 6.38,
+    "volume": 2837369
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-18",
+    "price": 6.1,
+    "volume": 1720452
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-15",
+    "price": 6,
+    "volume": 2934145
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-14",
+    "price": 5.87,
+    "volume": 1381469
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-13",
+    "price": 6.18,
+    "volume": 4136045
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-12",
+    "price": 6.17,
+    "volume": 2632912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-11",
+    "price": 5.88,
+    "volume": 923912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-08",
+    "price": 6.05,
+    "volume": 1656683
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-07",
+    "price": 5.85,
+    "volume": 1078407
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-06",
+    "price": 5.57,
+    "volume": 1097609
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-05",
+    "price": 5.46,
+    "volume": 1631639
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-04",
+    "price": 5.59,
+    "volume": 913376
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-03-01",
+    "price": 5.57,
+    "volume": 1706298
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-29",
+    "price": 5.72,
+    "volume": 7530263
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-28",
+    "price": 5.71,
+    "volume": 2236364
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-27",
+    "price": 5.91,
+    "volume": 1418611
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-26",
+    "price": 5.67,
+    "volume": 1729458
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-23",
+    "price": 5.28,
+    "volume": 1981251
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-22",
+    "price": 5.35,
+    "volume": 2048252
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-21",
+    "price": 5.5,
+    "volume": 5384262
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-20",
+    "price": 6.16,
+    "volume": 2530753
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-16",
+    "price": 6.17,
+    "volume": 1862574
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-15",
+    "price": 6.29,
+    "volume": 2330945
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-14",
+    "price": 6.19,
+    "volume": 2038657
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-13",
+    "price": 5.79,
+    "volume": 1905376
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-12",
+    "price": 5.98,
+    "volume": 2775098
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-09",
+    "price": 5.51,
+    "volume": 1300962
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-08",
+    "price": 5.47,
+    "volume": 793932
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-07",
+    "price": 5.5,
+    "volume": 963408
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-06",
+    "price": 5.49,
+    "volume": 1053713
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-05",
+    "price": 5.43,
+    "volume": 1646405
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-02",
+    "price": 5.63,
+    "volume": 1057814
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-02-01",
+    "price": 5.69,
+    "volume": 1406019
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-31",
+    "price": 5.47,
+    "volume": 1810358
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-30",
+    "price": 5.58,
+    "volume": 727642
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-29",
+    "price": 5.73,
+    "volume": 816615
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-26",
+    "price": 5.68,
+    "volume": 708363
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-25",
+    "price": 5.73,
+    "volume": 2482122
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-24",
+    "price": 5.77,
+    "volume": 1324420
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-23",
+    "price": 6.03,
+    "volume": 3313056
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-22",
+    "price": 6.07,
+    "volume": 2270836
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-19",
+    "price": 5.79,
+    "volume": 1537894
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-18",
+    "price": 5.44,
+    "volume": 822882
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-17",
+    "price": 5.53,
+    "volume": 804641
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-16",
+    "price": 5.71,
+    "volume": 1070975
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-12",
+    "price": 5.75,
+    "volume": 914675
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-11",
+    "price": 5.63,
+    "volume": 892464
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-10",
+    "price": 5.64,
+    "volume": 870751
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-09",
+    "price": 5.55,
+    "volume": 752672
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-08",
+    "price": 5.65,
+    "volume": 1103625
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-05",
+    "price": 5.58,
+    "volume": 1431812
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-04",
+    "price": 5.61,
+    "volume": 1005935
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-03",
+    "price": 5.7,
+    "volume": 2955037
+  },
+  {
+    "symbol": "BKD",
+    "date": "2024-01-02",
+    "price": 5.72,
+    "volume": 3448196
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-29",
+    "price": 5.82,
+    "volume": 2096495
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-28",
+    "price": 5.98,
+    "volume": 1507852
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-27",
+    "price": 6.05,
+    "volume": 3539956
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-26",
+    "price": 5.73,
+    "volume": 1313920
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-22",
+    "price": 5.66,
+    "volume": 1103482
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-21",
+    "price": 5.54,
+    "volume": 1008865
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-20",
+    "price": 5.5,
+    "volume": 1161603
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-19",
+    "price": 5.73,
+    "volume": 2132297
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-18",
+    "price": 5.71,
+    "volume": 2518733
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-15",
+    "price": 5.77,
+    "volume": 6806815
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-14",
+    "price": 5.84,
+    "volume": 5043731
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-13",
+    "price": 5.73,
+    "volume": 2154327
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-12",
+    "price": 5.47,
+    "volume": 1433661
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-11",
+    "price": 5.47,
+    "volume": 1846842
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-08",
+    "price": 5.32,
+    "volume": 1384868
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-07",
+    "price": 5.23,
+    "volume": 1009470
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-06",
+    "price": 5.19,
+    "volume": 871239
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-05",
+    "price": 5.27,
+    "volume": 917272
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-04",
+    "price": 5.35,
+    "volume": 1253173
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-12-01",
+    "price": 5.35,
+    "volume": 2597286
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-30",
+    "price": 5.3,
+    "volume": 2731555
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-29",
+    "price": 5.25,
+    "volume": 2272150
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-28",
+    "price": 5.22,
+    "volume": 1224520
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-27",
+    "price": 5.22,
+    "volume": 1924599
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-24",
+    "price": 5.26,
+    "volume": 596980
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-22",
+    "price": 5.23,
+    "volume": 2378602
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-21",
+    "price": 5.33,
+    "volume": 5017457
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-20",
+    "price": 5.54,
+    "volume": 4203279
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-17",
+    "price": 5.25,
+    "volume": 11832584
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-16",
+    "price": 4.52,
+    "volume": 2777583
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-15",
+    "price": 4.48,
+    "volume": 6497009
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-14",
+    "price": 4.4,
+    "volume": 2349995
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-13",
+    "price": 4.09,
+    "volume": 1109945
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-10",
+    "price": 4.18,
+    "volume": 970269
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-09",
+    "price": 4.2,
+    "volume": 891751
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-08",
+    "price": 4.35,
+    "volume": 2140191
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-07",
+    "price": 4.41,
+    "volume": 2526345
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-06",
+    "price": 4.12,
+    "volume": 788690
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-03",
+    "price": 4.14,
+    "volume": 2090266
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-02",
+    "price": 4.14,
+    "volume": 1290259
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-11-01",
+    "price": 3.92,
+    "volume": 1139434
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-31",
+    "price": 3.91,
+    "volume": 1319165
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-30",
+    "price": 3.83,
+    "volume": 841538
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-27",
+    "price": 3.93,
+    "volume": 960161
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-26",
+    "price": 3.98,
+    "volume": 1249411
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-25",
+    "price": 3.81,
+    "volume": 1161386
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-24",
+    "price": 3.83,
+    "volume": 609845
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-23",
+    "price": 3.71,
+    "volume": 560655
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-20",
+    "price": 3.78,
+    "volume": 743383
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-19",
+    "price": 3.8,
+    "volume": 741444
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-18",
+    "price": 3.98,
+    "volume": 956840
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-17",
+    "price": 4.08,
+    "volume": 1819402
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-16",
+    "price": 4.07,
+    "volume": 661039
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-13",
+    "price": 3.91,
+    "volume": 488089
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-12",
+    "price": 3.97,
+    "volume": 696244
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-11",
+    "price": 4.22,
+    "volume": 904877
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-10",
+    "price": 4.13,
+    "volume": 1678106
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-09",
+    "price": 3.7,
+    "volume": 678637
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-06",
+    "price": 3.79,
+    "volume": 714383
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-05",
+    "price": 3.78,
+    "volume": 841437
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-04",
+    "price": 3.7,
+    "volume": 648892
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-03",
+    "price": 3.67,
+    "volume": 1589342
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-10-02",
+    "price": 3.79,
+    "volume": 1359316
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-29",
+    "price": 4.14,
+    "volume": 1215767
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-28",
+    "price": 4,
+    "volume": 1727216
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-27",
+    "price": 3.92,
+    "volume": 1348952
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-26",
+    "price": 4.08,
+    "volume": 1694889
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-25",
+    "price": 4.44,
+    "volume": 1722464
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-22",
+    "price": 4.27,
+    "volume": 755595
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-21",
+    "price": 4.33,
+    "volume": 1389938
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-20",
+    "price": 4.3,
+    "volume": 1517227
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-19",
+    "price": 4.14,
+    "volume": 535765
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-18",
+    "price": 4.13,
+    "volume": 658665
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-15",
+    "price": 4.1,
+    "volume": 2708141
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-14",
+    "price": 4.01,
+    "volume": 771795
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-13",
+    "price": 3.98,
+    "volume": 766663
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-12",
+    "price": 4.08,
+    "volume": 1527742
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-11",
+    "price": 3.92,
+    "volume": 610560
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-08",
+    "price": 3.95,
+    "volume": 429273
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-07",
+    "price": 3.93,
+    "volume": 1422139
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-06",
+    "price": 3.98,
+    "volume": 1022075
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-05",
+    "price": 4.08,
+    "volume": 1259618
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-09-01",
+    "price": 4.3,
+    "volume": 697388
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-31",
+    "price": 4.25,
+    "volume": 904209
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-30",
+    "price": 4.19,
+    "volume": 439585
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-29",
+    "price": 4.24,
+    "volume": 671132
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-28",
+    "price": 4.17,
+    "volume": 582344
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-25",
+    "price": 4.2,
+    "volume": 1391372
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-24",
+    "price": 4.29,
+    "volume": 944404
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-23",
+    "price": 4.24,
+    "volume": 493136
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-22",
+    "price": 4.16,
+    "volume": 974366
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-21",
+    "price": 4.05,
+    "volume": 762854
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-18",
+    "price": 4.16,
+    "volume": 711368
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-17",
+    "price": 4.12,
+    "volume": 877290
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-16",
+    "price": 4.19,
+    "volume": 1056195
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-15",
+    "price": 4.07,
+    "volume": 491962
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-14",
+    "price": 4.17,
+    "volume": 523291
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-11",
+    "price": 4.21,
+    "volume": 737980
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-10",
+    "price": 4.23,
+    "volume": 1432810
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-09",
+    "price": 4.5,
+    "volume": 1483821
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-08",
+    "price": 4.59,
+    "volume": 4249705
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-07",
+    "price": 3.79,
+    "volume": 1063198
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-04",
+    "price": 3.76,
+    "volume": 887211
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-03",
+    "price": 3.85,
+    "volume": 1414443
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-02",
+    "price": 3.78,
+    "volume": 1750463
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-08-01",
+    "price": 3.75,
+    "volume": 1700521
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-31",
+    "price": 3.52,
+    "volume": 495628
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-28",
+    "price": 3.49,
+    "volume": 665527
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-27",
+    "price": 3.48,
+    "volume": 869286
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-26",
+    "price": 3.53,
+    "volume": 1506918
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-25",
+    "price": 3.5,
+    "volume": 377566
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-24",
+    "price": 3.56,
+    "volume": 978440
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-21",
+    "price": 3.56,
+    "volume": 611718
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-20",
+    "price": 3.6,
+    "volume": 683287
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-19",
+    "price": 3.65,
+    "volume": 818973
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-18",
+    "price": 3.67,
+    "volume": 778485
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-17",
+    "price": 3.65,
+    "volume": 901589
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-14",
+    "price": 3.77,
+    "volume": 2519533
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-13",
+    "price": 3.85,
+    "volume": 3169564
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-12",
+    "price": 3.79,
+    "volume": 2929818
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-11",
+    "price": 4.31,
+    "volume": 1103297
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-10",
+    "price": 4.25,
+    "volume": 1166946
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-07",
+    "price": 4.23,
+    "volume": 1154654
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-06",
+    "price": 4.08,
+    "volume": 751371
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-05",
+    "price": 4.2,
+    "volume": 1199236
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-07-03",
+    "price": 4.25,
+    "volume": 277445
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-30",
+    "price": 4.22,
+    "volume": 1108504
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-29",
+    "price": 4.2,
+    "volume": 779308
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-28",
+    "price": 4.15,
+    "volume": 790474
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-27",
+    "price": 4.12,
+    "volume": 820529
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-26",
+    "price": 4.01,
+    "volume": 699506
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-23",
+    "price": 3.9,
+    "volume": 3635524
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-22",
+    "price": 3.98,
+    "volume": 664614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-21",
+    "price": 4.01,
+    "volume": 752079
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-20",
+    "price": 4.01,
+    "volume": 892106
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-16",
+    "price": 4.06,
+    "volume": 1427767
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-15",
+    "price": 4.1,
+    "volume": 958024
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-14",
+    "price": 4.19,
+    "volume": 1122079
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-13",
+    "price": 4.23,
+    "volume": 2016510
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-12",
+    "price": 4.08,
+    "volume": 1119855
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-09",
+    "price": 4.1,
+    "volume": 1216123
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-08",
+    "price": 4.04,
+    "volume": 3195104
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-07",
+    "price": 4.01,
+    "volume": 2757449
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-06",
+    "price": 3.71,
+    "volume": 943210
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-05",
+    "price": 3.54,
+    "volume": 707402
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-02",
+    "price": 3.59,
+    "volume": 1010512
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-06-01",
+    "price": 3.39,
+    "volume": 1020502
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-31",
+    "price": 3.45,
+    "volume": 2016073
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-30",
+    "price": 3.43,
+    "volume": 924872
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-26",
+    "price": 3.43,
+    "volume": 874008
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-25",
+    "price": 3.42,
+    "volume": 1692573
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-24",
+    "price": 3.55,
+    "volume": 1540451
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-23",
+    "price": 3.72,
+    "volume": 1648882
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-22",
+    "price": 3.7,
+    "volume": 833314
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-19",
+    "price": 3.68,
+    "volume": 1212101
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-18",
+    "price": 3.73,
+    "volume": 1270521
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-17",
+    "price": 3.75,
+    "volume": 1737704
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-16",
+    "price": 3.6,
+    "volume": 1819539
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-15",
+    "price": 3.69,
+    "volume": 1592630
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-12",
+    "price": 3.72,
+    "volume": 1991906
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-11",
+    "price": 3.85,
+    "volume": 2678085
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-10",
+    "price": 4.05,
+    "volume": 1793761
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-09",
+    "price": 3.95,
+    "volume": 3570298
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-08",
+    "price": 3.99,
+    "volume": 2955519
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-05",
+    "price": 3.94,
+    "volume": 2352648
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-04",
+    "price": 3.87,
+    "volume": 3471693
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-03",
+    "price": 3.92,
+    "volume": 2571310
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-02",
+    "price": 3.93,
+    "volume": 2879378
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-05-01",
+    "price": 4.22,
+    "volume": 1550296
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-28",
+    "price": 4.29,
+    "volume": 2479939
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-27",
+    "price": 4.25,
+    "volume": 1128247
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-26",
+    "price": 4.21,
+    "volume": 1232108
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-25",
+    "price": 4.22,
+    "volume": 1243506
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-24",
+    "price": 4.34,
+    "volume": 1832365
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-21",
+    "price": 4.27,
+    "volume": 1437961
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-20",
+    "price": 4.23,
+    "volume": 1985319
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-19",
+    "price": 4.22,
+    "volume": 1392481
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-18",
+    "price": 4.27,
+    "volume": 2304679
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-17",
+    "price": 4.25,
+    "volume": 2273843
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-14",
+    "price": 4.06,
+    "volume": 1347991
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-13",
+    "price": 4.16,
+    "volume": 2202651
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-12",
+    "price": 4.17,
+    "volume": 4105532
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-11",
+    "price": 3.95,
+    "volume": 9592412
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-10",
+    "price": 2.98,
+    "volume": 1950686
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-06",
+    "price": 2.86,
+    "volume": 1925493
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-05",
+    "price": 2.85,
+    "volume": 1132388
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-04",
+    "price": 2.87,
+    "volume": 804740
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-04-03",
+    "price": 2.93,
+    "volume": 1409825
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-31",
+    "price": 2.95,
+    "volume": 2360388
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-30",
+    "price": 3,
+    "volume": 2382239
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-29",
+    "price": 2.89,
+    "volume": 2466521
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-28",
+    "price": 2.7,
+    "volume": 2929483
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-27",
+    "price": 2.63,
+    "volume": 2941108
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-24",
+    "price": 2.41,
+    "volume": 2511628
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-23",
+    "price": 2.35,
+    "volume": 2408891
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-22",
+    "price": 2.43,
+    "volume": 2065181
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-21",
+    "price": 2.55,
+    "volume": 1779079
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-20",
+    "price": 2.5,
+    "volume": 2248174
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-17",
+    "price": 2.61,
+    "volume": 5415875
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-16",
+    "price": 2.8,
+    "volume": 1223860
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-15",
+    "price": 2.79,
+    "volume": 1985403
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-14",
+    "price": 2.79,
+    "volume": 1950007
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-13",
+    "price": 2.82,
+    "volume": 2827186
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-10",
+    "price": 2.95,
+    "volume": 3115370
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-09",
+    "price": 3.17,
+    "volume": 1671927
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-08",
+    "price": 3.29,
+    "volume": 905700
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-07",
+    "price": 3.26,
+    "volume": 1317652
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-06",
+    "price": 3.29,
+    "volume": 1482049
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-03",
+    "price": 3.45,
+    "volume": 1826329
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-02",
+    "price": 3.34,
+    "volume": 1719009
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-03-01",
+    "price": 3.2,
+    "volume": 1932871
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-28",
+    "price": 3.23,
+    "volume": 2404992
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-27",
+    "price": 3.32,
+    "volume": 1270582
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-24",
+    "price": 3.29,
+    "volume": 2479305
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-23",
+    "price": 3.34,
+    "volume": 4768740
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-22",
+    "price": 3.34,
+    "volume": 6989595
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-21",
+    "price": 3.02,
+    "volume": 2172354
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-17",
+    "price": 3.07,
+    "volume": 3699955
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-16",
+    "price": 3.07,
+    "volume": 2819698
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-15",
+    "price": 2.95,
+    "volume": 3867732
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-14",
+    "price": 2.87,
+    "volume": 1853150
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-13",
+    "price": 2.88,
+    "volume": 2514279
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-10",
+    "price": 2.75,
+    "volume": 4975162
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-09",
+    "price": 2.58,
+    "volume": 1197020
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-08",
+    "price": 2.67,
+    "volume": 861671
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-07",
+    "price": 2.56,
+    "volume": 1984673
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-06",
+    "price": 2.64,
+    "volume": 1523474
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-03",
+    "price": 2.8,
+    "volume": 2242423
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-02",
+    "price": 2.87,
+    "volume": 2660614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-02-01",
+    "price": 2.91,
+    "volume": 1713276
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-31",
+    "price": 2.88,
+    "volume": 1163396
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-30",
+    "price": 2.86,
+    "volume": 677915
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-27",
+    "price": 2.95,
+    "volume": 6699077
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-26",
+    "price": 2.88,
+    "volume": 4232111
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-25",
+    "price": 2.82,
+    "volume": 1553293
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-24",
+    "price": 2.77,
+    "volume": 1176688
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-23",
+    "price": 2.9,
+    "volume": 7222555
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-20",
+    "price": 2.63,
+    "volume": 4704572
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-19",
+    "price": 2.42,
+    "volume": 990611
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-18",
+    "price": 2.45,
+    "volume": 1820755
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-17",
+    "price": 2.54,
+    "volume": 2011704
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-13",
+    "price": 2.73,
+    "volume": 1709630
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-12",
+    "price": 2.91,
+    "volume": 1197290
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-11",
+    "price": 2.9,
+    "volume": 862918
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-10",
+    "price": 2.9,
+    "volume": 934287
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-09",
+    "price": 2.9,
+    "volume": 1333303
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-06",
+    "price": 2.88,
+    "volume": 1362983
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-05",
+    "price": 2.85,
+    "volume": 1988028
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-04",
+    "price": 2.78,
+    "volume": 8103635
+  },
+  {
+    "symbol": "BKD",
+    "date": "2023-01-03",
+    "price": 2.75,
+    "volume": 1309552
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-30",
+    "price": 2.73,
+    "volume": 1828306
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-29",
+    "price": 2.75,
+    "volume": 1776608
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-28",
+    "price": 2.72,
+    "volume": 1886669
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-27",
+    "price": 2.73,
+    "volume": 1736068
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-23",
+    "price": 2.71,
+    "volume": 654833
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-22",
+    "price": 2.73,
+    "volume": 1223092
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-21",
+    "price": 2.76,
+    "volume": 890640
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-20",
+    "price": 2.77,
+    "volume": 2710109
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-19",
+    "price": 2.68,
+    "volume": 1125062
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-16",
+    "price": 2.83,
+    "volume": 3544201
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-15",
+    "price": 2.75,
+    "volume": 1947858
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-14",
+    "price": 2.81,
+    "volume": 1826949
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-13",
+    "price": 2.8,
+    "volume": 2466630
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-12",
+    "price": 2.7,
+    "volume": 4644005
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-09",
+    "price": 2.88,
+    "volume": 4007695
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-08",
+    "price": 3,
+    "volume": 1611158
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-07",
+    "price": 3,
+    "volume": 3874240
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-06",
+    "price": 3.07,
+    "volume": 4674034
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-05",
+    "price": 3.34,
+    "volume": 3474058
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-02",
+    "price": 3.34,
+    "volume": 5713003
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-12-01",
+    "price": 3.17,
+    "volume": 3365144
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-30",
+    "price": 3.15,
+    "volume": 4290723
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-29",
+    "price": 2.92,
+    "volume": 2617161
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-28",
+    "price": 2.93,
+    "volume": 4617074
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-25",
+    "price": 3.14,
+    "volume": 578014
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-23",
+    "price": 3.2,
+    "volume": 2836564
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-22",
+    "price": 3.17,
+    "volume": 1954346
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-21",
+    "price": 3.19,
+    "volume": 4386425
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-18",
+    "price": 3.14,
+    "volume": 4332721
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-17",
+    "price": 3.11,
+    "volume": 22869347
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-16",
+    "price": 3.29,
+    "volume": 27178660
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-15",
+    "price": 4.92,
+    "volume": 910257
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-14",
+    "price": 4.89,
+    "volume": 1420543
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-11",
+    "price": 4.88,
+    "volume": 2141181
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-10",
+    "price": 4.59,
+    "volume": 2022474
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-09",
+    "price": 4.24,
+    "volume": 3067894
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-08",
+    "price": 4.35,
+    "volume": 5309584
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-07",
+    "price": 4.37,
+    "volume": 2078919
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-04",
+    "price": 4.36,
+    "volume": 1171132
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-03",
+    "price": 4.15,
+    "volume": 1204164
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-02",
+    "price": 4.22,
+    "volume": 3978386
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-11-01",
+    "price": 4.41,
+    "volume": 1673270
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-31",
+    "price": 4.47,
+    "volume": 2083150
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-28",
+    "price": 4.55,
+    "volume": 2016156
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-27",
+    "price": 4.5,
+    "volume": 1063846
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-26",
+    "price": 4.57,
+    "volume": 1186433
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-25",
+    "price": 4.59,
+    "volume": 1416968
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-24",
+    "price": 4.4,
+    "volume": 1400306
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-21",
+    "price": 4.44,
+    "volume": 2777777
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-20",
+    "price": 4.73,
+    "volume": 895833
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-19",
+    "price": 4.68,
+    "volume": 656639
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-18",
+    "price": 4.73,
+    "volume": 1390485
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-17",
+    "price": 4.69,
+    "volume": 1525349
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-14",
+    "price": 4.46,
+    "volume": 2119792
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-13",
+    "price": 4.63,
+    "volume": 2214809
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-12",
+    "price": 4.47,
+    "volume": 2513948
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-11",
+    "price": 4.62,
+    "volume": 3071454
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-10",
+    "price": 4.55,
+    "volume": 6256317
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-07",
+    "price": 4.81,
+    "volume": 14811850
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-06",
+    "price": 4.01,
+    "volume": 2295404
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-05",
+    "price": 4.01,
+    "volume": 2797206
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-04",
+    "price": 4.24,
+    "volume": 2940999
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-10-03",
+    "price": 4.45,
+    "volume": 1885363
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-30",
+    "price": 4.27,
+    "volume": 1838101
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-29",
+    "price": 4.29,
+    "volume": 1410693
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-28",
+    "price": 4.56,
+    "volume": 2147022
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-27",
+    "price": 4.4,
+    "volume": 1997302
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-26",
+    "price": 4.49,
+    "volume": 1761738
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-23",
+    "price": 4.49,
+    "volume": 2283983
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-22",
+    "price": 4.91,
+    "volume": 2908400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-21",
+    "price": 5.19,
+    "volume": 1703960
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-20",
+    "price": 5.24,
+    "volume": 1155668
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-19",
+    "price": 5.3,
+    "volume": 1386027
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-16",
+    "price": 5.25,
+    "volume": 1947255
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-15",
+    "price": 5.19,
+    "volume": 1051498
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-14",
+    "price": 5.17,
+    "volume": 1567095
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-13",
+    "price": 5.12,
+    "volume": 1956534
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-12",
+    "price": 5.24,
+    "volume": 1074969
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-09",
+    "price": 5.05,
+    "volume": 1608775
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-08",
+    "price": 4.9,
+    "volume": 1494894
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-07",
+    "price": 4.78,
+    "volume": 1478022
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-06",
+    "price": 4.51,
+    "volume": 1467056
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-02",
+    "price": 4.45,
+    "volume": 932464
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-09-01",
+    "price": 4.46,
+    "volume": 2596911
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-31",
+    "price": 4.4,
+    "volume": 1713381
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-30",
+    "price": 4.39,
+    "volume": 1538830
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-29",
+    "price": 4.27,
+    "volume": 733079
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-26",
+    "price": 4.34,
+    "volume": 895040
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-25",
+    "price": 4.63,
+    "volume": 853544
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-24",
+    "price": 4.53,
+    "volume": 1045073
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-23",
+    "price": 4.56,
+    "volume": 1015683
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-22",
+    "price": 4.54,
+    "volume": 1930861
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-19",
+    "price": 4.64,
+    "volume": 1706766
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-18",
+    "price": 4.87,
+    "volume": 607929
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-17",
+    "price": 4.91,
+    "volume": 1018466
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-16",
+    "price": 5.17,
+    "volume": 915206
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-15",
+    "price": 5.32,
+    "volume": 989373
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-12",
+    "price": 5.4,
+    "volume": 1231193
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-11",
+    "price": 5.29,
+    "volume": 1818621
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-10",
+    "price": 5.31,
+    "volume": 2427114
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-09",
+    "price": 5.03,
+    "volume": 3118287
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-08",
+    "price": 4.66,
+    "volume": 2451614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-05",
+    "price": 4.62,
+    "volume": 1367547
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-04",
+    "price": 4.68,
+    "volume": 793036
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-03",
+    "price": 4.86,
+    "volume": 2273456
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-02",
+    "price": 4.75,
+    "volume": 670157
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-08-01",
+    "price": 4.78,
+    "volume": 1539732
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-29",
+    "price": 4.82,
+    "volume": 1356568
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-28",
+    "price": 4.81,
+    "volume": 822933
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-27",
+    "price": 4.9,
+    "volume": 770233
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-26",
+    "price": 4.88,
+    "volume": 951359
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-25",
+    "price": 4.84,
+    "volume": 815518
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-22",
+    "price": 4.79,
+    "volume": 1287264
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-21",
+    "price": 4.79,
+    "volume": 1216130
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-20",
+    "price": 4.79,
+    "volume": 1619911
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-19",
+    "price": 4.91,
+    "volume": 1338566
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-18",
+    "price": 4.57,
+    "volume": 1352559
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-15",
+    "price": 4.52,
+    "volume": 1151761
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-14",
+    "price": 4.4,
+    "volume": 1863802
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-13",
+    "price": 4.32,
+    "volume": 2097217
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-12",
+    "price": 4.29,
+    "volume": 2727943
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-11",
+    "price": 4.08,
+    "volume": 1680959
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-08",
+    "price": 4.33,
+    "volume": 1235400
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-07",
+    "price": 4.34,
+    "volume": 2110662
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-06",
+    "price": 4.41,
+    "volume": 1021608
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-05",
+    "price": 4.74,
+    "volume": 2358984
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-07-01",
+    "price": 4.53,
+    "volume": 1375534
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-30",
+    "price": 4.54,
+    "volume": 1934851
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-29",
+    "price": 4.96,
+    "volume": 1815176
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-28",
+    "price": 4.76,
+    "volume": 1549672
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-27",
+    "price": 4.83,
+    "volume": 1074220
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-24",
+    "price": 4.79,
+    "volume": 2195057
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-23",
+    "price": 4.8,
+    "volume": 2263352
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-22",
+    "price": 4.75,
+    "volume": 916207
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-21",
+    "price": 4.75,
+    "volume": 1048899
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-17",
+    "price": 4.75,
+    "volume": 2043352
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-16",
+    "price": 4.66,
+    "volume": 3005948
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-15",
+    "price": 4.83,
+    "volume": 1714159
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-14",
+    "price": 4.7,
+    "volume": 3170249
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-13",
+    "price": 4.74,
+    "volume": 3670030
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-10",
+    "price": 5.21,
+    "volume": 1680524
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-09",
+    "price": 5.21,
+    "volume": 1884268
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-08",
+    "price": 5.3,
+    "volume": 4209565
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-07",
+    "price": 5.57,
+    "volume": 817970
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-06",
+    "price": 5.55,
+    "volume": 1211723
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-03",
+    "price": 5.61,
+    "volume": 989106
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-02",
+    "price": 5.75,
+    "volume": 1258510
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-06-01",
+    "price": 5.68,
+    "volume": 3347172
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-31",
+    "price": 5.7,
+    "volume": 1726383
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-27",
+    "price": 5.77,
+    "volume": 1265826
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-26",
+    "price": 5.63,
+    "volume": 1722475
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-25",
+    "price": 5.57,
+    "volume": 1611080
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-24",
+    "price": 5.38,
+    "volume": 2829518
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-23",
+    "price": 5.44,
+    "volume": 2658874
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-20",
+    "price": 5.48,
+    "volume": 2060339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-19",
+    "price": 5.49,
+    "volume": 2189592
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-18",
+    "price": 5.44,
+    "volume": 2232157
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-17",
+    "price": 5.84,
+    "volume": 2623972
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-16",
+    "price": 5.57,
+    "volume": 2559656
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-13",
+    "price": 5.56,
+    "volume": 2845275
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-12",
+    "price": 5.56,
+    "volume": 3065035
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-11",
+    "price": 5.61,
+    "volume": 5191436
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-10",
+    "price": 6.01,
+    "volume": 3416051
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-09",
+    "price": 6.04,
+    "volume": 3093632
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-06",
+    "price": 6.08,
+    "volume": 3695820
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-05",
+    "price": 6.24,
+    "volume": 3367764
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-04",
+    "price": 6.33,
+    "volume": 1652412
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-03",
+    "price": 6.26,
+    "volume": 3018056
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-05-02",
+    "price": 6.17,
+    "volume": 1955051
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-29",
+    "price": 6.18,
+    "volume": 2349474
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-28",
+    "price": 6.4,
+    "volume": 2347265
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-27",
+    "price": 6.45,
+    "volume": 1633519
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-26",
+    "price": 6.62,
+    "volume": 2544799
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-25",
+    "price": 6.77,
+    "volume": 3071881
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-22",
+    "price": 6.61,
+    "volume": 2875850
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-21",
+    "price": 6.98,
+    "volume": 2641562
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-20",
+    "price": 7.27,
+    "volume": 5313603
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-19",
+    "price": 7.27,
+    "volume": 1778938
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-18",
+    "price": 7.39,
+    "volume": 1640673
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-14",
+    "price": 7.48,
+    "volume": 2272933
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-13",
+    "price": 7.2,
+    "volume": 925521
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-12",
+    "price": 7.13,
+    "volume": 1317987
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-11",
+    "price": 7.07,
+    "volume": 1444516
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-08",
+    "price": 7.11,
+    "volume": 2008966
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-07",
+    "price": 6.84,
+    "volume": 888200
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-06",
+    "price": 6.92,
+    "volume": 1391900
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-05",
+    "price": 6.9,
+    "volume": 1793096
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-04",
+    "price": 7.27,
+    "volume": 1120218
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-04-01",
+    "price": 7.33,
+    "volume": 3512413
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-31",
+    "price": 7.05,
+    "volume": 3634695
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-30",
+    "price": 7.1,
+    "volume": 1828856
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-29",
+    "price": 7.17,
+    "volume": 1473747
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-28",
+    "price": 7.02,
+    "volume": 1387881
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-25",
+    "price": 7,
+    "volume": 2404770
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-24",
+    "price": 6.83,
+    "volume": 1341986
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-23",
+    "price": 6.75,
+    "volume": 838839
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-22",
+    "price": 6.84,
+    "volume": 1514382
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-21",
+    "price": 6.72,
+    "volume": 1242720
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-18",
+    "price": 6.67,
+    "volume": 3584828
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-17",
+    "price": 6.83,
+    "volume": 1567112
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-16",
+    "price": 6.79,
+    "volume": 2858075
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-15",
+    "price": 6.94,
+    "volume": 1416459
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-14",
+    "price": 6.9,
+    "volume": 1750170
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-11",
+    "price": 7.19,
+    "volume": 1506046
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-10",
+    "price": 7.28,
+    "volume": 1972043
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-09",
+    "price": 7.3,
+    "volume": 2847848
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-08",
+    "price": 7,
+    "volume": 2067637
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-07",
+    "price": 6.92,
+    "volume": 1938104
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-04",
+    "price": 6.96,
+    "volume": 3413657
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-03",
+    "price": 6.99,
+    "volume": 3880187
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-02",
+    "price": 6.73,
+    "volume": 4377622
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-03-01",
+    "price": 6.72,
+    "volume": 2122246
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-28",
+    "price": 6.88,
+    "volume": 2418193
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-25",
+    "price": 7,
+    "volume": 2343371
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-24",
+    "price": 6.76,
+    "volume": 4817845
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-23",
+    "price": 6.44,
+    "volume": 3969017
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-22",
+    "price": 6.53,
+    "volume": 3754623
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-18",
+    "price": 6.4,
+    "volume": 6143897
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-17",
+    "price": 6.54,
+    "volume": 6669822
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-16",
+    "price": 6.56,
+    "volume": 4523417
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-15",
+    "price": 6.32,
+    "volume": 8905784
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-14",
+    "price": 5.39,
+    "volume": 2299288
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-11",
+    "price": 5.48,
+    "volume": 1418852
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-10",
+    "price": 5.5,
+    "volume": 1972767
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-09",
+    "price": 5.56,
+    "volume": 2965283
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-08",
+    "price": 5.33,
+    "volume": 1747931
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-07",
+    "price": 5.16,
+    "volume": 1445514
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-04",
+    "price": 5.18,
+    "volume": 2273288
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-03",
+    "price": 5.24,
+    "volume": 1981630
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-02",
+    "price": 5.42,
+    "volume": 1874560
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-02-01",
+    "price": 5.48,
+    "volume": 2019926
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-31",
+    "price": 5.29,
+    "volume": 1654496
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-28",
+    "price": 5.25,
+    "volume": 1772296
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-27",
+    "price": 5.15,
+    "volume": 2295060
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-26",
+    "price": 5.22,
+    "volume": 1492486
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-25",
+    "price": 5.3,
+    "volume": 1539698
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-24",
+    "price": 5.28,
+    "volume": 2976733
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-21",
+    "price": 5.2,
+    "volume": 2653896
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-20",
+    "price": 5.26,
+    "volume": 1457405
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-19",
+    "price": 5.32,
+    "volume": 3065445
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-18",
+    "price": 5.49,
+    "volume": 2254121
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-14",
+    "price": 5.41,
+    "volume": 2495125
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-13",
+    "price": 5.29,
+    "volume": 2326147
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-12",
+    "price": 5.25,
+    "volume": 1863269
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-11",
+    "price": 5.39,
+    "volume": 3186871
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-10",
+    "price": 5.1,
+    "volume": 4610832
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-07",
+    "price": 5.25,
+    "volume": 1755194
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-06",
+    "price": 5.25,
+    "volume": 3078179
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-05",
+    "price": 5.23,
+    "volume": 2436971
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-04",
+    "price": 5.41,
+    "volume": 3219445
+  },
+  {
+    "symbol": "BKD",
+    "date": "2022-01-03",
+    "price": 5.31,
+    "volume": 2499338
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-31",
+    "price": 5.16,
+    "volume": 2062458
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-30",
+    "price": 5.12,
+    "volume": 1946877
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-29",
+    "price": 5.08,
+    "volume": 972421
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-28",
+    "price": 5.11,
+    "volume": 898845
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-27",
+    "price": 5.13,
+    "volume": 670993
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-23",
+    "price": 5.17,
+    "volume": 3832794
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-22",
+    "price": 5.13,
+    "volume": 1389833
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-21",
+    "price": 5.04,
+    "volume": 1489912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-20",
+    "price": 4.72,
+    "volume": 3212787
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-17",
+    "price": 4.92,
+    "volume": 3497642
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-16",
+    "price": 4.85,
+    "volume": 4168514
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-15",
+    "price": 5.04,
+    "volume": 4603012
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-14",
+    "price": 5.2,
+    "volume": 4599055
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-13",
+    "price": 5.48,
+    "volume": 1954378
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-10",
+    "price": 5.59,
+    "volume": 3097576
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-09",
+    "price": 5.87,
+    "volume": 1626036
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-08",
+    "price": 5.95,
+    "volume": 1290090
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-07",
+    "price": 5.97,
+    "volume": 1155223
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-06",
+    "price": 5.95,
+    "volume": 4745536
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-03",
+    "price": 5.81,
+    "volume": 2213984
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-02",
+    "price": 5.98,
+    "volume": 1494205
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-12-01",
+    "price": 5.69,
+    "volume": 6090149
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-30",
+    "price": 5.86,
+    "volume": 6260194
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-29",
+    "price": 6.3,
+    "volume": 4025275
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-26",
+    "price": 6.33,
+    "volume": 5430856
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-24",
+    "price": 6.55,
+    "volume": 1705673
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-23",
+    "price": 6.45,
+    "volume": 1921216
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-22",
+    "price": 6.4,
+    "volume": 1652359
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-19",
+    "price": 6.65,
+    "volume": 2096467
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-18",
+    "price": 6.87,
+    "volume": 2001575
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-17",
+    "price": 7,
+    "volume": 1237967
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-16",
+    "price": 6.92,
+    "volume": 1423671
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-15",
+    "price": 6.96,
+    "volume": 1788480
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-12",
+    "price": 7.17,
+    "volume": 2366841
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-11",
+    "price": 7.07,
+    "volume": 1788156
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-10",
+    "price": 7.14,
+    "volume": 2039912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-09",
+    "price": 7.18,
+    "volume": 2216680
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-08",
+    "price": 7.29,
+    "volume": 3279134
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-05",
+    "price": 7.57,
+    "volume": 8198730
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-04",
+    "price": 6.62,
+    "volume": 2697427
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-03",
+    "price": 6.63,
+    "volume": 3080534
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-02",
+    "price": 6.59,
+    "volume": 2286183
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-11-01",
+    "price": 6.86,
+    "volume": 7605954
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-29",
+    "price": 6.5,
+    "volume": 7026419
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-28",
+    "price": 6.69,
+    "volume": 2323523
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-27",
+    "price": 6.53,
+    "volume": 1188006
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-26",
+    "price": 6.5,
+    "volume": 1444648
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-25",
+    "price": 6.63,
+    "volume": 1179871
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-22",
+    "price": 6.63,
+    "volume": 967512
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-21",
+    "price": 6.74,
+    "volume": 1874440
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-20",
+    "price": 6.71,
+    "volume": 2103572
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-19",
+    "price": 6.8,
+    "volume": 1192583
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-18",
+    "price": 6.62,
+    "volume": 810198
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-15",
+    "price": 6.6,
+    "volume": 1273028
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-14",
+    "price": 6.61,
+    "volume": 967595
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-13",
+    "price": 6.63,
+    "volume": 2215666
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-12",
+    "price": 6.84,
+    "volume": 3236921
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-11",
+    "price": 7.01,
+    "volume": 3194302
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-08",
+    "price": 6.75,
+    "volume": 3274193
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-07",
+    "price": 6.38,
+    "volume": 2015614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-06",
+    "price": 6.35,
+    "volume": 2091413
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-05",
+    "price": 6.39,
+    "volume": 2210454
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-04",
+    "price": 6.41,
+    "volume": 3217544
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-10-01",
+    "price": 6.4,
+    "volume": 3113242
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-30",
+    "price": 6.3,
+    "volume": 4669329
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-29",
+    "price": 6.27,
+    "volume": 13874016
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-28",
+    "price": 6,
+    "volume": 8599243
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-27",
+    "price": 6.14,
+    "volume": 2560044
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-24",
+    "price": 5.87,
+    "volume": 5336007
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-23",
+    "price": 6.23,
+    "volume": 3316270
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-22",
+    "price": 6.67,
+    "volume": 1217113
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-21",
+    "price": 6.55,
+    "volume": 1191889
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-20",
+    "price": 6.44,
+    "volume": 2163773
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-17",
+    "price": 6.62,
+    "volume": 2837658
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-16",
+    "price": 6.56,
+    "volume": 901522
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-15",
+    "price": 6.55,
+    "volume": 1306155
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-14",
+    "price": 6.56,
+    "volume": 1176297
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-13",
+    "price": 6.75,
+    "volume": 702162
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-10",
+    "price": 6.74,
+    "volume": 1081930
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-09",
+    "price": 6.85,
+    "volume": 1445551
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-08",
+    "price": 6.72,
+    "volume": 1888339
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-07",
+    "price": 6.89,
+    "volume": 1396093
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-03",
+    "price": 6.95,
+    "volume": 1198315
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-02",
+    "price": 7.12,
+    "volume": 742999
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-09-01",
+    "price": 7.14,
+    "volume": 1570324
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-31",
+    "price": 7.3,
+    "volume": 4525736
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-30",
+    "price": 6.84,
+    "volume": 849561
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-27",
+    "price": 6.83,
+    "volume": 1117905
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-26",
+    "price": 6.54,
+    "volume": 747583
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-25",
+    "price": 6.68,
+    "volume": 724174
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-24",
+    "price": 6.73,
+    "volume": 1046022
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-23",
+    "price": 6.5,
+    "volume": 879037
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-20",
+    "price": 6.39,
+    "volume": 1176492
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-19",
+    "price": 6.39,
+    "volume": 1696413
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-18",
+    "price": 6.39,
+    "volume": 1050093
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-17",
+    "price": 6.51,
+    "volume": 1242196
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-16",
+    "price": 6.55,
+    "volume": 1015467
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-13",
+    "price": 6.6,
+    "volume": 749965
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-12",
+    "price": 6.62,
+    "volume": 1188374
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-11",
+    "price": 6.64,
+    "volume": 1104655
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-10",
+    "price": 6.63,
+    "volume": 2278999
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-09",
+    "price": 6.79,
+    "volume": 2301636
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-06",
+    "price": 7,
+    "volume": 3807896
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-05",
+    "price": 7.3,
+    "volume": 3040171
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-04",
+    "price": 7.2,
+    "volume": 1563674
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-03",
+    "price": 7.39,
+    "volume": 1210744
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-08-02",
+    "price": 7.5,
+    "volume": 1342730
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-30",
+    "price": 7.52,
+    "volume": 1363622
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-29",
+    "price": 7.72,
+    "volume": 991614
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-28",
+    "price": 7.69,
+    "volume": 1016214
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-27",
+    "price": 7.77,
+    "volume": 1030599
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-26",
+    "price": 7.89,
+    "volume": 1255458
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-23",
+    "price": 7.8,
+    "volume": 842763
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-22",
+    "price": 7.83,
+    "volume": 1167725
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-21",
+    "price": 8.28,
+    "volume": 1586376
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-20",
+    "price": 8.16,
+    "volume": 1748576
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-19",
+    "price": 7.86,
+    "volume": 1499949
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-16",
+    "price": 8.16,
+    "volume": 1223897
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-15",
+    "price": 8.34,
+    "volume": 1620473
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-14",
+    "price": 8.28,
+    "volume": 1062500
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-13",
+    "price": 8.43,
+    "volume": 1225966
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-12",
+    "price": 8.59,
+    "volume": 1169644
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-09",
+    "price": 8.39,
+    "volume": 995263
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-08",
+    "price": 8.17,
+    "volume": 1026644
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-07",
+    "price": 8.09,
+    "volume": 1135285
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-06",
+    "price": 8.14,
+    "volume": 1806387
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-02",
+    "price": 8.24,
+    "volume": 617932
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-07-01",
+    "price": 8.17,
+    "volume": 2208443
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-30",
+    "price": 7.9,
+    "volume": 3616004
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-29",
+    "price": 8.23,
+    "volume": 5290815
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-28",
+    "price": 8.48,
+    "volume": 966653
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-25",
+    "price": 8.3,
+    "volume": 2900083
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-24",
+    "price": 8.62,
+    "volume": 681189
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-23",
+    "price": 8.73,
+    "volume": 1042787
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-22",
+    "price": 8.6,
+    "volume": 1129027
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-21",
+    "price": 8.42,
+    "volume": 2737823
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-18",
+    "price": 8.33,
+    "volume": 2143353
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-17",
+    "price": 8.74,
+    "volume": 2603878
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-16",
+    "price": 8.75,
+    "volume": 2332312
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-15",
+    "price": 8.74,
+    "volume": 3687431
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-14",
+    "price": 8.57,
+    "volume": 2580091
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-11",
+    "price": 8.49,
+    "volume": 6389356
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-10",
+    "price": 7.3,
+    "volume": 1418249
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-09",
+    "price": 7.3,
+    "volume": 2101813
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-08",
+    "price": 6.88,
+    "volume": 1456759
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-07",
+    "price": 6.8,
+    "volume": 901920
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-04",
+    "price": 6.79,
+    "volume": 959654
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-03",
+    "price": 6.94,
+    "volume": 1393092
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-02",
+    "price": 7.2,
+    "volume": 989004
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-06-01",
+    "price": 7.22,
+    "volume": 1737552
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-28",
+    "price": 6.74,
+    "volume": 1139746
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-27",
+    "price": 6.84,
+    "volume": 972961
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-26",
+    "price": 6.83,
+    "volume": 1047668
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-25",
+    "price": 6.77,
+    "volume": 1839460
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-24",
+    "price": 6.88,
+    "volume": 938904
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-21",
+    "price": 6.85,
+    "volume": 1576010
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-20",
+    "price": 6.83,
+    "volume": 2068441
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-19",
+    "price": 6.87,
+    "volume": 1826854
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-18",
+    "price": 7.13,
+    "volume": 1085455
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-17",
+    "price": 7.13,
+    "volume": 1079288
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-14",
+    "price": 7.14,
+    "volume": 1218719
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-13",
+    "price": 7,
+    "volume": 1707227
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-12",
+    "price": 6.99,
+    "volume": 1869154
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-11",
+    "price": 7.14,
+    "volume": 1435153
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-10",
+    "price": 7.57,
+    "volume": 2108811
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-07",
+    "price": 7.32,
+    "volume": 3918716
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-06",
+    "price": 6.6,
+    "volume": 2321581
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-05",
+    "price": 6.6,
+    "volume": 846943
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-04",
+    "price": 6.61,
+    "volume": 2017702
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-05-03",
+    "price": 6.76,
+    "volume": 817018
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-30",
+    "price": 6.54,
+    "volume": 1027896
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-29",
+    "price": 6.65,
+    "volume": 947272
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-28",
+    "price": 6.44,
+    "volume": 553804
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-27",
+    "price": 6.61,
+    "volume": 748912
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-26",
+    "price": 6.62,
+    "volume": 858932
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-23",
+    "price": 6.48,
+    "volume": 969205
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-22",
+    "price": 6.51,
+    "volume": 734957
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-21",
+    "price": 6.62,
+    "volume": 739044
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-20",
+    "price": 6.44,
+    "volume": 1145322
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-19",
+    "price": 6.54,
+    "volume": 1101287
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-16",
+    "price": 6.79,
+    "volume": 960508
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-15",
+    "price": 6.77,
+    "volume": 743485
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-14",
+    "price": 6.76,
+    "volume": 671428
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-13",
+    "price": 6.8,
+    "volume": 1435010
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-12",
+    "price": 6.7,
+    "volume": 963236
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-09",
+    "price": 6.71,
+    "volume": 1163932
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-08",
+    "price": 7.04,
+    "volume": 2000943
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-07",
+    "price": 6.72,
+    "volume": 1648204
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-06",
+    "price": 6.69,
+    "volume": 2587587
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-05",
+    "price": 6.3,
+    "volume": 1873904
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-04-01",
+    "price": 6.36,
+    "volume": 1791081
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-31",
+    "price": 6.05,
+    "volume": 3925254
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-30",
+    "price": 6.19,
+    "volume": 1558509
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-29",
+    "price": 5.99,
+    "volume": 1171877
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-26",
+    "price": 6.09,
+    "volume": 1240250
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-25",
+    "price": 5.93,
+    "volume": 2637231
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-24",
+    "price": 5.64,
+    "volume": 1312801
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-23",
+    "price": 5.77,
+    "volume": 1778749
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-22",
+    "price": 6.05,
+    "volume": 1328667
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-19",
+    "price": 6.33,
+    "volume": 4749136
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-18",
+    "price": 6.24,
+    "volume": 1492628
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-17",
+    "price": 6.45,
+    "volume": 1839301
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-16",
+    "price": 6.45,
+    "volume": 2094350
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-15",
+    "price": 6.81,
+    "volume": 3749338
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-12",
+    "price": 6.47,
+    "volume": 1839859
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-11",
+    "price": 6.23,
+    "volume": 1264808
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-10",
+    "price": 6.15,
+    "volume": 1580175
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-09",
+    "price": 6.02,
+    "volume": 1448874
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-08",
+    "price": 6.19,
+    "volume": 2044188
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-05",
+    "price": 5.93,
+    "volume": 1444696
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-04",
+    "price": 5.77,
+    "volume": 2383644
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-03",
+    "price": 6.05,
+    "volume": 2327468
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-02",
+    "price": 5.72,
+    "volume": 2304949
+  },
+  {
+    "symbol": "BKD",
+    "date": "2021-03-01",
+    "price": 5.7,
+    "volume": 2628742
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "BGS",
+    "date": "2024-12-28",
+    "stockPrice": 7.09,
+    "numberOfShares": 79012000,
+    "marketCapitalization": 560195080,
+    "minusCashAndCashEquivalents": 50583000,
+    "addTotalDebt": 2076834000,
+    "enterpriseValue": 2586446080
+  },
+  {
+    "symbol": "BGS",
+    "date": "2023-12-31",
+    "stockPrice": 10.5,
+    "numberOfShares": 74267132,
+    "marketCapitalization": 779804886,
+    "minusCashAndCashEquivalents": 41094000,
+    "addTotalDebt": 2117547000,
+    "enterpriseValue": 2856257886
+  },
+  {
+    "symbol": "BGS",
+    "date": "2022-12-31",
+    "stockPrice": 11.15,
+    "numberOfShares": 70468061,
+    "marketCapitalization": 785718880,
+    "minusCashAndCashEquivalents": 45442000,
+    "addTotalDebt": 2458233000,
+    "enterpriseValue": 3198509880
+  },
+  {
+    "symbol": "BGS",
+    "date": "2021-12-31",
+    "stockPrice": 30.73,
+    "numberOfShares": 65088000,
+    "marketCapitalization": 2000154240,
+    "minusCashAndCashEquivalents": 33690000,
+    "addTotalDebt": 2335786000,
+    "enterpriseValue": 4302250240
+  },
+  {
+    "symbol": "BGS",
+    "date": "2020-12-31",
+    "stockPrice": 27.73,
+    "numberOfShares": 64163000,
+    "marketCapitalization": 1779239990,
+    "minusCashAndCashEquivalents": 52182000,
+    "addTotalDebt": 2369079000,
+    "enterpriseValue": 4096136990
+  },
+  {
+    "symbol": "BGS",
+    "date": "2019-12-31",
+    "stockPrice": 17.93,
+    "numberOfShares": 65013000,
+    "marketCapitalization": 1165683090,
+    "minusCashAndCashEquivalents": 11315000,
+    "addTotalDebt": 1921593000,
+    "enterpriseValue": 3075961090
+  },
+  {
+    "symbol": "BGS",
+    "date": "2018-12-31",
+    "stockPrice": 28.91,
+    "numberOfShares": 66145000,
+    "marketCapitalization": 1912251950,
+    "minusCashAndCashEquivalents": 11648000,
+    "addTotalDebt": 1638877000,
+    "enterpriseValue": 3539480950
+  },
+  {
+    "symbol": "BGS",
+    "date": "2017-12-31",
+    "stockPrice": 35.15,
+    "numberOfShares": 66487000,
+    "marketCapitalization": 2337018050,
+    "minusCashAndCashEquivalents": 206506000,
+    "addTotalDebt": 2217574000,
+    "enterpriseValue": 4348086050
+  },
+  {
+    "symbol": "BGS",
+    "date": "2016-12-31",
+    "stockPrice": 43.8,
+    "numberOfShares": 63203000,
+    "marketCapitalization": 2768291400,
+    "minusCashAndCashEquivalents": 28833000,
+    "addTotalDebt": 1725783000,
+    "enterpriseValue": 4465241400
+  },
+  {
+    "symbol": "BGS",
+    "date": "2015-12-31",
+    "stockPrice": 35.02,
+    "numberOfShares": 56585000,
+    "marketCapitalization": 1981606700,
+    "minusCashAndCashEquivalents": 5246000,
+    "addTotalDebt": 1731521000,
+    "enterpriseValue": 3707881700
+  }
+]

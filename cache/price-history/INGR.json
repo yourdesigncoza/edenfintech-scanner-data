@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "INGR",
+    "date": "2026-02-27",
+    "price": 117.46,
+    "volume": 696301
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-26",
+    "price": 117.14,
+    "volume": 498800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-25",
+    "price": 116.44,
+    "volume": 542500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-24",
+    "price": 117.92,
+    "volume": 547500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-23",
+    "price": 116.06,
+    "volume": 911012
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-20",
+    "price": 117.16,
+    "volume": 706000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-19",
+    "price": 116.54,
+    "volume": 537900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-18",
+    "price": 116.42,
+    "volume": 690006
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-17",
+    "price": 116.47,
+    "volume": 537900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-13",
+    "price": 118.31,
+    "volume": 694300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-12",
+    "price": 117.21,
+    "volume": 921414
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-11",
+    "price": 119.89,
+    "volume": 864438
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-10",
+    "price": 118.72,
+    "volume": 800600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-09",
+    "price": 119.29,
+    "volume": 702300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-06",
+    "price": 120.11,
+    "volume": 829329
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-05",
+    "price": 118.89,
+    "volume": 964727
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-04",
+    "price": 119.96,
+    "volume": 1095235
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-03",
+    "price": 120.41,
+    "volume": 1721700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-02",
+    "price": 117.31,
+    "volume": 1102900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-30",
+    "price": 118.1,
+    "volume": 1266708
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-29",
+    "price": 117.2,
+    "volume": 528717
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-28",
+    "price": 116.45,
+    "volume": 628300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-27",
+    "price": 116.99,
+    "volume": 494412
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-26",
+    "price": 116.69,
+    "volume": 486311
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-23",
+    "price": 116.82,
+    "volume": 425385
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-22",
+    "price": 115.92,
+    "volume": 402135
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-21",
+    "price": 115.48,
+    "volume": 476523
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-20",
+    "price": 114.99,
+    "volume": 465400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-16",
+    "price": 114.9,
+    "volume": 463001
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-15",
+    "price": 116.74,
+    "volume": 354100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-14",
+    "price": 115.96,
+    "volume": 416100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-13",
+    "price": 113.03,
+    "volume": 451814
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-12",
+    "price": 113.03,
+    "volume": 485500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-09",
+    "price": 113.57,
+    "volume": 407636
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-08",
+    "price": 112.91,
+    "volume": 556300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-07",
+    "price": 110.4,
+    "volume": 526215
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-06",
+    "price": 111.34,
+    "volume": 592000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-05",
+    "price": 110.41,
+    "volume": 516600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-01-02",
+    "price": 109.79,
+    "volume": 525700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-31",
+    "price": 110.26,
+    "volume": 347000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-30",
+    "price": 111.19,
+    "volume": 448922
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-29",
+    "price": 111.26,
+    "volume": 560900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-26",
+    "price": 111.4,
+    "volume": 293200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-24",
+    "price": 111.02,
+    "volume": 225716
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-23",
+    "price": 110.33,
+    "volume": 498924
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-22",
+    "price": 111.05,
+    "volume": 480701
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-19",
+    "price": 110.49,
+    "volume": 2481000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-18",
+    "price": 111.32,
+    "volume": 728454
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-17",
+    "price": 111.75,
+    "volume": 662606
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-16",
+    "price": 112.24,
+    "volume": 677200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-15",
+    "price": 112.79,
+    "volume": 1006300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-12",
+    "price": 112.42,
+    "volume": 1108100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-11",
+    "price": 111.2,
+    "volume": 976800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-10",
+    "price": 108.74,
+    "volume": 1013600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-09",
+    "price": 106.28,
+    "volume": 506739
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-08",
+    "price": 106.49,
+    "volume": 634639
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-05",
+    "price": 108.31,
+    "volume": 673500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-04",
+    "price": 108.24,
+    "volume": 555500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-03",
+    "price": 108.91,
+    "volume": 710000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-02",
+    "price": 107.68,
+    "volume": 695548
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-12-01",
+    "price": 108.13,
+    "volume": 1022100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-28",
+    "price": 107.54,
+    "volume": 438000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-26",
+    "price": 107.58,
+    "volume": 643600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-25",
+    "price": 107.22,
+    "volume": 636138
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-24",
+    "price": 105.86,
+    "volume": 741225
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-21",
+    "price": 107.62,
+    "volume": 675414
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-20",
+    "price": 106.79,
+    "volume": 499116
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-19",
+    "price": 106.96,
+    "volume": 497000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-18",
+    "price": 107.4,
+    "volume": 549830
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-17",
+    "price": 107,
+    "volume": 613703
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-14",
+    "price": 107.66,
+    "volume": 624222
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-13",
+    "price": 107.7,
+    "volume": 675824
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-12",
+    "price": 108.17,
+    "volume": 696604
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-11",
+    "price": 109.31,
+    "volume": 652631
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-10",
+    "price": 107.43,
+    "volume": 632500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-07",
+    "price": 108.49,
+    "volume": 766110
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-06",
+    "price": 106.45,
+    "volume": 737400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-05",
+    "price": 107.7,
+    "volume": 1099700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-04",
+    "price": 107.4,
+    "volume": 1913300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-11-03",
+    "price": 114.13,
+    "volume": 1140214
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-31",
+    "price": 115.41,
+    "volume": 541144
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-30",
+    "price": 115.23,
+    "volume": 500925
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-29",
+    "price": 115.71,
+    "volume": 600700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-28",
+    "price": 117.62,
+    "volume": 460506
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-27",
+    "price": 117.48,
+    "volume": 539530
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-24",
+    "price": 118.12,
+    "volume": 380030
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-23",
+    "price": 119.23,
+    "volume": 475586
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-22",
+    "price": 120.23,
+    "volume": 503100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-21",
+    "price": 120.17,
+    "volume": 411500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-20",
+    "price": 121.54,
+    "volume": 253500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-17",
+    "price": 121.45,
+    "volume": 398301
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-16",
+    "price": 120.48,
+    "volume": 324948
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-15",
+    "price": 120.41,
+    "volume": 527412
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-14",
+    "price": 120.91,
+    "volume": 532182
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-13",
+    "price": 120.06,
+    "volume": 482600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-10",
+    "price": 119.73,
+    "volume": 511100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-09",
+    "price": 119.55,
+    "volume": 459123
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-08",
+    "price": 121.64,
+    "volume": 436900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-07",
+    "price": 120.58,
+    "volume": 564100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-06",
+    "price": 120.23,
+    "volume": 510318
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-03",
+    "price": 120.87,
+    "volume": 553900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-02",
+    "price": 119.6,
+    "volume": 598401
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-10-01",
+    "price": 121.64,
+    "volume": 663400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-30",
+    "price": 122.11,
+    "volume": 585700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-29",
+    "price": 121.13,
+    "volume": 686200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-26",
+    "price": 121.04,
+    "volume": 534000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-25",
+    "price": 121.01,
+    "volume": 662846
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-24",
+    "price": 122.16,
+    "volume": 625649
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-23",
+    "price": 122.1,
+    "volume": 805635
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-22",
+    "price": 122.09,
+    "volume": 746021
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-19",
+    "price": 122.59,
+    "volume": 1308236
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-18",
+    "price": 124.04,
+    "volume": 550900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-17",
+    "price": 123.93,
+    "volume": 825926
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-16",
+    "price": 125.72,
+    "volume": 597900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-15",
+    "price": 123.67,
+    "volume": 542800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-12",
+    "price": 126.12,
+    "volume": 330125
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-11",
+    "price": 126.88,
+    "volume": 448330
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-10",
+    "price": 125.95,
+    "volume": 415800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-09",
+    "price": 127.07,
+    "volume": 335500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-08",
+    "price": 128.1,
+    "volume": 462600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-05",
+    "price": 128.41,
+    "volume": 383112
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-04",
+    "price": 127.93,
+    "volume": 367312
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-03",
+    "price": 127.83,
+    "volume": 602553
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-09-02",
+    "price": 128.43,
+    "volume": 693700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-29",
+    "price": 129.54,
+    "volume": 439735
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-28",
+    "price": 129.05,
+    "volume": 491100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-27",
+    "price": 129.25,
+    "volume": 515102
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-26",
+    "price": 128.07,
+    "volume": 491800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-25",
+    "price": 128.02,
+    "volume": 229300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-22",
+    "price": 129.04,
+    "volume": 388800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-21",
+    "price": 127.64,
+    "volume": 550915
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-20",
+    "price": 126.75,
+    "volume": 360600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-19",
+    "price": 126.08,
+    "volume": 298901
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-18",
+    "price": 125.27,
+    "volume": 412463
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-15",
+    "price": 125.93,
+    "volume": 370305
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-14",
+    "price": 126.39,
+    "volume": 324944
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-13",
+    "price": 127.9,
+    "volume": 299300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-12",
+    "price": 126.85,
+    "volume": 392052
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-11",
+    "price": 126.06,
+    "volume": 302200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-08",
+    "price": 126.24,
+    "volume": 346028
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-07",
+    "price": 126.27,
+    "volume": 316917
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-06",
+    "price": 125.18,
+    "volume": 549700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-05",
+    "price": 126.3,
+    "volume": 685094
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-04",
+    "price": 126.6,
+    "volume": 719400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-08-01",
+    "price": 126.37,
+    "volume": 959600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-31",
+    "price": 131.54,
+    "volume": 683800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-30",
+    "price": 132.11,
+    "volume": 463000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-29",
+    "price": 132.31,
+    "volume": 279900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-28",
+    "price": 131.58,
+    "volume": 345800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-25",
+    "price": 133.07,
+    "volume": 309200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-24",
+    "price": 132.74,
+    "volume": 376956
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-23",
+    "price": 134.13,
+    "volume": 351810
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-22",
+    "price": 134.06,
+    "volume": 425231
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-21",
+    "price": 133.06,
+    "volume": 571912
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-18",
+    "price": 133.14,
+    "volume": 487146
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-17",
+    "price": 134.54,
+    "volume": 1233100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-16",
+    "price": 135.36,
+    "volume": 441200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-15",
+    "price": 134.34,
+    "volume": 385600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-14",
+    "price": 136.1,
+    "volume": 267900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-11",
+    "price": 135.71,
+    "volume": 393000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-10",
+    "price": 136.35,
+    "volume": 422600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-09",
+    "price": 136.06,
+    "volume": 449900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-08",
+    "price": 136.73,
+    "volume": 498233
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-07",
+    "price": 136.26,
+    "volume": 369419
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-03",
+    "price": 137.35,
+    "volume": 226600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-02",
+    "price": 138.21,
+    "volume": 476502
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-07-01",
+    "price": 136.88,
+    "volume": 603641
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-30",
+    "price": 135.62,
+    "volume": 332700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-27",
+    "price": 135.86,
+    "volume": 642943
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-26",
+    "price": 135.39,
+    "volume": 451142
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-25",
+    "price": 134.04,
+    "volume": 524800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-24",
+    "price": 137.5,
+    "volume": 462000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-23",
+    "price": 139.23,
+    "volume": 580442
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-20",
+    "price": 137.32,
+    "volume": 1075800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-18",
+    "price": 136.9,
+    "volume": 408515
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-17",
+    "price": 137.52,
+    "volume": 388400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-16",
+    "price": 137.66,
+    "volume": 513823
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-13",
+    "price": 138.26,
+    "volume": 387832
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-12",
+    "price": 139.44,
+    "volume": 320800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-11",
+    "price": 138.26,
+    "volume": 568975
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-10",
+    "price": 139,
+    "volume": 343330
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-09",
+    "price": 138.21,
+    "volume": 250700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-06",
+    "price": 138,
+    "volume": 327100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-05",
+    "price": 136.74,
+    "volume": 313230
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-04",
+    "price": 137.22,
+    "volume": 347500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-03",
+    "price": 138.44,
+    "volume": 299400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-06-02",
+    "price": 138.95,
+    "volume": 355500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-30",
+    "price": 139.12,
+    "volume": 420608
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-29",
+    "price": 138.67,
+    "volume": 302236
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-28",
+    "price": 138.09,
+    "volume": 381100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-27",
+    "price": 139.42,
+    "volume": 453611
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-23",
+    "price": 136.69,
+    "volume": 363000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-22",
+    "price": 137.24,
+    "volume": 447402
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-21",
+    "price": 138.35,
+    "volume": 435400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-20",
+    "price": 140.95,
+    "volume": 460130
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-19",
+    "price": 140.08,
+    "volume": 313409
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-16",
+    "price": 140.81,
+    "volume": 481400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-15",
+    "price": 138.89,
+    "volume": 421500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-14",
+    "price": 135.25,
+    "volume": 484300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-13",
+    "price": 137.68,
+    "volume": 596217
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-12",
+    "price": 137.23,
+    "volume": 416827
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-09",
+    "price": 137.16,
+    "volume": 394931
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-08",
+    "price": 137.23,
+    "volume": 402448
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-07",
+    "price": 135.69,
+    "volume": 533000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-06",
+    "price": 138.44,
+    "volume": 833810
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-05",
+    "price": 133.63,
+    "volume": 598010
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-02",
+    "price": 132.44,
+    "volume": 517100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-05-01",
+    "price": 131,
+    "volume": 366700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-30",
+    "price": 132.82,
+    "volume": 492200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-29",
+    "price": 132.15,
+    "volume": 501126
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-28",
+    "price": 131.06,
+    "volume": 523743
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-25",
+    "price": 130.2,
+    "volume": 340437
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-24",
+    "price": 130.06,
+    "volume": 371749
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-23",
+    "price": 130.22,
+    "volume": 341529
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-22",
+    "price": 130.77,
+    "volume": 327516
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-21",
+    "price": 128.41,
+    "volume": 323000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-17",
+    "price": 129.73,
+    "volume": 427915
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-16",
+    "price": 128.11,
+    "volume": 474100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-15",
+    "price": 130.18,
+    "volume": 325900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-14",
+    "price": 131.26,
+    "volume": 396600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-11",
+    "price": 129.95,
+    "volume": 490500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-10",
+    "price": 127.51,
+    "volume": 452119
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-09",
+    "price": 128.1,
+    "volume": 1035300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-08",
+    "price": 123.22,
+    "volume": 576100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-07",
+    "price": 125.26,
+    "volume": 894500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-04",
+    "price": 130.89,
+    "volume": 611511
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-03",
+    "price": 136.41,
+    "volume": 446944
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-02",
+    "price": 135.32,
+    "volume": 355025
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-04-01",
+    "price": 135.96,
+    "volume": 345237
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-31",
+    "price": 135.21,
+    "volume": 454100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-28",
+    "price": 134.99,
+    "volume": 553300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-27",
+    "price": 135.6,
+    "volume": 364400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-26",
+    "price": 135.04,
+    "volume": 462725
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-25",
+    "price": 132.48,
+    "volume": 494300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-24",
+    "price": 133.04,
+    "volume": 709916
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-21",
+    "price": 130.33,
+    "volume": 3525877
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-20",
+    "price": 131.76,
+    "volume": 511317
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-19",
+    "price": 132.41,
+    "volume": 468750
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-18",
+    "price": 132.05,
+    "volume": 398700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-17",
+    "price": 133.23,
+    "volume": 423402
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-14",
+    "price": 131.29,
+    "volume": 417700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-13",
+    "price": 130.55,
+    "volume": 640557
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-12",
+    "price": 130.54,
+    "volume": 896100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-11",
+    "price": 133.02,
+    "volume": 746100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-10",
+    "price": 136.79,
+    "volume": 700211
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-07",
+    "price": 135.47,
+    "volume": 913740
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-06",
+    "price": 131.04,
+    "volume": 778500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-05",
+    "price": 129.21,
+    "volume": 702800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-04",
+    "price": 129.09,
+    "volume": 735700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-03-03",
+    "price": 130.55,
+    "volume": 593749
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-28",
+    "price": 130.61,
+    "volume": 644731
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-27",
+    "price": 130.22,
+    "volume": 776000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-26",
+    "price": 130.57,
+    "volume": 571325
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-25",
+    "price": 132.48,
+    "volume": 806709
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-24",
+    "price": 130.3,
+    "volume": 797800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-21",
+    "price": 128.08,
+    "volume": 695239
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-20",
+    "price": 126.36,
+    "volume": 569643
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-19",
+    "price": 126.91,
+    "volume": 800135
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-18",
+    "price": 125.6,
+    "volume": 613715
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-14",
+    "price": 126.8,
+    "volume": 506544
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-13",
+    "price": 128.25,
+    "volume": 455029
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-12",
+    "price": 127.96,
+    "volume": 491126
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-11",
+    "price": 128.66,
+    "volume": 386649
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-10",
+    "price": 127.56,
+    "volume": 623540
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-07",
+    "price": 127.9,
+    "volume": 417546
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-06",
+    "price": 127.39,
+    "volume": 524705
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-05",
+    "price": 126.27,
+    "volume": 752948
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-04",
+    "price": 127.13,
+    "volume": 1127866
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-02-03",
+    "price": 134.73,
+    "volume": 903257
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-31",
+    "price": 136.44,
+    "volume": 562104
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-30",
+    "price": 137.36,
+    "volume": 640115
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-29",
+    "price": 136.67,
+    "volume": 438435
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-28",
+    "price": 135.09,
+    "volume": 556100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-27",
+    "price": 136.58,
+    "volume": 514245
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-24",
+    "price": 135.76,
+    "volume": 357313
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-23",
+    "price": 136.69,
+    "volume": 460642
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-22",
+    "price": 135.44,
+    "volume": 487940
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-21",
+    "price": 136.5,
+    "volume": 490030
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-17",
+    "price": 135.11,
+    "volume": 460441
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-16",
+    "price": 134.33,
+    "volume": 579102
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-15",
+    "price": 132.83,
+    "volume": 545134
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-14",
+    "price": 132.76,
+    "volume": 523150
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-13",
+    "price": 131.82,
+    "volume": 733639
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-10",
+    "price": 130.81,
+    "volume": 708100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-08",
+    "price": 133.51,
+    "volume": 323603
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-07",
+    "price": 132.72,
+    "volume": 418502
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-06",
+    "price": 134.07,
+    "volume": 437500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-03",
+    "price": 136.53,
+    "volume": 348400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2025-01-02",
+    "price": 136.5,
+    "volume": 356526
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-31",
+    "price": 137.56,
+    "volume": 336404
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-30",
+    "price": 137.14,
+    "volume": 230015
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-27",
+    "price": 138.57,
+    "volume": 246116
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-26",
+    "price": 138.91,
+    "volume": 309000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-24",
+    "price": 139.47,
+    "volume": 154800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-23",
+    "price": 138.7,
+    "volume": 420400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-20",
+    "price": 138.19,
+    "volume": 1508400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-19",
+    "price": 138.78,
+    "volume": 771241
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-18",
+    "price": 141.84,
+    "volume": 1240356
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-17",
+    "price": 142.16,
+    "volume": 458715
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-16",
+    "price": 142.98,
+    "volume": 360326
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-13",
+    "price": 144.31,
+    "volume": 294202
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-12",
+    "price": 144.79,
+    "volume": 426760
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-11",
+    "price": 144.43,
+    "volume": 510131
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-10",
+    "price": 143.89,
+    "volume": 512955
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-09",
+    "price": 142.81,
+    "volume": 665210
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-06",
+    "price": 145.23,
+    "volume": 531254
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-05",
+    "price": 147.85,
+    "volume": 561318
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-04",
+    "price": 149.39,
+    "volume": 396049
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-03",
+    "price": 149.11,
+    "volume": 489613
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-12-02",
+    "price": 148.11,
+    "volume": 409000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-29",
+    "price": 147.34,
+    "volume": 269700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-27",
+    "price": 147.03,
+    "volume": 461600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-26",
+    "price": 148.8,
+    "volume": 288804
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-25",
+    "price": 148.28,
+    "volume": 568900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-22",
+    "price": 146.47,
+    "volume": 528312
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-21",
+    "price": 144.36,
+    "volume": 369443
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-20",
+    "price": 142.35,
+    "volume": 396200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-19",
+    "price": 141.98,
+    "volume": 490928
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-18",
+    "price": 138.83,
+    "volume": 840700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-15",
+    "price": 140.83,
+    "volume": 955200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-14",
+    "price": 149.19,
+    "volume": 477044
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-13",
+    "price": 149.95,
+    "volume": 384100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-12",
+    "price": 150.23,
+    "volume": 485400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-11",
+    "price": 149.68,
+    "volume": 358096
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-08",
+    "price": 151.55,
+    "volume": 489000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-07",
+    "price": 150,
+    "volume": 688200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-06",
+    "price": 150.52,
+    "volume": 1165700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-05",
+    "price": 154.86,
+    "volume": 1440841
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-04",
+    "price": 134.04,
+    "volume": 333138
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-11-01",
+    "price": 133.77,
+    "volume": 258100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-31",
+    "price": 132.76,
+    "volume": 282220
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-30",
+    "price": 133.64,
+    "volume": 299723
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-29",
+    "price": 133.36,
+    "volume": 254300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-28",
+    "price": 134.84,
+    "volume": 234200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-25",
+    "price": 135,
+    "volume": 280716
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-24",
+    "price": 135.59,
+    "volume": 253100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-23",
+    "price": 135.97,
+    "volume": 401000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-22",
+    "price": 134.39,
+    "volume": 264467
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-21",
+    "price": 133.93,
+    "volume": 277900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-18",
+    "price": 134.26,
+    "volume": 223000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-17",
+    "price": 134.82,
+    "volume": 251549
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-16",
+    "price": 135.52,
+    "volume": 220900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-15",
+    "price": 135.07,
+    "volume": 273500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-14",
+    "price": 134.38,
+    "volume": 252600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-11",
+    "price": 133.41,
+    "volume": 340749
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-10",
+    "price": 133.58,
+    "volume": 350600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-09",
+    "price": 133.55,
+    "volume": 236842
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-08",
+    "price": 134.03,
+    "volume": 283700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-07",
+    "price": 134.49,
+    "volume": 314800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-04",
+    "price": 135.1,
+    "volume": 202700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-03",
+    "price": 134.2,
+    "volume": 195800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-02",
+    "price": 135.98,
+    "volume": 412033
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-10-01",
+    "price": 136.03,
+    "volume": 317600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-30",
+    "price": 137.43,
+    "volume": 342728
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-27",
+    "price": 137.37,
+    "volume": 228340
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-26",
+    "price": 137.51,
+    "volume": 462694
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-25",
+    "price": 135.19,
+    "volume": 406415
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-24",
+    "price": 135.75,
+    "volume": 269850
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-23",
+    "price": 135.04,
+    "volume": 446536
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-20",
+    "price": 134.98,
+    "volume": 1322800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-19",
+    "price": 136.16,
+    "volume": 256300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-18",
+    "price": 135.7,
+    "volume": 269914
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-17",
+    "price": 134.21,
+    "volume": 295622
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-16",
+    "price": 134.7,
+    "volume": 347807
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-13",
+    "price": 134.6,
+    "volume": 257000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-12",
+    "price": 134.88,
+    "volume": 239300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-11",
+    "price": 134.45,
+    "volume": 355737
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-10",
+    "price": 135.48,
+    "volume": 336844
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-09",
+    "price": 135.74,
+    "volume": 387423
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-06",
+    "price": 135.23,
+    "volume": 285700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-05",
+    "price": 134.92,
+    "volume": 322700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-04",
+    "price": 134.63,
+    "volume": 386626
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-09-03",
+    "price": 134.3,
+    "volume": 243912
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-30",
+    "price": 134.31,
+    "volume": 304900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-29",
+    "price": 133.53,
+    "volume": 382806
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-28",
+    "price": 133.77,
+    "volume": 349400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-27",
+    "price": 132.65,
+    "volume": 180712
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-26",
+    "price": 132.71,
+    "volume": 216453
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-23",
+    "price": 132.82,
+    "volume": 255586
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-22",
+    "price": 132.04,
+    "volume": 145200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-21",
+    "price": 132.51,
+    "volume": 245400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-20",
+    "price": 131.88,
+    "volume": 204901
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-19",
+    "price": 132.36,
+    "volume": 249900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-16",
+    "price": 130.99,
+    "volume": 250678
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-15",
+    "price": 130.77,
+    "volume": 308735
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-14",
+    "price": 130.88,
+    "volume": 268400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-13",
+    "price": 129.75,
+    "volume": 275933
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-12",
+    "price": 128.26,
+    "volume": 405100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-09",
+    "price": 130.17,
+    "volume": 462300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-08",
+    "price": 126.76,
+    "volume": 362201
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-07",
+    "price": 126.37,
+    "volume": 634740
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-06",
+    "price": 127.95,
+    "volume": 594812
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-05",
+    "price": 120.01,
+    "volume": 491008
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-02",
+    "price": 123.02,
+    "volume": 328027
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-08-01",
+    "price": 123.34,
+    "volume": 434803
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-31",
+    "price": 124.37,
+    "volume": 337139
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-30",
+    "price": 123.74,
+    "volume": 312800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-29",
+    "price": 121.35,
+    "volume": 241200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-26",
+    "price": 121.21,
+    "volume": 278038
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-25",
+    "price": 119.72,
+    "volume": 350512
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-24",
+    "price": 118.64,
+    "volume": 277942
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-23",
+    "price": 117.86,
+    "volume": 311301
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-22",
+    "price": 119.96,
+    "volume": 208906
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-19",
+    "price": 119.03,
+    "volume": 343123
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-18",
+    "price": 119.77,
+    "volume": 241114
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-17",
+    "price": 119.26,
+    "volume": 544340
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-16",
+    "price": 117.1,
+    "volume": 388000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-15",
+    "price": 114,
+    "volume": 289339
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-12",
+    "price": 115.01,
+    "volume": 302524
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-11",
+    "price": 114.77,
+    "volume": 312300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-10",
+    "price": 113.27,
+    "volume": 264500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-09",
+    "price": 111.98,
+    "volume": 367500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-08",
+    "price": 112.89,
+    "volume": 363504
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-05",
+    "price": 112.38,
+    "volume": 885112
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-03",
+    "price": 112.95,
+    "volume": 268100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-02",
+    "price": 112.82,
+    "volume": 776100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-07-01",
+    "price": 113.77,
+    "volume": 481500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-28",
+    "price": 114.7,
+    "volume": 520400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-27",
+    "price": 114.81,
+    "volume": 357220
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-26",
+    "price": 114.11,
+    "volume": 529445
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-25",
+    "price": 115.04,
+    "volume": 419800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-24",
+    "price": 116.33,
+    "volume": 354733
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-21",
+    "price": 115.5,
+    "volume": 2333936
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-20",
+    "price": 114.56,
+    "volume": 448200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-18",
+    "price": 115.75,
+    "volume": 399742
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-17",
+    "price": 115.33,
+    "volume": 376000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-14",
+    "price": 113.89,
+    "volume": 286607
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-13",
+    "price": 114.75,
+    "volume": 324200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-12",
+    "price": 114.93,
+    "volume": 368801
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-11",
+    "price": 114.99,
+    "volume": 315708
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-10",
+    "price": 115.33,
+    "volume": 259400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-07",
+    "price": 115.94,
+    "volume": 252719
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-06",
+    "price": 116.23,
+    "volume": 312238
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-05",
+    "price": 115.85,
+    "volume": 341112
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-04",
+    "price": 114.93,
+    "volume": 234900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-06-03",
+    "price": 116.57,
+    "volume": 263243
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-31",
+    "price": 117.58,
+    "volume": 328230
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-30",
+    "price": 116.6,
+    "volume": 326649
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-29",
+    "price": 115.43,
+    "volume": 265000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-28",
+    "price": 116.44,
+    "volume": 302100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-24",
+    "price": 117.7,
+    "volume": 170000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-23",
+    "price": 117.65,
+    "volume": 477515
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-22",
+    "price": 118.32,
+    "volume": 334600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-21",
+    "price": 118.81,
+    "volume": 320131
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-20",
+    "price": 118.23,
+    "volume": 254400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-17",
+    "price": 119.63,
+    "volume": 317012
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-16",
+    "price": 118.88,
+    "volume": 403846
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-15",
+    "price": 117.66,
+    "volume": 438600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-14",
+    "price": 118.13,
+    "volume": 544801
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-13",
+    "price": 121.37,
+    "volume": 580400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-10",
+    "price": 120.22,
+    "volume": 426331
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-09",
+    "price": 119.97,
+    "volume": 439600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-08",
+    "price": 118.45,
+    "volume": 806879
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-07",
+    "price": 116.57,
+    "volume": 358930
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-06",
+    "price": 115.41,
+    "volume": 199900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-03",
+    "price": 114.56,
+    "volume": 200900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-02",
+    "price": 115.25,
+    "volume": 266300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-05-01",
+    "price": 114.3,
+    "volume": 264400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-30",
+    "price": 114.59,
+    "volume": 202000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-29",
+    "price": 115.06,
+    "volume": 325300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-26",
+    "price": 113.29,
+    "volume": 296644
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-25",
+    "price": 114.48,
+    "volume": 201900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-24",
+    "price": 115.1,
+    "volume": 194547
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-23",
+    "price": 114.33,
+    "volume": 180100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-22",
+    "price": 114.31,
+    "volume": 223836
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-19",
+    "price": 113.62,
+    "volume": 360100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-18",
+    "price": 112.33,
+    "volume": 249400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-17",
+    "price": 111.29,
+    "volume": 388400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-16",
+    "price": 111.52,
+    "volume": 755613
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-15",
+    "price": 110.13,
+    "volume": 285315
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-12",
+    "price": 110.15,
+    "volume": 316532
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-11",
+    "price": 111.89,
+    "volume": 273603
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-10",
+    "price": 112.88,
+    "volume": 455629
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-09",
+    "price": 113.13,
+    "volume": 371500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-08",
+    "price": 113.27,
+    "volume": 391856
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-05",
+    "price": 114.36,
+    "volume": 267001
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-04",
+    "price": 115.03,
+    "volume": 307019
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-03",
+    "price": 114.41,
+    "volume": 366200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-02",
+    "price": 116.39,
+    "volume": 322425
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-04-01",
+    "price": 117.23,
+    "volume": 337549
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-28",
+    "price": 116.85,
+    "volume": 340615
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-27",
+    "price": 118.1,
+    "volume": 367600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-26",
+    "price": 117.54,
+    "volume": 301118
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-25",
+    "price": 117.4,
+    "volume": 360600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-22",
+    "price": 117.13,
+    "volume": 309732
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-21",
+    "price": 116.08,
+    "volume": 334431
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-20",
+    "price": 116.57,
+    "volume": 404844
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-19",
+    "price": 117.12,
+    "volume": 341854
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-18",
+    "price": 115.37,
+    "volume": 358300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-15",
+    "price": 114.75,
+    "volume": 1765100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-14",
+    "price": 115.41,
+    "volume": 386921
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-13",
+    "price": 117,
+    "volume": 532036
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-12",
+    "price": 117.93,
+    "volume": 392202
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-11",
+    "price": 117.62,
+    "volume": 426516
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-08",
+    "price": 117.47,
+    "volume": 343434
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-07",
+    "price": 116.29,
+    "volume": 459800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-06",
+    "price": 116.33,
+    "volume": 457530
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-05",
+    "price": 116.71,
+    "volume": 325000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-04",
+    "price": 117.35,
+    "volume": 388001
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-03-01",
+    "price": 117.13,
+    "volume": 329500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-29",
+    "price": 117.63,
+    "volume": 585924
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-28",
+    "price": 116.34,
+    "volume": 350936
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-27",
+    "price": 115.16,
+    "volume": 379000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-26",
+    "price": 114.62,
+    "volume": 254100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-23",
+    "price": 114.97,
+    "volume": 315619
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-22",
+    "price": 114.71,
+    "volume": 557000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-21",
+    "price": 115.2,
+    "volume": 318400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-20",
+    "price": 115.86,
+    "volume": 453351
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-16",
+    "price": 114.17,
+    "volume": 309700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-15",
+    "price": 114.91,
+    "volume": 476426
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-14",
+    "price": 110.79,
+    "volume": 519800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-13",
+    "price": 108.38,
+    "volume": 391237
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-12",
+    "price": 109.07,
+    "volume": 420457
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-09",
+    "price": 108.16,
+    "volume": 305934
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-08",
+    "price": 109.46,
+    "volume": 378000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-07",
+    "price": 110.68,
+    "volume": 654721
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-06",
+    "price": 109.71,
+    "volume": 1031900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-05",
+    "price": 110.59,
+    "volume": 521463
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-02",
+    "price": 111.22,
+    "volume": 391570
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-02-01",
+    "price": 111.08,
+    "volume": 481300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-31",
+    "price": 107.57,
+    "volume": 266000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-30",
+    "price": 109.26,
+    "volume": 325500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-29",
+    "price": 108.18,
+    "volume": 368951
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-26",
+    "price": 109.27,
+    "volume": 392200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-25",
+    "price": 108.43,
+    "volume": 448200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-24",
+    "price": 107.32,
+    "volume": 476500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-23",
+    "price": 109.11,
+    "volume": 437900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-22",
+    "price": 109.45,
+    "volume": 312609
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-19",
+    "price": 109.89,
+    "volume": 214600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-18",
+    "price": 110.08,
+    "volume": 274612
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-17",
+    "price": 110.1,
+    "volume": 286821
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-16",
+    "price": 109.52,
+    "volume": 279500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-12",
+    "price": 109.86,
+    "volume": 268600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-11",
+    "price": 109.23,
+    "volume": 373700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-10",
+    "price": 107.59,
+    "volume": 383500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-09",
+    "price": 107.16,
+    "volume": 270413
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-08",
+    "price": 106.9,
+    "volume": 223328
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-05",
+    "price": 106.46,
+    "volume": 464700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-04",
+    "price": 106.86,
+    "volume": 323220
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-03",
+    "price": 108.01,
+    "volume": 358003
+  },
+  {
+    "symbol": "INGR",
+    "date": "2024-01-02",
+    "price": 109.69,
+    "volume": 285000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-29",
+    "price": 108.53,
+    "volume": 252518
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-28",
+    "price": 108.85,
+    "volume": 175119
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-27",
+    "price": 108.75,
+    "volume": 188000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-26",
+    "price": 109.19,
+    "volume": 148935
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-22",
+    "price": 108.53,
+    "volume": 256200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-21",
+    "price": 107.77,
+    "volume": 258330
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-20",
+    "price": 106.62,
+    "volume": 340600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-19",
+    "price": 107.44,
+    "volume": 245600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-18",
+    "price": 106.84,
+    "volume": 254000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-15",
+    "price": 106.46,
+    "volume": 916503
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-14",
+    "price": 108.41,
+    "volume": 562716
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-13",
+    "price": 109.15,
+    "volume": 428400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-12",
+    "price": 106.95,
+    "volume": 226500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-11",
+    "price": 106.75,
+    "volume": 215509
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-08",
+    "price": 106.12,
+    "volume": 232900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-07",
+    "price": 106.11,
+    "volume": 204400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-06",
+    "price": 105.75,
+    "volume": 283700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-05",
+    "price": 105.43,
+    "volume": 228000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-04",
+    "price": 105.77,
+    "volume": 408200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-12-01",
+    "price": 104.57,
+    "volume": 339043
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-30",
+    "price": 102.49,
+    "volume": 443228
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-29",
+    "price": 101.19,
+    "volume": 316128
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-28",
+    "price": 102.77,
+    "volume": 264534
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-27",
+    "price": 103.66,
+    "volume": 199400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-24",
+    "price": 103.88,
+    "volume": 110328
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-22",
+    "price": 104.25,
+    "volume": 256929
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-21",
+    "price": 103.11,
+    "volume": 292448
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-20",
+    "price": 103.01,
+    "volume": 214000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-17",
+    "price": 103.18,
+    "volume": 203704
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-16",
+    "price": 102.79,
+    "volume": 257819
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-15",
+    "price": 103.54,
+    "volume": 426400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-14",
+    "price": 103.18,
+    "volume": 367900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-13",
+    "price": 102.24,
+    "volume": 290600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-10",
+    "price": 102.39,
+    "volume": 426319
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-09",
+    "price": 101.41,
+    "volume": 378700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-08",
+    "price": 100.02,
+    "volume": 474537
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-07",
+    "price": 101.83,
+    "volume": 664500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-06",
+    "price": 95.62,
+    "volume": 373924
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-03",
+    "price": 95.89,
+    "volume": 284742
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-02",
+    "price": 94.89,
+    "volume": 294800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-11-01",
+    "price": 93.07,
+    "volume": 345948
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-31",
+    "price": 93.58,
+    "volume": 332000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-30",
+    "price": 93.48,
+    "volume": 221800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-27",
+    "price": 92.67,
+    "volume": 331800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-26",
+    "price": 93.41,
+    "volume": 454112
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-25",
+    "price": 92.64,
+    "volume": 484300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-24",
+    "price": 91.96,
+    "volume": 492100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-23",
+    "price": 89.7,
+    "volume": 317500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-20",
+    "price": 90.45,
+    "volume": 332203
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-19",
+    "price": 90.74,
+    "volume": 551828
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-18",
+    "price": 92.79,
+    "volume": 485600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-17",
+    "price": 93.65,
+    "volume": 379700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-16",
+    "price": 92.58,
+    "volume": 241900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-13",
+    "price": 91.65,
+    "volume": 350245
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-12",
+    "price": 91.23,
+    "volume": 490125
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-11",
+    "price": 93.82,
+    "volume": 439320
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-10",
+    "price": 94.64,
+    "volume": 332300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-09",
+    "price": 95.03,
+    "volume": 226200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-06",
+    "price": 94.25,
+    "volume": 357800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-05",
+    "price": 95.06,
+    "volume": 300026
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-04",
+    "price": 96.41,
+    "volume": 256111
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-03",
+    "price": 96,
+    "volume": 394809
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-10-02",
+    "price": 96.83,
+    "volume": 410838
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-29",
+    "price": 98.4,
+    "volume": 376201
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-28",
+    "price": 98.35,
+    "volume": 334109
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-27",
+    "price": 97.38,
+    "volume": 259100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-26",
+    "price": 98.19,
+    "volume": 274650
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-25",
+    "price": 98.47,
+    "volume": 280528
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-22",
+    "price": 99.56,
+    "volume": 366746
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-21",
+    "price": 100.25,
+    "volume": 410432
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-20",
+    "price": 100.03,
+    "volume": 523700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-19",
+    "price": 99.59,
+    "volume": 315000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-18",
+    "price": 99.66,
+    "volume": 319806
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-15",
+    "price": 98.86,
+    "volume": 701346
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-14",
+    "price": 99.18,
+    "volume": 330630
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-13",
+    "price": 99.01,
+    "volume": 402948
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-12",
+    "price": 100.76,
+    "volume": 287677
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-11",
+    "price": 100.91,
+    "volume": 325040
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-08",
+    "price": 99.89,
+    "volume": 453264
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-07",
+    "price": 99.55,
+    "volume": 587100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-06",
+    "price": 100.46,
+    "volume": 538700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-05",
+    "price": 100.59,
+    "volume": 938300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-09-01",
+    "price": 102.65,
+    "volume": 223600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-31",
+    "price": 102.91,
+    "volume": 297600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-30",
+    "price": 102.82,
+    "volume": 401526
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-29",
+    "price": 103,
+    "volume": 228700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-28",
+    "price": 102.84,
+    "volume": 253500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-25",
+    "price": 102.99,
+    "volume": 402814
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-24",
+    "price": 101.55,
+    "volume": 357900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-23",
+    "price": 101.73,
+    "volume": 489900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-22",
+    "price": 100.74,
+    "volume": 408800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-21",
+    "price": 100.43,
+    "volume": 524500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-18",
+    "price": 99.84,
+    "volume": 416500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-17",
+    "price": 98.5,
+    "volume": 499251
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-16",
+    "price": 97.78,
+    "volume": 424100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-15",
+    "price": 97.56,
+    "volume": 485400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-14",
+    "price": 98.59,
+    "volume": 612815
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-11",
+    "price": 98.7,
+    "volume": 505147
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-10",
+    "price": 99.98,
+    "volume": 575859
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-09",
+    "price": 101.06,
+    "volume": 628100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-08",
+    "price": 101.03,
+    "volume": 1168379
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-07",
+    "price": 109.6,
+    "volume": 445181
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-04",
+    "price": 109.53,
+    "volume": 474534
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-03",
+    "price": 110.87,
+    "volume": 271715
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-02",
+    "price": 111.68,
+    "volume": 252705
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-08-01",
+    "price": 112.06,
+    "volume": 263132
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-31",
+    "price": 111.26,
+    "volume": 327300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-28",
+    "price": 110.46,
+    "volume": 226930
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-27",
+    "price": 109.38,
+    "volume": 312400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-26",
+    "price": 110.74,
+    "volume": 312300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-25",
+    "price": 109.78,
+    "volume": 226115
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-24",
+    "price": 109.81,
+    "volume": 235100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-21",
+    "price": 109.45,
+    "volume": 265826
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-20",
+    "price": 108.95,
+    "volume": 359600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-19",
+    "price": 108.06,
+    "volume": 400400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-18",
+    "price": 109.2,
+    "volume": 286048
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-17",
+    "price": 109.22,
+    "volume": 213700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-14",
+    "price": 108.52,
+    "volume": 235474
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-13",
+    "price": 108.77,
+    "volume": 273214
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-12",
+    "price": 109.45,
+    "volume": 386015
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-11",
+    "price": 108.69,
+    "volume": 217816
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-10",
+    "price": 107.95,
+    "volume": 248005
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-07",
+    "price": 107.24,
+    "volume": 400310
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-06",
+    "price": 106.96,
+    "volume": 272500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-05",
+    "price": 107.84,
+    "volume": 422800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-07-03",
+    "price": 106.5,
+    "volume": 158322
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-30",
+    "price": 105.95,
+    "volume": 322655
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-29",
+    "price": 104.75,
+    "volume": 260900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-28",
+    "price": 104.46,
+    "volume": 275002
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-27",
+    "price": 104.29,
+    "volume": 315800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-26",
+    "price": 103.69,
+    "volume": 313300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-23",
+    "price": 104.14,
+    "volume": 321835
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-22",
+    "price": 105.03,
+    "volume": 336843
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-21",
+    "price": 103.73,
+    "volume": 449300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-20",
+    "price": 105.13,
+    "volume": 391500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-16",
+    "price": 106.69,
+    "volume": 752605
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-15",
+    "price": 106.77,
+    "volume": 423100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-14",
+    "price": 107.78,
+    "volume": 390448
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-13",
+    "price": 107.58,
+    "volume": 353400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-12",
+    "price": 107.12,
+    "volume": 338800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-09",
+    "price": 106.87,
+    "volume": 197000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-08",
+    "price": 106.45,
+    "volume": 197447
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-07",
+    "price": 106.95,
+    "volume": 253200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-06",
+    "price": 106.46,
+    "volume": 359921
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-05",
+    "price": 106.05,
+    "volume": 277830
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-02",
+    "price": 107.51,
+    "volume": 261800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-06-01",
+    "price": 105.52,
+    "volume": 474437
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-31",
+    "price": 104.6,
+    "volume": 374200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-30",
+    "price": 105.76,
+    "volume": 319800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-26",
+    "price": 107.56,
+    "volume": 499446
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-25",
+    "price": 108.53,
+    "volume": 311300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-24",
+    "price": 109.64,
+    "volume": 306067
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-23",
+    "price": 110.23,
+    "volume": 265731
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-22",
+    "price": 111.47,
+    "volume": 372500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-19",
+    "price": 112.5,
+    "volume": 433028
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-18",
+    "price": 111.27,
+    "volume": 508100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-17",
+    "price": 109.92,
+    "volume": 570900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-16",
+    "price": 109.54,
+    "volume": 606900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-15",
+    "price": 110.21,
+    "volume": 496826
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-12",
+    "price": 109.58,
+    "volume": 339909
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-11",
+    "price": 109.63,
+    "volume": 359410
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-10",
+    "price": 109.93,
+    "volume": 533118
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-09",
+    "price": 108.41,
+    "volume": 285429
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-08",
+    "price": 108.39,
+    "volume": 368300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-05",
+    "price": 108.4,
+    "volume": 346537
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-04",
+    "price": 108.51,
+    "volume": 344700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-03",
+    "price": 109.95,
+    "volume": 1004236
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-02",
+    "price": 105.68,
+    "volume": 345501
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-05-01",
+    "price": 106.33,
+    "volume": 258300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-28",
+    "price": 106.17,
+    "volume": 298244
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-27",
+    "price": 105.56,
+    "volume": 288300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-26",
+    "price": 103.98,
+    "volume": 233918
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-25",
+    "price": 103.8,
+    "volume": 196100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-24",
+    "price": 105.42,
+    "volume": 180002
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-21",
+    "price": 104.83,
+    "volume": 211100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-20",
+    "price": 105.14,
+    "volume": 164511
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-19",
+    "price": 105.57,
+    "volume": 238100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-18",
+    "price": 105.02,
+    "volume": 214432
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-17",
+    "price": 104.77,
+    "volume": 281400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-14",
+    "price": 105.08,
+    "volume": 433600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-13",
+    "price": 106.22,
+    "volume": 832738
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-12",
+    "price": 101.56,
+    "volume": 269716
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-11",
+    "price": 101.55,
+    "volume": 262313
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-10",
+    "price": 101.7,
+    "volume": 204909
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-06",
+    "price": 101.67,
+    "volume": 228400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-05",
+    "price": 101.88,
+    "volume": 281206
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-04",
+    "price": 101.13,
+    "volume": 253700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-04-03",
+    "price": 102.51,
+    "volume": 301100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-31",
+    "price": 101.73,
+    "volume": 307600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-30",
+    "price": 101.4,
+    "volume": 223589
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-29",
+    "price": 101.81,
+    "volume": 275000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-28",
+    "price": 101.57,
+    "volume": 290312
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-27",
+    "price": 100.31,
+    "volume": 328240
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-24",
+    "price": 100.18,
+    "volume": 238600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-23",
+    "price": 98.02,
+    "volume": 657400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-22",
+    "price": 97.8,
+    "volume": 372100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-21",
+    "price": 99.71,
+    "volume": 463700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-20",
+    "price": 98.39,
+    "volume": 276602
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-17",
+    "price": 96.6,
+    "volume": 837816
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-16",
+    "price": 96.21,
+    "volume": 322300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-15",
+    "price": 95.04,
+    "volume": 269900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-14",
+    "price": 97.26,
+    "volume": 286400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-13",
+    "price": 95.07,
+    "volume": 235959
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-10",
+    "price": 95.88,
+    "volume": 211415
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-09",
+    "price": 97.5,
+    "volume": 293300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-08",
+    "price": 97.48,
+    "volume": 169100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-07",
+    "price": 97.48,
+    "volume": 258100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-06",
+    "price": 98.73,
+    "volume": 459700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-03",
+    "price": 100.44,
+    "volume": 155800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-02",
+    "price": 100.17,
+    "volume": 209032
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-03-01",
+    "price": 100.91,
+    "volume": 368200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-28",
+    "price": 99.4,
+    "volume": 377419
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-27",
+    "price": 100.63,
+    "volume": 239711
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-24",
+    "price": 101.74,
+    "volume": 396821
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-23",
+    "price": 101.35,
+    "volume": 362300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-22",
+    "price": 100.51,
+    "volume": 302800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-21",
+    "price": 99.66,
+    "volume": 302627
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-17",
+    "price": 99.07,
+    "volume": 262900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-16",
+    "price": 98.76,
+    "volume": 442300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-15",
+    "price": 98.69,
+    "volume": 196500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-14",
+    "price": 98.61,
+    "volume": 236605
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-13",
+    "price": 99.08,
+    "volume": 225635
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-10",
+    "price": 98.83,
+    "volume": 296529
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-09",
+    "price": 97.84,
+    "volume": 603000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-08",
+    "price": 101.02,
+    "volume": 383741
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-07",
+    "price": 100.68,
+    "volume": 443100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-06",
+    "price": 101.55,
+    "volume": 321939
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-03",
+    "price": 102.24,
+    "volume": 326200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-02",
+    "price": 101.24,
+    "volume": 268714
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-02-01",
+    "price": 102.67,
+    "volume": 438909
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-31",
+    "price": 102.8,
+    "volume": 216631
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-30",
+    "price": 101.43,
+    "volume": 194413
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-27",
+    "price": 101.36,
+    "volume": 147233
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-26",
+    "price": 102.66,
+    "volume": 306835
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-25",
+    "price": 102.51,
+    "volume": 235831
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-24",
+    "price": 101.34,
+    "volume": 189400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-23",
+    "price": 101.21,
+    "volume": 405150
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-20",
+    "price": 102.15,
+    "volume": 363335
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-19",
+    "price": 102.48,
+    "volume": 355832
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-18",
+    "price": 102.3,
+    "volume": 512600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-17",
+    "price": 104.44,
+    "volume": 603500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-13",
+    "price": 100.15,
+    "volume": 256600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-12",
+    "price": 100.38,
+    "volume": 275501
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-11",
+    "price": 99.3,
+    "volume": 213318
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-10",
+    "price": 98.76,
+    "volume": 152200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-09",
+    "price": 97.82,
+    "volume": 258238
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-06",
+    "price": 98.92,
+    "volume": 171813
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-05",
+    "price": 96.98,
+    "volume": 280300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-04",
+    "price": 98.04,
+    "volume": 207334
+  },
+  {
+    "symbol": "INGR",
+    "date": "2023-01-03",
+    "price": 97.4,
+    "volume": 332410
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-30",
+    "price": 97.93,
+    "volume": 228420
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-29",
+    "price": 98.18,
+    "volume": 167234
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-28",
+    "price": 98.09,
+    "volume": 123312
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-27",
+    "price": 99.45,
+    "volume": 130200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-23",
+    "price": 98.87,
+    "volume": 147600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-22",
+    "price": 98.43,
+    "volume": 247600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-21",
+    "price": 99.05,
+    "volume": 326200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-20",
+    "price": 97.48,
+    "volume": 139900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-19",
+    "price": 97.13,
+    "volume": 248541
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-16",
+    "price": 97.97,
+    "volume": 565600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-15",
+    "price": 98.41,
+    "volume": 298320
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-14",
+    "price": 99.99,
+    "volume": 222700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-13",
+    "price": 99.77,
+    "volume": 372902
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-12",
+    "price": 98.99,
+    "volume": 190200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-09",
+    "price": 98.26,
+    "volume": 200322
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-08",
+    "price": 99.01,
+    "volume": 149500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-07",
+    "price": 99.1,
+    "volume": 178000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-06",
+    "price": 97.95,
+    "volume": 347544
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-05",
+    "price": 99.51,
+    "volume": 242200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-02",
+    "price": 100.45,
+    "volume": 451646
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-12-01",
+    "price": 98.05,
+    "volume": 227220
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-30",
+    "price": 97.97,
+    "volume": 415400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-29",
+    "price": 96.71,
+    "volume": 236700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-28",
+    "price": 97.61,
+    "volume": 174208
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-25",
+    "price": 98.69,
+    "volume": 99900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-23",
+    "price": 97.99,
+    "volume": 202321
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-22",
+    "price": 97.94,
+    "volume": 336730
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-21",
+    "price": 95.87,
+    "volume": 231039
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-18",
+    "price": 95.34,
+    "volume": 651848
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-17",
+    "price": 94,
+    "volume": 288109
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-16",
+    "price": 93.99,
+    "volume": 227600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-15",
+    "price": 94.42,
+    "volume": 327300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-14",
+    "price": 92.84,
+    "volume": 257548
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-11",
+    "price": 92.56,
+    "volume": 286900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-10",
+    "price": 94.37,
+    "volume": 286300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-09",
+    "price": 92.03,
+    "volume": 231000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-08",
+    "price": 93.07,
+    "volume": 348612
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-07",
+    "price": 93.16,
+    "volume": 333048
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-04",
+    "price": 93.19,
+    "volume": 498536
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-03",
+    "price": 91.48,
+    "volume": 635923
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-02",
+    "price": 87.68,
+    "volume": 367400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-11-01",
+    "price": 88.72,
+    "volume": 292748
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-31",
+    "price": 89.12,
+    "volume": 336500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-28",
+    "price": 88.74,
+    "volume": 176800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-27",
+    "price": 87.44,
+    "volume": 277937
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-26",
+    "price": 86.28,
+    "volume": 337722
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-25",
+    "price": 85.89,
+    "volume": 293900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-24",
+    "price": 84.25,
+    "volume": 280300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-21",
+    "price": 83.96,
+    "volume": 193100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-20",
+    "price": 82.51,
+    "volume": 216640
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-19",
+    "price": 83.92,
+    "volume": 313938
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-18",
+    "price": 83.97,
+    "volume": 370800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-17",
+    "price": 83.37,
+    "volume": 353814
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-14",
+    "price": 82.29,
+    "volume": 257938
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-13",
+    "price": 83.37,
+    "volume": 268900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-12",
+    "price": 81.67,
+    "volume": 348100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-11",
+    "price": 81.9,
+    "volume": 335518
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-10",
+    "price": 81.1,
+    "volume": 210945
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-07",
+    "price": 80.57,
+    "volume": 376900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-06",
+    "price": 80.73,
+    "volume": 315704
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-05",
+    "price": 81.97,
+    "volume": 351310
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-04",
+    "price": 83.75,
+    "volume": 467400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-10-03",
+    "price": 81.71,
+    "volume": 630500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-30",
+    "price": 80.52,
+    "volume": 428700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-29",
+    "price": 82.09,
+    "volume": 439224
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-28",
+    "price": 82.88,
+    "volume": 598400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-27",
+    "price": 82.79,
+    "volume": 679200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-26",
+    "price": 78.99,
+    "volume": 322400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-23",
+    "price": 80.1,
+    "volume": 376018
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-22",
+    "price": 82.19,
+    "volume": 238800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-21",
+    "price": 82.98,
+    "volume": 254027
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-20",
+    "price": 83.7,
+    "volume": 284535
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-19",
+    "price": 84.28,
+    "volume": 413640
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-16",
+    "price": 83.11,
+    "volume": 991043
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-15",
+    "price": 82.89,
+    "volume": 414405
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-14",
+    "price": 83.4,
+    "volume": 456925
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-13",
+    "price": 83.68,
+    "volume": 359600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-12",
+    "price": 86.24,
+    "volume": 328500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-09",
+    "price": 85.74,
+    "volume": 328100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-08",
+    "price": 85.12,
+    "volume": 343600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-07",
+    "price": 85.03,
+    "volume": 491038
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-06",
+    "price": 84.12,
+    "volume": 316300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-02",
+    "price": 85.51,
+    "volume": 360000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-09-01",
+    "price": 86.48,
+    "volume": 386009
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-31",
+    "price": 87.07,
+    "volume": 588019
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-30",
+    "price": 88.2,
+    "volume": 371600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-29",
+    "price": 88.81,
+    "volume": 314600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-26",
+    "price": 89.56,
+    "volume": 417100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-25",
+    "price": 91.2,
+    "volume": 610535
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-24",
+    "price": 89.72,
+    "volume": 454604
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-23",
+    "price": 91.02,
+    "volume": 513933
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-22",
+    "price": 92.05,
+    "volume": 214011
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-19",
+    "price": 94.15,
+    "volume": 250700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-18",
+    "price": 94.75,
+    "volume": 170000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-17",
+    "price": 94.17,
+    "volume": 199112
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-16",
+    "price": 95.34,
+    "volume": 303943
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-15",
+    "price": 94.47,
+    "volume": 241545
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-12",
+    "price": 93.58,
+    "volume": 258200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-11",
+    "price": 93.69,
+    "volume": 379936
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-10",
+    "price": 93.11,
+    "volume": 296416
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-09",
+    "price": 91.56,
+    "volume": 432000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-08",
+    "price": 90.86,
+    "volume": 335013
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-05",
+    "price": 91.75,
+    "volume": 227421
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-04",
+    "price": 91.05,
+    "volume": 246800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-03",
+    "price": 91.63,
+    "volume": 244046
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-02",
+    "price": 90.78,
+    "volume": 219646
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-08-01",
+    "price": 91.82,
+    "volume": 203800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-29",
+    "price": 90.98,
+    "volume": 321200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-28",
+    "price": 89.64,
+    "volume": 214207
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-27",
+    "price": 89.24,
+    "volume": 267800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-26",
+    "price": 89.45,
+    "volume": 337000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-25",
+    "price": 88.92,
+    "volume": 239800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-22",
+    "price": 87.1,
+    "volume": 173543
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-21",
+    "price": 86.74,
+    "volume": 170426
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-20",
+    "price": 87.11,
+    "volume": 197100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-19",
+    "price": 86.86,
+    "volume": 240938
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-18",
+    "price": 85.2,
+    "volume": 275300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-15",
+    "price": 85.86,
+    "volume": 239300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-14",
+    "price": 85.47,
+    "volume": 252533
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-13",
+    "price": 86.46,
+    "volume": 363600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-12",
+    "price": 86.92,
+    "volume": 402900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-11",
+    "price": 86.3,
+    "volume": 317400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-08",
+    "price": 87.11,
+    "volume": 326200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-07",
+    "price": 88.93,
+    "volume": 396920
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-06",
+    "price": 87.61,
+    "volume": 537201
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-05",
+    "price": 88.7,
+    "volume": 312840
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-07-01",
+    "price": 89.76,
+    "volume": 292736
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-30",
+    "price": 88.16,
+    "volume": 476000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-29",
+    "price": 89.31,
+    "volume": 295000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-28",
+    "price": 89.61,
+    "volume": 325800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-27",
+    "price": 89.94,
+    "volume": 307100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-24",
+    "price": 88.4,
+    "volume": 528619
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-23",
+    "price": 84.88,
+    "volume": 557200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-22",
+    "price": 84.78,
+    "volume": 273500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-21",
+    "price": 86.02,
+    "volume": 453306
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-17",
+    "price": 84.62,
+    "volume": 505700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-16",
+    "price": 84.77,
+    "volume": 298632
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-15",
+    "price": 87.46,
+    "volume": 248842
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-14",
+    "price": 86.87,
+    "volume": 356400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-13",
+    "price": 87.22,
+    "volume": 336300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-10",
+    "price": 89.9,
+    "volume": 250717
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-09",
+    "price": 91.32,
+    "volume": 409033
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-08",
+    "price": 93.01,
+    "volume": 326000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-07",
+    "price": 93.49,
+    "volume": 313134
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-06",
+    "price": 92.7,
+    "volume": 246120
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-03",
+    "price": 93.11,
+    "volume": 348000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-02",
+    "price": 93.28,
+    "volume": 353821
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-06-01",
+    "price": 95.92,
+    "volume": 493300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-31",
+    "price": 94.69,
+    "volume": 483249
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-27",
+    "price": 94.61,
+    "volume": 296500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-26",
+    "price": 93.99,
+    "volume": 358435
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-25",
+    "price": 94.47,
+    "volume": 501800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-24",
+    "price": 91.99,
+    "volume": 373722
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-23",
+    "price": 93.7,
+    "volume": 294800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-20",
+    "price": 91.82,
+    "volume": 326100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-19",
+    "price": 92.08,
+    "volume": 413900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-18",
+    "price": 92.37,
+    "volume": 519500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-17",
+    "price": 95.03,
+    "volume": 380607
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-16",
+    "price": 92.55,
+    "volume": 335800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-13",
+    "price": 92.59,
+    "volume": 620700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-12",
+    "price": 89.48,
+    "volume": 645900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-11",
+    "price": 86.82,
+    "volume": 366100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-10",
+    "price": 86.5,
+    "volume": 354438
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-09",
+    "price": 86.5,
+    "volume": 338035
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-06",
+    "price": 88.31,
+    "volume": 522042
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-05",
+    "price": 88.42,
+    "volume": 453000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-04",
+    "price": 89.48,
+    "volume": 441615
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-03",
+    "price": 86.52,
+    "volume": 341715
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-05-02",
+    "price": 85.55,
+    "volume": 436003
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-29",
+    "price": 85.11,
+    "volume": 306018
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-28",
+    "price": 86.35,
+    "volume": 310833
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-27",
+    "price": 85.7,
+    "volume": 383810
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-26",
+    "price": 84.97,
+    "volume": 287819
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-25",
+    "price": 86.81,
+    "volume": 425443
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-22",
+    "price": 87.73,
+    "volume": 497000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-21",
+    "price": 90.29,
+    "volume": 293400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-20",
+    "price": 90.6,
+    "volume": 419509
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-19",
+    "price": 90.28,
+    "volume": 221943
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-18",
+    "price": 89.03,
+    "volume": 260141
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-14",
+    "price": 89.51,
+    "volume": 205706
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-13",
+    "price": 88.49,
+    "volume": 253001
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-12",
+    "price": 87.61,
+    "volume": 523530
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-11",
+    "price": 90.12,
+    "volume": 255024
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-08",
+    "price": 89.52,
+    "volume": 369700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-07",
+    "price": 88.76,
+    "volume": 318730
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-06",
+    "price": 88.91,
+    "volume": 392700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-05",
+    "price": 89.36,
+    "volume": 273901
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-04",
+    "price": 89.56,
+    "volume": 259600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-04-01",
+    "price": 90.06,
+    "volume": 473941
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-31",
+    "price": 87.15,
+    "volume": 334528
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-30",
+    "price": 87.99,
+    "volume": 237106
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-29",
+    "price": 88.65,
+    "volume": 293948
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-28",
+    "price": 87.51,
+    "volume": 232400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-25",
+    "price": 87.55,
+    "volume": 201230
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-24",
+    "price": 86.21,
+    "volume": 261523
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-23",
+    "price": 85.11,
+    "volume": 309029
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-22",
+    "price": 85.37,
+    "volume": 346312
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-21",
+    "price": 85.68,
+    "volume": 322200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-18",
+    "price": 85.71,
+    "volume": 625200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-17",
+    "price": 84.44,
+    "volume": 462174
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-16",
+    "price": 83.56,
+    "volume": 535300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-15",
+    "price": 82.69,
+    "volume": 667514
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-14",
+    "price": 82.95,
+    "volume": 341600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-11",
+    "price": 83,
+    "volume": 303445
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-10",
+    "price": 83.8,
+    "volume": 421900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-09",
+    "price": 86.49,
+    "volume": 390947
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-08",
+    "price": 85.11,
+    "volume": 914002
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-07",
+    "price": 82.13,
+    "volume": 630212
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-04",
+    "price": 85.23,
+    "volume": 709006
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-03",
+    "price": 87.22,
+    "volume": 911100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-02",
+    "price": 88.35,
+    "volume": 457400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-03-01",
+    "price": 87.84,
+    "volume": 362102
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-28",
+    "price": 88.74,
+    "volume": 466549
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-25",
+    "price": 90.6,
+    "volume": 389800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-24",
+    "price": 87.38,
+    "volume": 774100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-23",
+    "price": 89.11,
+    "volume": 295900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-22",
+    "price": 88.82,
+    "volume": 438809
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-18",
+    "price": 88.77,
+    "volume": 307243
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-17",
+    "price": 88.81,
+    "volume": 438600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-16",
+    "price": 88.66,
+    "volume": 373200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-15",
+    "price": 88,
+    "volume": 263315
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-14",
+    "price": 86.65,
+    "volume": 433537
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-11",
+    "price": 87,
+    "volume": 463139
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-10",
+    "price": 85.49,
+    "volume": 470007
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-09",
+    "price": 87.01,
+    "volume": 604700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-08",
+    "price": 86.3,
+    "volume": 537935
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-07",
+    "price": 85.24,
+    "volume": 436508
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-04",
+    "price": 85.24,
+    "volume": 859546
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-03",
+    "price": 86.83,
+    "volume": 1030900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-02",
+    "price": 96.23,
+    "volume": 489000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-02-01",
+    "price": 95.34,
+    "volume": 331000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-31",
+    "price": 94.7,
+    "volume": 348000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-28",
+    "price": 94.53,
+    "volume": 408233
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-27",
+    "price": 94.57,
+    "volume": 515000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-26",
+    "price": 94.16,
+    "volume": 453427
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-25",
+    "price": 94.59,
+    "volume": 367533
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-24",
+    "price": 96.49,
+    "volume": 480700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-21",
+    "price": 97.69,
+    "volume": 426528
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-20",
+    "price": 99.71,
+    "volume": 328400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-19",
+    "price": 100.7,
+    "volume": 426356
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-18",
+    "price": 100.55,
+    "volume": 309117
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-14",
+    "price": 101.01,
+    "volume": 259909
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-13",
+    "price": 100.67,
+    "volume": 447919
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-12",
+    "price": 100.16,
+    "volume": 320411
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-11",
+    "price": 100.22,
+    "volume": 351000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-10",
+    "price": 99.71,
+    "volume": 322716
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-07",
+    "price": 99.51,
+    "volume": 296600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-06",
+    "price": 98.78,
+    "volume": 311138
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-05",
+    "price": 98.59,
+    "volume": 449206
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-04",
+    "price": 97.76,
+    "volume": 291145
+  },
+  {
+    "symbol": "INGR",
+    "date": "2022-01-03",
+    "price": 97.12,
+    "volume": 337400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-31",
+    "price": 96.64,
+    "volume": 184609
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-30",
+    "price": 96.49,
+    "volume": 155800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-29",
+    "price": 97.02,
+    "volume": 326627
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-28",
+    "price": 97.35,
+    "volume": 328341
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-27",
+    "price": 95.81,
+    "volume": 326200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-23",
+    "price": 94.81,
+    "volume": 343800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-22",
+    "price": 94.86,
+    "volume": 230100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-21",
+    "price": 95.55,
+    "volume": 284741
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-20",
+    "price": 93.64,
+    "volume": 449400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-17",
+    "price": 95.36,
+    "volume": 877803
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-16",
+    "price": 96.65,
+    "volume": 367300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-15",
+    "price": 95.68,
+    "volume": 363027
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-14",
+    "price": 95.35,
+    "volume": 470222
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-13",
+    "price": 94.67,
+    "volume": 609105
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-10",
+    "price": 96.35,
+    "volume": 278500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-09",
+    "price": 96.37,
+    "volume": 311500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-08",
+    "price": 97.15,
+    "volume": 244800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-07",
+    "price": 96.86,
+    "volume": 237225
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-06",
+    "price": 96.72,
+    "volume": 317800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-03",
+    "price": 94.11,
+    "volume": 286730
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-02",
+    "price": 94.09,
+    "volume": 417444
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-12-01",
+    "price": 93.01,
+    "volume": 384000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-30",
+    "price": 93.13,
+    "volume": 597300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-29",
+    "price": 97.76,
+    "volume": 414700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-26",
+    "price": 96.61,
+    "volume": 295029
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-24",
+    "price": 98.16,
+    "volume": 270500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-23",
+    "price": 98.46,
+    "volume": 151700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-22",
+    "price": 97.82,
+    "volume": 219400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-19",
+    "price": 96.89,
+    "volume": 505036
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-18",
+    "price": 98.37,
+    "volume": 262717
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-17",
+    "price": 98.87,
+    "volume": 424400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-16",
+    "price": 99.52,
+    "volume": 246235
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-15",
+    "price": 100.09,
+    "volume": 268400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-12",
+    "price": 99.32,
+    "volume": 266700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-11",
+    "price": 99.41,
+    "volume": 209445
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-10",
+    "price": 100.64,
+    "volume": 436700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-09",
+    "price": 99.76,
+    "volume": 402527
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-08",
+    "price": 99.03,
+    "volume": 311635
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-05",
+    "price": 98.23,
+    "volume": 559440
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-04",
+    "price": 96.38,
+    "volume": 377800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-03",
+    "price": 95.94,
+    "volume": 640319
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-02",
+    "price": 92.51,
+    "volume": 1070922
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-11-01",
+    "price": 95.62,
+    "volume": 497449
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-29",
+    "price": 95.23,
+    "volume": 487104
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-28",
+    "price": 95.07,
+    "volume": 393900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-27",
+    "price": 94.19,
+    "volume": 474646
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-26",
+    "price": 96.27,
+    "volume": 270141
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-25",
+    "price": 97.18,
+    "volume": 248334
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-22",
+    "price": 97.01,
+    "volume": 210400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-21",
+    "price": 97.16,
+    "volume": 181929
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-20",
+    "price": 96.86,
+    "volume": 219600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-19",
+    "price": 97.21,
+    "volume": 244507
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-18",
+    "price": 96.41,
+    "volume": 461600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-15",
+    "price": 96.88,
+    "volume": 373210
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-14",
+    "price": 96.43,
+    "volume": 245200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-13",
+    "price": 94.55,
+    "volume": 363100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-12",
+    "price": 95.82,
+    "volume": 356200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-11",
+    "price": 95.62,
+    "volume": 250846
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-08",
+    "price": 94.98,
+    "volume": 274303
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-07",
+    "price": 94.48,
+    "volume": 416542
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-06",
+    "price": 94.02,
+    "volume": 481400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-05",
+    "price": 93.07,
+    "volume": 837800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-04",
+    "price": 91.48,
+    "volume": 519600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-10-01",
+    "price": 90.48,
+    "volume": 703000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-30",
+    "price": 89.01,
+    "volume": 516005
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-29",
+    "price": 90.91,
+    "volume": 570100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-28",
+    "price": 89.5,
+    "volume": 369638
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-27",
+    "price": 89.99,
+    "volume": 315400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-24",
+    "price": 88.62,
+    "volume": 288601
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-23",
+    "price": 88.81,
+    "volume": 323919
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-22",
+    "price": 87.45,
+    "volume": 441700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-21",
+    "price": 87.12,
+    "volume": 423000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-20",
+    "price": 86.78,
+    "volume": 762200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-17",
+    "price": 87.85,
+    "volume": 1185200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-16",
+    "price": 89.11,
+    "volume": 331621
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-15",
+    "price": 87.95,
+    "volume": 445249
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-14",
+    "price": 86.51,
+    "volume": 173304
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-13",
+    "price": 87.34,
+    "volume": 221500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-10",
+    "price": 86.22,
+    "volume": 198800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-09",
+    "price": 86.28,
+    "volume": 264200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-08",
+    "price": 87.5,
+    "volume": 247728
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-07",
+    "price": 87.41,
+    "volume": 183800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-03",
+    "price": 88.12,
+    "volume": 214300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-02",
+    "price": 88.16,
+    "volume": 170509
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-09-01",
+    "price": 88.12,
+    "volume": 192400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-31",
+    "price": 87.86,
+    "volume": 281447
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-30",
+    "price": 87.77,
+    "volume": 212305
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-27",
+    "price": 88.66,
+    "volume": 321531
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-26",
+    "price": 87.36,
+    "volume": 221009
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-25",
+    "price": 87.96,
+    "volume": 276700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-24",
+    "price": 87.12,
+    "volume": 202200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-23",
+    "price": 86.95,
+    "volume": 436018
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-20",
+    "price": 86.28,
+    "volume": 711606
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-19",
+    "price": 85.43,
+    "volume": 435390
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-18",
+    "price": 86.51,
+    "volume": 450300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-17",
+    "price": 87.67,
+    "volume": 202001
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-16",
+    "price": 88.66,
+    "volume": 254203
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-13",
+    "price": 88.35,
+    "volume": 162100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-12",
+    "price": 87.22,
+    "volume": 205400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-11",
+    "price": 87.69,
+    "volume": 221003
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-10",
+    "price": 86.97,
+    "volume": 189348
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-09",
+    "price": 86.05,
+    "volume": 193808
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-06",
+    "price": 86.1,
+    "volume": 230427
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-05",
+    "price": 84.69,
+    "volume": 298142
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-04",
+    "price": 85.09,
+    "volume": 545000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-03",
+    "price": 87.72,
+    "volume": 654007
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-08-02",
+    "price": 89.13,
+    "volume": 371226
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-30",
+    "price": 87.81,
+    "volume": 874024
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-29",
+    "price": 88.95,
+    "volume": 365516
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-28",
+    "price": 88.78,
+    "volume": 256311
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-27",
+    "price": 88.21,
+    "volume": 256846
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-26",
+    "price": 88.04,
+    "volume": 190640
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-23",
+    "price": 87.28,
+    "volume": 164300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-22",
+    "price": 86.66,
+    "volume": 215300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-21",
+    "price": 87.99,
+    "volume": 209506
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-20",
+    "price": 88.11,
+    "volume": 424700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-19",
+    "price": 86.07,
+    "volume": 330100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-16",
+    "price": 87.31,
+    "volume": 260600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-15",
+    "price": 88.29,
+    "volume": 206200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-14",
+    "price": 88.28,
+    "volume": 323100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-13",
+    "price": 87.71,
+    "volume": 376100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-12",
+    "price": 90.24,
+    "volume": 489246
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-09",
+    "price": 93.28,
+    "volume": 368800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-08",
+    "price": 92.06,
+    "volume": 668240
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-07",
+    "price": 92.82,
+    "volume": 581300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-06",
+    "price": 91.55,
+    "volume": 1081320
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-02",
+    "price": 91.44,
+    "volume": 610012
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-07-01",
+    "price": 90.99,
+    "volume": 456302
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-30",
+    "price": 90.5,
+    "volume": 741932
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-29",
+    "price": 89.99,
+    "volume": 458900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-28",
+    "price": 90,
+    "volume": 293544
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-25",
+    "price": 90.8,
+    "volume": 473400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-24",
+    "price": 90.59,
+    "volume": 364005
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-23",
+    "price": 90.03,
+    "volume": 233046
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-22",
+    "price": 90.61,
+    "volume": 196900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-21",
+    "price": 90.86,
+    "volume": 228800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-18",
+    "price": 89.99,
+    "volume": 609827
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-17",
+    "price": 91.44,
+    "volume": 418600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-16",
+    "price": 92.8,
+    "volume": 306804
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-15",
+    "price": 94.42,
+    "volume": 233829
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-14",
+    "price": 94.28,
+    "volume": 401930
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-11",
+    "price": 94.57,
+    "volume": 643904
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-10",
+    "price": 95.12,
+    "volume": 228532
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-09",
+    "price": 95.52,
+    "volume": 177500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-08",
+    "price": 95.94,
+    "volume": 220100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-07",
+    "price": 96.18,
+    "volume": 411500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-04",
+    "price": 96.36,
+    "volume": 307942
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-03",
+    "price": 96.56,
+    "volume": 225539
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-02",
+    "price": 97.13,
+    "volume": 300400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-06-01",
+    "price": 96.72,
+    "volume": 264700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-28",
+    "price": 94.93,
+    "volume": 291807
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-27",
+    "price": 94.75,
+    "volume": 483200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-26",
+    "price": 95.49,
+    "volume": 326500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-25",
+    "price": 95.23,
+    "volume": 205540
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-24",
+    "price": 96.03,
+    "volume": 243804
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-21",
+    "price": 95.41,
+    "volume": 392400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-20",
+    "price": 95.03,
+    "volume": 297600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-19",
+    "price": 95.68,
+    "volume": 271314
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-18",
+    "price": 96.92,
+    "volume": 307918
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-17",
+    "price": 97.59,
+    "volume": 492932
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-14",
+    "price": 96.73,
+    "volume": 228500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-13",
+    "price": 96.55,
+    "volume": 370700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-12",
+    "price": 95,
+    "volume": 430847
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-11",
+    "price": 95.45,
+    "volume": 433009
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-10",
+    "price": 95.34,
+    "volume": 272404
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-07",
+    "price": 94.92,
+    "volume": 549117
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-06",
+    "price": 93.94,
+    "volume": 370267
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-05",
+    "price": 91.84,
+    "volume": 633200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-04",
+    "price": 93.67,
+    "volume": 845300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-05-03",
+    "price": 94.46,
+    "volume": 484119
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-30",
+    "price": 93.41,
+    "volume": 400024
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-29",
+    "price": 93.28,
+    "volume": 214204
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-28",
+    "price": 93.31,
+    "volume": 382200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-27",
+    "price": 93.15,
+    "volume": 313500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-26",
+    "price": 92.25,
+    "volume": 352210
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-23",
+    "price": 92.86,
+    "volume": 255315
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-22",
+    "price": 92.16,
+    "volume": 237825
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-21",
+    "price": 92.83,
+    "volume": 418000
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-20",
+    "price": 92.21,
+    "volume": 512400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-19",
+    "price": 92.75,
+    "volume": 306300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-16",
+    "price": 92.96,
+    "volume": 259451
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-15",
+    "price": 91.91,
+    "volume": 257514
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-14",
+    "price": 91.27,
+    "volume": 287212
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-13",
+    "price": 90.33,
+    "volume": 191400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-12",
+    "price": 90.7,
+    "volume": 236502
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-09",
+    "price": 90.4,
+    "volume": 253100
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-08",
+    "price": 90.48,
+    "volume": 314013
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-07",
+    "price": 90.07,
+    "volume": 257500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-06",
+    "price": 90.2,
+    "volume": 596813
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-05",
+    "price": 90.17,
+    "volume": 196714
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-04-01",
+    "price": 90.21,
+    "volume": 298800
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-31",
+    "price": 89.92,
+    "volume": 438400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-30",
+    "price": 92.19,
+    "volume": 317329
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-29",
+    "price": 91.78,
+    "volume": 527200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-26",
+    "price": 92.78,
+    "volume": 488743
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-25",
+    "price": 90.88,
+    "volume": 355500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-24",
+    "price": 89.65,
+    "volume": 435300
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-23",
+    "price": 88.23,
+    "volume": 543400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-22",
+    "price": 90.21,
+    "volume": 629210
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-19",
+    "price": 89.9,
+    "volume": 1302200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-18",
+    "price": 91.29,
+    "volume": 256700
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-17",
+    "price": 92.4,
+    "volume": 281808
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-16",
+    "price": 92.03,
+    "volume": 239500
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-15",
+    "price": 92.56,
+    "volume": 360278
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-12",
+    "price": 92.35,
+    "volume": 308600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-11",
+    "price": 92.37,
+    "volume": 297612
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-10",
+    "price": 91.4,
+    "volume": 510200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-09",
+    "price": 90.62,
+    "volume": 484037
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-08",
+    "price": 91.9,
+    "volume": 385400
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-05",
+    "price": 91.53,
+    "volume": 567617
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-04",
+    "price": 89.11,
+    "volume": 409200
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-03",
+    "price": 90.64,
+    "volume": 375600
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-02",
+    "price": 89.77,
+    "volume": 569900
+  },
+  {
+    "symbol": "INGR",
+    "date": "2021-03-01",
+    "price": 89.29,
+    "volume": 700400
+  }
+]

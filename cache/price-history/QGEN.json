@@ -1,0 +1,7538 @@
+[
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-27",
+    "price": 49.8,
+    "volume": 1286950
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-26",
+    "price": 49.08,
+    "volume": 1460803
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-25",
+    "price": 48.62,
+    "volume": 1152200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-24",
+    "price": 48.5,
+    "volume": 2059300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-23",
+    "price": 47.45,
+    "volume": 1710000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-20",
+    "price": 48.57,
+    "volume": 1643339
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-19",
+    "price": 48.32,
+    "volume": 1720400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-18",
+    "price": 49.03,
+    "volume": 1429900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-17",
+    "price": 48.76,
+    "volume": 2534500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-13",
+    "price": 50.41,
+    "volume": 2509018
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-12",
+    "price": 50.85,
+    "volume": 1472100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-11",
+    "price": 51.06,
+    "volume": 2036200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-10",
+    "price": 51.08,
+    "volume": 2255238
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-09",
+    "price": 50.78,
+    "volume": 1839700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-06",
+    "price": 50.95,
+    "volume": 2586300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-05",
+    "price": 51.23,
+    "volume": 5983459
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-04",
+    "price": 51.71,
+    "volume": 2381879
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-03",
+    "price": 51.89,
+    "volume": 2841033
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-02-02",
+    "price": 52.18,
+    "volume": 1774346
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-30",
+    "price": 53.67,
+    "volume": 2048800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-29",
+    "price": 53.71,
+    "volume": 3148035
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-28",
+    "price": 53.99,
+    "volume": 2862700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-27",
+    "price": 54.22,
+    "volume": 2510600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-26",
+    "price": 54.22,
+    "volume": 2457732
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-23",
+    "price": 55.62,
+    "volume": 4319934
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-22",
+    "price": 54.25,
+    "volume": 4210663
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-21",
+    "price": 55.66,
+    "volume": 8723880
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-20",
+    "price": 55.45,
+    "volume": 15025823
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-16",
+    "price": 47.57,
+    "volume": 1958000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-15",
+    "price": 48.38,
+    "volume": 1762308
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-14",
+    "price": 47.44,
+    "volume": 1815023
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-13",
+    "price": 47.2,
+    "volume": 1178600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-12",
+    "price": 47.25,
+    "volume": 1432800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-09",
+    "price": 48.29,
+    "volume": 1276900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-08",
+    "price": 48.45,
+    "volume": 1184645
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-07",
+    "price": 49.8,
+    "volume": 1733800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-06",
+    "price": 49.48,
+    "volume": 2143700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-05",
+    "price": 48.94,
+    "volume": 3231846
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2026-01-02",
+    "price": 47.57,
+    "volume": 1225500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-31",
+    "price": 47.34,
+    "volume": 665315
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-30",
+    "price": 47.71,
+    "volume": 787916
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-29",
+    "price": 48,
+    "volume": 1050432
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-26",
+    "price": 47.76,
+    "volume": 719623
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-24",
+    "price": 47.87,
+    "volume": 360400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-23",
+    "price": 48.01,
+    "volume": 1019137
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-22",
+    "price": 48.47,
+    "volume": 951015
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-19",
+    "price": 47.98,
+    "volume": 2217314
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-18",
+    "price": 47.33,
+    "volume": 1269211
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-17",
+    "price": 47.59,
+    "volume": 1441700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-16",
+    "price": 47.38,
+    "volume": 1454021
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-15",
+    "price": 47.83,
+    "volume": 1152531
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-12",
+    "price": 45.22,
+    "volume": 977200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-11",
+    "price": 45.44,
+    "volume": 966500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-10",
+    "price": 45.66,
+    "volume": 875022
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-09",
+    "price": 45.56,
+    "volume": 860842
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-08",
+    "price": 45.86,
+    "volume": 1356343
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-05",
+    "price": 47.01,
+    "volume": 1854330
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-04",
+    "price": 47.08,
+    "volume": 1851800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-03",
+    "price": 46.82,
+    "volume": 1326200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-02",
+    "price": 46.94,
+    "volume": 1254419
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-12-01",
+    "price": 47.34,
+    "volume": 1001000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-28",
+    "price": 47.75,
+    "volume": 302030
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-26",
+    "price": 48.1,
+    "volume": 1029400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-25",
+    "price": 48.56,
+    "volume": 1026214
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-24",
+    "price": 47.22,
+    "volume": 1243800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-21",
+    "price": 46.84,
+    "volume": 833000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-20",
+    "price": 45.67,
+    "volume": 1461088
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-19",
+    "price": 44.43,
+    "volume": 1280800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-18",
+    "price": 44.35,
+    "volume": 1396000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-17",
+    "price": 44.13,
+    "volume": 1999413
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-14",
+    "price": 44.32,
+    "volume": 1279327
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-13",
+    "price": 44.65,
+    "volume": 866006
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-12",
+    "price": 44.53,
+    "volume": 978307
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-11",
+    "price": 44.22,
+    "volume": 875200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-10",
+    "price": 43.17,
+    "volume": 937412
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-07",
+    "price": 43.56,
+    "volume": 1302642
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-06",
+    "price": 43.06,
+    "volume": 1471500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-05",
+    "price": 44.05,
+    "volume": 2045105
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-04",
+    "price": 44.16,
+    "volume": 3574547
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-11-03",
+    "price": 45.68,
+    "volume": 1727209
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-31",
+    "price": 46.85,
+    "volume": 1255930
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-30",
+    "price": 46.33,
+    "volume": 1466300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-29",
+    "price": 47.19,
+    "volume": 879900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-28",
+    "price": 47.95,
+    "volume": 802795
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-27",
+    "price": 48.4,
+    "volume": 946800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-24",
+    "price": 49.32,
+    "volume": 673822
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-23",
+    "price": 49.35,
+    "volume": 768500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-22",
+    "price": 48.6,
+    "volume": 682100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-21",
+    "price": 48.55,
+    "volume": 758400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-20",
+    "price": 48.67,
+    "volume": 841145
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-17",
+    "price": 48.27,
+    "volume": 705000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-16",
+    "price": 48.13,
+    "volume": 1655146
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-15",
+    "price": 47.51,
+    "volume": 715220
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-14",
+    "price": 47.5,
+    "volume": 653140
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-13",
+    "price": 47.22,
+    "volume": 738200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-10",
+    "price": 46.85,
+    "volume": 1311500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-09",
+    "price": 46.93,
+    "volume": 1194900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-08",
+    "price": 47.76,
+    "volume": 1179300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-07",
+    "price": 46.8,
+    "volume": 1036426
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-06",
+    "price": 46.96,
+    "volume": 883504
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-03",
+    "price": 46.8,
+    "volume": 1069740
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-02",
+    "price": 46.24,
+    "volume": 956952
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-10-01",
+    "price": 46.32,
+    "volume": 1255900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-30",
+    "price": 44.68,
+    "volume": 1346900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-29",
+    "price": 43.94,
+    "volume": 690000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-26",
+    "price": 43.9,
+    "volume": 857325
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-25",
+    "price": 43.93,
+    "volume": 1629619
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-24",
+    "price": 45.07,
+    "volume": 1082200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-23",
+    "price": 45.61,
+    "volume": 903200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-22",
+    "price": 45.73,
+    "volume": 1084200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-19",
+    "price": 45.94,
+    "volume": 1820300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-18",
+    "price": 45.74,
+    "volume": 2190422
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-17",
+    "price": 45.42,
+    "volume": 959800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-16",
+    "price": 45.6,
+    "volume": 918306
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-15",
+    "price": 45.39,
+    "volume": 1007943
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-12",
+    "price": 45.28,
+    "volume": 992209
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-11",
+    "price": 46.06,
+    "volume": 1174100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-10",
+    "price": 46.01,
+    "volume": 1045028
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-09",
+    "price": 47.04,
+    "volume": 903900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-08",
+    "price": 47.58,
+    "volume": 885131
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-05",
+    "price": 47.55,
+    "volume": 939634
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-04",
+    "price": 47.04,
+    "volume": 848221
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-03",
+    "price": 46.7,
+    "volume": 1945200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-09-02",
+    "price": 46.92,
+    "volume": 2411100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-29",
+    "price": 46.5,
+    "volume": 1965200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-28",
+    "price": 46.14,
+    "volume": 5362502
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-27",
+    "price": 47.99,
+    "volume": 796404
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-26",
+    "price": 48.86,
+    "volume": 1250300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-25",
+    "price": 48.9,
+    "volume": 621900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-22",
+    "price": 49.74,
+    "volume": 882900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-21",
+    "price": 49.13,
+    "volume": 695538
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-20",
+    "price": 49.2,
+    "volume": 1139837
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-19",
+    "price": 49.19,
+    "volume": 1181520
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-18",
+    "price": 48.65,
+    "volume": 1446608
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-15",
+    "price": 49.35,
+    "volume": 893019
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-14",
+    "price": 48.96,
+    "volume": 841447
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-13",
+    "price": 49.23,
+    "volume": 929116
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-12",
+    "price": 48.97,
+    "volume": 1338800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-11",
+    "price": 48.01,
+    "volume": 1164700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-08",
+    "price": 48.04,
+    "volume": 1294000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-07",
+    "price": 48.36,
+    "volume": 2008935
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-06",
+    "price": 47.49,
+    "volume": 2938600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-05",
+    "price": 49.95,
+    "volume": 2076900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-04",
+    "price": 50.25,
+    "volume": 1554919
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-08-01",
+    "price": 49.94,
+    "volume": 1448114
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-31",
+    "price": 49.34,
+    "volume": 1472017
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-30",
+    "price": 50.57,
+    "volume": 1073947
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-29",
+    "price": 51.07,
+    "volume": 946100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-28",
+    "price": 50.98,
+    "volume": 1395701
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-25",
+    "price": 51.79,
+    "volume": 1287231
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-24",
+    "price": 51.23,
+    "volume": 1291704
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-23",
+    "price": 50.4,
+    "volume": 2137115
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-22",
+    "price": 49.51,
+    "volume": 1692800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-21",
+    "price": 48.06,
+    "volume": 1533330
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-18",
+    "price": 48.36,
+    "volume": 2727000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-17",
+    "price": 48.24,
+    "volume": 1160627
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-16",
+    "price": 48.3,
+    "volume": 1245000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-15",
+    "price": 47.45,
+    "volume": 1929300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-14",
+    "price": 48.28,
+    "volume": 1507627
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-11",
+    "price": 48.13,
+    "volume": 2421700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-10",
+    "price": 48.55,
+    "volume": 1179544
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-09",
+    "price": 47.96,
+    "volume": 1750900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-08",
+    "price": 47.85,
+    "volume": 1755900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-07",
+    "price": 47.53,
+    "volume": 1083029
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-03",
+    "price": 48.34,
+    "volume": 770537
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-02",
+    "price": 48.64,
+    "volume": 1465200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-07-01",
+    "price": 48.21,
+    "volume": 1008943
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-30",
+    "price": 48.06,
+    "volume": 991700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-27",
+    "price": 47.77,
+    "volume": 1836213
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-26",
+    "price": 48.04,
+    "volume": 1208100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-25",
+    "price": 47.45,
+    "volume": 1897625
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-24",
+    "price": 47.23,
+    "volume": 1302442
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-23",
+    "price": 46.71,
+    "volume": 1103896
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-20",
+    "price": 46.76,
+    "volume": 2124800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-18",
+    "price": 46.55,
+    "volume": 870336
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-17",
+    "price": 46.55,
+    "volume": 1157230
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-16",
+    "price": 47.45,
+    "volume": 1267100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-13",
+    "price": 47.11,
+    "volume": 1065000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-12",
+    "price": 47.39,
+    "volume": 1102841
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-11",
+    "price": 46.72,
+    "volume": 1443400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-10",
+    "price": 46.22,
+    "volume": 1806933
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-09",
+    "price": 46.17,
+    "volume": 1843000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-06",
+    "price": 45.48,
+    "volume": 1055930
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-05",
+    "price": 45.56,
+    "volume": 1166600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-04",
+    "price": 45.72,
+    "volume": 1013700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-03",
+    "price": 45.28,
+    "volume": 1449900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-06-02",
+    "price": 44.9,
+    "volume": 1643724
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-30",
+    "price": 45.13,
+    "volume": 2518914
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-29",
+    "price": 45,
+    "volume": 1554902
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-28",
+    "price": 44.38,
+    "volume": 1415041
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-27",
+    "price": 43.85,
+    "volume": 1894300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-23",
+    "price": 42.05,
+    "volume": 1205900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-22",
+    "price": 42.32,
+    "volume": 1284623
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-21",
+    "price": 42.32,
+    "volume": 1718500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-20",
+    "price": 42.7,
+    "volume": 911934
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-19",
+    "price": 42.8,
+    "volume": 1572500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-16",
+    "price": 42.65,
+    "volume": 740713
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-15",
+    "price": 42.24,
+    "volume": 1223100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-14",
+    "price": 41.15,
+    "volume": 1778825
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-13",
+    "price": 42.11,
+    "volume": 2559800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-12",
+    "price": 42.96,
+    "volume": 1479300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-09",
+    "price": 41.86,
+    "volume": 1823214
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-08",
+    "price": 42.16,
+    "volume": 1866700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-07",
+    "price": 42.63,
+    "volume": 1723700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-06",
+    "price": 42.17,
+    "volume": 1387133
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-05",
+    "price": 42.81,
+    "volume": 1253600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-02",
+    "price": 43.13,
+    "volume": 1204900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-05-01",
+    "price": 42.2,
+    "volume": 810600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-30",
+    "price": 42.75,
+    "volume": 1008441
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-29",
+    "price": 42.63,
+    "volume": 936772
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-28",
+    "price": 42.47,
+    "volume": 977500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-25",
+    "price": 42.07,
+    "volume": 896399
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-24",
+    "price": 43.06,
+    "volume": 1213330
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-23",
+    "price": 42.32,
+    "volume": 1373414
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-22",
+    "price": 42.34,
+    "volume": 1385900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-21",
+    "price": 40.48,
+    "volume": 1166108
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-17",
+    "price": 40.71,
+    "volume": 1732500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-16",
+    "price": 41.44,
+    "volume": 1766600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-15",
+    "price": 41.53,
+    "volume": 2395921
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-14",
+    "price": 42.32,
+    "volume": 1223741
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-11",
+    "price": 41.98,
+    "volume": 1723600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-10",
+    "price": 40.05,
+    "volume": 1384725
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-09",
+    "price": 41.43,
+    "volume": 2729600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-08",
+    "price": 38.81,
+    "volume": 1648632
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-07",
+    "price": 40.31,
+    "volume": 2939427
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-04",
+    "price": 38.26,
+    "volume": 1770745
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-03",
+    "price": 40.37,
+    "volume": 2285100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-02",
+    "price": 40.02,
+    "volume": 1521835
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-04-01",
+    "price": 39.5,
+    "volume": 1587038
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-31",
+    "price": 40.15,
+    "volume": 1248500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-28",
+    "price": 39.85,
+    "volume": 868833
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-27",
+    "price": 39.65,
+    "volume": 655924
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-26",
+    "price": 39.58,
+    "volume": 837011
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-25",
+    "price": 39.67,
+    "volume": 779823
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-24",
+    "price": 39.8,
+    "volume": 877726
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-21",
+    "price": 39.66,
+    "volume": 1095500
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-20",
+    "price": 39.36,
+    "volume": 1016529
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-19",
+    "price": 39.65,
+    "volume": 768613
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-18",
+    "price": 39.75,
+    "volume": 667747
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-17",
+    "price": 39.82,
+    "volume": 1050400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-14",
+    "price": 39.48,
+    "volume": 858431
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-13",
+    "price": 38.9,
+    "volume": 1134000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-12",
+    "price": 39.4,
+    "volume": 1258946
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-11",
+    "price": 39.25,
+    "volume": 1741206
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-10",
+    "price": 38.89,
+    "volume": 1115400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-07",
+    "price": 39.75,
+    "volume": 1783700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-06",
+    "price": 39.88,
+    "volume": 2082614
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-05",
+    "price": 38.55,
+    "volume": 956545
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-04",
+    "price": 37.82,
+    "volume": 862900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-03-03",
+    "price": 38.22,
+    "volume": 1179900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-28",
+    "price": 38.4,
+    "volume": 1055100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-27",
+    "price": 38.4,
+    "volume": 896218
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-26",
+    "price": 39.15,
+    "volume": 693600
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-25",
+    "price": 39.7,
+    "volume": 1018100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-24",
+    "price": 39.91,
+    "volume": 1187400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-21",
+    "price": 39.57,
+    "volume": 1257212
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-20",
+    "price": 38.57,
+    "volume": 1121400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-19",
+    "price": 39.22,
+    "volume": 1304511
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-18",
+    "price": 40.01,
+    "volume": 867000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-14",
+    "price": 39.87,
+    "volume": 1362801
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-13",
+    "price": 40.06,
+    "volume": 1758200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-12",
+    "price": 40.14,
+    "volume": 2655200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-11",
+    "price": 39.28,
+    "volume": 1035742
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-10",
+    "price": 40.08,
+    "volume": 1714207
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-07",
+    "price": 41.34,
+    "volume": 1306900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-06",
+    "price": 42.44,
+    "volume": 2851100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-05",
+    "price": 43.8,
+    "volume": 1533236
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-04",
+    "price": 43.36,
+    "volume": 1228619
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-02-03",
+    "price": 43.84,
+    "volume": 1225200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-31",
+    "price": 44.64,
+    "volume": 813900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-30",
+    "price": 44.51,
+    "volume": 1024300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-29",
+    "price": 43.77,
+    "volume": 1042042
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-28",
+    "price": 46.43,
+    "volume": 1276300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-27",
+    "price": 46.78,
+    "volume": 1535000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-24",
+    "price": 44.58,
+    "volume": 1637684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-23",
+    "price": 44.78,
+    "volume": 3357684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-22",
+    "price": 46.17,
+    "volume": 1818526
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-21",
+    "price": 46.42,
+    "volume": 1295158
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-17",
+    "price": 44.94,
+    "volume": 1242316
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-16",
+    "price": 44.85,
+    "volume": 1130632
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-15",
+    "price": 44.23,
+    "volume": 1379684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-14",
+    "price": 44.53,
+    "volume": 839368
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-13",
+    "price": 44.94,
+    "volume": 1589684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-10",
+    "price": 43.66,
+    "volume": 1043158
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-08",
+    "price": 44.22,
+    "volume": 663684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-07",
+    "price": 43.91,
+    "volume": 488000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-06",
+    "price": 43.76,
+    "volume": 894947
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-03",
+    "price": 43.94,
+    "volume": 517579
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2025-01-02",
+    "price": 43.5,
+    "volume": 680737
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-31",
+    "price": 43.51,
+    "volume": 619895
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-30",
+    "price": 43.69,
+    "volume": 720000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-27",
+    "price": 43.97,
+    "volume": 455286
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-26",
+    "price": 43.98,
+    "volume": 330142
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-24",
+    "price": 44.03,
+    "volume": 177444
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-23",
+    "price": 43.8,
+    "volume": 495246
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-20",
+    "price": 43.65,
+    "volume": 1830783
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-19",
+    "price": 43.31,
+    "volume": 1162792
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-18",
+    "price": 43.04,
+    "volume": 827299
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-17",
+    "price": 44.31,
+    "volume": 730913
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-16",
+    "price": 44.35,
+    "volume": 825335
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-13",
+    "price": 44.37,
+    "volume": 2178891
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-12",
+    "price": 44.91,
+    "volume": 628245
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-11",
+    "price": 45.11,
+    "volume": 752009
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-10",
+    "price": 45.02,
+    "volume": 1275251
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-09",
+    "price": 43.31,
+    "volume": 684813
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-06",
+    "price": 42.43,
+    "volume": 340281
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-05",
+    "price": 42.44,
+    "volume": 784424
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-04",
+    "price": 42.77,
+    "volume": 635958
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-03",
+    "price": 42.3,
+    "volume": 921464
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-12-02",
+    "price": 42.65,
+    "volume": 781557
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-29",
+    "price": 42.44,
+    "volume": 477455
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-27",
+    "price": 42.75,
+    "volume": 636575
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-26",
+    "price": 42.26,
+    "volume": 734627
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-25",
+    "price": 42.27,
+    "volume": 815981
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-22",
+    "price": 41.8,
+    "volume": 695837
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-21",
+    "price": 41.36,
+    "volume": 982765
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-20",
+    "price": 41.13,
+    "volume": 1907267
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-19",
+    "price": 39.87,
+    "volume": 753668
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-18",
+    "price": 40.05,
+    "volume": 1116039
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-15",
+    "price": 40.33,
+    "volume": 1263189
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-14",
+    "price": 41.13,
+    "volume": 558408
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-13",
+    "price": 41.66,
+    "volume": 822069
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-12",
+    "price": 42.25,
+    "volume": 955282
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-11",
+    "price": 43.04,
+    "volume": 1000063
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-08",
+    "price": 42.76,
+    "volume": 826186
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-07",
+    "price": 43.14,
+    "volume": 1484763
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-06",
+    "price": 42.86,
+    "volume": 1638947
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-05",
+    "price": 42.95,
+    "volume": 889923
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-04",
+    "price": 42.65,
+    "volume": 1286882
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-11-01",
+    "price": 42.09,
+    "volume": 893929
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-31",
+    "price": 41.14,
+    "volume": 947220
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-30",
+    "price": 41.28,
+    "volume": 950409
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-29",
+    "price": 40.88,
+    "volume": 487159
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-28",
+    "price": 40.84,
+    "volume": 630333
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-25",
+    "price": 40.6,
+    "volume": 503918
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-24",
+    "price": 40.65,
+    "volume": 580663
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-23",
+    "price": 41.15,
+    "volume": 501041
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-22",
+    "price": 41.25,
+    "volume": 777508
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-21",
+    "price": 41.15,
+    "volume": 602773
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-18",
+    "price": 42.02,
+    "volume": 1046143
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-17",
+    "price": 41.71,
+    "volume": 1698901
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-16",
+    "price": 42.22,
+    "volume": 1576973
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-15",
+    "price": 42.87,
+    "volume": 662128
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-14",
+    "price": 43.08,
+    "volume": 1402780
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-11",
+    "price": 42.91,
+    "volume": 1167753
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-10",
+    "price": 42.29,
+    "volume": 841721
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-09",
+    "price": 43.43,
+    "volume": 1564531
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-08",
+    "price": 42.56,
+    "volume": 559651
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-07",
+    "price": 42.33,
+    "volume": 494314
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-04",
+    "price": 42.57,
+    "volume": 892145
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-03",
+    "price": 42.54,
+    "volume": 1764738
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-02",
+    "price": 43.34,
+    "volume": 1426827
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-10-01",
+    "price": 43.88,
+    "volume": 997448
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-30",
+    "price": 44.53,
+    "volume": 2137631
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-27",
+    "price": 44.2,
+    "volume": 2016738
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-26",
+    "price": 43.99,
+    "volume": 856309
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-25",
+    "price": 43.1,
+    "volume": 1113736
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-24",
+    "price": 43.83,
+    "volume": 1149657
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-23",
+    "price": 43.44,
+    "volume": 938291
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-20",
+    "price": 43.87,
+    "volume": 1975564
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-19",
+    "price": 44.55,
+    "volume": 1053704
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-18",
+    "price": 44.64,
+    "volume": 1980446
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-17",
+    "price": 44.61,
+    "volume": 1743034
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-16",
+    "price": 45.51,
+    "volume": 720001
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-13",
+    "price": 45.3,
+    "volume": 969134
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-12",
+    "price": 44.53,
+    "volume": 1595004
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-11",
+    "price": 44.79,
+    "volume": 937844
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-10",
+    "price": 44.85,
+    "volume": 1168768
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-09",
+    "price": 44.84,
+    "volume": 1723458
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-06",
+    "price": 43.46,
+    "volume": 1483189
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-05",
+    "price": 43.46,
+    "volume": 1502789
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-04",
+    "price": 43.15,
+    "volume": 1524039
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-09-03",
+    "price": 43.27,
+    "volume": 4744463
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-30",
+    "price": 44.67,
+    "volume": 1707966
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-29",
+    "price": 44.64,
+    "volume": 1865459
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-28",
+    "price": 44.76,
+    "volume": 952799
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-27",
+    "price": 44.96,
+    "volume": 1409648
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-26",
+    "price": 44.17,
+    "volume": 1397854
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-23",
+    "price": 45.21,
+    "volume": 2378143
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-22",
+    "price": 45.65,
+    "volume": 1288857
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-21",
+    "price": 45.98,
+    "volume": 800142
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-20",
+    "price": 45.89,
+    "volume": 698883
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-19",
+    "price": 45.88,
+    "volume": 840491
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-16",
+    "price": 45.61,
+    "volume": 606535
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-15",
+    "price": 45.37,
+    "volume": 543017
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-14",
+    "price": 45,
+    "volume": 668578
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-13",
+    "price": 44.88,
+    "volume": 1046752
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-12",
+    "price": 44.21,
+    "volume": 974676
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-09",
+    "price": 44.38,
+    "volume": 867279
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-08",
+    "price": 44.47,
+    "volume": 1242256
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-07",
+    "price": 43.43,
+    "volume": 1052975
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-06",
+    "price": 43.7,
+    "volume": 1013085
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-05",
+    "price": 43.86,
+    "volume": 942201
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-02",
+    "price": 45.23,
+    "volume": 1315686
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-08-01",
+    "price": 44.75,
+    "volume": 2010684
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-31",
+    "price": 43.47,
+    "volume": 1211501
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-30",
+    "price": 43.69,
+    "volume": 1347728
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-29",
+    "price": 43.25,
+    "volume": 1861087
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-26",
+    "price": 42.94,
+    "volume": 1528214
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-25",
+    "price": 41.28,
+    "volume": 1478732
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-24",
+    "price": 41.05,
+    "volume": 1020966
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-23",
+    "price": 40.5,
+    "volume": 1038574
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-22",
+    "price": 41.37,
+    "volume": 1307694
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-19",
+    "price": 40.6,
+    "volume": 1117953
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-18",
+    "price": 40.82,
+    "volume": 1068745
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-17",
+    "price": 41.51,
+    "volume": 1413067
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-16",
+    "price": 41.6,
+    "volume": 1032615
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-15",
+    "price": 40.84,
+    "volume": 1959229
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-12",
+    "price": 41.22,
+    "volume": 911159
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-11",
+    "price": 40.17,
+    "volume": 1037925
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-10",
+    "price": 40.09,
+    "volume": 866769
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-09",
+    "price": 39.14,
+    "volume": 831209
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-08",
+    "price": 39.32,
+    "volume": 1084202
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-05",
+    "price": 40.16,
+    "volume": 822818
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-03",
+    "price": 39.65,
+    "volume": 298618
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-02",
+    "price": 39.77,
+    "volume": 681338
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-07-01",
+    "price": 39.31,
+    "volume": 1027829
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-28",
+    "price": 40.15,
+    "volume": 1630892
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-27",
+    "price": 40.16,
+    "volume": 1317722
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-26",
+    "price": 39.8,
+    "volume": 962735
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-25",
+    "price": 40.1,
+    "volume": 801896
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-24",
+    "price": 41.07,
+    "volume": 606526
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-21",
+    "price": 40.91,
+    "volume": 1973873
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-20",
+    "price": 40.94,
+    "volume": 1990107
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-18",
+    "price": 42.75,
+    "volume": 1025776
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-17",
+    "price": 42.73,
+    "volume": 1212805
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-14",
+    "price": 41.37,
+    "volume": 919407
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-13",
+    "price": 42.36,
+    "volume": 1130424
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-12",
+    "price": 43.22,
+    "volume": 708929
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-11",
+    "price": 42.96,
+    "volume": 928314
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-10",
+    "price": 43.85,
+    "volume": 847258
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-07",
+    "price": 43.82,
+    "volume": 1051715
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-06",
+    "price": 43.9,
+    "volume": 627805
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-05",
+    "price": 43.61,
+    "volume": 887794
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-04",
+    "price": 42.67,
+    "volume": 648851
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-06-03",
+    "price": 43,
+    "volume": 1169758
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-31",
+    "price": 42.28,
+    "volume": 993654
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-30",
+    "price": 41.67,
+    "volume": 1049959
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-29",
+    "price": 41.61,
+    "volume": 1042911
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-28",
+    "price": 42.04,
+    "volume": 900395
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-24",
+    "price": 42.73,
+    "volume": 628497
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-23",
+    "price": 42.18,
+    "volume": 935202
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-22",
+    "price": 42.5,
+    "volume": 1630584
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-21",
+    "price": 43.99,
+    "volume": 791256
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-20",
+    "price": 44.43,
+    "volume": 1202199
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-17",
+    "price": 44.65,
+    "volume": 1304762
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-16",
+    "price": 44.93,
+    "volume": 1104203
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-15",
+    "price": 44.73,
+    "volume": 1435212
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-14",
+    "price": 44.36,
+    "volume": 857017
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-13",
+    "price": 43.32,
+    "volume": 820607
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-10",
+    "price": 42.62,
+    "volume": 670574
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-09",
+    "price": 42.59,
+    "volume": 691104
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-08",
+    "price": 41.96,
+    "volume": 1122948
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-07",
+    "price": 41.97,
+    "volume": 860637
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-06",
+    "price": 41.61,
+    "volume": 2201749
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-03",
+    "price": 42,
+    "volume": 1348779
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-02",
+    "price": 41.71,
+    "volume": 1230165
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-05-01",
+    "price": 41.83,
+    "volume": 1503071
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-30",
+    "price": 41.36,
+    "volume": 2768923
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-29",
+    "price": 41.33,
+    "volume": 2626613
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-26",
+    "price": 40.7,
+    "volume": 1439688
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-25",
+    "price": 40.14,
+    "volume": 1284220
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-24",
+    "price": 40.57,
+    "volume": 835306
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-23",
+    "price": 40.94,
+    "volume": 993941
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-22",
+    "price": 40.28,
+    "volume": 1283098
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-19",
+    "price": 39.08,
+    "volume": 1133899
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-18",
+    "price": 38.57,
+    "volume": 974183
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-17",
+    "price": 38.33,
+    "volume": 814588
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-16",
+    "price": 38.42,
+    "volume": 754527
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-15",
+    "price": 38.76,
+    "volume": 564415
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-12",
+    "price": 39.26,
+    "volume": 656957
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-11",
+    "price": 40.23,
+    "volume": 541138
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-10",
+    "price": 40.24,
+    "volume": 930480
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-09",
+    "price": 41.01,
+    "volume": 883949
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-08",
+    "price": 40.56,
+    "volume": 1174627
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-05",
+    "price": 40.23,
+    "volume": 1670669
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-04",
+    "price": 40.17,
+    "volume": 962105
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-03",
+    "price": 40.95,
+    "volume": 1017977
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-02",
+    "price": 41.25,
+    "volume": 780704
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-04-01",
+    "price": 41.52,
+    "volume": 577778
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-28",
+    "price": 42.01,
+    "volume": 1090316
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-27",
+    "price": 41.77,
+    "volume": 1036672
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-26",
+    "price": 41.72,
+    "volume": 943948
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-25",
+    "price": 41.84,
+    "volume": 935258
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-22",
+    "price": 42.85,
+    "volume": 818206
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-21",
+    "price": 42.68,
+    "volume": 678127
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-20",
+    "price": 42.95,
+    "volume": 788724
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-19",
+    "price": 43.01,
+    "volume": 1563874
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-18",
+    "price": 43.13,
+    "volume": 651224
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-15",
+    "price": 43.04,
+    "volume": 1056200
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-14",
+    "price": 43.02,
+    "volume": 737746
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-13",
+    "price": 43.28,
+    "volume": 842441
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-12",
+    "price": 43.62,
+    "volume": 608546
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-11",
+    "price": 43.99,
+    "volume": 584465
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-08",
+    "price": 43.44,
+    "volume": 450435
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-07",
+    "price": 43.51,
+    "volume": 940760
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-06",
+    "price": 42.99,
+    "volume": 960478
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-05",
+    "price": 42.95,
+    "volume": 728238
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-04",
+    "price": 42.95,
+    "volume": 805658
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-03-01",
+    "price": 42.46,
+    "volume": 638567
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-29",
+    "price": 41.81,
+    "volume": 1165304
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-28",
+    "price": 42.21,
+    "volume": 1109191
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-27",
+    "price": 42.49,
+    "volume": 629547
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-26",
+    "price": 42.56,
+    "volume": 1193414
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-23",
+    "price": 42.82,
+    "volume": 1541205
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-22",
+    "price": 42.54,
+    "volume": 1138423
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-21",
+    "price": 41.89,
+    "volume": 1113602
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-20",
+    "price": 41.82,
+    "volume": 1053606
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-16",
+    "price": 42.08,
+    "volume": 979603
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-15",
+    "price": 41.74,
+    "volume": 1013121
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-14",
+    "price": 41.9,
+    "volume": 1003526
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-13",
+    "price": 41.88,
+    "volume": 845118
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-12",
+    "price": 42.82,
+    "volume": 1507895
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-09",
+    "price": 43.47,
+    "volume": 1198531
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-08",
+    "price": 43.11,
+    "volume": 1040400
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-07",
+    "price": 42.52,
+    "volume": 2576305
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-06",
+    "price": 43.78,
+    "volume": 3519132
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-05",
+    "price": 41.23,
+    "volume": 1633858
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-02",
+    "price": 42.51,
+    "volume": 1378184
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-02-01",
+    "price": 43.12,
+    "volume": 1251519
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-31",
+    "price": 42.66,
+    "volume": 1238633
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-30",
+    "price": 42.54,
+    "volume": 965471
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-29",
+    "price": 44.11,
+    "volume": 1050066
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-26",
+    "price": 44.42,
+    "volume": 923093
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-25",
+    "price": 44.4,
+    "volume": 1120480
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-24",
+    "price": 44.17,
+    "volume": 772848
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-23",
+    "price": 44.76,
+    "volume": 848469
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-22",
+    "price": 45.17,
+    "volume": 1579455
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-19",
+    "price": 45.47,
+    "volume": 3421471
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-18",
+    "price": 44.98,
+    "volume": 1061941
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-17",
+    "price": 45.03,
+    "volume": 1260927
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-16",
+    "price": 45.44,
+    "volume": 3306075
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-12",
+    "price": 45.25,
+    "volume": 1230953
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-11",
+    "price": 45.14,
+    "volume": 1373925
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-10",
+    "price": 45.27,
+    "volume": 1202808
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-09",
+    "price": 45.26,
+    "volume": 1735025
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-08",
+    "price": 45.6,
+    "volume": 2049434
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-05",
+    "price": 44.42,
+    "volume": 2089302
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-04",
+    "price": 44.12,
+    "volume": 2556433
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-03",
+    "price": 43.52,
+    "volume": 3472632
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2024-01-02",
+    "price": 43.98,
+    "volume": 1410440
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-29",
+    "price": 43.75,
+    "volume": 493142
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-28",
+    "price": 43.89,
+    "volume": 518891
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-27",
+    "price": 43.8,
+    "volume": 528134
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-26",
+    "price": 43.78,
+    "volume": 510528
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-22",
+    "price": 43.51,
+    "volume": 697242
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-21",
+    "price": 43.43,
+    "volume": 987827
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-20",
+    "price": 42.34,
+    "volume": 872866
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-19",
+    "price": 43.28,
+    "volume": 1299187
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-18",
+    "price": 42.67,
+    "volume": 755069
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-15",
+    "price": 42.76,
+    "volume": 1225629
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-14",
+    "price": 43.43,
+    "volume": 1418660
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-13",
+    "price": 43.4,
+    "volume": 1110121
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-12",
+    "price": 42.2,
+    "volume": 962929
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-11",
+    "price": 42.39,
+    "volume": 1747641
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-08",
+    "price": 42.08,
+    "volume": 1411492
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-07",
+    "price": 42.33,
+    "volume": 1704035
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-06",
+    "price": 41.74,
+    "volume": 750847
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-05",
+    "price": 41.37,
+    "volume": 465984
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-04",
+    "price": 41.82,
+    "volume": 775424
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-12-01",
+    "price": 41.75,
+    "volume": 965333
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-30",
+    "price": 41.47,
+    "volume": 1026249
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-29",
+    "price": 41.53,
+    "volume": 1062295
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-28",
+    "price": 41.42,
+    "volume": 1488212
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-27",
+    "price": 40.89,
+    "volume": 1511965
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-24",
+    "price": 41.19,
+    "volume": 385112
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-22",
+    "price": 40.95,
+    "volume": 1371209
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-21",
+    "price": 40.65,
+    "volume": 1215823
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-20",
+    "price": 40.16,
+    "volume": 960256
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-17",
+    "price": 39.64,
+    "volume": 787482
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-16",
+    "price": 39.69,
+    "volume": 702419
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-15",
+    "price": 39.7,
+    "volume": 1049494
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-14",
+    "price": 39.84,
+    "volume": 1104957
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-13",
+    "price": 38.65,
+    "volume": 1375948
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-10",
+    "price": 38.33,
+    "volume": 999358
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-09",
+    "price": 38.31,
+    "volume": 1626418
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-08",
+    "price": 39.05,
+    "volume": 768539
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-07",
+    "price": 39.51,
+    "volume": 1355665
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-06",
+    "price": 39.23,
+    "volume": 1051033
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-03",
+    "price": 39.49,
+    "volume": 1097494
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-02",
+    "price": 38.48,
+    "volume": 1191162
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-11-01",
+    "price": 38.15,
+    "volume": 1917252
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-31",
+    "price": 37.71,
+    "volume": 4024454
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-30",
+    "price": 35.82,
+    "volume": 3409812
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-27",
+    "price": 36.38,
+    "volume": 1615873
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-26",
+    "price": 37.06,
+    "volume": 1214577
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-25",
+    "price": 37.15,
+    "volume": 1150574
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-24",
+    "price": 37.67,
+    "volume": 989961
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-23",
+    "price": 37.63,
+    "volume": 1039424
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-20",
+    "price": 37.81,
+    "volume": 1925398
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-19",
+    "price": 37.8,
+    "volume": 1356417
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-18",
+    "price": 38.11,
+    "volume": 1173835
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-17",
+    "price": 39.2,
+    "volume": 794751
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-16",
+    "price": 39.43,
+    "volume": 1106601
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-13",
+    "price": 38.74,
+    "volume": 1501947
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-12",
+    "price": 39.36,
+    "volume": 1246649
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-11",
+    "price": 40.3,
+    "volume": 711826
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-10",
+    "price": 40.72,
+    "volume": 833174
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-09",
+    "price": 40.16,
+    "volume": 1437072
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-06",
+    "price": 40.81,
+    "volume": 934323
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-05",
+    "price": 40.76,
+    "volume": 815801
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-04",
+    "price": 40.49,
+    "volume": 1068008
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-03",
+    "price": 40.03,
+    "volume": 813686
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-10-02",
+    "price": 40.33,
+    "volume": 1487000
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-29",
+    "price": 40.8,
+    "volume": 1269252
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-28",
+    "price": 39.99,
+    "volume": 914293
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-27",
+    "price": 39.76,
+    "volume": 1078687
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-26",
+    "price": 39.9,
+    "volume": 1039012
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-25",
+    "price": 39.42,
+    "volume": 657771
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-22",
+    "price": 39.71,
+    "volume": 630659
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-21",
+    "price": 39.88,
+    "volume": 1196527
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-20",
+    "price": 40.67,
+    "volume": 1332033
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-19",
+    "price": 40.4,
+    "volume": 1340013
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-18",
+    "price": 40.87,
+    "volume": 1395217
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-15",
+    "price": 41.38,
+    "volume": 2403879
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-14",
+    "price": 41.99,
+    "volume": 1075365
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-13",
+    "price": 42.11,
+    "volume": 1663431
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-12",
+    "price": 42.15,
+    "volume": 966191
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-11",
+    "price": 42.76,
+    "volume": 1541316
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-08",
+    "price": 41.88,
+    "volume": 1050003
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-07",
+    "price": 42.41,
+    "volume": 1030020
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-06",
+    "price": 42.89,
+    "volume": 855141
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-05",
+    "price": 43.37,
+    "volume": 1708649
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-09-01",
+    "price": 44.93,
+    "volume": 1197807
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-31",
+    "price": 45.83,
+    "volume": 928409
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-30",
+    "price": 46.4,
+    "volume": 973833
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-29",
+    "price": 46,
+    "volume": 1310952
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-28",
+    "price": 45.27,
+    "volume": 1815672
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-25",
+    "price": 45.04,
+    "volume": 997794
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-24",
+    "price": 44.66,
+    "volume": 857906
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-23",
+    "price": 45.09,
+    "volume": 1486356
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-22",
+    "price": 44.56,
+    "volume": 1834048
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-21",
+    "price": 44.06,
+    "volume": 1914912
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-18",
+    "price": 43.4,
+    "volume": 1290427
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-17",
+    "price": 43.11,
+    "volume": 1324703
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-16",
+    "price": 43.53,
+    "volume": 1288942
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-15",
+    "price": 44.17,
+    "volume": 1757506
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-14",
+    "price": 44.42,
+    "volume": 1347506
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-11",
+    "price": 44.06,
+    "volume": 1112557
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-10",
+    "price": 44.67,
+    "volume": 1464174
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-09",
+    "price": 45.07,
+    "volume": 2075049
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-08",
+    "price": 44.93,
+    "volume": 1666396
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-07",
+    "price": 45.55,
+    "volume": 1584372
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-04",
+    "price": 45.95,
+    "volume": 1883206
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-03",
+    "price": 46.98,
+    "volume": 938905
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-02",
+    "price": 47.2,
+    "volume": 1480108
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-08-01",
+    "price": 47.17,
+    "volume": 1036054
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-31",
+    "price": 47.17,
+    "volume": 989994
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-28",
+    "price": 47.47,
+    "volume": 1163001
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-27",
+    "price": 47.05,
+    "volume": 1092285
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-26",
+    "price": 47.59,
+    "volume": 951484
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-25",
+    "price": 47.26,
+    "volume": 1221441
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-24",
+    "price": 47.14,
+    "volume": 1580575
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-21",
+    "price": 46.98,
+    "volume": 1505786
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-20",
+    "price": 46.01,
+    "volume": 825798
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-19",
+    "price": 46.33,
+    "volume": 1093029
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-18",
+    "price": 46,
+    "volume": 567844
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-17",
+    "price": 46.09,
+    "volume": 869427
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-14",
+    "price": 46.36,
+    "volume": 1291729
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-13",
+    "price": 46.45,
+    "volume": 838459
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-12",
+    "price": 46.15,
+    "volume": 886439
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-11",
+    "price": 45.52,
+    "volume": 758155
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-10",
+    "price": 45.41,
+    "volume": 1264064
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-07",
+    "price": 44.93,
+    "volume": 833798
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-06",
+    "price": 45.14,
+    "volume": 1559855
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-05",
+    "price": 45.42,
+    "volume": 1505728
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-07-03",
+    "price": 45.5,
+    "volume": 501184
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-30",
+    "price": 45.36,
+    "volume": 1006225
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-29",
+    "price": 44.6,
+    "volume": 1407161
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-28",
+    "price": 44.88,
+    "volume": 1102922
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-27",
+    "price": 45.03,
+    "volume": 1137935
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-26",
+    "price": 45.54,
+    "volume": 1254015
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-23",
+    "price": 45.59,
+    "volume": 1573861
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-22",
+    "price": 45.75,
+    "volume": 1580921
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-21",
+    "price": 45.5,
+    "volume": 1538880
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-20",
+    "price": 46.41,
+    "volume": 2116823
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-16",
+    "price": 47.1,
+    "volume": 718696
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-15",
+    "price": 46.92,
+    "volume": 1015895
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-14",
+    "price": 46.28,
+    "volume": 1722540
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-13",
+    "price": 46.57,
+    "volume": 1032452
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-12",
+    "price": 46.09,
+    "volume": 809848
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-09",
+    "price": 45.62,
+    "volume": 634957
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-08",
+    "price": 45.77,
+    "volume": 694401
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-07",
+    "price": 45.25,
+    "volume": 947739
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-06",
+    "price": 46.17,
+    "volume": 617884
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-05",
+    "price": 46.25,
+    "volume": 1368761
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-02",
+    "price": 46.83,
+    "volume": 1232107
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-06-01",
+    "price": 46.11,
+    "volume": 671508
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-31",
+    "price": 45.5,
+    "volume": 1053264
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-30",
+    "price": 45.62,
+    "volume": 1277861
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-26",
+    "price": 46.41,
+    "volume": 880512
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-25",
+    "price": 45.94,
+    "volume": 821876
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-24",
+    "price": 45.88,
+    "volume": 1033883
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-23",
+    "price": 46.27,
+    "volume": 1270673
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-22",
+    "price": 45.27,
+    "volume": 523516
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-19",
+    "price": 45.49,
+    "volume": 438875
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-18",
+    "price": 45.25,
+    "volume": 561385
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-17",
+    "price": 45.28,
+    "volume": 814911
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-16",
+    "price": 45.58,
+    "volume": 593259
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-15",
+    "price": 45.7,
+    "volume": 655941
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-12",
+    "price": 45.42,
+    "volume": 1173819
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-11",
+    "price": 45.88,
+    "volume": 604182
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-10",
+    "price": 45.87,
+    "volume": 1403987
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-09",
+    "price": 45.37,
+    "volume": 1493517
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-08",
+    "price": 46.41,
+    "volume": 831588
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-05",
+    "price": 46.32,
+    "volume": 1036969
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-04",
+    "price": 46.38,
+    "volume": 1054440
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-03",
+    "price": 45.27,
+    "volume": 943866
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-02",
+    "price": 44.67,
+    "volume": 814029
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-05-01",
+    "price": 45.09,
+    "volume": 710105
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-28",
+    "price": 44.93,
+    "volume": 524494
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-27",
+    "price": 44.57,
+    "volume": 873554
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-26",
+    "price": 44.25,
+    "volume": 701392
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-25",
+    "price": 44.47,
+    "volume": 791856
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-24",
+    "price": 45.87,
+    "volume": 521880
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-21",
+    "price": 45.42,
+    "volume": 674187
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-20",
+    "price": 45.22,
+    "volume": 644787
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-19",
+    "price": 45.78,
+    "volume": 748905
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-18",
+    "price": 46.14,
+    "volume": 1135636
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-17",
+    "price": 46.54,
+    "volume": 1251369
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-14",
+    "price": 46.86,
+    "volume": 533561
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-13",
+    "price": 47.1,
+    "volume": 1341271
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-12",
+    "price": 46.54,
+    "volume": 798263
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-11",
+    "price": 46.56,
+    "volume": 1130331
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-10",
+    "price": 46.09,
+    "volume": 812542
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-06",
+    "price": 46.32,
+    "volume": 884233
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-05",
+    "price": 46.2,
+    "volume": 762466
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-04",
+    "price": 45.7,
+    "volume": 724253
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-04-03",
+    "price": 45.85,
+    "volume": 1036586
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-31",
+    "price": 46.27,
+    "volume": 1346606
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-30",
+    "price": 45.97,
+    "volume": 785824
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-29",
+    "price": 46.26,
+    "volume": 216580
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-28",
+    "price": 46.08,
+    "volume": 453234
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-27",
+    "price": 46.73,
+    "volume": 1004434
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-24",
+    "price": 46.49,
+    "volume": 528321
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-23",
+    "price": 46.17,
+    "volume": 443551
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-22",
+    "price": 46.27,
+    "volume": 462951
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-21",
+    "price": 46.75,
+    "volume": 598765
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-20",
+    "price": 46.18,
+    "volume": 558013
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-17",
+    "price": 46.46,
+    "volume": 861180
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-16",
+    "price": 46.78,
+    "volume": 535874
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-15",
+    "price": 46.32,
+    "volume": 1047309
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-14",
+    "price": 46.68,
+    "volume": 1192129
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-13",
+    "price": 46.76,
+    "volume": 973414
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-10",
+    "price": 46.27,
+    "volume": 863516
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-09",
+    "price": 46.14,
+    "volume": 400646
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-08",
+    "price": 46.34,
+    "volume": 409491
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-07",
+    "price": 46.34,
+    "volume": 625772
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-06",
+    "price": 46.7,
+    "volume": 529825
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-03",
+    "price": 46.67,
+    "volume": 540772
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-02",
+    "price": 46.14,
+    "volume": 1050740
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-03-01",
+    "price": 45.62,
+    "volume": 1066582
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-28",
+    "price": 46.28,
+    "volume": 928278
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-27",
+    "price": 46.65,
+    "volume": 923577
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-24",
+    "price": 46.08,
+    "volume": 750169
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-23",
+    "price": 46.71,
+    "volume": 661546
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-22",
+    "price": 46.83,
+    "volume": 597685
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-21",
+    "price": 47.58,
+    "volume": 489372
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-17",
+    "price": 48.15,
+    "volume": 481696
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-16",
+    "price": 48.02,
+    "volume": 697027
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-15",
+    "price": 48.83,
+    "volume": 537708
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-14",
+    "price": 49.11,
+    "volume": 335839
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-13",
+    "price": 49.2,
+    "volume": 568682
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-10",
+    "price": 49.57,
+    "volume": 603581
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-09",
+    "price": 49.53,
+    "volume": 707182
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-08",
+    "price": 49.73,
+    "volume": 1051086
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-07",
+    "price": 50.17,
+    "volume": 884738
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-06",
+    "price": 49.68,
+    "volume": 787804
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-03",
+    "price": 49.9,
+    "volume": 782497
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-02",
+    "price": 49.75,
+    "volume": 734934
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-02-01",
+    "price": 49.81,
+    "volume": 629641
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-31",
+    "price": 49.36,
+    "volume": 405904
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-30",
+    "price": 49.18,
+    "volume": 569862
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-27",
+    "price": 49.67,
+    "volume": 665358
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-26",
+    "price": 50.27,
+    "volume": 531562
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-25",
+    "price": 50.72,
+    "volume": 748898
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-24",
+    "price": 50.44,
+    "volume": 592707
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-23",
+    "price": 50.98,
+    "volume": 965861
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-20",
+    "price": 50.79,
+    "volume": 709227
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-19",
+    "price": 50.59,
+    "volume": 787497
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-18",
+    "price": 50.23,
+    "volume": 927457
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-17",
+    "price": 50.59,
+    "volume": 766574
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-13",
+    "price": 50.93,
+    "volume": 390237
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-12",
+    "price": 51.02,
+    "volume": 484507
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-11",
+    "price": 51.15,
+    "volume": 452515
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-10",
+    "price": 50.65,
+    "volume": 492872
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-09",
+    "price": 50.68,
+    "volume": 666159
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-06",
+    "price": 50.37,
+    "volume": 471781
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-05",
+    "price": 50.36,
+    "volume": 538081
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-04",
+    "price": 50.72,
+    "volume": 483718
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2023-01-03",
+    "price": 50.29,
+    "volume": 421681
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-30",
+    "price": 50.24,
+    "volume": 348507
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-29",
+    "price": 50.56,
+    "volume": 539874
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-28",
+    "price": 49.54,
+    "volume": 470080
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-27",
+    "price": 49.66,
+    "volume": 592799
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-23",
+    "price": 49.68,
+    "volume": 356081
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-22",
+    "price": 49.75,
+    "volume": 362522
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-21",
+    "price": 49.7,
+    "volume": 841966
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-20",
+    "price": 49.36,
+    "volume": 372831
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-19",
+    "price": 49.18,
+    "volume": 644177
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-16",
+    "price": 49.94,
+    "volume": 1985275
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-15",
+    "price": 50.23,
+    "volume": 1015274
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-14",
+    "price": 50.12,
+    "volume": 456494
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-13",
+    "price": 50.15,
+    "volume": 541556
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-12",
+    "price": 50.21,
+    "volume": 582956
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-09",
+    "price": 49.64,
+    "volume": 494633
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-08",
+    "price": 49.55,
+    "volume": 608108
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-07",
+    "price": 49.25,
+    "volume": 585242
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-06",
+    "price": 49.06,
+    "volume": 804261
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-05",
+    "price": 49.54,
+    "volume": 610060
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-02",
+    "price": 50.72,
+    "volume": 461915
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-12-01",
+    "price": 50.83,
+    "volume": 591179
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-30",
+    "price": 49.9,
+    "volume": 631633
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-29",
+    "price": 49.24,
+    "volume": 465042
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-28",
+    "price": 49.44,
+    "volume": 1173246
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-25",
+    "price": 49.33,
+    "volume": 234705
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-23",
+    "price": 49.26,
+    "volume": 356315
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-22",
+    "price": 48.66,
+    "volume": 836120
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-21",
+    "price": 48.6,
+    "volume": 1044687
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-18",
+    "price": 48.51,
+    "volume": 1857856
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-17",
+    "price": 48.23,
+    "volume": 490718
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-16",
+    "price": 48.41,
+    "volume": 1247422
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-15",
+    "price": 48.25,
+    "volume": 783195
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-14",
+    "price": 47.51,
+    "volume": 590498
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-11",
+    "price": 48.52,
+    "volume": 1078238
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-10",
+    "price": 47.04,
+    "volume": 1463392
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-09",
+    "price": 44.83,
+    "volume": 1066994
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-08",
+    "price": 44.6,
+    "volume": 2321232
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-07",
+    "price": 42.24,
+    "volume": 2351988
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-04",
+    "price": 42.99,
+    "volume": 949527
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-03",
+    "price": 42.57,
+    "volume": 2195700
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-02",
+    "price": 43.42,
+    "volume": 532259
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-11-01",
+    "price": 44.37,
+    "volume": 511186
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-31",
+    "price": 43.88,
+    "volume": 1581607
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-28",
+    "price": 44.2,
+    "volume": 776291
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-27",
+    "price": 43.88,
+    "volume": 419294
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-26",
+    "price": 44.75,
+    "volume": 793584
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-25",
+    "price": 44.02,
+    "volume": 1168342
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-24",
+    "price": 42.71,
+    "volume": 939274
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-21",
+    "price": 42.48,
+    "volume": 939618
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-20",
+    "price": 42.62,
+    "volume": 690833
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-19",
+    "price": 43.04,
+    "volume": 1000204
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-18",
+    "price": 45.13,
+    "volume": 710809
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-17",
+    "price": 44.95,
+    "volume": 1608344
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-14",
+    "price": 43.97,
+    "volume": 817903
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-13",
+    "price": 44.11,
+    "volume": 1667652
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-12",
+    "price": 42.92,
+    "volume": 1290946
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-11",
+    "price": 43.37,
+    "volume": 3251757
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-10",
+    "price": 44.18,
+    "volume": 10906108
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-07",
+    "price": 42.83,
+    "volume": 894952
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-06",
+    "price": 44.33,
+    "volume": 1276286
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-05",
+    "price": 43.91,
+    "volume": 861800
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-04",
+    "price": 44.09,
+    "volume": 959969
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-10-03",
+    "price": 42.32,
+    "volume": 944262
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-30",
+    "price": 41.58,
+    "volume": 830293
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-29",
+    "price": 41.52,
+    "volume": 830760
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-28",
+    "price": 41.89,
+    "volume": 703761
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-27",
+    "price": 41.2,
+    "volume": 824434
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-26",
+    "price": 41.26,
+    "volume": 979804
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-23",
+    "price": 41.63,
+    "volume": 985848
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-22",
+    "price": 42.16,
+    "volume": 722988
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-21",
+    "price": 42.69,
+    "volume": 768567
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-20",
+    "price": 43.67,
+    "volume": 947069
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-19",
+    "price": 43.88,
+    "volume": 590379
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-16",
+    "price": 43.72,
+    "volume": 1246751
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-15",
+    "price": 45.31,
+    "volume": 577972
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-14",
+    "price": 45.31,
+    "volume": 1424572
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-13",
+    "price": 45.64,
+    "volume": 959137
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-12",
+    "price": 46.92,
+    "volume": 888692
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-09",
+    "price": 46.5,
+    "volume": 1625432
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-08",
+    "price": 46.41,
+    "volume": 1181265
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-07",
+    "price": 46.43,
+    "volume": 880615
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-06",
+    "price": 45.72,
+    "volume": 813262
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-02",
+    "price": 45.7,
+    "volume": 982081
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-09-01",
+    "price": 45.54,
+    "volume": 1046322
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-31",
+    "price": 45.76,
+    "volume": 783933
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-30",
+    "price": 45.65,
+    "volume": 983187
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-29",
+    "price": 46.14,
+    "volume": 505393
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-26",
+    "price": 46.61,
+    "volume": 1225232
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-25",
+    "price": 48.22,
+    "volume": 444416
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-24",
+    "price": 47.55,
+    "volume": 619956
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-23",
+    "price": 46.79,
+    "volume": 621091
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-22",
+    "price": 47.27,
+    "volume": 676824
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-19",
+    "price": 47.42,
+    "volume": 377580
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-18",
+    "price": 47.74,
+    "volume": 633591
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-17",
+    "price": 48.4,
+    "volume": 539300
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-16",
+    "price": 49.14,
+    "volume": 931483
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-15",
+    "price": 50.03,
+    "volume": 796034
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-12",
+    "price": 50.28,
+    "volume": 301159
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-11",
+    "price": 50.15,
+    "volume": 424396
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-10",
+    "price": 50.22,
+    "volume": 522287
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-09",
+    "price": 48.88,
+    "volume": 648512
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-08",
+    "price": 49.82,
+    "volume": 708973
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-05",
+    "price": 50.07,
+    "volume": 1136765
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-04",
+    "price": 50.79,
+    "volume": 793675
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-03",
+    "price": 50.14,
+    "volume": 627229
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-02",
+    "price": 49.77,
+    "volume": 757373
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-08-01",
+    "price": 49.95,
+    "volume": 1046229
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-29",
+    "price": 50.01,
+    "volume": 930482
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-28",
+    "price": 49.82,
+    "volume": 719012
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-27",
+    "price": 48.67,
+    "volume": 1146111
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-26",
+    "price": 48.23,
+    "volume": 1891517
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-25",
+    "price": 47.75,
+    "volume": 989062
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-22",
+    "price": 48.25,
+    "volume": 750418
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-21",
+    "price": 48.89,
+    "volume": 994722
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-20",
+    "price": 47.22,
+    "volume": 933307
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-19",
+    "price": 47.39,
+    "volume": 849775
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-18",
+    "price": 46.48,
+    "volume": 1661216
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-15",
+    "price": 47.31,
+    "volume": 1233272
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-14",
+    "price": 46.35,
+    "volume": 775733
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-13",
+    "price": 46.7,
+    "volume": 535281
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-12",
+    "price": 47.07,
+    "volume": 825131
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-11",
+    "price": 48.28,
+    "volume": 844653
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-08",
+    "price": 48.66,
+    "volume": 1275554
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-07",
+    "price": 49.44,
+    "volume": 1255396
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-06",
+    "price": 48.75,
+    "volume": 1729352
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-05",
+    "price": 48.68,
+    "volume": 1310091
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-07-01",
+    "price": 48.2,
+    "volume": 1342681
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-30",
+    "price": 47.55,
+    "volume": 1180786
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-29",
+    "price": 47.03,
+    "volume": 1285636
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-28",
+    "price": 47.18,
+    "volume": 766016
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-27",
+    "price": 47.34,
+    "volume": 1122268
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-24",
+    "price": 46.98,
+    "volume": 1398285
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-23",
+    "price": 45.16,
+    "volume": 700244
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-22",
+    "price": 44.14,
+    "volume": 705676
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-21",
+    "price": 43.66,
+    "volume": 1441881
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-17",
+    "price": 44.01,
+    "volume": 1128656
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-16",
+    "price": 43.86,
+    "volume": 945656
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-15",
+    "price": 44.37,
+    "volume": 664963
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-14",
+    "price": 43.3,
+    "volume": 1237049
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-13",
+    "price": 44.22,
+    "volume": 893093
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-10",
+    "price": 45.21,
+    "volume": 1008237
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-09",
+    "price": 46.25,
+    "volume": 753817
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-08",
+    "price": 47.11,
+    "volume": 726847
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-07",
+    "price": 47.07,
+    "volume": 617449
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-06",
+    "price": 46.59,
+    "volume": 1075024
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-03",
+    "price": 45.93,
+    "volume": 414783
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-02",
+    "price": 46.64,
+    "volume": 612789
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-06-01",
+    "price": 45.38,
+    "volume": 685817
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-31",
+    "price": 46.28,
+    "volume": 702039
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-27",
+    "price": 47.74,
+    "volume": 740567
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-26",
+    "price": 45.97,
+    "volume": 463073
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-25",
+    "price": 45.69,
+    "volume": 1220020
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-24",
+    "price": 45.89,
+    "volume": 667126
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-23",
+    "price": 46.23,
+    "volume": 831587
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-20",
+    "price": 45.6,
+    "volume": 1477202
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-19",
+    "price": 44.77,
+    "volume": 1380313
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-18",
+    "price": 44.28,
+    "volume": 1037415
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-17",
+    "price": 46.23,
+    "volume": 890416
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-16",
+    "price": 46.69,
+    "volume": 975056
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-13",
+    "price": 46.47,
+    "volume": 945096
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-12",
+    "price": 44.59,
+    "volume": 723165
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-11",
+    "price": 44.42,
+    "volume": 524449
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-10",
+    "price": 45.07,
+    "volume": 623498
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-09",
+    "price": 45.22,
+    "volume": 934460
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-06",
+    "price": 46.11,
+    "volume": 710919
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-05",
+    "price": 46.42,
+    "volume": 556340
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-04",
+    "price": 47.05,
+    "volume": 644804
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-03",
+    "price": 46.65,
+    "volume": 708387
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-05-02",
+    "price": 46.65,
+    "volume": 701165
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-29",
+    "price": 45.7,
+    "volume": 809197
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-28",
+    "price": 46.12,
+    "volume": 853040
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-27",
+    "price": 45.64,
+    "volume": 810488
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-26",
+    "price": 45.24,
+    "volume": 1061949
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-25",
+    "price": 45.51,
+    "volume": 1297466
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-22",
+    "price": 45.49,
+    "volume": 434517
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-21",
+    "price": 46.58,
+    "volume": 426175
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-20",
+    "price": 47.42,
+    "volume": 711911
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-19",
+    "price": 46.92,
+    "volume": 593255
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-18",
+    "price": 46.82,
+    "volume": 606985
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-14",
+    "price": 47.25,
+    "volume": 686836
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-13",
+    "price": 47.59,
+    "volume": 695209
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-12",
+    "price": 47.22,
+    "volume": 672628
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-11",
+    "price": 48.44,
+    "volume": 479536
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-08",
+    "price": 49.42,
+    "volume": 635885
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-07",
+    "price": 49.68,
+    "volume": 750892
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-06",
+    "price": 49.69,
+    "volume": 510254
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-05",
+    "price": 50.14,
+    "volume": 1111195
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-04",
+    "price": 50.08,
+    "volume": 597902
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-04-01",
+    "price": 49.76,
+    "volume": 540591
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-31",
+    "price": 49.36,
+    "volume": 711773
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-30",
+    "price": 50.51,
+    "volume": 605577
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-29",
+    "price": 49.91,
+    "volume": 633573
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-28",
+    "price": 48.85,
+    "volume": 306854
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-25",
+    "price": 48.36,
+    "volume": 573822
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-24",
+    "price": 48.77,
+    "volume": 502667
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-23",
+    "price": 48.76,
+    "volume": 544645
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-22",
+    "price": 49.55,
+    "volume": 497146
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-21",
+    "price": 49.29,
+    "volume": 523427
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-18",
+    "price": 50.31,
+    "volume": 1541812
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-17",
+    "price": 49.18,
+    "volume": 774795
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-16",
+    "price": 47.43,
+    "volume": 1320815
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-15",
+    "price": 45.53,
+    "volume": 832425
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-14",
+    "price": 45.48,
+    "volume": 792367
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-11",
+    "price": 44.26,
+    "volume": 427508
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-10",
+    "price": 44.7,
+    "volume": 560179
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-09",
+    "price": 45.03,
+    "volume": 1439340
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-08",
+    "price": 42.54,
+    "volume": 1655859
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-07",
+    "price": 44.11,
+    "volume": 1655966
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-04",
+    "price": 46.54,
+    "volume": 1276661
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-03",
+    "price": 48.69,
+    "volume": 862612
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-02",
+    "price": 49.2,
+    "volume": 908676
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-03-01",
+    "price": 50.09,
+    "volume": 440336
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-28",
+    "price": 50.06,
+    "volume": 727637
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-25",
+    "price": 50.47,
+    "volume": 609226
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-24",
+    "price": 49.05,
+    "volume": 628957
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-23",
+    "price": 48.76,
+    "volume": 497709
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-22",
+    "price": 49.56,
+    "volume": 518722
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-18",
+    "price": 49.04,
+    "volume": 386852
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-17",
+    "price": 49.58,
+    "volume": 541493
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-16",
+    "price": 49.57,
+    "volume": 691484
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-15",
+    "price": 49.6,
+    "volume": 906667
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-14",
+    "price": 48.35,
+    "volume": 589191
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-11",
+    "price": 48.83,
+    "volume": 476566
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-10",
+    "price": 50.09,
+    "volume": 698234
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-09",
+    "price": 50.78,
+    "volume": 1606008
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-08",
+    "price": 49.58,
+    "volume": 766428
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-07",
+    "price": 50.39,
+    "volume": 782342
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-04",
+    "price": 50.14,
+    "volume": 630384
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-03",
+    "price": 49.41,
+    "volume": 534045
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-02",
+    "price": 50.29,
+    "volume": 599852
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-02-01",
+    "price": 50.31,
+    "volume": 763488
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-31",
+    "price": 49.86,
+    "volume": 406783
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-28",
+    "price": 48.97,
+    "volume": 516835
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-27",
+    "price": 47.68,
+    "volume": 653460
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-26",
+    "price": 47.76,
+    "volume": 508949
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-25",
+    "price": 48.15,
+    "volume": 607456
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-24",
+    "price": 49.17,
+    "volume": 711349
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-21",
+    "price": 49.05,
+    "volume": 857395
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-20",
+    "price": 49.93,
+    "volume": 1128007
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-19",
+    "price": 50.16,
+    "volume": 2067575
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-18",
+    "price": 48.79,
+    "volume": 1232240
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-14",
+    "price": 48.84,
+    "volume": 827046
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-13",
+    "price": 49.02,
+    "volume": 1144393
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-12",
+    "price": 50.27,
+    "volume": 977187
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-11",
+    "price": 50.71,
+    "volume": 645433
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-10",
+    "price": 50.44,
+    "volume": 780873
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-07",
+    "price": 50.79,
+    "volume": 517395
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-06",
+    "price": 51.28,
+    "volume": 625432
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-05",
+    "price": 51.61,
+    "volume": 694748
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-04",
+    "price": 52.38,
+    "volume": 1016349
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2022-01-03",
+    "price": 54.7,
+    "volume": 433436
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-31",
+    "price": 55.99,
+    "volume": 286409
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-30",
+    "price": 55.88,
+    "volume": 387951
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-29",
+    "price": 56.15,
+    "volume": 278548
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-28",
+    "price": 55.88,
+    "volume": 277401
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-27",
+    "price": 56.51,
+    "volume": 310021
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-23",
+    "price": 55.67,
+    "volume": 210915
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-22",
+    "price": 55.9,
+    "volume": 267813
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-21",
+    "price": 55.69,
+    "volume": 493977
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-20",
+    "price": 56.08,
+    "volume": 474513
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-17",
+    "price": 55.44,
+    "volume": 1002778
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-16",
+    "price": 55.76,
+    "volume": 406980
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-15",
+    "price": 56.33,
+    "volume": 528408
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-14",
+    "price": 54.55,
+    "volume": 1281369
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-13",
+    "price": 55.19,
+    "volume": 305442
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-10",
+    "price": 54.75,
+    "volume": 424177
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-09",
+    "price": 54.66,
+    "volume": 546919
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-08",
+    "price": 55.17,
+    "volume": 913189
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-07",
+    "price": 53.95,
+    "volume": 492471
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-06",
+    "price": 53.77,
+    "volume": 631802
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-03",
+    "price": 54.6,
+    "volume": 821972
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-02",
+    "price": 54.96,
+    "volume": 890220
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-12-01",
+    "price": 54.61,
+    "volume": 1237463
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-30",
+    "price": 55.54,
+    "volume": 908417
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-29",
+    "price": 56.03,
+    "volume": 945541
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-26",
+    "price": 56.89,
+    "volume": 1338323
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-24",
+    "price": 54.96,
+    "volume": 870044
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-23",
+    "price": 55.25,
+    "volume": 743749
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-22",
+    "price": 55.49,
+    "volume": 590356
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-19",
+    "price": 55.87,
+    "volume": 877956
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-18",
+    "price": 56.43,
+    "volume": 815360
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-17",
+    "price": 55.15,
+    "volume": 3212463
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-16",
+    "price": 55.98,
+    "volume": 3200729
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-15",
+    "price": 53.79,
+    "volume": 422582
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-12",
+    "price": 54.22,
+    "volume": 818579
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-11",
+    "price": 53.98,
+    "volume": 1188915
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-10",
+    "price": 53.65,
+    "volume": 561405
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-09",
+    "price": 53.49,
+    "volume": 1056593
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-08",
+    "price": 54.73,
+    "volume": 820622
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-05",
+    "price": 54.64,
+    "volume": 1047334
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-04",
+    "price": 56.05,
+    "volume": 1045361
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-03",
+    "price": 55.76,
+    "volume": 2114837
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-02",
+    "price": 55.56,
+    "volume": 947298
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-11-01",
+    "price": 56.07,
+    "volume": 881888
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-29",
+    "price": 56.17,
+    "volume": 1799863
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-28",
+    "price": 54.82,
+    "volume": 634381
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-27",
+    "price": 53.84,
+    "volume": 663387
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-26",
+    "price": 55.35,
+    "volume": 969229
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-25",
+    "price": 54.65,
+    "volume": 634063
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-22",
+    "price": 54.39,
+    "volume": 350652
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-21",
+    "price": 53.95,
+    "volume": 306371
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-20",
+    "price": 53.58,
+    "volume": 231837
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-19",
+    "price": 52.95,
+    "volume": 296182
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-18",
+    "price": 52.5,
+    "volume": 358428
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-15",
+    "price": 52.02,
+    "volume": 739107
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-14",
+    "price": 52.19,
+    "volume": 385858
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-13",
+    "price": 51.68,
+    "volume": 355551
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-12",
+    "price": 51.49,
+    "volume": 546827
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-11",
+    "price": 51.16,
+    "volume": 235005
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-08",
+    "price": 51.44,
+    "volume": 346872
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-07",
+    "price": 51.5,
+    "volume": 620091
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-06",
+    "price": 51.38,
+    "volume": 990724
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-05",
+    "price": 51.34,
+    "volume": 1859257
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-04",
+    "price": 51,
+    "volume": 608258
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-10-01",
+    "price": 51.36,
+    "volume": 958865
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-30",
+    "price": 52.06,
+    "volume": 640182
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-29",
+    "price": 51.96,
+    "volume": 529889
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-28",
+    "price": 51.9,
+    "volume": 574360
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-27",
+    "price": 53.03,
+    "volume": 767349
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-24",
+    "price": 54.53,
+    "volume": 915522
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-23",
+    "price": 55.23,
+    "volume": 343073
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-22",
+    "price": 55.16,
+    "volume": 536589
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-21",
+    "price": 55.23,
+    "volume": 435624
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-20",
+    "price": 55.1,
+    "volume": 724016
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-17",
+    "price": 54.74,
+    "volume": 1558666
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-16",
+    "price": 54.55,
+    "volume": 1154435
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-15",
+    "price": 53.88,
+    "volume": 884952
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-14",
+    "price": 54.09,
+    "volume": 635912
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-13",
+    "price": 53.76,
+    "volume": 798161
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-10",
+    "price": 55.84,
+    "volume": 387884
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-09",
+    "price": 55.93,
+    "volume": 491012
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-08",
+    "price": 56.42,
+    "volume": 427094
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-07",
+    "price": 56.9,
+    "volume": 621301
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-03",
+    "price": 57.1,
+    "volume": 453893
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-02",
+    "price": 57.25,
+    "volume": 410084
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-09-01",
+    "price": 56.71,
+    "volume": 687008
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-31",
+    "price": 56.23,
+    "volume": 1282315
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-30",
+    "price": 56.45,
+    "volume": 376517
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-27",
+    "price": 55.91,
+    "volume": 530911
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-26",
+    "price": 55.15,
+    "volume": 426860
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-25",
+    "price": 54.68,
+    "volume": 505585
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-24",
+    "price": 54.53,
+    "volume": 391959
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-23",
+    "price": 54.36,
+    "volume": 416552
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-20",
+    "price": 53.88,
+    "volume": 525346
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-19",
+    "price": 53.1,
+    "volume": 877067
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-18",
+    "price": 53.02,
+    "volume": 582903
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-17",
+    "price": 52.46,
+    "volume": 718691
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-16",
+    "price": 52.29,
+    "volume": 666269
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-13",
+    "price": 51.52,
+    "volume": 246201
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-12",
+    "price": 51.45,
+    "volume": 536968
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-11",
+    "price": 51.47,
+    "volume": 462696
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-10",
+    "price": 52.12,
+    "volume": 583455
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-09",
+    "price": 52.6,
+    "volume": 515065
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-06",
+    "price": 52.74,
+    "volume": 1203419
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-05",
+    "price": 53.15,
+    "volume": 933586
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-04",
+    "price": 53.11,
+    "volume": 872100
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-03",
+    "price": 52.88,
+    "volume": 740254
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-08-02",
+    "price": 53.18,
+    "volume": 695472
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-30",
+    "price": 53.18,
+    "volume": 1326206
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-29",
+    "price": 52.6,
+    "volume": 792468
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-28",
+    "price": 52,
+    "volume": 583606
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-27",
+    "price": 52.06,
+    "volume": 485224
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-26",
+    "price": 51.61,
+    "volume": 846115
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-23",
+    "price": 52.37,
+    "volume": 809461
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-22",
+    "price": 51.72,
+    "volume": 577297
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-21",
+    "price": 50.87,
+    "volume": 809035
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-20",
+    "price": 50.61,
+    "volume": 1274358
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-19",
+    "price": 49.02,
+    "volume": 1013489
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-16",
+    "price": 47.62,
+    "volume": 1223842
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-15",
+    "price": 48.27,
+    "volume": 1326121
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-14",
+    "price": 46.89,
+    "volume": 1597996
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-13",
+    "price": 47.49,
+    "volume": 1522603
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-12",
+    "price": 49.15,
+    "volume": 2569521
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-09",
+    "price": 50.89,
+    "volume": 360104
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-08",
+    "price": 50.77,
+    "volume": 605594
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-07",
+    "price": 51.03,
+    "volume": 514356
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-06",
+    "price": 50.26,
+    "volume": 1137254
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-02",
+    "price": 49.87,
+    "volume": 443645
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-07-01",
+    "price": 49.39,
+    "volume": 525479
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-30",
+    "price": 48.73,
+    "volume": 596212
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-29",
+    "price": 49.73,
+    "volume": 479375
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-28",
+    "price": 49.69,
+    "volume": 477237
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-25",
+    "price": 48.91,
+    "volume": 799163
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-24",
+    "price": 48.45,
+    "volume": 639394
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-23",
+    "price": 47.66,
+    "volume": 599495
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-22",
+    "price": 47.8,
+    "volume": 537557
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-21",
+    "price": 47.6,
+    "volume": 521978
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-18",
+    "price": 47.47,
+    "volume": 831364
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-17",
+    "price": 47.11,
+    "volume": 986457
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-16",
+    "price": 48.38,
+    "volume": 606946
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-15",
+    "price": 48.04,
+    "volume": 553994
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-14",
+    "price": 47.77,
+    "volume": 719636
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-11",
+    "price": 48.22,
+    "volume": 444055
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-10",
+    "price": 48.07,
+    "volume": 410011
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-09",
+    "price": 47.25,
+    "volume": 440231
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-08",
+    "price": 47.35,
+    "volume": 653256
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-07",
+    "price": 47.5,
+    "volume": 1319814
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-04",
+    "price": 46.91,
+    "volume": 707305
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-03",
+    "price": 46.98,
+    "volume": 661136
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-02",
+    "price": 47.4,
+    "volume": 659331
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-06-01",
+    "price": 47.95,
+    "volume": 738740
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-28",
+    "price": 49.72,
+    "volume": 518318
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-27",
+    "price": 49.5,
+    "volume": 617644
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-26",
+    "price": 49.68,
+    "volume": 735881
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-25",
+    "price": 48.86,
+    "volume": 640036
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-24",
+    "price": 48.49,
+    "volume": 460453
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-21",
+    "price": 48.12,
+    "volume": 491872
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-20",
+    "price": 48.95,
+    "volume": 625366
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-19",
+    "price": 47.91,
+    "volume": 860348
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-18",
+    "price": 47.07,
+    "volume": 603072
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-17",
+    "price": 47.04,
+    "volume": 476038
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-14",
+    "price": 47.12,
+    "volume": 499674
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-13",
+    "price": 46.84,
+    "volume": 518158
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-12",
+    "price": 46.62,
+    "volume": 679452
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-11",
+    "price": 46.72,
+    "volume": 599943
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-10",
+    "price": 47.23,
+    "volume": 441445
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-07",
+    "price": 47.99,
+    "volume": 490900
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-06",
+    "price": 48.06,
+    "volume": 845894
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-05",
+    "price": 48.41,
+    "volume": 1809196
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-04",
+    "price": 48.29,
+    "volume": 1450078
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-05-03",
+    "price": 47.97,
+    "volume": 1099193
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-30",
+    "price": 48.49,
+    "volume": 2239882
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-29",
+    "price": 48.77,
+    "volume": 518148
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-28",
+    "price": 49.1,
+    "volume": 451687
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-27",
+    "price": 49.71,
+    "volume": 942577
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-26",
+    "price": 51.58,
+    "volume": 601807
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-23",
+    "price": 51.78,
+    "volume": 523525
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-22",
+    "price": 51.68,
+    "volume": 560479
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-21",
+    "price": 52.18,
+    "volume": 547907
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-20",
+    "price": 52.62,
+    "volume": 609387
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-19",
+    "price": 52.83,
+    "volume": 471429
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-16",
+    "price": 53.14,
+    "volume": 790877
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-15",
+    "price": 53.08,
+    "volume": 865785
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-14",
+    "price": 51.56,
+    "volume": 737181
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-13",
+    "price": 52.41,
+    "volume": 518341
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-12",
+    "price": 51.96,
+    "volume": 362545
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-09",
+    "price": 51.67,
+    "volume": 801955
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-08",
+    "price": 51.77,
+    "volume": 541299
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-07",
+    "price": 51.14,
+    "volume": 448936
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-06",
+    "price": 50.34,
+    "volume": 1313174
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-05",
+    "price": 50.02,
+    "volume": 629574
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-04-01",
+    "price": 49.66,
+    "volume": 769495
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-31",
+    "price": 49.05,
+    "volume": 607893
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-30",
+    "price": 48.26,
+    "volume": 551138
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-29",
+    "price": 48.73,
+    "volume": 556037
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-26",
+    "price": 49.6,
+    "volume": 397846
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-25",
+    "price": 49.42,
+    "volume": 580306
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-24",
+    "price": 49.08,
+    "volume": 898642
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-23",
+    "price": 50.47,
+    "volume": 678104
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-22",
+    "price": 50.47,
+    "volume": 407712
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-19",
+    "price": 50.26,
+    "volume": 853443
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-18",
+    "price": 48.45,
+    "volume": 369160
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-17",
+    "price": 48.95,
+    "volume": 662634
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-16",
+    "price": 48.85,
+    "volume": 567849
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-15",
+    "price": 49.43,
+    "volume": 994485
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-12",
+    "price": 48.65,
+    "volume": 822171
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-11",
+    "price": 48.93,
+    "volume": 1074934
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-10",
+    "price": 47.31,
+    "volume": 1300597
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-09",
+    "price": 48,
+    "volume": 913374
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-08",
+    "price": 46.59,
+    "volume": 578834
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-05",
+    "price": 47.87,
+    "volume": 688638
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-04",
+    "price": 47.93,
+    "volume": 972046
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-03",
+    "price": 49.46,
+    "volume": 723058
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-02",
+    "price": 50.83,
+    "volume": 587182
+  },
+  {
+    "symbol": "QGEN",
+    "date": "2021-03-01",
+    "price": 50.73,
+    "volume": 701244
+  }
+]

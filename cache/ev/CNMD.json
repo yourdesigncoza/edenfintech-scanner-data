@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "CNMD",
+    "date": "2025-12-31",
+    "stockPrice": 40.6,
+    "numberOfShares": 31036000,
+    "marketCapitalization": 1260061600,
+    "minusCashAndCashEquivalents": 40817000,
+    "addTotalDebt": 834942000,
+    "enterpriseValue": 2054186600
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2024-12-31",
+    "stockPrice": 68.44,
+    "numberOfShares": 30846000,
+    "marketCapitalization": 2111100240,
+    "minusCashAndCashEquivalents": 24459000,
+    "addTotalDebt": 905781000,
+    "enterpriseValue": 2992422240
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2023-12-31",
+    "stockPrice": 109.51,
+    "numberOfShares": 30668000,
+    "marketCapitalization": 3358452680,
+    "minusCashAndCashEquivalents": 24296000,
+    "addTotalDebt": 991254000,
+    "enterpriseValue": 4325410680
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2022-12-31",
+    "stockPrice": 88.64,
+    "numberOfShares": 30040000,
+    "marketCapitalization": 2662745600,
+    "minusCashAndCashEquivalents": 28942000,
+    "addTotalDebt": 1054822000,
+    "enterpriseValue": 3688625600
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2021-12-31",
+    "stockPrice": 141.76,
+    "numberOfShares": 29162000,
+    "marketCapitalization": 4134005119,
+    "minusCashAndCashEquivalents": 20847000,
+    "addTotalDebt": 684656000,
+    "enterpriseValue": 4797814119
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2020-12-31",
+    "stockPrice": 112,
+    "numberOfShares": 28581000,
+    "marketCapitalization": 3201072000,
+    "minusCashAndCashEquivalents": 27356000,
+    "addTotalDebt": 776448000,
+    "enterpriseValue": 3950164000
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2019-12-31",
+    "stockPrice": 111.83,
+    "numberOfShares": 28325000,
+    "marketCapitalization": 3167584750,
+    "minusCashAndCashEquivalents": 25856000,
+    "addTotalDebt": 793171000,
+    "enterpriseValue": 3934899750
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2018-12-31",
+    "stockPrice": 64.2,
+    "numberOfShares": 28118000,
+    "marketCapitalization": 1805175600,
+    "minusCashAndCashEquivalents": 17511000,
+    "addTotalDebt": 456900000,
+    "enterpriseValue": 2244564600
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2017-12-31",
+    "stockPrice": 50.97,
+    "numberOfShares": 27939000,
+    "marketCapitalization": 1424050830,
+    "minusCashAndCashEquivalents": 32622000,
+    "addTotalDebt": 486443000,
+    "enterpriseValue": 1877871830
+  },
+  {
+    "symbol": "CNMD",
+    "date": "2016-12-31",
+    "stockPrice": 44.17,
+    "numberOfShares": 27804000,
+    "marketCapitalization": 1228102680,
+    "minusCashAndCashEquivalents": 27428000,
+    "addTotalDebt": 488288000,
+    "enterpriseValue": 1688962680
+  }
+]
