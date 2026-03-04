@@ -1,6 +1,24 @@
 [
   {
     "symbol": "SJM",
+    "date": "2026-03-04",
+    "price": 113.3,
+    "volume": 1477136
+  },
+  {
+    "symbol": "SJM",
+    "date": "2026-03-03",
+    "price": 112.35,
+    "volume": 1912700
+  },
+  {
+    "symbol": "SJM",
+    "date": "2026-03-02",
+    "price": 114.68,
+    "volume": 2713212
+  },
+  {
+    "symbol": "SJM",
     "date": "2026-02-27",
     "price": 115.95,
     "volume": 12228500
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 118.34,
     "volume": 1917900
-  },
-  {
-    "symbol": "SJM",
-    "date": "2021-03-04",
-    "price": 116.22,
-    "volume": 1515400
-  },
-  {
-    "symbol": "SJM",
-    "date": "2021-03-03",
-    "price": 114,
-    "volume": 1294618
-  },
-  {
-    "symbol": "SJM",
-    "date": "2021-03-02",
-    "price": 113.03,
-    "volume": 1347539
-  },
-  {
-    "symbol": "SJM",
-    "date": "2021-03-01",
-    "price": 112.06,
-    "volume": 1679701
   }
 ]

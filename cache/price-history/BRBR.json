@@ -1,6 +1,24 @@
 [
   {
     "symbol": "BRBR",
+    "date": "2026-03-04",
+    "price": 17.57,
+    "volume": 893507
+  },
+  {
+    "symbol": "BRBR",
+    "date": "2026-03-03",
+    "price": 17.73,
+    "volume": 2692200
+  },
+  {
+    "symbol": "BRBR",
+    "date": "2026-03-02",
+    "price": 18.15,
+    "volume": 2698268
+  },
+  {
+    "symbol": "BRBR",
     "date": "2026-02-27",
     "price": 18.39,
     "volume": 2897227
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 23.38,
     "volume": 266279
-  },
-  {
-    "symbol": "BRBR",
-    "date": "2021-03-04",
-    "price": 22.7,
-    "volume": 457496
-  },
-  {
-    "symbol": "BRBR",
-    "date": "2021-03-03",
-    "price": 22.5,
-    "volume": 174549
-  },
-  {
-    "symbol": "BRBR",
-    "date": "2021-03-02",
-    "price": 23.1,
-    "volume": 155198
-  },
-  {
-    "symbol": "BRBR",
-    "date": "2021-03-01",
-    "price": 23.31,
-    "volume": 127764
   }
 ]

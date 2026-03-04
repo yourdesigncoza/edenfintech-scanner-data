@@ -1,6 +1,24 @@
 [
   {
     "symbol": "USNA",
+    "date": "2026-03-04",
+    "price": 18.96,
+    "volume": 62190
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-03-03",
+    "price": 19.45,
+    "volume": 144344
+  },
+  {
+    "symbol": "USNA",
+    "date": "2026-03-02",
+    "price": 20.09,
+    "volume": 156900
+  },
+  {
+    "symbol": "USNA",
     "date": "2026-02-27",
     "price": 21.52,
     "volume": 165500
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 101.39,
     "volume": 152201
-  },
-  {
-    "symbol": "USNA",
-    "date": "2021-03-04",
-    "price": 100.14,
-    "volume": 200564
-  },
-  {
-    "symbol": "USNA",
-    "date": "2021-03-03",
-    "price": 100.43,
-    "volume": 129677
-  },
-  {
-    "symbol": "USNA",
-    "date": "2021-03-02",
-    "price": 99.09,
-    "volume": 120523
-  },
-  {
-    "symbol": "USNA",
-    "date": "2021-03-01",
-    "price": 98.72,
-    "volume": 131926
   }
 ]

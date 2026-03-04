@@ -1,9 +1,27 @@
 [
   {
     "symbol": "ABEV",
+    "date": "2026-03-04",
+    "price": 2.975,
+    "volume": 12845811
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-03-03",
+    "price": 2.94,
+    "volume": 26565343
+  },
+  {
+    "symbol": "ABEV",
+    "date": "2026-03-02",
+    "price": 3.08,
+    "volume": 15253114
+  },
+  {
+    "symbol": "ABEV",
     "date": "2026-02-27",
     "price": 3.16,
-    "volume": 18198855
+    "volume": 18198900
   },
   {
     "symbol": "ABEV",
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 2.71,
     "volume": 39866600
-  },
-  {
-    "symbol": "ABEV",
-    "date": "2021-03-04",
-    "price": 2.66,
-    "volume": 56229900
-  },
-  {
-    "symbol": "ABEV",
-    "date": "2021-03-03",
-    "price": 2.55,
-    "volume": 50174100
-  },
-  {
-    "symbol": "ABEV",
-    "date": "2021-03-02",
-    "price": 2.52,
-    "volume": 48285800
-  },
-  {
-    "symbol": "ABEV",
-    "date": "2021-03-01",
-    "price": 2.5,
-    "volume": 18565727
   }
 ]

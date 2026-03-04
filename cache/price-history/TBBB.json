@@ -1,6 +1,24 @@
 [
   {
     "symbol": "TBBB",
+    "date": "2026-03-04",
+    "price": 34.71,
+    "volume": 130517
+  },
+  {
+    "symbol": "TBBB",
+    "date": "2026-03-03",
+    "price": 35.04,
+    "volume": 713011
+  },
+  {
+    "symbol": "TBBB",
+    "date": "2026-03-02",
+    "price": 35.64,
+    "volume": 443100
+  },
+  {
+    "symbol": "TBBB",
     "date": "2026-02-27",
     "price": 36.45,
     "volume": 266534

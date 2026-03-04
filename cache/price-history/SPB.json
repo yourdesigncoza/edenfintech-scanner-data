@@ -1,6 +1,24 @@
 [
   {
     "symbol": "SPB",
+    "date": "2026-03-04",
+    "price": 77.515,
+    "volume": 72016
+  },
+  {
+    "symbol": "SPB",
+    "date": "2026-03-03",
+    "price": 77.8,
+    "volume": 346400
+  },
+  {
+    "symbol": "SPB",
+    "date": "2026-03-02",
+    "price": 78.7,
+    "volume": 369600
+  },
+  {
+    "symbol": "SPB",
     "date": "2026-02-27",
     "price": 78.38,
     "volume": 337600
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 81.01,
     "volume": 467800
-  },
-  {
-    "symbol": "SPB",
-    "date": "2021-03-04",
-    "price": 77.62,
-    "volume": 422000
-  },
-  {
-    "symbol": "SPB",
-    "date": "2021-03-03",
-    "price": 80.43,
-    "volume": 197137
-  },
-  {
-    "symbol": "SPB",
-    "date": "2021-03-02",
-    "price": 80.88,
-    "volume": 427110
-  },
-  {
-    "symbol": "SPB",
-    "date": "2021-03-01",
-    "price": 80.17,
-    "volume": 315006
   }
 ]

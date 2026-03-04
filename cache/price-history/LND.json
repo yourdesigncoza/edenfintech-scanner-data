@@ -1,6 +1,24 @@
 [
   {
     "symbol": "LND",
+    "date": "2026-03-04",
+    "price": 4.195,
+    "volume": 18850
+  },
+  {
+    "symbol": "LND",
+    "date": "2026-03-03",
+    "price": 4.08,
+    "volume": 46500
+  },
+  {
+    "symbol": "LND",
+    "date": "2026-03-02",
+    "price": 4.21,
+    "volume": 125300
+  },
+  {
+    "symbol": "LND",
     "date": "2026-02-27",
     "price": 4.22,
     "volume": 73446
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 4.11,
     "volume": 8500
-  },
-  {
-    "symbol": "LND",
-    "date": "2021-03-04",
-    "price": 4.2,
-    "volume": 21074
-  },
-  {
-    "symbol": "LND",
-    "date": "2021-03-03",
-    "price": 4.13,
-    "volume": 23612
-  },
-  {
-    "symbol": "LND",
-    "date": "2021-03-02",
-    "price": 4.26,
-    "volume": 20900
-  },
-  {
-    "symbol": "LND",
-    "date": "2021-03-01",
-    "price": 4.16,
-    "volume": 15542
   }
 ]

@@ -1,6 +1,24 @@
 [
   {
     "symbol": "KVUE",
+    "date": "2026-03-04",
+    "price": 18.195,
+    "volume": 24374248
+  },
+  {
+    "symbol": "KVUE",
+    "date": "2026-03-03",
+    "price": 18.15,
+    "volume": 33694672
+  },
+  {
+    "symbol": "KVUE",
+    "date": "2026-03-02",
+    "price": 18.89,
+    "volume": 34825108
+  },
+  {
+    "symbol": "KVUE",
     "date": "2026-02-27",
     "price": 19.12,
     "volume": 24293291

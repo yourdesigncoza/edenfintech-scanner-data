@@ -1,6 +1,24 @@
 [
   {
     "symbol": "OFRM",
+    "date": "2026-03-04",
+    "price": 24.105,
+    "volume": 104773
+  },
+  {
+    "symbol": "OFRM",
+    "date": "2026-03-03",
+    "price": 23.27,
+    "volume": 396404
+  },
+  {
+    "symbol": "OFRM",
+    "date": "2026-03-02",
+    "price": 23.58,
+    "volume": 300442
+  },
+  {
+    "symbol": "OFRM",
     "date": "2026-02-27",
     "price": 23.21,
     "volume": 488177

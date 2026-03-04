@@ -1,6 +1,24 @@
 [
   {
     "symbol": "GIS",
+    "date": "2026-03-04",
+    "price": 43.675,
+    "volume": 4916002
+  },
+  {
+    "symbol": "GIS",
+    "date": "2026-03-03",
+    "price": 44.54,
+    "volume": 5765947
+  },
+  {
+    "symbol": "GIS",
+    "date": "2026-03-02",
+    "price": 45.12,
+    "volume": 5722600
+  },
+  {
+    "symbol": "GIS",
     "date": "2026-02-27",
     "price": 45.23,
     "volume": 7837117
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 56.78,
     "volume": 6444326
-  },
-  {
-    "symbol": "GIS",
-    "date": "2021-03-04",
-    "price": 55.29,
-    "volume": 5633900
-  },
-  {
-    "symbol": "GIS",
-    "date": "2021-03-03",
-    "price": 54.89,
-    "volume": 3459500
-  },
-  {
-    "symbol": "GIS",
-    "date": "2021-03-02",
-    "price": 55.07,
-    "volume": 4198652
-  },
-  {
-    "symbol": "GIS",
-    "date": "2021-03-01",
-    "price": 54.74,
-    "volume": 5634948
   }
 ]

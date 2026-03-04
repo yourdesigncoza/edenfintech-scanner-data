@@ -1,6 +1,24 @@
 [
   {
     "symbol": "ADM",
+    "date": "2026-03-04",
+    "price": 67.46,
+    "volume": 1148515
+  },
+  {
+    "symbol": "ADM",
+    "date": "2026-03-03",
+    "price": 67.99,
+    "volume": 3012049
+  },
+  {
+    "symbol": "ADM",
+    "date": "2026-03-02",
+    "price": 69.61,
+    "volume": 3032906
+  },
+  {
+    "symbol": "ADM",
     "date": "2026-02-27",
     "price": 69.04,
     "volume": 5021518
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 57.59,
     "volume": 6637041
-  },
-  {
-    "symbol": "ADM",
-    "date": "2021-03-04",
-    "price": 55.49,
-    "volume": 3197200
-  },
-  {
-    "symbol": "ADM",
-    "date": "2021-03-03",
-    "price": 57.12,
-    "volume": 2597828
-  },
-  {
-    "symbol": "ADM",
-    "date": "2021-03-02",
-    "price": 57.37,
-    "volume": 2409549
-  },
-  {
-    "symbol": "ADM",
-    "date": "2021-03-01",
-    "price": 57.3,
-    "volume": 2100461
   }
 ]

@@ -1,6 +1,24 @@
 [
   {
     "symbol": "FMX",
+    "date": "2026-03-04",
+    "price": 111.1,
+    "volume": 198209
+  },
+  {
+    "symbol": "FMX",
+    "date": "2026-03-03",
+    "price": 109.37,
+    "volume": 525700
+  },
+  {
+    "symbol": "FMX",
+    "date": "2026-03-02",
+    "price": 112.33,
+    "volume": 456722
+  },
+  {
+    "symbol": "FMX",
     "date": "2026-02-27",
     "price": 112.32,
     "volume": 412848
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 73.7,
     "volume": 714800
-  },
-  {
-    "symbol": "FMX",
-    "date": "2021-03-04",
-    "price": 72.17,
-    "volume": 664513
-  },
-  {
-    "symbol": "FMX",
-    "date": "2021-03-03",
-    "price": 69.56,
-    "volume": 486128
-  },
-  {
-    "symbol": "FMX",
-    "date": "2021-03-02",
-    "price": 70.34,
-    "volume": 364700
-  },
-  {
-    "symbol": "FMX",
-    "date": "2021-03-01",
-    "price": 69.53,
-    "volume": 445500
   }
 ]

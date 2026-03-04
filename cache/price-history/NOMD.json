@@ -1,6 +1,24 @@
 [
   {
     "symbol": "NOMD",
+    "date": "2026-03-04",
+    "price": 10.395,
+    "volume": 1149465
+  },
+  {
+    "symbol": "NOMD",
+    "date": "2026-03-03",
+    "price": 10.5,
+    "volume": 2361033
+  },
+  {
+    "symbol": "NOMD",
+    "date": "2026-03-02",
+    "price": 10.69,
+    "volume": 2135929
+  },
+  {
+    "symbol": "NOMD",
     "date": "2026-02-27",
     "price": 10.97,
     "volume": 2974263
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 24.95,
     "volume": 917600
-  },
-  {
-    "symbol": "NOMD",
-    "date": "2021-03-04",
-    "price": 24.7,
-    "volume": 992600
-  },
-  {
-    "symbol": "NOMD",
-    "date": "2021-03-03",
-    "price": 24.12,
-    "volume": 1220821
-  },
-  {
-    "symbol": "NOMD",
-    "date": "2021-03-02",
-    "price": 23.95,
-    "volume": 1500331
-  },
-  {
-    "symbol": "NOMD",
-    "date": "2021-03-01",
-    "price": 24.17,
-    "volume": 2477615
   }
 ]

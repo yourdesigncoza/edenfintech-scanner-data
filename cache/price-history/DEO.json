@@ -1,6 +1,24 @@
 [
   {
     "symbol": "DEO",
+    "date": "2026-03-04",
+    "price": 82.41,
+    "volume": 2139865
+  },
+  {
+    "symbol": "DEO",
+    "date": "2026-03-03",
+    "price": 84.12,
+    "volume": 2839435
+  },
+  {
+    "symbol": "DEO",
+    "date": "2026-03-02",
+    "price": 86.53,
+    "volume": 2373647
+  },
+  {
+    "symbol": "DEO",
     "date": "2026-02-27",
     "price": 89.5,
     "volume": 2383488
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 164.22,
     "volume": 722738
-  },
-  {
-    "symbol": "DEO",
-    "date": "2021-03-04",
-    "price": 161.14,
-    "volume": 639587
-  },
-  {
-    "symbol": "DEO",
-    "date": "2021-03-03",
-    "price": 160.08,
-    "volume": 304722
-  },
-  {
-    "symbol": "DEO",
-    "date": "2021-03-02",
-    "price": 160.74,
-    "volume": 384428
-  },
-  {
-    "symbol": "DEO",
-    "date": "2021-03-01",
-    "price": 159.36,
-    "volume": 513800
   }
 ]

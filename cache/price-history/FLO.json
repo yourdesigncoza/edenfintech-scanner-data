@@ -1,9 +1,27 @@
 [
   {
     "symbol": "FLO",
+    "date": "2026-03-04",
+    "price": 9.215,
+    "volume": 3411753
+  },
+  {
+    "symbol": "FLO",
+    "date": "2026-03-03",
+    "price": 9.23,
+    "volume": 5930889
+  },
+  {
+    "symbol": "FLO",
+    "date": "2026-03-02",
+    "price": 9.52,
+    "volume": 5528603
+  },
+  {
+    "symbol": "FLO",
     "date": "2026-02-27",
     "price": 9.88,
-    "volume": 6089165
+    "volume": 6089200
   },
   {
     "symbol": "FLO",
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 22.96,
     "volume": 1185900
-  },
-  {
-    "symbol": "FLO",
-    "date": "2021-03-04",
-    "price": 22.4,
-    "volume": 1342000
-  },
-  {
-    "symbol": "FLO",
-    "date": "2021-03-03",
-    "price": 22.4,
-    "volume": 1774022
-  },
-  {
-    "symbol": "FLO",
-    "date": "2021-03-02",
-    "price": 22.1,
-    "volume": 1325300
-  },
-  {
-    "symbol": "FLO",
-    "date": "2021-03-01",
-    "price": 21.82,
-    "volume": 1011200
   }
 ]

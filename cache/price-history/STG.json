@@ -1,6 +1,24 @@
 [
   {
     "symbol": "STG",
+    "date": "2026-03-04",
+    "price": 4.64,
+    "volume": 5765
+  },
+  {
+    "symbol": "STG",
+    "date": "2026-03-03",
+    "price": 4.64,
+    "volume": 7400
+  },
+  {
+    "symbol": "STG",
+    "date": "2026-03-02",
+    "price": 4.5,
+    "volume": 2800
+  },
+  {
+    "symbol": "STG",
     "date": "2026-02-27",
     "price": 4.61,
     "volume": 300
@@ -7456,29 +7474,5 @@
     "date": "2021-03-05",
     "price": 14.75,
     "volume": 156788
-  },
-  {
-    "symbol": "STG",
-    "date": "2021-03-04",
-    "price": 14.875,
-    "volume": 1377603
-  },
-  {
-    "symbol": "STG",
-    "date": "2021-03-03",
-    "price": 14.125,
-    "volume": 31750
-  },
-  {
-    "symbol": "STG",
-    "date": "2021-03-02",
-    "price": 14.875,
-    "volume": 20043
-  },
-  {
-    "symbol": "STG",
-    "date": "2021-03-01",
-    "price": 15.375,
-    "volume": 19685
   }
 ]

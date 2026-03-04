@@ -1,9 +1,27 @@
 [
   {
     "symbol": "TSN",
+    "date": "2026-03-04",
+    "price": 62.84,
+    "volume": 845681
+  },
+  {
+    "symbol": "TSN",
+    "date": "2026-03-03",
+    "price": 63,
+    "volume": 4205842
+  },
+  {
+    "symbol": "TSN",
+    "date": "2026-03-02",
+    "price": 64.4,
+    "volume": 2875900
+  },
+  {
+    "symbol": "TSN",
     "date": "2026-02-27",
     "price": 64.99,
-    "volume": 5717651
+    "volume": 5717700
   },
   {
     "symbol": "TSN",
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 72.71,
     "volume": 3362940
-  },
-  {
-    "symbol": "TSN",
-    "date": "2021-03-04",
-    "price": 72.19,
-    "volume": 4588304
-  },
-  {
-    "symbol": "TSN",
-    "date": "2021-03-03",
-    "price": 69.96,
-    "volume": 2573800
-  },
-  {
-    "symbol": "TSN",
-    "date": "2021-03-02",
-    "price": 68.68,
-    "volume": 1811130
-  },
-  {
-    "symbol": "TSN",
-    "date": "2021-03-01",
-    "price": 68.54,
-    "volume": 1616011
   }
 ]

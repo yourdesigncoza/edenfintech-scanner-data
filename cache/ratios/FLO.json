@@ -6,8 +6,8 @@
     "period": "FY",
     "reportedCurrency": "USD",
     "grossProfitMargin": 0.4568584788410645,
-    "ebitMargin": 0.06561521505174851,
-    "ebitdaMargin": 0.0974667643492916,
+    "ebitMargin": 0.03317087350677136,
+    "ebitdaMargin": 0.06502242280431444,
     "operatingProfitMargin": 0.06561521505174851,
     "pretaxProfitMargin": 0.021890699078223275,
     "continuousOperationsProfitMargin": 0.015946986566483003,
@@ -38,7 +38,7 @@
     "operatingCashFlowRatio": 0.4571016752428144,
     "operatingCashFlowSalesRatio": 0.08488628985296051,
     "freeCashFlowOperatingCashFlowRatio": 0.7151229373177679,
-    "debtServiceCoverageRatio": 0.9032041858867129,
+    "debtServiceCoverageRatio": 0.5830240290473804,
     "interestCoverageRatio": 5.81686173980504,
     "shortTermOperatingCashFlowCoverageRatio": 0.9426432282038986,
     "operatingCashFlowCoverageRatio": 0.19137989898366034,
@@ -62,7 +62,7 @@
     "priceToFairValue": 1.7557785616580754,
     "debtToMarketCap": 0.9089293081669968,
     "effectiveTaxRate": 0.27151771126638163,
-    "enterpriseValueMultiple": 8.994243049428887,
+    "enterpriseValueMultiple": 13.482114784267488,
     "dividendPerShare": 0.9867944009391486
   },
   {

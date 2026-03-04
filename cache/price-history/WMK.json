@@ -1,6 +1,24 @@
 [
   {
     "symbol": "WMK",
+    "date": "2026-03-04",
+    "price": 65.66,
+    "volume": 41647
+  },
+  {
+    "symbol": "WMK",
+    "date": "2026-03-03",
+    "price": 66.52,
+    "volume": 143610
+  },
+  {
+    "symbol": "WMK",
+    "date": "2026-03-02",
+    "price": 66.59,
+    "volume": 172401
+  },
+  {
+    "symbol": "WMK",
     "date": "2026-02-27",
     "price": 67.76,
     "volume": 187410
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 58.29,
     "volume": 109100
-  },
-  {
-    "symbol": "WMK",
-    "date": "2021-03-04",
-    "price": 57.24,
-    "volume": 97949
-  },
-  {
-    "symbol": "WMK",
-    "date": "2021-03-03",
-    "price": 56.77,
-    "volume": 126915
-  },
-  {
-    "symbol": "WMK",
-    "date": "2021-03-02",
-    "price": 54.45,
-    "volume": 146900
-  },
-  {
-    "symbol": "WMK",
-    "date": "2021-03-01",
-    "price": 55.29,
-    "volume": 115031
   }
 ]

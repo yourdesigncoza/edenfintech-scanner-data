@@ -1,6 +1,24 @@
 [
   {
     "symbol": "TGT",
+    "date": "2026-03-04",
+    "price": 121.74,
+    "volume": 5709023
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-03-03",
+    "price": 120.8,
+    "volume": 15692195
+  },
+  {
+    "symbol": "TGT",
+    "date": "2026-03-02",
+    "price": 113.17,
+    "volume": 6301900
+  },
+  {
+    "symbol": "TGT",
     "date": "2026-02-27",
     "price": 113.79,
     "volume": 6417010
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 172.61,
     "volume": 6008115
-  },
-  {
-    "symbol": "TGT",
-    "date": "2021-03-04",
-    "price": 169.82,
-    "volume": 7111700
-  },
-  {
-    "symbol": "TGT",
-    "date": "2021-03-03",
-    "price": 173.61,
-    "volume": 8285311
-  },
-  {
-    "symbol": "TGT",
-    "date": "2021-03-02",
-    "price": 173.49,
-    "volume": 22090539
-  },
-  {
-    "symbol": "TGT",
-    "date": "2021-03-01",
-    "price": 186.09,
-    "volume": 3683533
   }
 ]

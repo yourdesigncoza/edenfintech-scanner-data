@@ -1,6 +1,24 @@
 [
   {
     "symbol": "JBS",
+    "date": "2026-03-04",
+    "price": 16.155,
+    "volume": 2365966
+  },
+  {
+    "symbol": "JBS",
+    "date": "2026-03-03",
+    "price": 16.18,
+    "volume": 9999195
+  },
+  {
+    "symbol": "JBS",
+    "date": "2026-03-02",
+    "price": 16.89,
+    "volume": 4403289
+  },
+  {
+    "symbol": "JBS",
     "date": "2026-02-27",
     "price": 16.89,
     "volume": 6293670

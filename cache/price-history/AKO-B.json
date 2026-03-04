@@ -1,6 +1,24 @@
 [
   {
     "symbol": "AKO-B",
+    "date": "2026-03-04",
+    "price": 26.99,
+    "volume": 2942
+  },
+  {
+    "symbol": "AKO-B",
+    "date": "2026-03-03",
+    "price": 26.71,
+    "volume": 16700
+  },
+  {
+    "symbol": "AKO-B",
+    "date": "2026-03-02",
+    "price": 27.75,
+    "volume": 23300
+  },
+  {
+    "symbol": "AKO-B",
     "date": "2026-02-27",
     "price": 28.55,
     "volume": 7045
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 16.25,
     "volume": 800
-  },
-  {
-    "symbol": "AKO-B",
-    "date": "2021-03-04",
-    "price": 16.86,
-    "volume": 2100
-  },
-  {
-    "symbol": "AKO-B",
-    "date": "2021-03-03",
-    "price": 16.53,
-    "volume": 5200
-  },
-  {
-    "symbol": "AKO-B",
-    "date": "2021-03-02",
-    "price": 15.62,
-    "volume": 3800
-  },
-  {
-    "symbol": "AKO-B",
-    "date": "2021-03-01",
-    "price": 17.22,
-    "volume": 1600
   }
 ]

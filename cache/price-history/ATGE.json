@@ -1,6 +1,18 @@
 [
   {
     "symbol": "ATGE",
+    "date": "2026-03-02",
+    "price": 99.81,
+    "volume": 175618
+  },
+  {
+    "symbol": "ATGE",
+    "date": "2026-02-27",
+    "price": 98,
+    "volume": 202646
+  },
+  {
+    "symbol": "ATGE",
     "date": "2026-02-26",
     "price": 98.76,
     "volume": 132224
@@ -7504,29 +7516,5 @@
     "date": "2021-03-05",
     "price": 38.8,
     "volume": 568790
-  },
-  {
-    "symbol": "ATGE",
-    "date": "2021-03-04",
-    "price": 38.02,
-    "volume": 574387
-  },
-  {
-    "symbol": "ATGE",
-    "date": "2021-03-03",
-    "price": 38.3,
-    "volume": 572869
-  },
-  {
-    "symbol": "ATGE",
-    "date": "2021-03-02",
-    "price": 38.35,
-    "volume": 319560
-  },
-  {
-    "symbol": "ATGE",
-    "date": "2021-03-01",
-    "price": 38.99,
-    "volume": 575632
   }
 ]

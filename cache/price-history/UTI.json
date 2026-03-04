@@ -1,6 +1,24 @@
 [
   {
     "symbol": "UTI",
+    "date": "2026-03-04",
+    "price": 36.2,
+    "volume": 424380
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-03-03",
+    "price": 37.5,
+    "volume": 826146
+  },
+  {
+    "symbol": "UTI",
+    "date": "2026-03-02",
+    "price": 37.4,
+    "volume": 1405306
+  },
+  {
+    "symbol": "UTI",
     "date": "2026-02-27",
     "price": 36.2,
     "volume": 1683378
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 6.14,
     "volume": 134014
-  },
-  {
-    "symbol": "UTI",
-    "date": "2021-03-04",
-    "price": 6.03,
-    "volume": 258634
-  },
-  {
-    "symbol": "UTI",
-    "date": "2021-03-03",
-    "price": 5.95,
-    "volume": 113900
-  },
-  {
-    "symbol": "UTI",
-    "date": "2021-03-02",
-    "price": 6.17,
-    "volume": 75287
-  },
-  {
-    "symbol": "UTI",
-    "date": "2021-03-01",
-    "price": 6.29,
-    "volume": 100508
   }
 ]

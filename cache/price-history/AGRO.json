@@ -1,6 +1,24 @@
 [
   {
     "symbol": "AGRO",
+    "date": "2026-03-04",
+    "price": 9.6101,
+    "volume": 524318
+  },
+  {
+    "symbol": "AGRO",
+    "date": "2026-03-03",
+    "price": 9.13,
+    "volume": 685093
+  },
+  {
+    "symbol": "AGRO",
+    "date": "2026-03-02",
+    "price": 9.32,
+    "volume": 604721
+  },
+  {
+    "symbol": "AGRO",
     "date": "2026-02-27",
     "price": 8.88,
     "volume": 317105
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 8.28,
     "volume": 869300
-  },
-  {
-    "symbol": "AGRO",
-    "date": "2021-03-04",
-    "price": 8.19,
-    "volume": 477210
-  },
-  {
-    "symbol": "AGRO",
-    "date": "2021-03-03",
-    "price": 8.19,
-    "volume": 470400
-  },
-  {
-    "symbol": "AGRO",
-    "date": "2021-03-02",
-    "price": 8.21,
-    "volume": 704509
-  },
-  {
-    "symbol": "AGRO",
-    "date": "2021-03-01",
-    "price": 8.34,
-    "volume": 1080200
   }
 ]

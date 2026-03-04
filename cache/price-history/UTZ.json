@@ -1,6 +1,24 @@
 [
   {
     "symbol": "UTZ",
+    "date": "2026-03-04",
+    "price": 8.695,
+    "volume": 676827
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2026-03-03",
+    "price": 8.69,
+    "volume": 1636649
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2026-03-02",
+    "price": 9.01,
+    "volume": 1607896
+  },
+  {
+    "symbol": "UTZ",
     "date": "2026-02-27",
     "price": 9.29,
     "volume": 1828900
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 24.08,
     "volume": 683591
-  },
-  {
-    "symbol": "UTZ",
-    "date": "2021-03-04",
-    "price": 23.23,
-    "volume": 1009800
-  },
-  {
-    "symbol": "UTZ",
-    "date": "2021-03-03",
-    "price": 24.33,
-    "volume": 698597
-  },
-  {
-    "symbol": "UTZ",
-    "date": "2021-03-02",
-    "price": 25.21,
-    "volume": 300591
-  },
-  {
-    "symbol": "UTZ",
-    "date": "2021-03-01",
-    "price": 25.53,
-    "volume": 624739
   }
 ]

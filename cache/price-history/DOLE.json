@@ -1,6 +1,24 @@
 [
   {
     "symbol": "DOLE",
+    "date": "2026-03-04",
+    "price": 15.475,
+    "volume": 350428
+  },
+  {
+    "symbol": "DOLE",
+    "date": "2026-03-03",
+    "price": 15.46,
+    "volume": 869500
+  },
+  {
+    "symbol": "DOLE",
+    "date": "2026-03-02",
+    "price": 15.8,
+    "volume": 884700
+  },
+  {
+    "symbol": "DOLE",
     "date": "2026-02-27",
     "price": 16.04,
     "volume": 1062900

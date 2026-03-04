@@ -1,6 +1,24 @@
 [
   {
     "symbol": "BUD",
+    "date": "2026-03-04",
+    "price": 75.46,
+    "volume": 1185777
+  },
+  {
+    "symbol": "BUD",
+    "date": "2026-03-03",
+    "price": 76.56,
+    "volume": 2320200
+  },
+  {
+    "symbol": "BUD",
+    "date": "2026-03-02",
+    "price": 78.71,
+    "volume": 1885400
+  },
+  {
+    "symbol": "BUD",
     "date": "2026-02-27",
     "price": 80.95,
     "volume": 2038263
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 60.96,
     "volume": 1770238
-  },
-  {
-    "symbol": "BUD",
-    "date": "2021-03-04",
-    "price": 60.42,
-    "volume": 3348600
-  },
-  {
-    "symbol": "BUD",
-    "date": "2021-03-03",
-    "price": 59.21,
-    "volume": 1282179
-  },
-  {
-    "symbol": "BUD",
-    "date": "2021-03-02",
-    "price": 59.18,
-    "volume": 1358019
-  },
-  {
-    "symbol": "BUD",
-    "date": "2021-03-01",
-    "price": 59.34,
-    "volume": 2485302
   }
 ]

@@ -1,6 +1,24 @@
 [
   {
     "symbol": "EPC",
+    "date": "2026-03-04",
+    "price": 21.41,
+    "volume": 313437
+  },
+  {
+    "symbol": "EPC",
+    "date": "2026-03-03",
+    "price": 21.4,
+    "volume": 816000
+  },
+  {
+    "symbol": "EPC",
+    "date": "2026-03-02",
+    "price": 22.23,
+    "volume": 818854
+  },
+  {
+    "symbol": "EPC",
     "date": "2026-02-27",
     "price": 22.74,
     "volume": 736400
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 31.6,
     "volume": 984900
-  },
-  {
-    "symbol": "EPC",
-    "date": "2021-03-04",
-    "price": 29.99,
-    "volume": 527573
-  },
-  {
-    "symbol": "EPC",
-    "date": "2021-03-03",
-    "price": 30.61,
-    "volume": 620600
-  },
-  {
-    "symbol": "EPC",
-    "date": "2021-03-02",
-    "price": 30.17,
-    "volume": 672400
-  },
-  {
-    "symbol": "EPC",
-    "date": "2021-03-01",
-    "price": 30.91,
-    "volume": 409812
   }
 ]

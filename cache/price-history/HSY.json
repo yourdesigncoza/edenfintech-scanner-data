@@ -1,6 +1,24 @@
 [
   {
     "symbol": "HSY",
+    "date": "2026-03-04",
+    "price": 230.924,
+    "volume": 630230
+  },
+  {
+    "symbol": "HSY",
+    "date": "2026-03-03",
+    "price": 234.16,
+    "volume": 1168397
+  },
+  {
+    "symbol": "HSY",
+    "date": "2026-03-02",
+    "price": 235.69,
+    "volume": 1073134
+  },
+  {
+    "symbol": "HSY",
     "date": "2026-02-27",
     "price": 236.28,
     "volume": 2290091
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 150.38,
     "volume": 1031700
-  },
-  {
-    "symbol": "HSY",
-    "date": "2021-03-04",
-    "price": 146.09,
-    "volume": 1251100
-  },
-  {
-    "symbol": "HSY",
-    "date": "2021-03-03",
-    "price": 144.37,
-    "volume": 1101000
-  },
-  {
-    "symbol": "HSY",
-    "date": "2021-03-02",
-    "price": 145.35,
-    "volume": 969620
-  },
-  {
-    "symbol": "HSY",
-    "date": "2021-03-01",
-    "price": 145.19,
-    "volume": 1177230
   }
 ]

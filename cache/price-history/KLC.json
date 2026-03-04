@@ -1,6 +1,24 @@
 [
   {
     "symbol": "KLC",
+    "date": "2026-03-04",
+    "price": 3.87,
+    "volume": 235035
+  },
+  {
+    "symbol": "KLC",
+    "date": "2026-03-03",
+    "price": 3.69,
+    "volume": 950338
+  },
+  {
+    "symbol": "KLC",
+    "date": "2026-03-02",
+    "price": 3.5,
+    "volume": 590249
+  },
+  {
+    "symbol": "KLC",
     "date": "2026-02-27",
     "price": 3.5,
     "volume": 1983491

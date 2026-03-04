@@ -1,6 +1,24 @@
 [
   {
     "symbol": "UNFI",
+    "date": "2026-03-04",
+    "price": 38.125,
+    "volume": 220402
+  },
+  {
+    "symbol": "UNFI",
+    "date": "2026-03-03",
+    "price": 37.94,
+    "volume": 497365
+  },
+  {
+    "symbol": "UNFI",
+    "date": "2026-03-02",
+    "price": 38.62,
+    "volume": 660400
+  },
+  {
+    "symbol": "UNFI",
     "date": "2026-02-27",
     "price": 38.21,
     "volume": 761681
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 31.5,
     "volume": 1908069
-  },
-  {
-    "symbol": "UNFI",
-    "date": "2021-03-04",
-    "price": 29.9,
-    "volume": 3178297
-  },
-  {
-    "symbol": "UNFI",
-    "date": "2021-03-03",
-    "price": 28.4,
-    "volume": 774598
-  },
-  {
-    "symbol": "UNFI",
-    "date": "2021-03-02",
-    "price": 27.84,
-    "volume": 577391
-  },
-  {
-    "symbol": "UNFI",
-    "date": "2021-03-01",
-    "price": 28.45,
-    "volume": 902106
   }
 ]

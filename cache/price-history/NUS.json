@@ -1,6 +1,24 @@
 [
   {
     "symbol": "NUS",
+    "date": "2026-03-04",
+    "price": 7.48,
+    "volume": 379694
+  },
+  {
+    "symbol": "NUS",
+    "date": "2026-03-03",
+    "price": 7.56,
+    "volume": 934333
+  },
+  {
+    "symbol": "NUS",
+    "date": "2026-03-02",
+    "price": 8.08,
+    "volume": 767914
+  },
+  {
+    "symbol": "NUS",
     "date": "2026-02-27",
     "price": 8.48,
     "volume": 535913
@@ -7510,29 +7528,5 @@
     "date": "2021-03-05",
     "price": 52.09,
     "volume": 498200
-  },
-  {
-    "symbol": "NUS",
-    "date": "2021-03-04",
-    "price": 49.68,
-    "volume": 601900
-  },
-  {
-    "symbol": "NUS",
-    "date": "2021-03-03",
-    "price": 50.63,
-    "volume": 592100
-  },
-  {
-    "symbol": "NUS",
-    "date": "2021-03-02",
-    "price": 51.66,
-    "volume": 403714
-  },
-  {
-    "symbol": "NUS",
-    "date": "2021-03-01",
-    "price": 52.7,
-    "volume": 528341
   }
 ]
